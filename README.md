@@ -96,7 +96,7 @@ _Download Counts, Module Counts, Trending, Most Starred and more_
 
 _Fast, faster, fastest_
 
-- [**OptCarrort @ Ruby 3x3 News @ Awesome Rubies**](**Ruby 3x3 News @ Awesome Rubies**](https://github.com/planetruby/awesome-rubies#3x3-news)
+- [**OptCarrort @ Ruby 3x3 News @ Awesome Rubies**](https://github.com/planetruby/awesome-rubies#3x3-news)
 - **OptCarrot** (github: [mame/optcarrot](https://github.com/mame/optcarrot)) - A Nintendo Entertainment System (NES) emulator benchmark written in Ruby - running with 60 frames per seconds (fps) in Ruby 3 in 2020
 - **RubyBench** (web: [rubybench.org](https://rubybench.org))
 
