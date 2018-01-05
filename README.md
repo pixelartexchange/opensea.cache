@@ -14,29 +14,21 @@ A collection about Awesome Ruby news & stat(istic)s
 
 _What's News? Comments, Please - Up/Down Vote_
 
-**Ruby News @ Lobster**  (web: [lobste.rs/t/ruby](https://lobste.rs/t/ruby))
-
-**Awesome Ruby @ LibHunt** (web: [ruby.libhunt.com](https://ruby.libhunt.com))
-
-**Ruby Flow** (web: [rubyflow.com](http://rubyflow.com))
-
-**Ruby @ Reddit** (web: [reddit.com/r/ruby](https://www.reddit.com/r/ruby))
-
-[**Ruby 3x3 News @ Awesome Rubies**](https://github.com/planetruby/awesome-rubies#3x3-news)
-
-[**Ruby 3x3 News @ Ruby Advent Calendar 2017**](https://planetruby.github.io/advent2017/ruby3x3)
-
-[**Ruby 2.5 - What's News? @ Ruby Advent Calendar 2017**](https://planetruby.github.io/advent2017/ruby25)
-
-**What's News @ Ruby Language** (web: [ruby-lang.org/en/news](https://www.ruby-lang.org/en/news))
-
+- **Ruby News @ Lobster**  (web: [lobste.rs/t/ruby](https://lobste.rs/t/ruby))
+- **Awesome Ruby @ LibHunt** (web: [ruby.libhunt.com](https://ruby.libhunt.com))
+- **Ruby Flow** (web: [rubyflow.com](http://rubyflow.com))
+- **Ruby @ Reddit** (web: [reddit.com/r/ruby](https://www.reddit.com/r/ruby))
+- [**Ruby 3x3 News @ Awesome Rubies**](https://github.com/planetruby/awesome-rubies#3x3-news)
+- [**Ruby 3x3 News @ Ruby Advent Calendar**](https://planetruby.github.io/advent2017/ruby3x3)
+- [**Ruby 2.5 - Dec 25th, 2017 - What's News? @ Ruby Advent Calendar**](https://planetruby.github.io/advent2017/ruby25)
+- **What's News @ Ruby Language** (web: [ruby-lang.org/en/news](https://www.ruby-lang.org/en/news))
 
 
 ### Articles, Posts
 
 _Planets - Share (Syndicate) Your Articles w/ the World with Web Feeds_
 
-**Ruby Land News** (web: [rubyland.news](https://rubyland.news))
+- **Ruby Land News** (web: [rubyland.news](https://rubyland.news))
 
 
 ### Podcasts, Radio Talk Shows
@@ -48,22 +40,22 @@ _Planets - Share (Syndicate) Your Articles w/ the World with Web Feeds_
 
 _Libraries, libraries, libraries - (re)use code_
 
-- Ruby Advent Calendar @ Planet Ruby
-- Gem Series @ Yuki & Moto Press Bookshelf
+- [**Ruby Advent Calendar 2017 @ Planet Ruby**](https://planetruby.github.io/advent2017/) - 25 Days of Ruby Gems / Libraries, December 1 - December 25
+- **Gem Series @ Yuki & Moto Press Bookshelf** (github: [yukimotopress](http://yukimotopress.github.io))
 - **BestGems**  (web: [bestgems.org](http://bestgems.org))
 
 
 ### Books, Books, Books
 
-- Yuki & Moto Press Bookshelf
-- Ruby Books Catalog @ Planet Ruby
+- **Yuki & Moto Press Bookshelf** (github: [yukimotopress](http://yukimotopress.github.io))
+- [**Ruby Books Catalog @ Planet Ruby**](http://planetruby.github.io/books)
 
 
 ### Conferences & Camps
 
-- Awesome Events @ Planet Ruby  - Conferences, Camps, and more
-- Ruby Conferences in 2018 
-- RubyConferences
+- [**Awesome Events @ Planet Ruby**](https://github.com/planetruby/awesome-events) - Conferences, Camps, and more
+- [**Ruby Conferences (& Camps) in 2018 - What's Upcoming? @ Ruby Advent Calendar**](https://planetruby.github.io/advent2017/events) 
+- [**Ruby Conferences**]()  (web: [rubyconferences.org](http://rubyconferences.org)) 
 
 
 ### Newsletter
