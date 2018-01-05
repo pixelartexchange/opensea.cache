@@ -16,8 +16,12 @@ _What's News? Comments, Please - Up/Down Vote_
 
 **Ruby News @ Lobster**  (web: [lobste.rs/t/ruby](https://lobste.rs/t/ruby))
 
-- Ruby Flow
-- Ruby @ Reddit
+**Awesome Ruby @ LibHunt** (web: [ruby.libhunt.com](https://ruby.libhunt.com))
+
+**Ruby Flow** (web: [rubyflow.com](http://rubyflow.com))
+
+**Ruby @ Reddit** (web: [reddit.com/r/ruby](https://www.reddit.com/r/ruby))
+
 
 - Ruby 3x3 News @ Awesome Rubies
 - Ruby 3x3 News
