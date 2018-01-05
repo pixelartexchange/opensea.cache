@@ -87,7 +87,7 @@ _Download Counts, Module Counts, Trending, Most Starred and more_
 - **Module Counts** (web: [modulecounts.com](http://modulecounts.com)) - All Languages Compared 
 - **Stats @ RubyGems**  (web: [rubygems.org/stats](https://rubygems.org/stats)) - Total gems, Total downloads, All time most downloaded gems, and more
 - **Stats @ BestGems** (web: [bestgems.org](http://bestgems.org))
-- [**Trending Ruby Projects @ GitHub**](https://github.com/trending?l=ruby) - Today, This Week, This Month
+- [**Trending Ruby Projects @ GitHub**](https://github.com/trending/ruby) - Today, This Week, This Month
 - [**Alltime Starred Ruby Projects @ GitHub**](https://github.com/search?utf8=✓&q=language%3ARuby&type=Repositories&s=stars&l=Ruby)
 
 
