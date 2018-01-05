@@ -31,12 +31,7 @@ _Planets - Share (Syndicate) Your Articles w/ the World with Web Feeds_
 - **Ruby Land News** (web: [rubyland.news](https://rubyland.news))
 
 
-### Podcasts, Radio Talk Shows
-
-??
-
-
-#### Gems, Gems, Gems
+### Gems, Gems, Gems
 
 _Libraries, libraries, libraries - (re)use code_
 
@@ -55,15 +50,22 @@ _Libraries, libraries, libraries - (re)use code_
 
 - [**Awesome Events @ Planet Ruby**](https://github.com/planetruby/awesome-events) - Conferences, Camps, and more
 - [**Ruby Conferences (& Camps) in 2018 - What's Upcoming? @ Ruby Advent Calendar**](https://planetruby.github.io/advent2017/events) 
-- [**Ruby Conferences**]()  (web: [rubyconferences.org](http://rubyconferences.org)) 
+- **Ruby Conferences** (web: [rubyconferences.org](http://rubyconferences.org)) 
 
 
 ### Newsletter
 
-- Ruby Weekly
+- **Ruby Weekly** (web: [rubyweekly.com](https://rubyweekly.com))
 
+### Podcasts, Radio Talk Shows
+
+_??_
 
 ### Misc
+
+_??_
+
+
 
 
 ## Ruby Statistics
@@ -73,18 +75,17 @@ _Libraries, libraries, libraries - (re)use code_
 _Download Counts, Module Counts and more_
 
 - **Module Counts** (web: [modulecounts.com](http://modulecounts.com)) - All Languages Compared 
-- **Stats @ RubyGems**
-- **Stats @ BestGems**
+- **Stats @ RubyGems**  (web: [rubygems.org/stats](https://rubygems.org/stats)) - Total gems, Total downloads, All time most downloaded gems, and more
+- **Stats @ BestGems** (web: [bestgems.org](http://bestgems.org))
 
 
 ### Benchmarks
 
 _Fast, faster, fastest_
 
-- OptCarrort @ Ruby 3x3 News @ Awesome Rubies
-- OptCarrot
-- RubyBench
-
+- [**OptCarrort @ Ruby 3x3 News @ Awesome Rubies**](**Ruby 3x3 News @ Awesome Rubies**](https://github.com/planetruby/awesome-rubies#3x3-news)
+- **OptCarrot** (github: [mame/optcarrot](https://github.com/mame/optcarrot)) - A Nintendo Entertainment System (NES) emulator benchmark written in Ruby - running with 60 frames per seconds (fps) in Ruby 3 in 2020
+- **RubyBench** (web: [rubybench.org](https://rubybench.org))
 
 
 ## Meta
