@@ -1,6 +1,6 @@
 # Awesome Ruby News & Stat(istic)s
 
-A collection about Awesome Ruby News & Stat(istics) 
+A collection about Awesome Ruby news & stat(istic)s  
 
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
@@ -22,11 +22,13 @@ _What's News? Comments, Please - Up/Down Vote_
 
 **Ruby @ Reddit** (web: [reddit.com/r/ruby](https://www.reddit.com/r/ruby))
 
+[**Ruby 3x3 News @ Awesome Rubies**](https://github.com/planetruby/awesome-rubies#3x3-news)
 
-- Ruby 3x3 News @ Awesome Rubies
-- Ruby 3x3 News
-- Ruby 2.5 - What's News?
-- What's News @ Ruby Language
+[**Ruby 3x3 News @ Ruby Advent Calendar 2017**](https://planetruby.github.io/advent2017/ruby3x3)
+
+[**Ruby 2.5 - What's News? @ Ruby Advent Calendar 2017**](https://planetruby.github.io/advent2017/ruby25)
+
+**What's News @ Ruby Language** (web: [ruby-lang.org/en/news](https://www.ruby-lang.org/en/news))
 
 
 
