@@ -26,7 +26,7 @@ _What's News? Comments, Please - Up/Down Vote_
 
 ### Articles, Posts
 
-_Planet News Pages - Share (Syndicate) Your Articles w/ the World with Web Feeds_
+_Planet News Pages - Share Your Articles / Posts w/ the World with Web Feeds_
 
 - **Ruby Land News** (web: [rubyland.news](https://rubyland.news))
 
