@@ -35,9 +35,19 @@ _Planet News Pages - Share (Syndicate) Your Articles w/ the World with Web Feeds
 
 _Libraries, libraries, libraries - (re)use code_
 
+- **RubyGems** (web: [rubygems.org](https://rubygems.org)) - 100_000+ Ruby Gems / Libraries
+- **BestGems**  (web: [bestgems.org](http://bestgems.org))
 - [**Ruby Advent Calendar 2017 @ Planet Ruby**](https://planetruby.github.io/advent2017/) - 25 Days of Ruby Gems / Libraries, December 1 - December 25
 - **Gem Series @ Yuki & Moto Press Bookshelf** (github: [yukimotopress](http://yukimotopress.github.io))
-- **BestGems**  (web: [bestgems.org](http://bestgems.org))
+- **Awesome Ruby** (github: [markets/awesome-ruby](https://github.com/markets/awesome-ruby))
+- [**Awesome ActiveRecord @ Planet Ruby**](https://github.com/planetruby/awesome-activerecord)
+- [**Awesome Jekyll @ Planet Jekyll**](https://github.com/planetjekyll/awesome-jekyll)
+- **Gems @ Ruby Bookmarks** (web: [dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks#gems))
+
+
+<!-- update (new version) work-in-progress
+- [Ruby Toolbox](https://www.ruby-toolbox.com)
+-->
 
 
 ### Books, Books, Books
@@ -72,11 +82,14 @@ _??_
 
 ### Modules, Modules, Modules
 
-_Download Counts, Module Counts and more_
+_Download Counts, Module Counts, Trending, Most Starred and more_
 
 - **Module Counts** (web: [modulecounts.com](http://modulecounts.com)) - All Languages Compared 
 - **Stats @ RubyGems**  (web: [rubygems.org/stats](https://rubygems.org/stats)) - Total gems, Total downloads, All time most downloaded gems, and more
 - **Stats @ BestGems** (web: [bestgems.org](http://bestgems.org))
+- [**Trending Ruby Projects @ GitHub**](https://github.com/trending?l=ruby) - Today, This Week, This Month
+- [**Alltime Starred Ruby Projects @ GitHub**](https://github.com/search?utf8=✓&q=language%3ARuby&type=Repositories&s=stars&l=Ruby)
+
 
 
 ### Benchmarks
