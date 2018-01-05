@@ -3,6 +3,9 @@
 A collection about Awesome Ruby News & Stat(istics) 
 
 
+#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
+
+
 
 ## Ruby News
 
@@ -25,7 +28,7 @@ _What's News? Comments, Please - Up/Down Vote_
 
 ### Articles, Posts
 
-_Planet, Rubyland, and more - Share (Syndicate) Your Articles w/ the World with Web Feeds_
+_Planets - Share (Syndicate) Your Articles w/ the World with Web Feeds_
 
 **Ruby Land News** (web: [rubyland.news](https://rubyland.news))
 
@@ -34,8 +37,10 @@ _Planet, Rubyland, and more - Share (Syndicate) Your Articles w/ the World with 
 
 ??
 
+
 #### Gems, Gems, Gems
 
+_Libraries, libraries, libraries - (re)use code_
 
 - Ruby Advent Calendar @ Planet Ruby
 - Gem Series @ Yuki & Moto Press Bookshelf
@@ -65,12 +70,16 @@ _Planet, Rubyland, and more - Share (Syndicate) Your Articles w/ the World with 
 
 ## Ruby Statistics
 
+### Modules, Modules, Modules
+
+_Download Counts, Module Counts and more_
+
 - **Module Counts** (web: [modulecounts.com](http://modulecounts.com)) - All Languages Compared 
 - **Stats @ RubyGems**
 - **Stats @ BestGems**
 
 
-## Ruby Benchmarks
+### Benchmarks
 
 _Fast, faster, fastest_
 
@@ -79,3 +88,11 @@ _Fast, faster, fastest_
 - RubyBench
 
 
+
+## Meta
+
+**License**
+
+![](https://publicdomainworks.github.io/buttons/zero88x31.png)
+
+The awesome list is dedicated to the public domain. Use it as you please with no restrictions whatsoever.
