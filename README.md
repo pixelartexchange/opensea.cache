@@ -16,6 +16,10 @@ _What's News? Comments, Please - Up/Down Vote_
 - Ruby Flow
 - Ruby @ Reddit
 
+- Ruby 3x3 News @ Awesome Rubies
+- Ruby 3x3 News
+- Ruby 2.5 - What's News?
+
 
 ### Articles, Posts
 
@@ -42,6 +46,13 @@ _Planet, Rubyland, and more - Share (Syndicate) Your Articles w/ the World with 
 - Ruby Books Catalog @ Planet Ruby
 
 
+### Conferences & Camps
+
+- Awesome Events @ Planet Ruby  - Conferences, Camps, and more
+- Ruby Conferences in 2018 
+- RubyConferences
+
+
 ### Newsletter
 
 - Ruby Weekly
@@ -56,5 +67,13 @@ _Planet, Rubyland, and more - Share (Syndicate) Your Articles w/ the World with 
 - **Stats @ RubyGems**
 - **Stats @ BestGems**
 
+
+## Ruby Benchmarks
+
+_Fast, faster, fastest_
+
+- OptCarrort @ Ruby 3x3 News @ Awesome Rubies
+- OptCarrot
+- RubyBench
 
 
