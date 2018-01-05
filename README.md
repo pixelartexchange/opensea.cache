@@ -19,6 +19,8 @@ _What's News? Comments, Please - Up/Down Vote_
 - Ruby 3x3 News @ Awesome Rubies
 - Ruby 3x3 News
 - Ruby 2.5 - What's News?
+- What's News @ Ruby Language
+
 
 
 ### Articles, Posts
