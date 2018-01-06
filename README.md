@@ -52,8 +52,8 @@ _Libraries, libraries, libraries - (re)use code_
 
 ### Books, Books, Books
 
-- **Yuki & Moto Press Bookshelf** (github: [yukimotopress](http://yukimotopress.github.io))
-- [**Ruby Books Catalog @ Planet Ruby**](http://planetruby.github.io/books)
+- **Yuki & Moto Press Bookshelf** (github: [yukimotopress](http://yukimotopress.github.io)) - Free (Online) Ruby Books - Gem Developer's Guide, Sinatra Intro, Programming Cryptocurrencies & Blockchains, Project Automation & Database Documentation Tools, Web Services the Micro Way, and more
+- [**Ruby Books Catalog @ Planet Ruby**](http://planetruby.github.io/books)  - Ruby Books in Print 
 
 
 ### Conferences & Camps
@@ -69,7 +69,7 @@ _Libraries, libraries, libraries - (re)use code_
 
 ### Podcasts, Radio Talk Shows
 
-- **Ruby Rogues** (web: [devchat.tv/ruby-rogues](https://devchat.tv/ruby-rogues))
+- **Ruby Rogues (RR)** (web: [devchat.tv/ruby-rogues](https://devchat.tv/ruby-rogues)) _ a panel discussion about programming, careers, community, and Ruby. We publish a talk with notable programmers and Rubyists each week to help you go further in your careers and skills
 
 
 ### Screencasts, Videos 
