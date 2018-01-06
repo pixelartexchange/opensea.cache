@@ -69,7 +69,8 @@ _Libraries, libraries, libraries - (re)use code_
 
 ### Podcasts, Radio Talk Shows
 
-_??_
+- **Ruby Rogues** (web: [devchat.tv/ruby-rogues](https://devchat.tv/ruby-rogues))
+
 
 ### Screencasts, Videos 
 
