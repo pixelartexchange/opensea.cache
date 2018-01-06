@@ -18,7 +18,7 @@ _What's News? Comments, Please - Up/Down Vote_
 - **Awesome Ruby @ LibHunt** (web: [ruby.libhunt.com](https://ruby.libhunt.com))
 - **Ruby Flow** (web: [rubyflow.com](http://rubyflow.com))
 - **Ruby @ Reddit** (web: [reddit.com/r/ruby](https://www.reddit.com/r/ruby))
-- [**Ruby 3x3 News @ Awesome Rubies**](https://github.com/planetruby/awesome-rubies#3x3-news)
+- [**Ruby 3x3 News @ Awesome Rubies**](https://github.com/planetruby/awesome-rubies#3x3-news) - 3x3 - Ruby 3 will be 3 times faster in 2020
 - [**Ruby 3x3 News @ Ruby Advent Calendar**](https://planetruby.github.io/advent2017/ruby3x3)
 - [**Ruby 2.5 - Dec 25th, 2017 - What's News? @ Ruby Advent Calendar**](https://planetruby.github.io/advent2017/ruby25)
 - **What's News @ Ruby Language** (web: [ruby-lang.org/en/news](https://www.ruby-lang.org/en/news))
@@ -37,11 +37,11 @@ _Libraries, libraries, libraries - (re)use code_
 
 - **RubyGems** (web: [rubygems.org](https://rubygems.org)) - 100_000+ Ruby Gems / Libraries
 - **BestGems**  (web: [bestgems.org](http://bestgems.org))
-- [**Ruby Advent Calendar 2017 @ Planet Ruby**](https://planetruby.github.io/advent2017/) - 25 Days of Ruby Gems / Libraries, December 1 - December 25
+- [**Ruby Advent Calendar 2017 @ Planet Ruby**](https://planetruby.github.io/advent2017/) - 25 Days of Ruby Gems / Libraries, December 1 - December 25 -- from blockchain-lite to merkletree to centralbank; from json-next to webservice; from journaltxt to officetxt and more
 - **Gem Series @ Yuki & Moto Press Bookshelf** (github: [yukimotopress](http://yukimotopress.github.io))
 - **Awesome Ruby** (github: [markets/awesome-ruby](https://github.com/markets/awesome-ruby))
-- [**Awesome ActiveRecord @ Planet Ruby**](https://github.com/planetruby/awesome-activerecord)
-- [**Awesome Jekyll @ Planet Jekyll**](https://github.com/planetjekyll/awesome-jekyll)
+- [**Awesome ActiveRecord @ Planet Ruby**](https://github.com/planetruby/awesome-activerecord) - work with SQL databases incl. SQLite, PostgreSQL, and more
+- [**Awesome Jekyll @ Planet Jekyll**](https://github.com/planetjekyll/awesome-jekyll) - the world's most popular (static) website compiler - publish blogs, books, podcast radio shows, talk slides, and much more
 - **Gems @ Ruby Bookmarks** (web: [dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks#gems))
 
 
@@ -69,7 +69,7 @@ _Libraries, libraries, libraries - (re)use code_
 
 ### Podcasts, Radio Talk Shows
 
-- **Ruby Rogues (RR)** (web: [devchat.tv/ruby-rogues](https://devchat.tv/ruby-rogues)) _ a panel discussion about programming, careers, community, and Ruby. We publish a talk with notable programmers and Rubyists each week to help you go further in your careers and skills
+- **Ruby Rogues (RR)** (web: [devchat.tv/ruby-rogues](https://devchat.tv/ruby-rogues)) - a panel discussion about programming, careers, community, and Ruby. We publish a talk with notable programmers and Rubyists each week to help you go further in your careers and skills
 
 
 ### Screencasts, Videos 
