@@ -19,8 +19,8 @@ _What's News? Comments, Please - Up/Down Vote_
 - **Ruby Flow** (web: [rubyflow.com](http://rubyflow.com))
 - **Ruby @ Reddit** (web: [reddit.com/r/ruby](https://www.reddit.com/r/ruby))
 - [**Ruby 3x3 News @ Awesome Rubies**](https://github.com/planetruby/awesome-rubies#3x3-news) - 3x3 - Ruby 3 will be 3 times faster in 2020
-- [**Ruby 3x3 News @ Ruby Advent Calendar**](https://planetruby.github.io/advent2017/ruby3x3)
-- [**Ruby 2.5 - Dec 25th, 2017 - What's News? @ Ruby Advent Calendar**](https://planetruby.github.io/advent2017/ruby25)
+- [**Ruby 3x3 News @ Ruby Advent Calendar**](https://planetruby.github.io/calendar/ruby3x3)
+- [**Ruby 2.5 - Dec 25th, 2017 - What's News? @ Ruby Advent Calendar**](https://planetruby.github.io/calendar/ruby25)
 - **What's News @ Ruby Language** (web: [ruby-lang.org/en/news](https://www.ruby-lang.org/en/news))
 
 
@@ -59,7 +59,7 @@ _Libraries, libraries, libraries - (re)use code_
 ### Conferences & Camps
 
 - [**Awesome Events @ Planet Ruby**](https://github.com/planetruby/awesome-events) - Conferences, Camps, and more
-- [**Ruby Conferences (& Camps) in 2018 - What's Upcoming? @ Ruby Advent Calendar**](https://planetruby.github.io/advent2017/events) 
+- [**Ruby Conferences (& Camps) in 2018 - What's Upcoming? @ Ruby Advent Calendar**](https://planetruby.github.io/calendar/2018) 
 - **Ruby Conferences** (web: [rubyconferences.org](http://rubyconferences.org)) 
 
 
