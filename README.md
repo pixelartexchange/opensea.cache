@@ -37,7 +37,7 @@ _Libraries, libraries, libraries - (re)use code_
 
 - **RubyGems** (web: [rubygems.org](https://rubygems.org)) - 100_000+ Ruby Gems / Libraries
 - **BestGems**  (web: [bestgems.org](http://bestgems.org))
-- [**Ruby Advent Calendar 2017 @ Planet Ruby**](https://planetruby.github.io/advent2017/) - 25 Days of Ruby Gems / Libraries, December 1 - December 25 -- from blockchain-lite to merkletree to centralbank; from json-next to webservice; from journaltxt to officetxt and more
+- [**Ruby Advent Calendar 2017 @ Planet Ruby**](https://planetruby.github.io/calendar/advent2017/) - 25 Days of Ruby Gems / Libraries, December 1 - December 25 -- from blockchain-lite to merkletree to centralbank; from json-next to webservice; from journaltxt to officetxt and more
 - **Gem Series @ Yuki & Moto Press Bookshelf** (github: [yukimotopress](http://yukimotopress.github.io))
 - **Awesome Ruby** (github: [markets/awesome-ruby](https://github.com/markets/awesome-ruby))
 - [**Awesome ActiveRecord @ Planet Ruby**](https://github.com/planetruby/awesome-activerecord) - work with SQL databases incl. SQLite, PostgreSQL, and more
