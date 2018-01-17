@@ -65,7 +65,10 @@ _Libraries, libraries, libraries - (re)use code_
 
 ### Newsletter
 
-- **Ruby Weekly** (web: [rubyweekly.com](https://rubyweekly.com))
+- **Ruby Weekly** (web: [rubyweekly.com](https://rubyweekly.com)) - by Peter Cooper et al
+- **Ruby Tuesday** (web: [rubytuesday.katafrakt.me](https://rubytuesday.katafrakt.me)) - by Paweł Świątkowski - Paweł Świątkowski writes: the project is called Ruby Tuesday and yes, I publish it on Tuesdays only. The scope is a bit different than other newsletters: it's Rails-free zone and I try to find things not related to web development for every issue. Also, non-Ruby things don't get there, even though sometime I'm really tempted to do so. It comes out usually every two weeks, but sometimes less frequently when I have no content.
+
+
 
 ### Podcasts, Radio Talk Shows
 
