@@ -1,6 +1,6 @@
 # Awesome Ruby News & Stat(istic)s
 
-A collection about Awesome Ruby news & stat(istic)s  
+A collection about Awesome Ruby news & stat(istic)s incl. 3x3, conferences & camps, best gems & libraries, optcarrot & benchmarks, and more 
 
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
