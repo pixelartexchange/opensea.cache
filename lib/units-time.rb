@@ -5,6 +5,16 @@
 ##   use Timestamp and Timedelta classes etc.
 
 
+## stdlibs
+require 'pp'
+
+
+## our own code
+require 'units-time/version'    # note: let version always go first
+
+
+
+
 class Integer
 
   ######################################
