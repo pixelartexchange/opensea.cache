@@ -13,7 +13,7 @@ class TestUnitsTime < MiniTest::Test
 def test_timstamp
   now = Timestamp.now
 
-  assert_equal now.to_i, now
+  assert_equal Timestamp.new( now.to_i ), now
 
   assert_equal now+31_536_000.secs,  now+1.year
   assert_equal now+1_209_600.secs,   now+1.fortnight
