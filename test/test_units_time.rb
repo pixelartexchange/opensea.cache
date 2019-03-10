@@ -97,6 +97,9 @@ def test_timedelta_ops
   assert_equal Timedelta,         (100 * 1.hour).class
   assert_equal now+100*3600.secs, now + (100 * 1.hour)
   assert_equal Timestamp,         (now + (100 * 1.hour)).class
+
+  assert_equal 2.weeks,           (now+2.weeks) - now
+  assert_equal Timedelta,         ((now+2.weeks) - now).class
 end
 
 def test_conv

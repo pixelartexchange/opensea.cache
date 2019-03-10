@@ -3,7 +3,8 @@
 
 class Timestamp
 
-  def self.now() new( Time.now.to_i ); end
+  ## todo: double check that Time.now.to_i always returns seconds in utc/gmt "universal" time (and not local time)
+  def self.now() new; end
 
   attr_reader :seconds
 
@@ -31,6 +32,9 @@ class Timestamp
   def -( other )
     if other.is_a?( Timedelta )
       self.class.new( @seconds - other.seconds )
+    elsif other.is_a?( Timestamp )   ## note: returns Timedelta class/object!!!
+      ## todo: check how to deal with negative timedelta - allow !? - why? why not?
+      Timedelta.new( @seconds - other.seconds )
     else
       raise TypeError.new( "[Timestamp] sub(straction) - wrong type >#{other.inspect}< #{other.class.name} - Timedelta expected" )
     end
