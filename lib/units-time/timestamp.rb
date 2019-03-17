@@ -51,6 +51,7 @@ class Timestamp
     end
   end
 
+  def zero?() self == self.class.zero; end  ## note: compares values (e.g. 0==0) - not object_id (or frozen) etc.
 
   ## todo/fix: always freeze by default (timestamp is immutable) - why? why not?
   def self.zero()  @@zero ||= new(0).freeze; end

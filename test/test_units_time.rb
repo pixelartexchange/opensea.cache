@@ -112,4 +112,19 @@ def test_conv
   assert_equal 0.secs, Timedelta(0)
 end
 
+def test_zero
+  assert_equal true, Timestamp(0).zero?
+  assert_equal true, Timedelta(0).zero?
+
+  assert_equal true, Timestamp.zero.zero?
+  assert_equal true, Timedelta.zero.zero?
+
+  assert_equal true, Timestamp.new(0).zero?
+  assert_equal true, Timedelta.new(0).zero?
+
+  assert_equal false, Timestamp.new(1).zero?
+  assert_equal false, Timestamp.new.zero?
+  assert_equal false, Timedelta.new(1).zero?
+end
+
 end # class TestUnitsTime
