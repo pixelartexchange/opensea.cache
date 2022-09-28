@@ -79,13 +79,12 @@ each_dir( './cache/*' ) do |dir|
    buf << "\n\n"
    buf << "contracts (#{data_contracts.size}):\n"
    data_contracts.each do |data_contract|
-      buf << "**#{data_contract['name']} (#{data_contract['symbol']})**<br>\n"
-      buf << "created: #{fmt_date( data_contract['created_date'])}<br>\n"
-      buf << "etherscan: [#{data_contract['address']}](https://etherscan.io/address/#{data_contract['address']})<br>\n"
-     buf << "\n\n"
+      buf << "- **#{data_contract['name']} (#{data_contract['symbol']})**"
+      buf << " created on #{fmt_date( data_contract['created_date'])}"
+      buf << " @ [#{data_contract['address']}](https://etherscan.io/address/#{data_contract['address']})\n"
    end
-
    buf << "\n\n"
+
    traits = find_traits( data_traits )
    buf << "attributes (#{traits.size}): #{traits.join(', ')}<br>\n"
 

@@ -5,11 +5,7 @@ web:  <https://thejewsnft.com/><br>
 
 
 contracts (1):
-**The Jews (JEWS)**<br>
-created: Jul 17, 2022<br>
-etherscan: [0x1e283601f53032d9aac8dc73632f4e482e761c70](https://etherscan.io/address/0x1e283601f53032d9aac8dc73632f4e482e761c70)<br>
-
-
+- **The Jews (JEWS)** created on Jul 17, 2022 @ [0x1e283601f53032d9aac8dc73632f4e482e761c70](https://etherscan.io/address/0x1e283601f53032d9aac8dc73632f4e482e761c70)
 
 
 attributes (7): skin_tone (7), payes (8), beard (19), top (33), mouth (8), glasses (29), tallit (5)<br>
@@ -43,11 +39,7 @@ twitter: [TheAmericans_US](https://twitter.com/TheAmericans_US)<br>
 
 
 contracts (1):
-**The Americans (TAs)**<br>
-created: Jul 14, 2022<br>
-etherscan: [0x4ef3d9eab34783995bc394d569845585ac805ef8](https://etherscan.io/address/0x4ef3d9eab34783995bc394d569845585ac805ef8)<br>
-
-
+- **The Americans (TAs)** created on Jul 14, 2022 @ [0x4ef3d9eab34783995bc394d569845585ac805ef8](https://etherscan.io/address/0x4ef3d9eab34783995bc394d569845585ac805ef8)
 
 
 attributes (7): Background (1), Skin (3), Eyes (9), Beard (20), Headwear (30), Mouth (20), Accessory (20)<br>
@@ -81,11 +73,7 @@ twitter: [TheSaudisNFT](https://twitter.com/TheSaudisNFT)<br>
 
 
 contracts (1):
-**Unidentified contract ()**<br>
-created: Jul 09, 2022<br>
-etherscan: [0xe21ebcd28d37a67757b9bc7b290f4c4928a430b1](https://etherscan.io/address/0xe21ebcd28d37a67757b9bc7b290f4c4928a430b1)<br>
-
-
+- **Unidentified contract ()** created on Jul 09, 2022 @ [0xe21ebcd28d37a67757b9bc7b290f4c4928a430b1](https://etherscan.io/address/0xe21ebcd28d37a67757b9bc7b290f4c4928a430b1)
 
 
 attributes (9): Oil (Barrels) (2), Oil (Gallons) (2), Head (6), Facial Hair (20), Headwear (14), Eyewear (24), Mouthpiece (10), Hair (9), Oil Rank (2)<br>
@@ -119,11 +107,7 @@ twitter: [pixelgoblinnft](https://twitter.com/pixelgoblinnft)<br>
 
 
 contracts (1):
-**Pixel goblintown (GOBLIN)**<br>
-created: May 21, 2022<br>
-etherscan: [0x255503fe2a00f6b1e3b8a893e2a4c2363be38225](https://etherscan.io/address/0x255503fe2a00f6b1e3b8a893e2a4c2363be38225)<br>
-
-
+- **Pixel goblintown (GOBLIN)** created on May 21, 2022 @ [0x255503fe2a00f6b1e3b8a893e2a4c2363be38225](https://etherscan.io/address/0x255503fe2a00f6b1e3b8a893e2a4c2363be38225)
 
 
 attributes (9): Pre-reveal (1), Bagygrnd (8), EIRZ (8), BOOD (7), NUTDBOCK (6), EYE ON LFG (7), EYE ON RYG (7), UNDNZHOOLE (7), Trahfolln (8)<br>
@@ -157,11 +141,7 @@ twitter: [eightbit](https://twitter.com/eightbit)<br>
 
 
 contracts (1):
-**EightBit (BIT)**<br>
-created: Mar 30, 2022<br>
-etherscan: [0x6080b6d2c02e9a0853495b87ce6a65e353b74744](https://etherscan.io/address/0x6080b6d2c02e9a0853495b87ce6a65e353b74744)<br>
-
-
+- **EightBit (BIT)** created on Mar 30, 2022 @ [0x6080b6d2c02e9a0853495b87ce6a65e353b74744](https://etherscan.io/address/0x6080b6d2c02e9a0853495b87ce6a65e353b74744)
 
 
 attributes (23): Body (2), Skin Tone (5), Shoes (37), Shoes Color (12), Dress (29), Dress Color (12), Hair (127), Hair Color (6), Background (5), Background Color (5), Pants (47), Pants Color (12), Shirt (115), Shirt Color (12), Facial Hair (23), Glasses (45), Glasses Color (12), Jacket (43), Jacket Color (12), Hat (45), Hat Color (12), Perk (16), Outfit (116)<br>
@@ -195,11 +175,7 @@ twitter: [BinaryApes](https://twitter.com/BinaryApes)<br>
 
 
 contracts (1):
-**Crypto BAYC (CBAYC)**<br>
-created: Feb 21, 2022<br>
-etherscan: [0xdcd552496f0240374e365b7776239672bfd891a8](https://etherscan.io/address/0xdcd552496f0240374e365b7776239672bfd891a8)<br>
-
-
+- **Crypto BAYC (CBAYC)** created on Feb 21, 2022 @ [0xdcd552496f0240374e365b7776239672bfd891a8](https://etherscan.io/address/0xdcd552496f0240374e365b7776239672bfd891a8)
 
 
 attributes (3): TYPE (17), MOUTH (10), ACCESSORY (85)<br>
@@ -235,11 +211,7 @@ twitter: [GalacticAlienSC](https://twitter.com/GalacticAlienSC)<br>
 
 
 contracts (1):
-**Galactic Alien Social Club (GASC)**<br>
-created: Dec 16, 2021<br>
-etherscan: [0x33fd4167e51a10d19c89c3a606389d0fddc3e676](https://etherscan.io/address/0x33fd4167e51a10d19c89c3a606389d0fddc3e676)<br>
-
-
+- **Galactic Alien Social Club (GASC)** created on Dec 16, 2021 @ [0x33fd4167e51a10d19c89c3a606389d0fddc3e676](https://etherscan.io/address/0x33fd4167e51a10d19c89c3a606389d0fddc3e676)
 
 
 attributes (6): Background (10), Outfit (144), Eyes (20), Head (100), Mouth (19), Extra (12)<br>
