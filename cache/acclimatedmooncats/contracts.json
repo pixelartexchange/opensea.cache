@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0xc3f733ca98e0dad0386979eb96fb1722a1a05e69",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2021-04-22T01:52:42.386342",
+    "name": "Acclimated​MoonCats",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 29879570,
+    "schema_name": "ERC721",
+    "symbol": "😺",
+    "total_supply": "0",
+    "description": "Launched on August 10th, 2017, the MoonCatRescue Insanely Cute Operation was a success! The 25440 MoonCats rescued are acclimating to their life as [fully on-chain](https://mooncat.community/about) collectible critters.\r\n\r\nVintage, generative, and a pioneer of fair distribution, MoonCats can also be customized in the on-chain [MoonCatBoutique](https://boutique.mooncat.community)!\r\n\r\nOwners have [Personal and Commercial License](https://mooncat.community/mooncatlicense) to their MoonCat's imagery.",
+    "external_link": "https://mooncat.community",
+    "image_url": "https://i.seadn.io/gcs/files/93ea4724fcb5596e34f3af1b63c9d7c6.gif?w=500&auto=format",
+    "default_to_fiat": false,
+    "dev_buyer_fee_basis_points": 0,
+    "dev_seller_fee_basis_points": 300,
+    "only_proxied_transfers": false,
+    "opensea_buyer_fee_basis_points": 0,
+    "opensea_seller_fee_basis_points": 250,
+    "buyer_fee_basis_points": 0,
+    "seller_fee_basis_points": 550,
+    "payout_address": "0xa9913c13402939d68eac0dfb7f97760acd217c81"
+  }
+]

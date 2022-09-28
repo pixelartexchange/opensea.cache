@@ -133,6 +133,40 @@ fees:
 
 
 
+##  Moonbirds
+
+opensea: [proof-moonbirds](https://opensea.io/collection/proof-moonbirds) - created on Apr 15, 2022<br>
+web:  <https://moonbirds.xyz><br>
+twitter: [moonbirds](https://twitter.com/moonbirds)<br>
+
+
+contracts (1):
+- **Moonbirds (MOONBIRD)** created on Apr 15, 2022 @ [0x23581767a106ae21c074b2276d25e5c3e136a68b](https://etherscan.io/address/0x23581767a106ae21c074b2276d25e5c3e136a68b)
+
+
+attributes (8): Eyes (11), Outerwear (8), Body (17), Feathers (18), Background (10), Beak (3), Headwear (37), Eyewear (12)<br>
+
+
+stats:
+```
+{"count"=>10000.0,
+ "total_supply"=>10000.0,
+ "total_volume"=>171381.23590955068,
+ "total_sales"=>9521.0,
+ "num_owners"=>6578,
+ "average_price"=>18.000339870764698,
+ "floor_price"=>10.7949}
+```
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)<br>
+fees:
+```
+{"seller_fees"=>{"0xc8a5592031f93debea5d9e67a396944ee01bb2ca"=>500},
+ "opensea_fees"=>{"0x0000a26b00c1f0df003000390027140000faa719"=>250}}
+```
+
+
+
 ##  EightBit Me
 
 opensea: [eightbitme](https://opensea.io/collection/eightbitme) - created on Mar 30, 2022<br>
@@ -203,6 +237,40 @@ fees:
 
 
 
+##  CryptoPunks V1 (wrapped)
+
+opensea: [official-v1-punks](https://opensea.io/collection/official-v1-punks) - created on Jan 17, 2022<br>
+web:  <https://www.v1punks.io/><br>
+twitter: [v1punks](https://twitter.com/v1punks)<br>
+
+
+contracts (1):
+- **V1 Cryptopunks (Wrapped) (WPV1)** created on Jan 17, 2022 @ [0x282bdd42f4eb70e7a9d9f40c8fea0825b7f68c5d](https://etherscan.io/address/0x282bdd42f4eb70e7a9d9f40c8fea0825b7f68c5d)
+
+
+attributes (16): Body (5), Mouth (13), Headband (1), Earring (1), Hat (15), Mouth Ext. (4), Eyes (16), Hair (25), Mole (1), Chinstrap (1), Mustache (1), Smile (1), Clown Nose (1), Frown (1), Feature (3), Special (3)<br>
+
+
+stats:
+```
+{"count"=>2603.0,
+ "total_supply"=>2603.0,
+ "total_volume"=>20571.51469202105,
+ "total_sales"=>1602.0,
+ "num_owners"=>780,
+ "average_price"=>12.84114525094947,
+ "floor_price"=>5.48}
+```
+
+payments (5): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC), ApeCoin (APE)<br>
+fees:
+```
+{"seller_fees"=>{},
+ "opensea_fees"=>{"0x0000a26b00c1f0df003000390027140000faa719"=>250}}
+```
+
+
+
 ##  Galactic Alien Social Club
 
 opensea: [galacticaliensocialclub](https://opensea.io/collection/galacticaliensocialclub) - created on Dec 16, 2021<br>
@@ -237,6 +305,74 @@ fees:
 
 
 
+##  Chain Runners
+
+opensea: [chain-runners-nft](https://opensea.io/collection/chain-runners-nft) - created on Nov 05, 2021<br>
+web:  <http://chainrunners.xyz><br>
+twitter: [chain_runners](https://twitter.com/chain_runners)<br>
+
+
+contracts (1):
+- **Chain Runners (RUN)** created on Nov 05, 2021 @ [0x97597002980134bea46250aa0510c9b90d87a587](https://etherscan.io/address/0x97597002980134bea46250aa0510c9b90d87a587)
+
+
+attributes (13): Background (44), Race (6), Face (30), Mouth (13), Nose (11), Eyes (74), Ear Accessory (10), Head Below (36), Eye Accessory (32), Mouth Accessory (8), Head Above (48), Face Accessory (7), Mask (7)<br>
+
+
+stats:
+```
+{"count"=>10000.0,
+ "total_supply"=>10000.0,
+ "total_volume"=>13078.819699184796,
+ "total_sales"=>13468.0,
+ "num_owners"=>3332,
+ "average_price"=>0.9711033337678049,
+ "floor_price"=>0.178}
+```
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)<br>
+fees:
+```
+{"seller_fees"=>{"0x49a966cef7bbb8b426e7b6bb264dda279a354a5f"=>250},
+ "opensea_fees"=>{"0x0000a26b00c1f0df003000390027140000faa719"=>250}}
+```
+
+
+
+##  MoonCats
+
+opensea: [acclimatedmooncats](https://opensea.io/collection/acclimatedmooncats) - created on Apr 22, 2021<br>
+web:  <https://mooncat.community><br>
+twitter: [mooncatrescue](https://twitter.com/mooncatrescue)<br>
+
+
+contracts (1):
+- **Acclimated​MoonCats (😺)** created on Apr 22, 2021 @ [0xc3f733ca98e0dad0386979eb96fb1722a1a05e69](https://etherscan.io/address/0xc3f733ca98e0dad0386979eb96fb1722a1a05e69)
+
+
+attributes (0): <br>
+
+
+stats:
+```
+{"count"=>19216.0,
+ "total_supply"=>19216.0,
+ "total_volume"=>18885.70551536162,
+ "total_sales"=>18143.0,
+ "num_owners"=>5892,
+ "average_price"=>1.0409362021364503,
+ "floor_price"=>0.247}
+```
+
+payments (3): Ether (ETH), Wrapped Ether (WETH), USD Coin (USDC)<br>
+fees:
+```
+{"seller_fees"=>{"0xa9913c13402939d68eac0dfb7f97760acd217c81"=>300},
+ "opensea_fees"=>{"0x0000a26b00c1f0df003000390027140000faa719"=>250}}
+```
+
+
+
 ##  MorePunks
 
 opensea: [morepunks](https://opensea.io/collection/morepunks) - created on Apr 03, 2021<br>
@@ -265,6 +401,40 @@ payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 fees:
 ```
 {"seller_fees"=>{"0xa4abf37c95dd90e1f4fd2bc5d519d9deea19609c"=>1000},
+ "opensea_fees"=>{"0x0000a26b00c1f0df003000390027140000faa719"=>250}}
+```
+
+
+
+##  CryptoPunks
+
+opensea: [cryptopunks](https://opensea.io/collection/cryptopunks) - created on Jun 23, 2017<br>
+web:  <https://www.larvalabs.com/cryptopunks><br>
+twitter: [larvalabs](https://twitter.com/larvalabs)<br>
+
+
+contracts (1):
+- **CryptoPunks (PUNK)** created on Jan 23, 2018 @ [0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb](https://etherscan.io/address/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb)
+
+
+attributes (2): type (5), accessory (95)<br>
+
+
+stats:
+```
+{"count"=>9998.0,
+ "total_supply"=>9998.0,
+ "total_volume"=>996900.9866932792,
+ "total_sales"=>21569.0,
+ "num_owners"=>3590,
+ "average_price"=>46.21915650671237,
+ "floor_price"=>nil}
+```
+
+payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)<br>
+fees:
+```
+{"seller_fees"=>{},
  "opensea_fees"=>{"0x0000a26b00c1f0df003000390027140000faa719"=>250}}
 ```
 

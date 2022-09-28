@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0x282bdd42f4eb70e7a9d9f40c8fea0825b7f68c5d",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-01-17T10:15:19.582255",
+    "name": "V1 Cryptopunks (Wrapped)",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 29974965,
+    "schema_name": "ERC721",
+    "symbol": "WPV1",
+    "total_supply": "0",
+    "description": "CryptoPunks, released on June 9, 2017 by Larva Labs. \n\nThis is the original ERC-20 token now tradeable via a modern ERC-721 wrapper. \n\n[Wiki](https://v1punks.gitbook.io/) | [Twitter](https://twitter.com/v1punks)",
+    "external_link": "https://www.v1punks.io/",
+    "image_url": "https://i.seadn.io/gae/iIo0vm6cqiOaUwFI58-Rz61Watioc0GZ_SdhdcFJqgdYlQJNjjdzJ7-vodNEDJMG0ZJ-dE6yELuQfAJ6FzjpqtovU0bd3pLp1F1grg?w=500&auto=format",
+    "default_to_fiat": false,
+    "dev_buyer_fee_basis_points": 0,
+    "dev_seller_fee_basis_points": 0,
+    "only_proxied_transfers": false,
+    "opensea_buyer_fee_basis_points": 0,
+    "opensea_seller_fee_basis_points": 250,
+    "buyer_fee_basis_points": 0,
+    "seller_fee_basis_points": 250,
+    "payout_address": null
+  }
+]

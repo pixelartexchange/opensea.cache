@@ -1,0 +1,44 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/p5ZGQSq4fNk_5WWo_ByvSyQmKfl98eT472cdh1jgWp1e5KROWBX2wTuMBXtcaFZ1R3yswNJpbHU-bNN7Ycgvhpl8nTc-MvCsa-e6?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-04-22T03:18:24.841043",
+  "default_to_fiat": false,
+  "description": "Launched on August 10th, 2017, the MoonCatRescue Insanely Cute Operation was a success! The 25440 MoonCats rescued are acclimating to their life as [fully on-chain](https://mooncat.community/about) collectible critters.\r\n\r\nVintage, generative, and a pioneer of fair distribution, MoonCats can also be customized in the on-chain [MoonCatBoutique](https://boutique.mooncat.community)!\r\n\r\nOwners have [Personal and Commercial License](https://mooncat.community/mooncatlicense) to their MoonCat's imagery.",
+  "dev_buyer_fee_basis_points": "0",
+  "dev_seller_fee_basis_points": "300",
+  "discord_url": "https://discord.gg/mooncats",
+  "display_data": {
+    "card_display_style": "padded"
+  },
+  "external_url": "https://mooncat.community",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/SUiD7Wp1tpzKpzjPCWiiS8ND784aRxDRRywiAKUyVCplW3DKfAQWp4Y9bQhMIFjLbUOJntqNvRlax-9eiKlDV_nGZFzhPahSAPuykA?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "verified",
+  "image_url": "https://i.seadn.io/gcs/files/93ea4724fcb5596e34f3af1b63c9d7c6.gif?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/SUiD7Wp1tpzKpzjPCWiiS8ND784aRxDRRywiAKUyVCplW3DKfAQWp4Y9bQhMIFjLbUOJntqNvRlax-9eiKlDV_nGZFzhPahSAPuykA?w=500&auto=format",
+  "medium_username": "mooncatcommunity",
+  "name": "MoonCats",
+  "only_proxied_transfers": false,
+  "opensea_buyer_fee_basis_points": "0",
+  "opensea_seller_fee_basis_points": "250",
+  "payout_address": "0xa9913c13402939d68eac0dfb7f97760acd217c81",
+  "require_email": false,
+  "short_description": null,
+  "slug": "acclimatedmooncats",
+  "telegram_url": null,
+  "twitter_username": "mooncatrescue",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xa9913c13402939d68eac0dfb7f97760acd217c81": 300
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

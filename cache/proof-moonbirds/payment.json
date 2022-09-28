@@ -1,0 +1,22 @@
+[
+  {
+    "id": 13689077,
+    "symbol": "ETH",
+    "address": "0x0000000000000000000000000000000000000000",
+    "image_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+    "name": "Ether",
+    "decimals": 18,
+    "eth_price": 1.0,
+    "usd_price": 1326.41
+  },
+  {
+    "id": 4645681,
+    "symbol": "WETH",
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "image_url": "https://openseauserdata.com/files/accae6b6fb3888cbff27a013729c22dc.svg",
+    "name": "Wrapped Ether",
+    "decimals": 18,
+    "eth_price": 1.0,
+    "usd_price": 1326.41
+  }
+]

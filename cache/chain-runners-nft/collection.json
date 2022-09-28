@@ -1,0 +1,44 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/8MKiOEUA3COVcXKzhj54Q5eP0GP9NDOFsumbkiQ2KokimqYGlfTxLKei60ZUG_ipq-VZ5_D2rGZAjxmOVEIVSJaezvrwZe2IywOyEQ?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-11-05T22:01:32.211402",
+  "default_to_fiat": false,
+  "description": "Chain Runners are Mega City renegades 100% stored and generated on chain.\n\nVisit https://chainrunners.xyz to find out more.",
+  "dev_buyer_fee_basis_points": "0",
+  "dev_seller_fee_basis_points": "250",
+  "discord_url": "https://discord.gg/f3sk2u4uKN",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "http://chainrunners.xyz",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "verified",
+  "image_url": "https://i.seadn.io/gae/3vScLGUcTB7yhItRYXuAFcPGFNJ3kgO0mXeUSUfEMBjGkGPKz__smtXyUlRxzZjr1Y5x8hz1QXoBQSEb8wm4oBByeQC_8WOCaDON4Go?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": null,
+  "medium_username": null,
+  "name": "Chain Runners",
+  "only_proxied_transfers": false,
+  "opensea_buyer_fee_basis_points": "0",
+  "opensea_seller_fee_basis_points": "250",
+  "payout_address": "0x49a966cef7bbb8b426e7b6bb264dda279a354a5f",
+  "require_email": false,
+  "short_description": null,
+  "slug": "chain-runners-nft",
+  "telegram_url": null,
+  "twitter_username": "chain_runners",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x49a966cef7bbb8b426e7b6bb264dda279a354a5f": 250
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

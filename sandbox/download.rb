@@ -31,12 +31,17 @@ slugs = %w[
   galacticaliensocialclub
   binaryapes
   eightbitme
-]
-
-slugs = %w[
   thesaudis
   thejews-nft
   the-americans-nft
+]
+
+slugs = %w[
+  cryptopunks
+  official-v1-punks
+  proof-moonbirds
+  acclimatedmooncats
+  chain-runners-nft
 ]
 
 

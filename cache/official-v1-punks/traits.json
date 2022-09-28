@@ -1,0 +1,126 @@
+{
+  "Body": {
+    "male": 1683,
+    "female": 908,
+    "alien": 6,
+    "zombie": 21,
+    "ape": 19
+  },
+  "Mouth": {
+    "muttonchops": 85,
+    "shadow beard": 131,
+    "handlebars": 78,
+    "purple lipstick": 139,
+    "hot lipstick": 174,
+    "black lipstick": 164,
+    "normal beard": 92,
+    "normal beard black": 59,
+    "luxurious beard": 73,
+    "goat": 91,
+    "front beard": 98,
+    "front beard dark": 92,
+    "big beard": 29
+  },
+  "Headband": {
+    "yes": 112
+  },
+  "Earring": {
+    "yes": 694
+  },
+  "Hat": {
+    "do-rag": 108,
+    "cowboy hat": 24,
+    "cap forward": 81,
+    "hoodie": 58,
+    "blonde bob": 14,
+    "cap": 101,
+    "pink with hat": 12,
+    "bandana": 165,
+    "pilot helmet": 15,
+    "police cap": 23,
+    "tassle hat": 29,
+    "knitted cap": 118,
+    "fedora": 44,
+    "tiara": 12,
+    "top hat": 19
+  },
+  "Mouth Ext.": {
+    "cigarette": 263,
+    "vape": 70,
+    "medical mask": 33,
+    "pipe": 55
+  },
+  "Eyes": {
+    "eye patch": 138,
+    "regular shades": 146,
+    "clown eyes green": 114,
+    "big shades": 90,
+    "classic shades": 116,
+    "green eye shadow": 71,
+    "vr": 72,
+    "welding goggles": 7,
+    "small shades": 109,
+    "purple eye shadow": 64,
+    "nerd glasses": 108,
+    "clown eyes blue": 106,
+    "eye mask": 89,
+    "horned rim glasses": 153,
+    "blue eye shadow": 69,
+    "3d glasses": 48
+  },
+  "Hair": {
+    "wild hair": 112,
+    "mohawk dark": 131,
+    "messy hair": 129,
+    "mohawk thin": 151,
+    "mohawk": 125,
+    "stringy hair": 169,
+    "peak spike": 83,
+    "clown hair green": 14,
+    "crazy hair": 107,
+    "frumpy hair": 120,
+    "straight hair": 49,
+    "vampire hair": 23,
+    "blonde short": 20,
+    "shaved head": 109,
+    "straight hair dark": 36,
+    "purple hair": 37,
+    "dark hair": 39,
+    "half shaved": 32,
+    "orange side": 17,
+    "wild white hair": 17,
+    "straight hair blonde": 38,
+    "wild blonde": 13,
+    "beanie": 14,
+    "red mohawk": 41,
+    "pigtails": 10
+  },
+  "Mole": {
+    "yes": 213
+  },
+  "Chinstrap": {
+    "yes": 78
+  },
+  "Mustache": {
+    "yes": 70
+  },
+  "Smile": {
+    "yes": 61
+  },
+  "Clown Nose": {
+    "yes": 48
+  },
+  "Frown": {
+    "yes": 80
+  },
+  "Feature": {
+    "spots": 25,
+    "rosy cheeks": 30,
+    "buck teeth": 10
+  },
+  "Special": {
+    "gold chain": 44,
+    "choker": 8,
+    "silver chain": 31
+  }
+}

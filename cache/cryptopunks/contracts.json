@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2018-01-23T04:51:38.832339",
+    "name": "CryptoPunks",
+    "nft_version": "unsupported",
+    "opensea_version": null,
+    "owner": null,
+    "schema_name": "CRYPTOPUNKS",
+    "symbol": "PUNK",
+    "total_supply": null,
+    "description": "CryptoPunks launched as a fixed set of 10,000 items in mid-2017 and became one of the inspirations for the ERC-721 standard. They have been featured in places like The New York Times, Christie’s of London, Art|Basel Miami, and The PBS NewsHour.",
+    "external_link": "https://www.larvalabs.com/cryptopunks",
+    "image_url": "https://i.seadn.io/gae/BdxvLseXcfl57BiuQcQYdJ64v-aI8din7WPk0Pgo3qQFhAUH-B6i-dCqqc_mCkRIzULmwzwecnohLhrcH8A9mpWIZqA7ygc52Sr81hE?w=500&auto=format",
+    "default_to_fiat": false,
+    "dev_buyer_fee_basis_points": 0,
+    "dev_seller_fee_basis_points": 0,
+    "only_proxied_transfers": false,
+    "opensea_buyer_fee_basis_points": 0,
+    "opensea_seller_fee_basis_points": 250,
+    "buyer_fee_basis_points": 0,
+    "seller_fee_basis_points": 250,
+    "payout_address": null
+  }
+]

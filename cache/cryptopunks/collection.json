@@ -1,0 +1,43 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/48oVuDyfe_xhs24BC2TTVcaYCX7rrU5mpuQLyTgRDbKHj2PtzKZsQ5qC3xTH4ar34wwAXxEKH8uUDPAGffbg7boeGYqX6op5vBDcbA?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2017-06-23T20:55:07",
+  "default_to_fiat": false,
+  "description": "CryptoPunks launched as a fixed set of 10,000 items in mid-2017 and became one of the inspirations for the ERC-721 standard. They have been featured in places like The New York Times, Christie’s of London, Art|Basel Miami, and The PBS NewsHour.",
+  "dev_buyer_fee_basis_points": "0",
+  "dev_seller_fee_basis_points": "0",
+  "discord_url": "https://discord.gg/tQp4pSE",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "https://www.larvalabs.com/cryptopunks",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb-featured-1556589448.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "verified",
+  "image_url": "https://i.seadn.io/gae/BdxvLseXcfl57BiuQcQYdJ64v-aI8din7WPk0Pgo3qQFhAUH-B6i-dCqqc_mCkRIzULmwzwecnohLhrcH8A9mpWIZqA7ygc52Sr81hE?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/QB2kKuQEw04X02V9EoC2BNYZV652LYuewUv9ZdR7KJfI9Jocwmd28jIfsGg0umSCr2bOMV8O9UpLAkoaqfYwvwmC?w=500&auto=format",
+  "medium_username": null,
+  "name": "CryptoPunks",
+  "only_proxied_transfers": false,
+  "opensea_buyer_fee_basis_points": "0",
+  "opensea_seller_fee_basis_points": "250",
+  "payout_address": null,
+  "require_email": false,
+  "short_description": null,
+  "slug": "cryptopunks",
+  "telegram_url": null,
+  "twitter_username": "larvalabs",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}
