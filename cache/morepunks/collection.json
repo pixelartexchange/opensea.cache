@@ -1,0 +1,44 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/zdSVsjPR-dQ4x0kP-_Dd71bJWSl5rvggKZYVgyogelpDwajHfZSielQGlPTDaJphSbUH8I0AQO2J1qOwtSf8CK0MypK_BJTiAsQFew?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-04-03T23:06:14.603776",
+  "default_to_fiat": false,
+  "description": "✨ Our new collection [MOREPUNKS OUTFITS](https://opensea.io/collection/morepunks-outfits) is OUT NOW! ✨\n\nMorePunks are new generation of 1,000 More Punks inspired by the originals! 🎉\n\nFeaturing all new attributes & 7 NEW SPECIES! 👀\n\nWebsite: [morepunks.com](https://www.morepunks.com/)",
+  "dev_buyer_fee_basis_points": "0",
+  "dev_seller_fee_basis_points": "1000",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://www.morepunks.com/",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/zfrP4iikAkQJb9cbFU_IqT2OxTkEk8KGMroSFwA8SDpBZ78FgnTpHBFPn6ZgJwB-Pf2BQORp3vVYgFIlRKUpivyrz2W2qMi26TZH?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/WRx9Zxq8fTroF9xNaq4AQj6VFERkuHHCgrauKRKkw_Dva-2EZ4BqO10bKtQg04YmYN-6AmSeH6uHNCRWBrRUcR88T5fnuD9cojVVlw?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/zfrP4iikAkQJb9cbFU_IqT2OxTkEk8KGMroSFwA8SDpBZ78FgnTpHBFPn6ZgJwB-Pf2BQORp3vVYgFIlRKUpivyrz2W2qMi26TZH?w=500&auto=format",
+  "medium_username": null,
+  "name": "MorePunks",
+  "only_proxied_transfers": false,
+  "opensea_buyer_fee_basis_points": "0",
+  "opensea_seller_fee_basis_points": "250",
+  "payout_address": "0xa4abf37c95dd90e1f4fd2bc5d519d9deea19609c",
+  "require_email": false,
+  "short_description": null,
+  "slug": "morepunks",
+  "telegram_url": null,
+  "twitter_username": "MorePunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xa4abf37c95dd90e1f4fd2bc5d519d9deea19609c": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

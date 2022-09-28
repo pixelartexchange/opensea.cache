@@ -1,0 +1,43 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/NHVXuMgPcD1ksu_oQfnVZmd6HKDhCOQMvV240Oo095OnijFvdFc_gnyUGPMmwBaAHfITyPPZHnODjMGCVzxjB9aGfa5H5oQZBT14NQ?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-05-21T22:51:23.849032",
+  "default_to_fiat": false,
+  "description": "Pixel AAAAAAAUUUUUGGGHHHHH gobblins goblinns GOBLINNNNNNNNns wekm ta goblintown yoo sniksnakr DEJEN RATS oooooh rats are yummmz dis a NEFTEEE O GOBBLINGS on da BLOKCHIN wat? oh. crustybutt da goblinking say GEE EMMM DEDJEN RUTS an queenie saay HLLO SWEATIES ok dats all byeby - 0% Royalties",
+  "dev_buyer_fee_basis_points": "0",
+  "dev_seller_fee_basis_points": "0",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "http://pixelgoblintown.xyz",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/Vpx2cq2eakLzcmSC9FZnQdRVBjo2MzHQvtwvGYQsl2G24i4SXqI8uOMe__KQAn76kpEqRB4gXEPsmf5dtgzPvewi8wYxvI7qUBGR8A?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/Vpx2cq2eakLzcmSC9FZnQdRVBjo2MzHQvtwvGYQsl2G24i4SXqI8uOMe__KQAn76kpEqRB4gXEPsmf5dtgzPvewi8wYxvI7qUBGR8A?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/Vpx2cq2eakLzcmSC9FZnQdRVBjo2MzHQvtwvGYQsl2G24i4SXqI8uOMe__KQAn76kpEqRB4gXEPsmf5dtgzPvewi8wYxvI7qUBGR8A?w=500&auto=format",
+  "medium_username": null,
+  "name": "Pixel goblintown",
+  "only_proxied_transfers": false,
+  "opensea_buyer_fee_basis_points": "0",
+  "opensea_seller_fee_basis_points": "250",
+  "payout_address": "0x474a6f7864064d3b4fb9f0e53c43b36ba5b96204",
+  "require_email": false,
+  "short_description": null,
+  "slug": "pixel-goblintown",
+  "telegram_url": null,
+  "twitter_username": "pixelgoblinnft",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

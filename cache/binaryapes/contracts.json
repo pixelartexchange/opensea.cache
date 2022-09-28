@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0xdcd552496f0240374e365b7776239672bfd891a8",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-02-21T10:31:08.086633",
+    "name": "Crypto BAYC",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 251782166,
+    "schema_name": "ERC721",
+    "symbol": "CBAYC",
+    "total_supply": "0",
+    "description": "BinaryApes is an ERC-721 blockchain NFT. We are true degens and inspired by NFT history. Our identity is a fusion of two iconic characters;  Punked Apes",
+    "external_link": "http://binaryapes.org/",
+    "image_url": "https://i.seadn.io/gae/g7pIc0R_0M0OmLDHaTCRRHDFgfzW4w1vx_IxbqhfuxNiyFDYwp98_sGYz0gPyDA0lXGoPRy1AkGLpxtTqqwXiedwvHNuAZ6FE9iVng?w=500&auto=format",
+    "default_to_fiat": false,
+    "dev_buyer_fee_basis_points": 0,
+    "dev_seller_fee_basis_points": 900,
+    "only_proxied_transfers": false,
+    "opensea_buyer_fee_basis_points": 0,
+    "opensea_seller_fee_basis_points": 250,
+    "buyer_fee_basis_points": 0,
+    "seller_fee_basis_points": 1150,
+    "payout_address": "0x1958b24d214b07a1ee8606a450573be48eda5b4e"
+  }
+]
