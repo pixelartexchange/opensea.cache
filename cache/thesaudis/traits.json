@@ -1,0 +1,109 @@
+{
+  "Oil (Barrels)": {
+    "min": 62,
+    "max": 570
+  },
+  "Oil (Gallons)": {
+    "min": 1980,
+    "max": 17975
+  },
+  "Head": {
+    "dark 1": 931,
+    "light 1": 903,
+    "dark 2": 890,
+    "light 2": 998,
+    "medium 2": 900,
+    "medium 1": 933
+  },
+  "Facial Hair": {
+    "short grey beard": 317,
+    "mustache": 307,
+    "normal white beard": 316,
+    "normal brown beard & mustache": 303,
+    "stylish mustache": 289,
+    "shadow beard": 400,
+    "sideburns & mustache": 399,
+    "luxurious brown beard": 373,
+    "short white beard": 337,
+    "luxurious white beard": 296,
+    "clean shaven": 101,
+    "light beard": 398,
+    "normal brown beard": 410,
+    "normal beard": 119,
+    "sideburns": 250,
+    "messy white beard": 268,
+    "shadow beard & mustache": 118,
+    "luxurious beard": 126,
+    "messy brown beard": 341,
+    "gradient beard": 87
+  },
+  "Headwear": {
+    "red shemagh & crown": 16,
+    "red shemagh": 524,
+    "white shemagh & agal": 1143,
+    "white shemagh": 535,
+    "red shemagh & agal": 1171,
+    "brown shemagh & agal": 915,
+    "white shemagh & gold agal": 434,
+    "white shemagh & stylish gold agal": 267,
+    "white shemagh & crown": 22,
+    "brown shemagh & crown": 25,
+    "red shemagh & gold agal": 129,
+    "brown shemagh & gold agal": 128,
+    "brown shemagh & stylish gold agal": 127,
+    "haram police cap": 119
+  },
+  "Eyewear": {
+    "big round shades": 228,
+    "max bidding": 58,
+    "nerd glasses": 221,
+    "regular shades": 206,
+    "none": 977,
+    "classic green shades": 222,
+    "big pixel shades": 232,
+    "regular pixel shades": 233,
+    "big shades": 213,
+    "big green shades": 204,
+    "classic shades": 233,
+    "laser eyes": 88,
+    "3d glasses": 131,
+    "square shades": 222,
+    "classic gold shades": 161,
+    "horn rimmed glasses": 244,
+    "big purple shades": 233,
+    "rimless glasses": 195,
+    "round shades": 224,
+    "small shades": 222,
+    "stylish nerd glasses": 235,
+    "regular reflective shades": 224,
+    "square reflective shades": 218,
+    "vr": 131
+  },
+  "Mouthpiece": {
+    "none": 3561,
+    "rosewood pipe": 128,
+    "cigarette": 307,
+    "miswak": 179,
+    "vape": 288,
+    "cigar": 182,
+    "bubble gum": 192,
+    "pearwood pipe": 151,
+    "shadowless cigarette": 314,
+    "shadowless vape": 253
+  },
+  "Hair": {
+    "widow's peak": 614,
+    "buzz cut": 619,
+    "long widow's peak": 618,
+    "bald": 621,
+    "brown buzz cut": 626,
+    "short buzz cut": 608,
+    "long": 608,
+    "messy": 617,
+    "neat": 624
+  },
+  "Oil Rank": {
+    "oil accumulatoor": 596,
+    "oil pleb": 598
+  }
+}

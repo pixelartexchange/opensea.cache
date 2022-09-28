@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0x1e283601f53032d9aac8dc73632f4e482e761c70",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-07-17T11:24:29.396239",
+    "name": "The Jews",
+    "nft_version": null,
+    "opensea_version": null,
+    "owner": 465636944,
+    "schema_name": "ERC721",
+    "symbol": "JEWS",
+    "total_supply": "5555",
+    "description": "Saudis may be bidding Bitcoin, but who is bidding Saudis? 🇮🇱 5555 Jews are MAX BIDDING THE WORLD",
+    "external_link": "https://thejewsnft.com/",
+    "image_url": "https://i.seadn.io/gcs/files/de402a0bdf26c744ccaf272d4baeb318.png?w=500&auto=format",
+    "default_to_fiat": false,
+    "dev_buyer_fee_basis_points": 0,
+    "dev_seller_fee_basis_points": 1000,
+    "only_proxied_transfers": false,
+    "opensea_buyer_fee_basis_points": 0,
+    "opensea_seller_fee_basis_points": 250,
+    "buyer_fee_basis_points": 0,
+    "seller_fee_basis_points": 1250,
+    "payout_address": "0x34e59c038a80e890b251b842b3742efbef53f54d"
+  }
+]

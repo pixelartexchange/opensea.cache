@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0xe21ebcd28d37a67757b9bc7b290f4c4928a430b1",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-07-09T01:07:31.869294",
+    "name": "Unidentified contract",
+    "nft_version": null,
+    "opensea_version": null,
+    "owner": 451958794,
+    "schema_name": "ERC721",
+    "symbol": "",
+    "total_supply": null,
+    "description": "🇸🇦 5,555 Saudis are here to save your bags Alhamdulillah #MAXBIDDING\r\n\r\nEvery Saudi comes with a Soulbound NFT Mashallah: https://opensea.io/collection/thesaudisbound\r\n\r\nNot affiliated with Larva Labs. Welcome to Kingdom Labs.",
+    "external_link": "https://www.thesaudisnft.com",
+    "image_url": "https://i.seadn.io/gcs/files/2672eeeeaa51eaa4bf32b5d0280c0e3d.png?w=500&auto=format",
+    "default_to_fiat": false,
+    "dev_buyer_fee_basis_points": 0,
+    "dev_seller_fee_basis_points": 750,
+    "only_proxied_transfers": false,
+    "opensea_buyer_fee_basis_points": 0,
+    "opensea_seller_fee_basis_points": 250,
+    "buyer_fee_basis_points": 0,
+    "seller_fee_basis_points": 1000,
+    "payout_address": "0xbfe5d10f8deded4706c212399d74289f860ac289"
+  }
+]

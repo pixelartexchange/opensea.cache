@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0x4ef3d9eab34783995bc394d569845585ac805ef8",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-07-14T18:10:24.886536",
+    "name": "The Americans",
+    "nft_version": null,
+    "opensea_version": null,
+    "owner": 453888324,
+    "schema_name": "ERC721",
+    "symbol": "TAs",
+    "total_supply": "0",
+    "description": "The Americans are here to become the wealthiest group in the world. #THEAMERICANS.\n\nLink to token website: https://theamericans.io/\n\nLink to token: https://www.dextools.io/app/ether/pair-explorer/0xbbe19f3bed49191f341d58a00088144ba2ab48f9\n\nLink to Scrolls: https://opensea.io/collection/scroll-of-independence-by-the-americans-nft\n\nLink to staking website: https://theamericans.io/nft",
+    "external_link": "http://theamericans.io",
+    "image_url": "https://i.seadn.io/gcs/files/3090505d53050dedbf861d0282cb6eb8.gif?w=500&auto=format",
+    "default_to_fiat": false,
+    "dev_buyer_fee_basis_points": 0,
+    "dev_seller_fee_basis_points": 750,
+    "only_proxied_transfers": false,
+    "opensea_buyer_fee_basis_points": 0,
+    "opensea_seller_fee_basis_points": 250,
+    "buyer_fee_basis_points": 0,
+    "seller_fee_basis_points": 1000,
+    "payout_address": "0xd8373d95c2a6fd302704d7089304510fcf7cec3c"
+  }
+]

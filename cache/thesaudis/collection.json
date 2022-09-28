@@ -1,0 +1,44 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/6c23c2f91ecaa8427b6b76ea8a98481e.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-07-09T03:50:39.286647",
+  "default_to_fiat": false,
+  "description": "🇸🇦 5,555 Saudis are here to save your bags Alhamdulillah #MAXBIDDING\r\n\r\nEvery Saudi comes with a Soulbound NFT Mashallah: https://opensea.io/collection/thesaudisbound\r\n\r\nNot affiliated with Larva Labs. Welcome to Kingdom Labs.",
+  "dev_buyer_fee_basis_points": "0",
+  "dev_seller_fee_basis_points": "750",
+  "discord_url": "https://discord.gg/thesaudisnft",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "https://www.thesaudisnft.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/2bf748e68b1d84575c206bc9ebdd8ef8.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gcs/files/2672eeeeaa51eaa4bf32b5d0280c0e3d.png?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/2bf748e68b1d84575c206bc9ebdd8ef8.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "The Saudis",
+  "only_proxied_transfers": false,
+  "opensea_buyer_fee_basis_points": "0",
+  "opensea_seller_fee_basis_points": "250",
+  "payout_address": "0xbfe5d10f8deded4706c212399d74289f860ac289",
+  "require_email": false,
+  "short_description": null,
+  "slug": "thesaudis",
+  "telegram_url": null,
+  "twitter_username": "TheSaudisNFT",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xbfe5d10f8deded4706c212399d74289f860ac289": 750
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

@@ -33,6 +33,12 @@ slugs = %w[
   eightbitme
 ]
 
+slugs = %w[
+  thesaudis
+  thejews-nft
+  the-americans-nft
+]
+
 
 delay_in_s = 2
 

@@ -1,0 +1,44 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/852b5b6c0788a0d9cddfcec6dd4239f5.jpg?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-07-14T18:14:36.939112",
+  "default_to_fiat": false,
+  "description": "The Americans are here to become the wealthiest group in the world. #THEAMERICANS.\n\nLink to token website: https://theamericans.io/\n\nLink to token: https://www.dextools.io/app/ether/pair-explorer/0xbbe19f3bed49191f341d58a00088144ba2ab48f9\n\nLink to Scrolls: https://opensea.io/collection/scroll-of-independence-by-the-americans-nft\n\nLink to staking website: https://theamericans.io/nft",
+  "dev_buyer_fee_basis_points": "0",
+  "dev_seller_fee_basis_points": "750",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "http://theamericans.io",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/15719e1d27443f4f63f594fdbb94da57.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gcs/files/3090505d53050dedbf861d0282cb6eb8.gif?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/15719e1d27443f4f63f594fdbb94da57.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "The Americans NFT",
+  "only_proxied_transfers": false,
+  "opensea_buyer_fee_basis_points": "0",
+  "opensea_seller_fee_basis_points": "250",
+  "payout_address": "0xd8373d95c2a6fd302704d7089304510fcf7cec3c",
+  "require_email": false,
+  "short_description": null,
+  "slug": "the-americans-nft",
+  "telegram_url": null,
+  "twitter_username": "TheAmericans_US",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xd8373d95c2a6fd302704d7089304510fcf7cec3c": 750
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}
