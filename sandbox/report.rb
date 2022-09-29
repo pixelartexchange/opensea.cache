@@ -4,7 +4,10 @@
 #
 #  $ ruby sandbox/report.rb
 
-require 'cocos'
+$LOAD_PATH.unshift( "../../pixelart/artbase/artbase-opensea/lib" )
+require 'artbase-opensea'
+
+
 
 ## check - move each_dir helper upstream to cocos - why? why not?
 def each_dir( glob, exclude: [], &blk )
@@ -24,27 +27,50 @@ end
 
 
 
-def find_payments( data )
-   values = []
-   data.each do |h|
-      values << "#{h['name']} (#{h['symbol']})"
-   end
-   values
-end
 
-def find_traits( data )
-  values = []
-  data.each do |k,h|
-     values << "#{k} (#{h.size})"
-  end
-  values
-end
-
-
-def fmt_date( str )
-   date = DateTime.iso8601( str )
+def fmt_date( date )
    date.strftime( '%b %d, %Y' )
 end
+
+def fmt_fees( basis )
+   ## in basis point e.g. 100  => 1%
+   ##                     250  => 2.5%
+   ##                    1000  => 10%
+
+   if basis == 0
+      "-"
+   else
+      "#{'%.1f%%' % (basis/100.0)}"
+   end
+end
+
+
+ETH_IN_USD = 1300.0
+
+def fmt_eth( amount )
+   if amount.nil?
+      "???"
+   else
+      usd = amount*ETH_IN_USD
+
+      usd_str = if usd / 1_000_000 >= 1
+                   "#{'%.2f' % (usd / 1_000_000)} million(s)"
+                elsif usd >= 1000
+                   "#{'%.0f' % usd}"
+                else
+                   "#{'%.2f' % usd}"
+                end
+
+      if amount >= 0.015
+        "#{'%.2f' % amount} ETH  (~ #{usd_str} USD)"
+      elsif amount >= 0.0015
+        "#{'%.3f' % amount} ETH  (~ #{usd_str} USD)"
+      else
+        "#{amount} ETH  (~ #{usd_str} USD)"
+      end
+   end
+end
+
 
 
 
@@ -56,67 +82,56 @@ Collection =  Struct.new(:date, :buf)
 each_dir( './cache/*' ) do |dir|
    puts "==> #{dir}"
 
-   data = read_json( "#{dir}/collection.json" )
-
-   data_contracts = read_json( "#{dir}/contracts.json" )
-
-   data_traits = read_json( "#{dir}/traits.json" )
-
-   data_stats  = read_json( "#{dir}/stats.json" )
-
-
-   data_payment = read_json( "#{dir}/payment.json" )
+   meta = OpenSea::Meta::Collection.read( dir )
 
 
    buf = String.new('')
-   buf << "##  #{data['name']}\n\n"
+   buf << "##  #{meta.name}\n\n"
 
-   buf << "opensea: [#{data['slug']}](https://opensea.io/collection/#{data['slug']}) - created on #{fmt_date(data['created_date'])}<br>\n"
-   buf << "web:  <#{data['external_url']}><br>\n"   if data['external_url']
-   buf << "twitter: [#{data['twitter_username']}](https://twitter.com/#{data['twitter_username']})<br>\n"  if data['twitter_username']
+   buf << "opensea: [#{meta.slug}](https://opensea.io/collection/#{meta.slug}) - created on #{fmt_date(meta.created_date)}<br>\n"
+   buf << "web:  <#{meta.external_url}><br>\n"   if meta.external_url?
+   buf << "twitter: [#{meta.twitter_username}](https://twitter.com/#{meta.twitter_username})<br>\n"  if meta.twitter_username?
 
-
-   buf << "\n\n"
-   buf << "contracts (#{data_contracts.size}):\n"
-   data_contracts.each do |data_contract|
-      buf << "- **#{data_contract['name']} (#{data_contract['symbol']})**"
-      buf << " created on #{fmt_date( data_contract['created_date'])}"
-      buf << " @ [#{data_contract['address']}](https://etherscan.io/address/#{data_contract['address']})\n"
+   buf << "\n"
+   buf << "contracts (#{meta.contracts.size}):\n"
+   meta.contracts.each do |contract|
+      buf << "- **#{contract.name} (#{contract.symbol})**"
+      buf << " created on #{fmt_date(contract.created_date)}"
+      buf << " @ [#{contract.address}](https://etherscan.io/address/#{contract.address})\n"
    end
-   buf << "\n\n"
+   buf << "\n"
 
-   traits = find_traits( data_traits )
-   buf << "attributes (#{traits.size}): #{traits.join(', ')}<br>\n"
-
-   data_stats_redux = {
-     'count'        => data_stats['count'],
-     'total_supply' => data_stats['total_supply'],
-     'total_volume' => data_stats['total_volume'],
-     'total_sales'  => data_stats['total_sales'],
-     'num_owners'   => data_stats['num_owners'],
-     'average_price'=> data_stats['average_price'],
-     'floor_price'  => data_stats['floor_price']
-   }
-   buf << "\n\n"
    buf << "stats:\n"
-   buf << "```\n"
-   buf << data_stats_redux.pretty_inspect
-   buf << "```\n\n"
-
-   payments = find_payments( data_payment )
-   buf << "payments (#{payments.size}): #{payments.join(', ')}<br>\n"
+   buf << "- count / total supply: #{meta.stats.count} / #{meta.stats.total_supply}\n"
+   buf << "- num owners:  #{meta.stats.num_owners}\n"
+   buf << "- total sales:  #{meta.stats.total_sales}\n"
+   buf << "- total volume: #{fmt_eth( meta.stats.total_volume ) }\n"
+   buf << "- average price: #{fmt_eth( meta.stats.average_price ) }\n"
+   buf << "- floor price: #{fmt_eth( meta.stats.floor_price ) }\n"
+   buf << "\n"
 
    buf << "fees:\n"
-   buf << "```\n"
-   buf << data['fees'].pretty_inspect
-   buf << "```\n\n"
+   buf << "- seller_fees: #{fmt_fees( meta.fees.seller_fees )}\n"
+   buf << "- opensea_fees: #{fmt_fees( meta.fees.opensea_fees )}\n"
+   buf << "\n"
 
-   date_str =  if data_contracts[0]
-                   data_contracts[0]['created_date']
+   buf << "payments (#{meta.payment_methods.size}): #{meta.payment_methods.join(', ')}\n"
+   buf << "\n"
+
+   attribute_categories = meta.attribute_categories( count: true )
+   buf << "attribute categories (#{attribute_categories.size}):\n"
+   attribute_categories.each do |cat|
+      buf << "- #{cat}\n"
+   end
+   buf << "\n"
+
+
+   date =  if meta.contracts.size > 0
+                   meta.contracts[0].created_date
                else
-                   data['created_date']
+                   meta.created_date
                end
-   date = DateTime.iso8601( date_str )
+
    cols << Collection.new( date, buf )
 end
 
