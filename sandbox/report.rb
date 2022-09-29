@@ -120,9 +120,11 @@ each_dir( './cache/*' ) do |dir|
 
    attribute_categories = meta.attribute_categories( count: true )
    buf << "<details><summary>attribute categories (#{attribute_categories.size}):</summary>\n"
+   buf << "\n"
    attribute_categories.each do |cat|
       buf << "- #{cat}\n"
    end
+   buf << "\n"
    buf << "</details>\n"
 
 

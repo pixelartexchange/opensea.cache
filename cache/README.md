@@ -17,6 +17,7 @@ fees: seller 10.0%, opensea 2.5%
 payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
 
 <details><summary>attribute categories (7):</summary>
+
 - skin_tone (7)
 - payes (8)
 - beard (19)
@@ -24,6 +25,7 @@ payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 - mouth (8)
 - glasses (29)
 - tallit (5)
+
 </details>
 
 
@@ -47,6 +49,7 @@ fees: seller 7.5%, opensea 2.5%
 payments (2): Ether (ETH), Wrapped Ether (WETH)
 
 <details><summary>attribute categories (7):</summary>
+
 - Background (1)
 - Skin (3)
 - Eyes (9)
@@ -54,6 +57,7 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 - Headwear (30)
 - Mouth (20)
 - Accessory (20)
+
 </details>
 
 
@@ -77,6 +81,7 @@ fees: seller 7.5%, opensea 2.5%
 payments (2): Ether (ETH), Wrapped Ether (WETH)
 
 <details><summary>attribute categories (9):</summary>
+
 - Oil (Barrels) (2)
 - Oil (Gallons) (2)
 - Head (6)
@@ -86,6 +91,7 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 - Mouthpiece (10)
 - Hair (9)
 - Oil Rank (2)
+
 </details>
 
 
@@ -109,6 +115,7 @@ fees: seller -, opensea 2.5%
 payments (2): Ether (ETH), Wrapped Ether (WETH)
 
 <details><summary>attribute categories (9):</summary>
+
 - Pre-reveal (1)
 - Bagygrnd (8)
 - EIRZ (8)
@@ -118,6 +125,7 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 - EYE ON RYG (7)
 - UNDNZHOOLE (7)
 - Trahfolln (8)
+
 </details>
 
 
@@ -141,6 +149,7 @@ fees: seller 5.0%, opensea 2.5%
 payments (2): Ether (ETH), Wrapped Ether (WETH)
 
 <details><summary>attribute categories (8):</summary>
+
 - Eyes (11)
 - Outerwear (8)
 - Body (17)
@@ -149,6 +158,7 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 - Beak (3)
 - Headwear (37)
 - Eyewear (12)
+
 </details>
 
 
@@ -172,6 +182,7 @@ fees: seller 5.0%, opensea 2.5%
 payments (2): Ether (ETH), Wrapped Ether (WETH)
 
 <details><summary>attribute categories (23):</summary>
+
 - Body (2)
 - Skin Tone (5)
 - Shoes (37)
@@ -195,6 +206,7 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 - Hat Color (12)
 - Perk (16)
 - Outfit (116)
+
 </details>
 
 
@@ -218,9 +230,11 @@ fees: seller 9.0%, opensea 2.5%
 payments (2): Ether (ETH), Wrapped Ether (WETH)
 
 <details><summary>attribute categories (3):</summary>
+
 - TYPE (17)
 - MOUTH (10)
 - ACCESSORY (85)
+
 </details>
 
 
@@ -244,6 +258,7 @@ fees: seller -, opensea 2.5%
 payments (5): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC), ApeCoin (APE)
 
 <details><summary>attribute categories (16):</summary>
+
 - Body (5)
 - Mouth (13)
 - Headband (1)
@@ -260,6 +275,7 @@ payments (5): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 - Frown (1)
 - Feature (3)
 - Special (3)
+
 </details>
 
 
@@ -283,12 +299,14 @@ fees: seller 10.0%, opensea 2.5%
 payments (9): SAND (SAND), Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC), Basic Attention Token (BAT), ChainLink Token (LINK), Uniswap (UNI), ApeCoin (APE)
 
 <details><summary>attribute categories (6):</summary>
+
 - Background (10)
 - Outfit (144)
 - Eyes (20)
 - Head (100)
 - Mouth (19)
 - Extra (12)
+
 </details>
 
 
@@ -312,6 +330,7 @@ fees: seller 2.5%, opensea 2.5%
 payments (2): Ether (ETH), Wrapped Ether (WETH)
 
 <details><summary>attribute categories (13):</summary>
+
 - Background (44)
 - Race (6)
 - Face (30)
@@ -325,6 +344,7 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 - Head Above (48)
 - Face Accessory (7)
 - Mask (7)
+
 </details>
 
 
@@ -348,6 +368,8 @@ fees: seller 3.0%, opensea 2.5%
 payments (3): Ether (ETH), Wrapped Ether (WETH), USD Coin (USDC)
 
 <details><summary>attribute categories (0):</summary>
+
+
 </details>
 
 
@@ -370,6 +392,7 @@ fees: seller 10.0%, opensea 2.5%
 payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
 
 <details><summary>attribute categories (9):</summary>
+
 - Accessory (62)
 - Facial Hair (9)
 - Facial Hair Colour (3)
@@ -379,6 +402,7 @@ payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 - Skin Tone (5)
 - Species (12)
 - Type (1)
+
 </details>
 
 
@@ -402,6 +426,8 @@ fees: seller -, opensea 2.5%
 payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
 
 <details><summary>attribute categories (2):</summary>
+
 - type (5)
 - accessory (95)
+
 </details>
