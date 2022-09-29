@@ -1,0 +1,39 @@
+{
+  "banner_image_url": null,
+  "chat_url": null,
+  "created_date": "2021-10-25T18:29:51.485099",
+  "default_to_fiat": false,
+  "description": "The Pixel Portraits collection (#1001 - #10000)\n\nfollow @thepxlportraits on twitter and dm for questions!\nvisit thepixelportraits.me to commission yours!\n\n",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "http://thepixelportraits.me",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/-_IN3RvAF0Hg8OtZZ0wDmqvSUtDO6C7MAXmdkQ_8LlsZS6dMRZ5mFjETnFOQIE5IZ-80YQtGoAROkqwJg0PYNiNoFfJOKorC7jU4TQ?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": null,
+  "medium_username": null,
+  "name": "The Pixel Portraits",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "the-pixel-portraits",
+  "telegram_url": null,
+  "twitter_username": "thepxlportraits",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x11ef687cfeb2e353670479f2dcc76af2bc6b3935": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/w8ytwmYonys9mTTeaEF914lpRugYeMxTn7tsK5aRY7nSKiNu08ogFVHA3Fa4jxJeK-orWjR7POBECiB67K2Dxks102GNmLFPVBbQyT0?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-09-02T14:13:11.822300",
+  "default_to_fiat": false,
+  "description": "The Crypto Genius is a unique handmade 1/1 collection of 90 greatest geniuses of all time: inventors, scientists, artists, leaders, top athletes in history, drawn in Pixel Art 24x24.\n\nMy collection is based on the concepts of digital drawing and history contained in it. Every single pixel, combined with the rest of the image, represents the historical essence of a genius. \n\nDisclaimer: this collection is a tribute to the greatest geniuses in history and is not affiliated with anyone.",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/LdVqTsh5vu1gm6TAGnpPNq8_Mj-XnRkp8pw7ocAU2lZPOO1NdeSVVKJYijq5NKYVD5dB6IER3No4dJ1kY8tAxJhSvMD8EcEqBaUjyw?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/LdVqTsh5vu1gm6TAGnpPNq8_Mj-XnRkp8pw7ocAU2lZPOO1NdeSVVKJYijq5NKYVD5dB6IER3No4dJ1kY8tAxJhSvMD8EcEqBaUjyw?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/LdVqTsh5vu1gm6TAGnpPNq8_Mj-XnRkp8pw7ocAU2lZPOO1NdeSVVKJYijq5NKYVD5dB6IER3No4dJ1kY8tAxJhSvMD8EcEqBaUjyw?w=500&auto=format",
+  "medium_username": null,
+  "name": "The Crypto Genius",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "thecryptogenius",
+  "telegram_url": null,
+  "twitter_username": null,
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xd302dc41f180d00fa747be0086b6c1b9cfa748fe": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

@@ -1,0 +1,133 @@
+{
+  "Accesory": {
+    "unicorn ": 1
+  },
+  "accessory": {
+    "glasses": 1
+  },
+  "accessory ": {
+    "glasses": 1
+  },
+  "Accessory": {
+    "dead fish": 1,
+    "disco glasses": 1,
+    "frog hat": 1,
+    "hair & beard": 1,
+    "hat": 1,
+    "head band": 1,
+    "lion mane": 1,
+    "lion's mane": 1,
+    "ribbon": 1,
+    "smart glasses": 1,
+    "tie": 1
+  },
+  "Accessory ": {
+    "cap & hat": 1,
+    "glasses & tie": 1,
+    "magic hat": 1,
+    "suit": 1
+  },
+  "Background": {
+    "black": 1,
+    "gradient": 3,
+    "gray": 1,
+    "green": 1,
+    "light blue": 1,
+    "light green": 1,
+    "light green & stars": 1,
+    "light purple": 1,
+    "multicolor": 8,
+    "multicolor ": 1,
+    "multicolor blue": 1,
+    "multicolor strips": 1,
+    "multicolor sunset": 1,
+    "multicolor unique": 3,
+    "mutlicolor strips": 1,
+    "pink ": 1,
+    "pixelated green": 1,
+    "tomato": 1,
+    "white": 1,
+    "yellow": 1
+  },
+  "Backround color": {
+    "gardient yellow": 1,
+    "gradient": 3,
+    "heaven": 1,
+    "light blue": 1,
+    "light purple": 1,
+    "orange": 1,
+    "pixelated": 2,
+    "pixelated ": 1,
+    "streets": 1,
+    "yellow": 1
+  },
+  "Eye color": {
+    "blue": 3,
+    "dark brown": 1,
+    "dark green": 3,
+    "green": 5,
+    "greenish": 1,
+    "in love": 1,
+    "light green": 1,
+    "light yellow": 1,
+    "mystic": 1,
+    "orange": 1,
+    "unique green": 1,
+    "unique punk": 1,
+    "yellow": 17
+  },
+  "Eye Color": {
+    "white": 1
+  },
+  "Face": {
+    "sad meow": 1
+  },
+  "Meow's color": {
+    "brown": 1,
+    "dark yellow": 1,
+    "gray": 1
+  },
+  "Meow's Color": {
+    "black": 1,
+    "black & white": 1,
+    "cyan": 1,
+    "dark": 2,
+    "gray": 10,
+    "green": 2,
+    "greenish": 1,
+    "half half": 1,
+    "light pink": 1,
+    "multicolor": 6,
+    "multicolor pink": 1,
+    "orange": 1,
+    "orangish": 1,
+    "pink": 2,
+    "pixelated pink": 1,
+    "purple": 1,
+    "red": 1,
+    "white": 3,
+    "yellow": 1
+  },
+  "Nose": {
+    "yellow": 1
+  },
+  "Theme": {
+    "japanese": 1
+  },
+  "Type": {
+    "#1 pixel meow's ": 1,
+    "#2 pixel meow's ": 1,
+    "angel meow": 1,
+    "avatar": 1,
+    "bee meow": 1,
+    "demon": 1,
+    "in love": 1,
+    "magic meow": 2,
+    "mystic meow": 2,
+    "mystic meow ": 1,
+    "pixelated meow": 1,
+    "robo-meow": 1,
+    "street meow": 1,
+    "wink face": 1
+  }
+}

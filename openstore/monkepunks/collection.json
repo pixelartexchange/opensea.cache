@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/cV9JAtwbjTjfPOdOQ-8fHhKjOvkPBw2U0bi9hdNiZlcNgGikcCSpA_CruXINSPVPcsQScO8j2snq-Xq7ej7_6d1IySoiQQ8VnRVkQg?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-08-21T00:12:41.148364",
+  "default_to_fiat": false,
+  "description": "MonkePunks are a smaller collection of only 1002 hand made pixel art Monke characters. Every MonkePunk is unique and has been made from over 120 different traits.\n\nMonkePunks have been going through lots of changes recently and the main focus is now building a metaverse project. Weekly progress updates are available in our discord!\n\ngrab a MonkePunk and come join us!\n\n🐵🐵🐵",
+  "discord_url": "https://discord.gg/yARz2VFrQq",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "https://monkepunks.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/cV9JAtwbjTjfPOdOQ-8fHhKjOvkPBw2U0bi9hdNiZlcNgGikcCSpA_CruXINSPVPcsQScO8j2snq-Xq7ej7_6d1IySoiQQ8VnRVkQg?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/Kc8dMnOSqqyfCqrHlbi55GncMcRpQsWKuRzxrzhyPlY05COhaVE98SUHE4y951kmoBIurqYH5RfPtIAhg-PxYB2xCp9Uw_u4SwGvww?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/cV9JAtwbjTjfPOdOQ-8fHhKjOvkPBw2U0bi9hdNiZlcNgGikcCSpA_CruXINSPVPcsQScO8j2snq-Xq7ej7_6d1IySoiQQ8VnRVkQg?w=500&auto=format",
+  "medium_username": null,
+  "name": "MonkePunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "monkepunks",
+  "telegram_url": null,
+  "twitter_username": "MonkePunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xcf2dc74fe36e116ef541e8cb28c7fc83fd922999": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

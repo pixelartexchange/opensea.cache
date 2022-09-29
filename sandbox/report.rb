@@ -94,13 +94,16 @@ each_dir( "#{root_dir}/*" ) do |dir|
    buf << "twitter: [#{meta.twitter_username}](https://twitter.com/#{meta.twitter_username})<br>\n"  if meta.twitter_username?
 
    buf << "\n"
-   buf << "contracts (#{meta.contracts.size}):\n"
-   meta.contracts.each do |contract|
-      buf << "- **#{contract.name} (#{contract.symbol})**"
-      buf << " created on #{fmt_date(contract.created_date)}"
-      buf << " @ [#{contract.address}](https://etherscan.io/address/#{contract.address})\n"
+
+   if meta.contracts.size > 0
+     buf << "contracts (#{meta.contracts.size}):\n"
+     meta.contracts.each do |contract|
+        buf << "- **#{contract.name} (#{contract.symbol})**"
+        buf << " created on #{fmt_date(contract.created_date)}"
+        buf << " @ [#{contract.address}](https://etherscan.io/address/#{contract.address})\n"
+     end
+     buf << "\n"
    end
-   buf << "\n"
 
    buf << "stats:\n"
    buf << "- count / total supply: #{meta.stats.count} / #{meta.stats.total_supply},"
@@ -120,14 +123,15 @@ each_dir( "#{root_dir}/*" ) do |dir|
    buf << "\n"
 
    attribute_categories = meta.attribute_categories( count: true )
-   buf << "<details><summary>attribute categories (#{attribute_categories.size}):</summary>\n"
-   buf << "\n"
-   attribute_categories.each do |cat|
-      buf << "- #{cat}\n"
+   if attribute_categories.size > 0
+     buf << "<details><summary>attribute categories (#{attribute_categories.size}):</summary>\n"
+     buf << "\n"
+     attribute_categories.each do |cat|
+        buf << "- #{cat}\n"
+     end
+     buf << "\n"
+     buf << "</details>\n"
    end
-   buf << "\n"
-   buf << "</details>\n"
-
 
    date =  if meta.contracts.size > 0
                    meta.contracts[0].created_date

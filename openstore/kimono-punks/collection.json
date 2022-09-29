@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/_nZOB-A0yikxpRFjobDVEwJ06SlwMQ-1d79DXjyDEU1ImtYqY3J7jz3jKCAKXoFSiiYXdABkxe0Qgb7vY57R8gcZEqc-Pc5u1MmJcA?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-05-23T15:49:36.669306",
+  "default_to_fiat": false,
+  "description": "KimonoNinjaPunks are influenced by unique Japanese characters such as Ninja, Samurai, Geisha and Kimono. \n3333 unique Kimono will be created.\n*Each Punks  1/1 and all handmade.*\n\n\n",
+  "discord_url": "https://discord.gg/VCw7yg7T",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/reD4RocbmjUFsg0JnnNTJ-TPYNlBxOITzfdfeRMjfAvS45Exc19n95xhStoKguOjD2gIdUSRolbP_z3CMi_EAKhwm5YbkrjpqDDr_gk?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/LxnnekeyT6IX1v7iZMM9fXTKeV9Ybe7yvu8uz9oSfEWs8TMyfa6X6_T3IZeeKmLqW9vUrPqu08WJhqEbXO2ezRbqIpXTJbKbV14M?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/reD4RocbmjUFsg0JnnNTJ-TPYNlBxOITzfdfeRMjfAvS45Exc19n95xhStoKguOjD2gIdUSRolbP_z3CMi_EAKhwm5YbkrjpqDDr_gk?w=500&auto=format",
+  "medium_username": null,
+  "name": "KimonoNinjaPunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "kimono-punks",
+  "telegram_url": null,
+  "twitter_username": "KimonoNinja_NFT",
+  "instagram_username": "kimono_ninja",
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x5444f2d8a68be0dafe38def6cdaa172c2d015a05": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/Q1eZHt17jrpS7J7i2pRc3mNXsyDrkAMqmY5dkahmTjJhWk6YBhUEMAt8hObGZhibpRlHfcTVw0GeuhzIhoCuZL5ThYZuMEhzhGl7Ooo?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-03-07T22:07:05.018376",
+  "default_to_fiat": false,
+  "description": "The Pixel Portraits OG collection, est. March 6th 2021\n\nthe first 1k portraits in the pixel portraits 10k collection!\n \nfollow @thepxlportraits on twitter and dm for questions!",
+  "discord_url": "https://discord.gg/",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "http://thepixelportraits.me",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/Q1eZHt17jrpS7J7i2pRc3mNXsyDrkAMqmY5dkahmTjJhWk6YBhUEMAt8hObGZhibpRlHfcTVw0GeuhzIhoCuZL5ThYZuMEhzhGl7Ooo?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/Z9xR641DdfRGj8i9SspUresex0epwLO79nYJ3MwNg3xwgxAFdJEAzE-HvgzMr9Bo7NDQtjIWx9EWqA96StMTrE9MqTlyFVu-EqaHjA?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/Q1eZHt17jrpS7J7i2pRc3mNXsyDrkAMqmY5dkahmTjJhWk6YBhUEMAt8hObGZhibpRlHfcTVw0GeuhzIhoCuZL5ThYZuMEhzhGl7Ooo?w=500&auto=format",
+  "medium_username": null,
+  "name": "The Pixel Portraits OG Collection",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "the-pixel-portraits-og",
+  "telegram_url": null,
+  "twitter_username": "thepxlportraits",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x11ef687cfeb2e353670479f2dcc76af2bc6b3935": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

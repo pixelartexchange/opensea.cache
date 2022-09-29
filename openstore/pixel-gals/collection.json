@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/NORRq8Lzj-Y6lXXoY5qCz-oUBZn097OHmFEIVRTXBothaDlvzh81ixmAWWqvaMhiYTgqB7QaXnZpu2fx0DRr2HQ6vPWL-MzqXDLMBaA?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-10-30T01:39:30.498629",
+  "default_to_fiat": false,
+  "description": "Pixel Gals are a collection of unique, hand-drawn, pixel art gals on the Polygon blockchain. There will be 100 Pixel Gals to ever exist, all having different variations.\nInspired by Cryptopunks, each Pixel Gal is one-of-a-kind and 100% owned by you.\n\nThis collection is offered immediately with the most convenient ETH-Polygon Blockchain, securely and with zero Gas. Thank you in advance. Invest in Pixel Gals and make them a part of your NFT collection today!\n\nGIF PixelGals (Ultra Rare/Limited Edition)\n\n#1 to #10 (Ultra Rare)\n\n#10 to #25 (Super Rare)\n\n#25 to #40 (Rare)\n\n#40 to #50 (Uncommon)\n\n#50 to #100 (Common)\n",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/NORRq8Lzj-Y6lXXoY5qCz-oUBZn097OHmFEIVRTXBothaDlvzh81ixmAWWqvaMhiYTgqB7QaXnZpu2fx0DRr2HQ6vPWL-MzqXDLMBaA?w=500&auto=format",
+  "hidden": true,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/tbRjSTrOHe2HB6HGWDj2WWoRfPJFYaSdNT0xrqrQkA5Hmy1pqNFD_0aAYMyPX3F1-mpv_oSNlOJtUT6c-HBpXrejcpqu9WPw86cS2ZY?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/NORRq8Lzj-Y6lXXoY5qCz-oUBZn097OHmFEIVRTXBothaDlvzh81ixmAWWqvaMhiYTgqB7QaXnZpu2fx0DRr2HQ6vPWL-MzqXDLMBaA?w=500&auto=format",
+  "medium_username": null,
+  "name": "PixelGalsNFT",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "pixel-gals",
+  "telegram_url": null,
+  "twitter_username": "pixelgalsnft",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xb3fc24977f1b2e8fbd5746c695fa9e676410e2b3": 300
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/3fT5GJZGv-B3NKkL67ClpgaczwaQ_l-oJCE7cJs0f8h8LK0IUdfutXtFUFcMPgJeHPbSfNRFq2HkBfAHCr9FCgId7VYcvdFx48gbU_w?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-02-21T00:54:33.405643",
+  "default_to_fiat": false,
+  "description": "The Unofficial Punks popularized PFP project derivatives, started the AltPunks art movement, and changed the culture when it launched in February 2021. \n\n[Official Website](https://unofficialpunks.com) | \n[A Short History of AltPunks](https://www.theouterrealm.io/blog/a-short-history-of-nft-trash-art)",
+  "discord_url": "https://discord.gg/5gUzyv3K9x",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "http://hunofficialpunks.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/KMS53aCaUNmCbZXPEAxko9kpg0t8ylgFiM1hTgfLHmEbzk0yHvpLavdoJyLes8plfWlEfwCnYxKTDm3EQk-EAj1GEyV7tLeHTpUD?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/KMS53aCaUNmCbZXPEAxko9kpg0t8ylgFiM1hTgfLHmEbzk0yHvpLavdoJyLes8plfWlEfwCnYxKTDm3EQk-EAj1GEyV7tLeHTpUD?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/KMS53aCaUNmCbZXPEAxko9kpg0t8ylgFiM1hTgfLHmEbzk0yHvpLavdoJyLes8plfWlEfwCnYxKTDm3EQk-EAj1GEyV7tLeHTpUD?w=500&auto=format",
+  "medium_username": null,
+  "name": "Unofficial Punks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "unofficialpunks",
+  "telegram_url": null,
+  "twitter_username": "UnofficialPunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xee96703614ea707b0b99ecb55da74c04ff70f2ed": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

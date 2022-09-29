@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/6f6Op4PwvhDU_61z1ArnZTqvWlUtHZPKKB2CtzEfcaXdWFGVAdlvWG46s_cf9ZYULgSWzmdoDk8Ydn0nyUnm-pVFY56SvcQh8c2wAwI?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-08-29T06:14:46.887183",
+  "default_to_fiat": false,
+  "description": "*'We are not makers of history. We are made by history.'* - Martin Luther King, jr.\n\nThe 1st punk art project with handmade and 1/1 historical characters. Let's introduce history to the metaverse!\n\nHistoPunks will connect the past with the future. A max supply of 200 HistoPunks will exhibit historical figures in a few pixels. Every pixel is made thoughtfully. Every HistoPunk is 1/1 and handcrafted.\n\nYou can use this NFT as your own avatar, collectible or piece of art.\n\n*- This project is not affiliated with Larva Labs -*",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/ARYfX-FW6RQ1NuPqtrqsZnsnCY6R9gp57ZzvzTrofmsgBrns34xOWwBK1Jgm3mKKtIq78yXYtLHv0KKL-g24wJLfOJC7BIOGX6bMSg?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/ARYfX-FW6RQ1NuPqtrqsZnsnCY6R9gp57ZzvzTrofmsgBrns34xOWwBK1Jgm3mKKtIq78yXYtLHv0KKL-g24wJLfOJC7BIOGX6bMSg?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/ARYfX-FW6RQ1NuPqtrqsZnsnCY6R9gp57ZzvzTrofmsgBrns34xOWwBK1Jgm3mKKtIq78yXYtLHv0KKL-g24wJLfOJC7BIOGX6bMSg?w=500&auto=format",
+  "medium_username": null,
+  "name": "HistoPunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "histopunks",
+  "telegram_url": null,
+  "twitter_username": null,
+  "instagram_username": "histopunks",
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xa4195b443f11e796551a9485c486a84485b0c047": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/vJXW1ev5b7m2ZuIh3xb8LmO-2Y2lzwKInQC_JQMRM-nKw6CgNhE6XFEiFavhshRJeuBiTipv58ZQMkN5bhli3qXEfjgyC5slkFTwhw?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-01-14T23:03:36.259799",
+  "default_to_fiat": false,
+  "description": "5,555 Generative Pixel NFTs on the Ethereum Blockchain. WOW Pixies is built around targeting women led NFT projects to help lift up the community and acquire amazing assets along the way. Not associated with World of Women NFT.",
+  "discord_url": "https://discord.gg/S5MBngaQ4Y",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "http://wowpixies.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/B6-SJUwjXMUBTncxqmf2w5WIQlk3jBQ7Ct_j2RxAWQ5J3vVHWA_fnqktOh2jU74yiPBjQUBCGNa-xbVzBdR80Jc_ROhvvvXoNjhRLw?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/PF9M8PkRI4bfuimjA6DMPCWQa-2QOepHRzbLOTAnPuW3gLpcF_YxpI-7tFEGLysMld6wFA3QQsRW_dnmLimnIHmtDyjJaNfFjFhCoA?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/B6-SJUwjXMUBTncxqmf2w5WIQlk3jBQ7Ct_j2RxAWQ5J3vVHWA_fnqktOh2jU74yiPBjQUBCGNa-xbVzBdR80Jc_ROhvvvXoNjhRLw?w=500&auto=format",
+  "medium_username": null,
+  "name": "WoW Pixies Official",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "wow-pixies-v2",
+  "telegram_url": null,
+  "twitter_username": "WoWPixiesNFT",
+  "instagram_username": "wowpixies.nft",
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x9593bc65ee57fa28824d24be1f379efd04872150": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

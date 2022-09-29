@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/caaye-2I4HbgAP73IQ8FkFNcktfdMoIlLERD2Pak-WVQ4gBMOhodQQ8-883tl1MOB3M6ZAHuAI2X5tWtgdok1-y98P2z15ONX6O8?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-07-10T20:57:48.823267",
+  "default_to_fiat": false,
+  "description": "[Author: PixYvonne](https://linktr.ee/pixyvonne) && [Mafia Punks Club Discord](https://discord.gg/QUBuycwsYB)\n\nCome together and be a part of big gangster family ruling the world of crypto and NFT. [Follow our family on Twitter](https://twitter.com/mafia_punks/). The family has max. 1000 members.\n\nSpecials:\n- 500x Ladie\n- 50x [Grin With Clenched Teeth](https://opensea.io/assets/mafia-punks-club?search[stringTraits][0][name]=Accessories&search[stringTraits][0][values][0]=Grin%20With%20Clenched%20Teeth), 10x [Gold Tooth](https://opensea.io/assets/mafia-punks-club?search[stringTraits][0][name]=Accessories&search[stringTraits][0][values][0]=Gold%20Tooth)\n- 150x [Voodoo](https://opensea.io/assets/mafia-punks-club?search[stringTraits][0][name]=Accessories&search[stringTraits][0][values][0]=Voodoo%20Face%20Makeup) \n\nThis project is not affiliated with Larva Labs.",
+  "discord_url": "https://discord.gg/p48dSwYvrT",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://linktr.ee/pixyvonne",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/Qyjl97Wh5ngNnrJoIHtZCLEmwXpptWa7pl12SK3QzTNVNEr1IPpI0-Y5qzVCaa6jfBlNeoEuOLUNOUdWj0fvS0yhM-5b9g9HNfy2Bs8?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": null,
+  "medium_username": null,
+  "name": "Mafia Punks Club",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "mafia-punks-club",
+  "telegram_url": null,
+  "twitter_username": "mafia_punks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x8f33d1298a440fa65cb4efa2b87feff0ffae4409": 350
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

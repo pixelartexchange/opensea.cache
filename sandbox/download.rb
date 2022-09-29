@@ -67,8 +67,26 @@ slugs = %w[
   goodbye-punks
 ]
 
-# slugs = %w[
-# ]
+slugs = %w[
+  high-effort-punks
+  histopunks
+  kimono-punks
+  mafia-punks-club
+  monkepunks
+  onlypunksnft
+  pixel-gals
+  pixelmeows
+  punkoftheday
+  scifipunks
+  the-pixel-portraits-og
+  the-pixel-portraits
+  thecryptogenius
+  unofficialpunks
+  weape24
+  wow-pixies-v2
+  wunks
+  youtubepunks
+]
 
 
 delay_in_s = 2

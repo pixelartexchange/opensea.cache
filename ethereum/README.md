@@ -7,10 +7,10 @@ contracts (1):
 - **The Jews (JEWS)** created on Jul 17, 2022 @ [0x1e283601f53032d9aac8dc73632f4e482e761c70](https://etherscan.io/address/0x1e283601f53032d9aac8dc73632f4e482e761c70)
 
 stats:
-- count / total supply: 4746 / 4746, num owners:  2140
+- count / total supply: 4745 / 4745, num owners:  2139
 - total sales:  3574, total volume: 166.91 ETH  (~ 216978 USD)
 - average price: 0.05 ETH  (~ 60.71 USD)
-- floor price: 0.004 ETH  (~ 4.94 USD)
+- floor price: 0.004 ETH  (~ 4.81 USD)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -39,10 +39,10 @@ contracts (1):
 - **The Americans (TAs)** created on Jul 14, 2022 @ [0x4ef3d9eab34783995bc394d569845585ac805ef8](https://etherscan.io/address/0x4ef3d9eab34783995bc394d569845585ac805ef8)
 
 stats:
-- count / total supply: 9994 / 9994, num owners:  2200
-- total sales:  17604, total volume: 1028.96 ETH  (~ 1.3 million(s) USD)
-- average price: 0.06 ETH  (~ 75.99 USD)
-- floor price: 0.002 ETH  (~ 3.25 USD)
+- count / total supply: 9994 / 9994, num owners:  2198
+- total sales:  17612, total volume: 1028.99 ETH  (~ 1.3 million(s) USD)
+- average price: 0.06 ETH  (~ 75.95 USD)
+- floor price: 0.003 ETH  (~ 3.38 USD)
 
 fees: seller 7.5%, opensea 2.5%
 
@@ -71,10 +71,10 @@ contracts (1):
 - **Unidentified contract ()** created on Jul 09, 2022 @ [0xe21ebcd28d37a67757b9bc7b290f4c4928a430b1](https://etherscan.io/address/0xe21ebcd28d37a67757b9bc7b290f4c4928a430b1)
 
 stats:
-- count / total supply: 5555 / 5555, num owners:  2115
-- total sales:  11272, total volume: 9666.45 ETH  (~ 12.6 million(s) USD)
-- average price: 0.86 ETH  (~ 1115 USD)
-- floor price: 0.25 ETH  (~ 324.61 USD)
+- count / total supply: 5555 / 5555, num owners:  2108
+- total sales:  11286, total volume: 9671.34 ETH  (~ 12.6 million(s) USD)
+- average price: 0.86 ETH  (~ 1114 USD)
+- floor price: 0.27 ETH  (~ 348.40 USD)
 
 fees: seller 7.5%, opensea 2.5%
 
@@ -196,10 +196,10 @@ contracts (1):
 - **Moonbirds (MOONBIRD)** created on Apr 15, 2022 @ [0x23581767a106ae21c074b2276d25e5c3e136a68b](https://etherscan.io/address/0x23581767a106ae21c074b2276d25e5c3e136a68b)
 
 stats:
-- count / total supply: 10000 / 10000, num owners:  6578
-- total sales:  9521, total volume: 171381.24 ETH  (~ 222.8 million(s) USD)
-- average price: 18.00 ETH  (~ 23400 USD)
-- floor price: 10.79 ETH  (~ 14033 USD)
+- count / total supply: 10000 / 10000, num owners:  6584
+- total sales:  9533, total volume: 171508.47 ETH  (~ 223.0 million(s) USD)
+- average price: 17.99 ETH  (~ 23388 USD)
+- floor price: 10.40 ETH  (~ 13520 USD)
 
 fees: seller 5.0%, opensea 2.5%
 
@@ -229,10 +229,10 @@ contracts (1):
 - **EightBit (BIT)** created on Mar 30, 2022 @ [0x6080b6d2c02e9a0853495b87ce6a65e353b74744](https://etherscan.io/address/0x6080b6d2c02e9a0853495b87ce6a65e353b74744)
 
 stats:
-- count / total supply: 8888 / 8888, num owners:  3037
-- total sales:  19720, total volume: 9003.55 ETH  (~ 11.7 million(s) USD)
-- average price: 0.46 ETH  (~ 593.54 USD)
-- floor price: 0.15 ETH  (~ 192.40 USD)
+- count / total supply: 8888 / 8888, num owners:  3034
+- total sales:  19724, total volume: 9004.17 ETH  (~ 11.7 million(s) USD)
+- average price: 0.46 ETH  (~ 593.46 USD)
+- floor price: 0.15 ETH  (~ 195.00 USD)
 
 fees: seller 5.0%, opensea 2.5%
 
@@ -277,7 +277,7 @@ contracts (1):
 - **Crypto BAYC (CBAYC)** created on Feb 21, 2022 @ [0xdcd552496f0240374e365b7776239672bfd891a8](https://etherscan.io/address/0xdcd552496f0240374e365b7776239672bfd891a8)
 
 stats:
-- count / total supply: 9974 / 9974, num owners:  783
+- count / total supply: 9973 / 9973, num owners:  781
 - total sales:  764, total volume: 5.64 ETH  (~ 7336 USD)
 - average price: 0.007 ETH  (~ 9.60 USD)
 - floor price: 0.000666 ETH  (~ 0.87 USD)
@@ -305,10 +305,10 @@ contracts (1):
 - **V1 Cryptopunks (Wrapped) (WPV1)** created on Jan 17, 2022 @ [0x282bdd42f4eb70e7a9d9f40c8fea0825b7f68c5d](https://etherscan.io/address/0x282bdd42f4eb70e7a9d9f40c8fea0825b7f68c5d)
 
 stats:
-- count / total supply: 2603 / 2603, num owners:  780
-- total sales:  1602, total volume: 20571.51 ETH  (~ 26.7 million(s) USD)
-- average price: 12.84 ETH  (~ 16693 USD)
-- floor price: 5.48 ETH  (~ 7124 USD)
+- count / total supply: 2603 / 2603, num owners:  782
+- total sales:  1606, total volume: 20593.61 ETH  (~ 26.8 million(s) USD)
+- average price: 12.82 ETH  (~ 16670 USD)
+- floor price: 5.40 ETH  (~ 7020 USD)
 
 fees: seller -, opensea 2.5%
 
@@ -332,6 +332,74 @@ payments (5): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 - Frown (1)
 - Feature (3)
 - Special (3)
+
+</details>
+
+
+##  WoW Pixies Official
+
+opensea: [wow-pixies-v2](https://opensea.io/collection/wow-pixies-v2) - created on Jan 14, 2022<br>
+web:  <http://wowpixies.com><br>
+twitter: [WoWPixiesNFT](https://twitter.com/WoWPixiesNFT)<br>
+
+contracts (1):
+- **WoW Pixies (PIXIES)** created on Jan 14, 2022 @ [0xb67812ce508b9fc190740871032237c24b6896a0](https://etherscan.io/address/0xb67812ce508b9fc190740871032237c24b6896a0)
+
+stats:
+- count / total supply: 5555 / 5555, num owners:  2082
+- total sales:  4791, total volume: 894.92 ETH  (~ 1.2 million(s) USD)
+- average price: 0.19 ETH  (~ 242.83 USD)
+- floor price: 0.03 ETH  (~ 41.60 USD)
+
+fees: seller 10.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (11):</summary>
+
+- Background (9)
+- Skin Tone (11)
+- Eyes (7)
+- Hairstyle (14)
+- Mouth (11)
+- Clothes (12)
+- Necklace (9)
+- Facial Feature (5)
+- Face Accessories (7)
+- Earrings (10)
+- Royalty (5)
+
+</details>
+
+
+##  Wunks
+
+opensea: [wunks](https://opensea.io/collection/wunks) - created on Jan 07, 2022<br>
+web:  <https://wunks.xyz><br>
+twitter: [wunksnft](https://twitter.com/wunksnft)<br>
+
+contracts (1):
+- **WunksV2 (WUNKSV2)** created on Jan 06, 2022 @ [0x301144b43d8dcba1b3e9f70ed7338d0751d700a3](https://etherscan.io/address/0x301144b43d8dcba1b3e9f70ed7338d0751d700a3)
+
+stats:
+- count / total supply: 6000 / 6000, num owners:  2906
+- total sales:  8193, total volume: 975.31 ETH  (~ 1.3 million(s) USD)
+- average price: 0.12 ETH  (~ 154.75 USD)
+- floor price: 0.010 ETH  (~ 12.35 USD)
+
+fees: seller 2.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (7):</summary>
+
+- Type (19)
+- Eyes (13)
+- Nose (2)
+- Lips (6)
+- Hair (28)
+- Accessory (10)
+- Eyewear (13)
 
 </details>
 
@@ -410,7 +478,7 @@ stats:
 - count / total supply: 9997 / 9997, num owners:  1780
 - total sales:  3723, total volume: 37.91 ETH  (~ 49284 USD)
 - average price: 0.010 ETH  (~ 13.24 USD)
-- floor price: 0.001 ETH  (~ 1.30 USD)
+- floor price: 0.0009 ETH  (~ 1.17 USD)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -478,8 +546,8 @@ contracts (1):
 - **Chain Runners (RUN)** created on Nov 05, 2021 @ [0x97597002980134bea46250aa0510c9b90d87a587](https://etherscan.io/address/0x97597002980134bea46250aa0510c9b90d87a587)
 
 stats:
-- count / total supply: 10000 / 10000, num owners:  3332
-- total sales:  13468, total volume: 13078.82 ETH  (~ 17.0 million(s) USD)
+- count / total supply: 10000 / 10000, num owners:  3331
+- total sales:  13472, total volume: 13079.92 ETH  (~ 17.0 million(s) USD)
 - average price: 0.97 ETH  (~ 1262 USD)
 - floor price: 0.18 ETH  (~ 231.40 USD)
 
@@ -506,6 +574,41 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 </details>
 
 
+##  The Pixel Portraits
+
+opensea: [the-pixel-portraits](https://opensea.io/collection/the-pixel-portraits) - created on Oct 25, 2021<br>
+web:  <http://thepixelportraits.me><br>
+twitter: [thepxlportraits](https://twitter.com/thepxlportraits)<br>
+
+contracts (1):
+- **The Pixel Portraits (PXP)** created on Oct 25, 2021 @ [0xa8121b153c77ca4dd1da3a9d7cdc4729129c8c6d](https://etherscan.io/address/0xa8121b153c77ca4dd1da3a9d7cdc4729129c8c6d)
+
+stats:
+- count / total supply: 771 / 771, num owners:  563
+- total sales:  3, total volume: 1.33 ETH  (~ 1729 USD)
+- average price: 0.44 ETH  (~ 576.33 USD)
+- floor price: 0.50 ETH  (~ 650.00 USD)
+
+fees: seller 10.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (10):</summary>
+
+- character (42)
+- hair (256)
+- accessory (219)
+- expression (17)
+- headwear (149)
+- bodywear (181)
+- special (5)
+- background (21)
+- currency (1)
+- facial hair (1)
+
+</details>
+
+
 ##  MoonCats
 
 opensea: [acclimatedmooncats](https://opensea.io/collection/acclimatedmooncats) - created on Apr 22, 2021<br>
@@ -516,19 +619,15 @@ contracts (1):
 - **Acclimated​MoonCats (😺)** created on Apr 22, 2021 @ [0xc3f733ca98e0dad0386979eb96fb1722a1a05e69](https://etherscan.io/address/0xc3f733ca98e0dad0386979eb96fb1722a1a05e69)
 
 stats:
-- count / total supply: 19216 / 19216, num owners:  5892
-- total sales:  18143, total volume: 18885.71 ETH  (~ 24.6 million(s) USD)
+- count / total supply: 19217 / 19217, num owners:  5891
+- total sales:  18152, total volume: 18886.77 ETH  (~ 24.6 million(s) USD)
 - average price: 1.04 ETH  (~ 1353 USD)
-- floor price: 0.25 ETH  (~ 321.10 USD)
+- floor price: 0.27 ETH  (~ 348.40 USD)
 
 fees: seller 3.0%, opensea 2.5%
 
 payments (3): Ether (ETH), Wrapped Ether (WETH), USD Coin (USDC)
 
-<details><summary>attribute categories (0):</summary>
-
-
-</details>
 
 
 ##  CryptoWiener
@@ -550,10 +649,6 @@ fees: seller 2.0%, opensea 2.5%
 
 payments (5):  (VRON), Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
 
-<details><summary>attribute categories (0):</summary>
-
-
-</details>
 
 
 ##  CryptoPunks
@@ -566,9 +661,9 @@ contracts (1):
 - **CryptoPunks (PUNK)** created on Jan 23, 2018 @ [0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb](https://etherscan.io/address/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb)
 
 stats:
-- count / total supply: 9998 / 9998, num owners:  3590
-- total sales:  21569, total volume: 996900.99 ETH  (~ 1296.0 million(s) USD)
-- average price: 46.22 ETH  (~ 60085 USD)
+- count / total supply: 9998 / 9998, num owners:  3595
+- total sales:  21586, total volume: 1001261.24 ETH  (~ 1301.6 million(s) USD)
+- average price: 46.38 ETH  (~ 60300 USD)
 - floor price: ???
 
 fees: seller -, opensea 2.5%

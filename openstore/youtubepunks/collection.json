@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/iXzOSGKdfcTrmGIqDWqHmnrL_4Ahwfv9YU-jieimqvtuFWb_8CNkWsyPt6-uG3jL-i5RbJTgA3_slSDUtbqBpbtxDEboSrsynGkHYw?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-08-11T00:49:08.107999",
+  "default_to_fiat": false,
+  "description": "[YoutubePunks](https://www.youtubepunks.net/) - your favourite **Youtubers** as Punks!\n\n[YoutubePunks Plaques](https://opensea.io/collection/youtubepunksplaques) - Plaques for your Punks!\n\nYoutubePunks is a #1 NFT Collection related to Youtubers with max. supply of 500. From 1K to 200M, from Vloggers to Gamers.\nGet your favourite Youtuber right now!\n\nProject run single-handedly by [@davenfts](https://twitter.com/davenfts)\n**Disclaimer:** YoutubePunks are NOT affiliated with Larva Labs or any  Youtubers/Streamers, and are only portrayals of them!\n\n\n",
+  "discord_url": "https://discord.gg/9abeDAKuDB",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "https://www.youtubepunks.net/",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/SPWsuBl46g9FmY_3ZOXDY6kMuVM9QaW4vHEamajbpFeacnbAjAjyzvk_aHkL3d_cGBeUDfXB0Q8knUygrSShQftAK4EQXofypakxhA?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/GrgmMXMl54XLzj7EayMj0FPA7upNawV8MYUv2LJJy-h6u1WConyTs7nfMi1tPIhviiUBNrtHcXwsbt7Y-EEbYz5XO9b51xGtSX_5?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/SPWsuBl46g9FmY_3ZOXDY6kMuVM9QaW4vHEamajbpFeacnbAjAjyzvk_aHkL3d_cGBeUDfXB0Q8knUygrSShQftAK4EQXofypakxhA?w=500&auto=format",
+  "medium_username": null,
+  "name": "YoutubePunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "youtubepunks",
+  "telegram_url": null,
+  "twitter_username": "youtubepunks",
+  "instagram_username": "youtubepunksnft",
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xea27d0147d9243c0c722344d20690c182349e351": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

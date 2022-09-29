@@ -1,0 +1,124 @@
+{
+  "Background": {
+    "cotton candy": 507,
+    "azurite": 687,
+    "spring green": 706,
+    "light shore": 571,
+    "cherry red": 763,
+    "purple haze": 717,
+    "pineapple yellow": 648,
+    "sunset": 505,
+    "blue apatite": 446
+  },
+  "Skin Tone": {
+    "gold": 122,
+    "medium gold": 853,
+    "cyber green": 479,
+    "deep neutral": 867,
+    "light olive": 852,
+    "medium olive": 959,
+    "bronze": 531,
+    "cool blue": 312,
+    "fire red": 407,
+    "rainbow": 128,
+    "night goddess": 40
+  },
+  "Eyes": {
+    "yellow": 843,
+    "deep blue": 914,
+    "red": 747,
+    "brown": 1120,
+    "heterochromia": 162,
+    "green": 1047,
+    "purple": 717
+  },
+  "Hairstyle": {
+    "pixie": 437,
+    "pearl updo": 215,
+    "silver": 368,
+    "cotton candy": 365,
+    "wavy rose": 712,
+    "natural red": 565,
+    "double bun": 454,
+    "braided ponytail": 679,
+    "lucky green": 483,
+    "royal": 316,
+    "turqoise": 554,
+    "black and white": 109,
+    "pink lollipop": 234,
+    "purple rainbow": 10
+  },
+  "Mouth": {
+    "red": 860,
+    "pink bubblegum": 457,
+    "flashy blue": 659,
+    "pink": 1000,
+    "gold": 449,
+    "space": 208,
+    "burgundy": 975,
+    "purple": 587,
+    "gold huh": 133,
+    "burgundy huh": 203,
+    "blue bubblegum": 19
+  },
+  "Clothes": {
+    "striped tee": 745,
+    "gala dress": 272,
+    "cabaret corset": 562,
+    "painters overalls": 697,
+    "witch dress": 439,
+    "white shirt": 768,
+    "emerald cape": 347,
+    "faux fur coat": 629,
+    "red dress": 704,
+    "tuxedo": 87,
+    "warrior armor": 225,
+    "naiade": 75
+  },
+  "Necklace": {
+    "rainbow chain": 274,
+    "golden bib": 166,
+    "emerald": 277,
+    "spike choker": 192,
+    "art lover": 89,
+    "color beads": 316,
+    "empress of darkness": 59,
+    "wolf pendant": 142,
+    "coin": 94
+  },
+  "Facial Feature": {
+    "bolt": 132,
+    "leader": 207,
+    "eye scar": 247,
+    "heart tattoo": 278,
+    "cyber warrior": 205
+  },
+  "Face Accessories": {
+    "cat eye": 290,
+    "black and white": 289,
+    "mask": 222,
+    "aviator": 383,
+    "3d glasses": 52,
+    "black shades": 341,
+    "little round red": 365
+  },
+  "Earrings": {
+    "gold hoop": 549,
+    "ocean hoop": 460,
+    "lightning bolt": 314,
+    "yk favorite": 156,
+    "silver drops": 492,
+    "flower": 264,
+    "diamond": 52,
+    "gold stud": 83,
+    "triple coin": 319,
+    "artsy": 143
+  },
+  "Royalty": {
+    "cleopatra": 1,
+    "first nation": 1,
+    "guardian angel": 1,
+    "galactic android": 1,
+    "medusa": 1
+  }
+}

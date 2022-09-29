@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/z4HA5j404-hVfOHY0VnS5I1dAGOM__-YFNvARYiEwuOZ5r6q_whssKw04rE3wLO4DDK7gSptMHJo575WbCOMyADeZk8YwlF6RU1p?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-01-05T09:26:54.101813",
+  "default_to_fiat": false,
+  "description": "Celebrating Extraordinary Human Beings!  \nEveryday one famous, historical, remarkable person will be transformed in a Punk!  \nEveryday on her/his birth day someone will be a [\"Punk Too\"](https://opensea.io/collection/punktoo)!  \nThe price of each Punk will be the date 0.MMDD ETH, eg.   \n(first will be) - 01/01 - 0.0101 ETH  \n...  \n(somewhere in march) 03/25 - 0.0325 ETH  \n...  \n(and the last) - 12/31 - 0.1231 ETH \nPlease check more info in links bellow!\n\n",
+  "discord_url": "https://discord.gg/itsajoak",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "http://itsajoak.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/z4HA5j404-hVfOHY0VnS5I1dAGOM__-YFNvARYiEwuOZ5r6q_whssKw04rE3wLO4DDK7gSptMHJo575WbCOMyADeZk8YwlF6RU1p?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/9cf8edc02827879cd5683ad1fb852539.jpg?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/z4HA5j404-hVfOHY0VnS5I1dAGOM__-YFNvARYiEwuOZ5r6q_whssKw04rE3wLO4DDK7gSptMHJo575WbCOMyADeZk8YwlF6RU1p?w=500&auto=format",
+  "medium_username": null,
+  "name": "Punk of the Day",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "punkoftheday",
+  "telegram_url": null,
+  "twitter_username": "itsajoak",
+  "instagram_username": "itsajoak",
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x3c0d52afb97b6a22f3c8147654a6cf2029a7a155": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

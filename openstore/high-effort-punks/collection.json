@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/s3lOW83eJFWEpky70Y34jNNQWLkk8yWZNz83leJ4lbQlmAvuDaSGSOvOfiHnP5_22gBPaWEaar1ik8iikKGu7Yc9HlohcPx_CAu7?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-01-08T15:26:49.818962",
+  "default_to_fiat": false,
+  "description": "We have Low Effort Punks, so why no High Effort Punks?     \n\nAs the name says, this project aims to recreate each one of the 10000 original CryptoPunk, but maybe with even too much effort.     \n\nEach High Effort Punks will be exacty the same as his original counterpart, featuring same #, traits, and skin color (4 skin colors for human, 1 ape, 1 alien, 1 zombie).     \n\nHigh Effort Punks live on the Polygon blockchain, making it accessible for everyone, without worrying about gas fees.     \n\nHigh Effort Punks will be reworked thousands for thousands: first releases will be 1-1000, then 1001-2000, and so on.\nPricing will increase every 1000 High Effort Punks, with small and affordable increases.\n\n",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/nJpdvWrkYFv8il0U_xDrkS5gcF_ZkGOY11SFoVIq00BNM7eQzzzhevfaHPq3_r_s6FS8mLsbk94b7P5iH_6PMVx7X2hlHPfoht_DtZo?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": null,
+  "medium_username": null,
+  "name": "High Effort Punks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "high-effort-punks",
+  "telegram_url": null,
+  "twitter_username": null,
+  "instagram_username": "higheffortpunks",
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x5bfb1eddd1ca0447c2065af49d66fb5d365aa350": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

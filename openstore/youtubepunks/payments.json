@@ -1,0 +1,58 @@
+[
+  {
+    "id": 16110619,
+    "symbol": "SAND",
+    "address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+    "image_url": "https://openseauserdata.com/static/miscellaneous/sandbox-token.png",
+    "name": "SAND",
+    "decimals": 18
+  },
+  {
+    "id": 13689077,
+    "symbol": "ETH",
+    "address": "0x0000000000000000000000000000000000000000",
+    "image_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+    "name": "Ether",
+    "decimals": 18
+  },
+  {
+    "id": 12182941,
+    "symbol": "DAI",
+    "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "image_url": "https://openseauserdata.com/files/dai-ethereum.svg",
+    "name": "Dai Stablecoin",
+    "decimals": 18
+  },
+  {
+    "id": 4645681,
+    "symbol": "WETH",
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "image_url": "https://openseauserdata.com/files/accae6b6fb3888cbff27a013729c22dc.svg",
+    "name": "Wrapped Ether",
+    "decimals": 18
+  },
+  {
+    "id": 4403908,
+    "symbol": "USDC",
+    "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "image_url": "https://openseauserdata.com/files/749015f009a66abcb3bbb3502ae2f1ce.svg",
+    "name": "USD Coin",
+    "decimals": 6
+  },
+  {
+    "id": 16657117,
+    "symbol": "UNI",
+    "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "image_url": "https://lh3.googleusercontent.com/Af76kXzGM9AIxtFPrx2kLFGiHlXiXztQfNMPQSy5OTc4zAnHQ4qIYahX9zsPbL1fpmi9fHtpw-nw8nS2IWywLLW-=s120",
+    "name": "Uniswap",
+    "decimals": 18
+  },
+  {
+    "id": 409484150,
+    "symbol": "APE",
+    "address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+    "image_url": "https://lh3.googleusercontent.com/mkqhiVl1_aEJWznOYPJjwKiZjWw4gUnGfBxMcPO96JYVBrlhGhyiPQX7YouGObqom5F_fJOnsalw3TK6nJ92Ijctkcw9egWMxVj6vqQ=s120",
+    "name": "ApeCoin",
+    "decimals": 18
+  }
+]

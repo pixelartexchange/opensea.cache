@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xb67812ce508b9fc190740871032237c24b6896a0",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-01-14T22:56:13.901514",
+    "name": "WoW Pixies",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 199309359,
+    "schema_name": "ERC721",
+    "symbol": "PIXIES",
+    "total_supply": "0",
+    "description": "5,555 Generative Pixel NFTs on the Ethereum Blockchain. WOW Pixies is built around targeting women led NFT projects to help lift up the community and acquire amazing assets along the way. Not associated with World of Women NFT.",
+    "external_link": "http://wowpixies.com",
+    "image_url": "https://i.seadn.io/gae/PF9M8PkRI4bfuimjA6DMPCWQa-2QOepHRzbLOTAnPuW3gLpcF_YxpI-7tFEGLysMld6wFA3QQsRW_dnmLimnIHmtDyjJaNfFjFhCoA?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]
