@@ -111,19 +111,19 @@ each_dir( './cache/*' ) do |dir|
    buf << "\n"
 
    buf << "fees:"
-   buf << " seller - #{fmt_fees( meta.fees.seller_fees )},"
-   buf << " opensea - #{fmt_fees( meta.fees.opensea_fees )}\n"
+   buf << " seller #{fmt_fees( meta.fees.seller_fees )},"
+   buf << " opensea #{fmt_fees( meta.fees.opensea_fees )}\n"
    buf << "\n"
 
    buf << "payments (#{meta.payment_methods.size}): #{meta.payment_methods.join(', ')}\n"
    buf << "\n"
 
    attribute_categories = meta.attribute_categories( count: true )
-   buf << "attribute categories (#{attribute_categories.size}):\n"
+   buf << "<details><summary>attribute categories (#{attribute_categories.size}):</summary>\n"
    attribute_categories.each do |cat|
       buf << "- #{cat}\n"
    end
-   buf << "\n"
+   buf << "</details>\n"
 
 
    date =  if meta.contracts.size > 0

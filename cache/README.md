@@ -12,11 +12,11 @@ stats:
 - average price: 0.05 ETH  (~ 60.71 USD)
 - floor price: 0.004 ETH  (~ 4.94 USD)
 
-fees: seller - 10.0%, opensea - 2.5%
+fees: seller 10.0%, opensea 2.5%
 
 payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
 
-attribute categories (7):
+<details><summary>attribute categories (7):</summary>
 - skin_tone (7)
 - payes (8)
 - beard (19)
@@ -24,7 +24,7 @@ attribute categories (7):
 - mouth (8)
 - glasses (29)
 - tallit (5)
-
+</details>
 
 
 ##  The Americans NFT
@@ -42,11 +42,11 @@ stats:
 - average price: 0.06 ETH  (~ 75.99 USD)
 - floor price: 0.002 ETH  (~ 3.25 USD)
 
-fees: seller - 7.5%, opensea - 2.5%
+fees: seller 7.5%, opensea 2.5%
 
 payments (2): Ether (ETH), Wrapped Ether (WETH)
 
-attribute categories (7):
+<details><summary>attribute categories (7):</summary>
 - Background (1)
 - Skin (3)
 - Eyes (9)
@@ -54,7 +54,7 @@ attribute categories (7):
 - Headwear (30)
 - Mouth (20)
 - Accessory (20)
-
+</details>
 
 
 ##  The Saudis
@@ -72,11 +72,11 @@ stats:
 - average price: 0.86 ETH  (~ 1115 USD)
 - floor price: 0.25 ETH  (~ 324.61 USD)
 
-fees: seller - 7.5%, opensea - 2.5%
+fees: seller 7.5%, opensea 2.5%
 
 payments (2): Ether (ETH), Wrapped Ether (WETH)
 
-attribute categories (9):
+<details><summary>attribute categories (9):</summary>
 - Oil (Barrels) (2)
 - Oil (Gallons) (2)
 - Head (6)
@@ -86,7 +86,7 @@ attribute categories (9):
 - Mouthpiece (10)
 - Hair (9)
 - Oil Rank (2)
-
+</details>
 
 
 ##  Pixel goblintown
@@ -104,11 +104,11 @@ stats:
 - average price: 0.012 ETH  (~ 15.43 USD)
 - floor price: 0.0007 ETH  (~ 0.91 USD)
 
-fees: seller - -, opensea - 2.5%
+fees: seller -, opensea 2.5%
 
 payments (2): Ether (ETH), Wrapped Ether (WETH)
 
-attribute categories (9):
+<details><summary>attribute categories (9):</summary>
 - Pre-reveal (1)
 - Bagygrnd (8)
 - EIRZ (8)
@@ -118,7 +118,7 @@ attribute categories (9):
 - EYE ON RYG (7)
 - UNDNZHOOLE (7)
 - Trahfolln (8)
-
+</details>
 
 
 ##  Moonbirds
@@ -136,11 +136,11 @@ stats:
 - average price: 18.00 ETH  (~ 23400 USD)
 - floor price: 10.79 ETH  (~ 14033 USD)
 
-fees: seller - 5.0%, opensea - 2.5%
+fees: seller 5.0%, opensea 2.5%
 
 payments (2): Ether (ETH), Wrapped Ether (WETH)
 
-attribute categories (8):
+<details><summary>attribute categories (8):</summary>
 - Eyes (11)
 - Outerwear (8)
 - Body (17)
@@ -149,7 +149,7 @@ attribute categories (8):
 - Beak (3)
 - Headwear (37)
 - Eyewear (12)
-
+</details>
 
 
 ##  EightBit Me
@@ -167,11 +167,11 @@ stats:
 - average price: 0.46 ETH  (~ 593.54 USD)
 - floor price: 0.15 ETH  (~ 192.40 USD)
 
-fees: seller - 5.0%, opensea - 2.5%
+fees: seller 5.0%, opensea 2.5%
 
 payments (2): Ether (ETH), Wrapped Ether (WETH)
 
-attribute categories (23):
+<details><summary>attribute categories (23):</summary>
 - Body (2)
 - Skin Tone (5)
 - Shoes (37)
@@ -195,7 +195,7 @@ attribute categories (23):
 - Hat Color (12)
 - Perk (16)
 - Outfit (116)
-
+</details>
 
 
 ##  BinaryApes
@@ -213,15 +213,15 @@ stats:
 - average price: 0.007 ETH  (~ 9.60 USD)
 - floor price: 0.000666 ETH  (~ 0.87 USD)
 
-fees: seller - 9.0%, opensea - 2.5%
+fees: seller 9.0%, opensea 2.5%
 
 payments (2): Ether (ETH), Wrapped Ether (WETH)
 
-attribute categories (3):
+<details><summary>attribute categories (3):</summary>
 - TYPE (17)
 - MOUTH (10)
 - ACCESSORY (85)
-
+</details>
 
 
 ##  CryptoPunks V1 (wrapped)
@@ -239,11 +239,11 @@ stats:
 - average price: 12.84 ETH  (~ 16693 USD)
 - floor price: 5.48 ETH  (~ 7124 USD)
 
-fees: seller - -, opensea - 2.5%
+fees: seller -, opensea 2.5%
 
 payments (5): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC), ApeCoin (APE)
 
-attribute categories (16):
+<details><summary>attribute categories (16):</summary>
 - Body (5)
 - Mouth (13)
 - Headband (1)
@@ -260,7 +260,7 @@ attribute categories (16):
 - Frown (1)
 - Feature (3)
 - Special (3)
-
+</details>
 
 
 ##  Galactic Alien Social Club
@@ -278,18 +278,18 @@ stats:
 - average price: 0.010 ETH  (~ 13.24 USD)
 - floor price: 0.001 ETH  (~ 1.30 USD)
 
-fees: seller - 10.0%, opensea - 2.5%
+fees: seller 10.0%, opensea 2.5%
 
 payments (9): SAND (SAND), Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC), Basic Attention Token (BAT), ChainLink Token (LINK), Uniswap (UNI), ApeCoin (APE)
 
-attribute categories (6):
+<details><summary>attribute categories (6):</summary>
 - Background (10)
 - Outfit (144)
 - Eyes (20)
 - Head (100)
 - Mouth (19)
 - Extra (12)
-
+</details>
 
 
 ##  Chain Runners
@@ -307,11 +307,11 @@ stats:
 - average price: 0.97 ETH  (~ 1262 USD)
 - floor price: 0.18 ETH  (~ 231.40 USD)
 
-fees: seller - 2.5%, opensea - 2.5%
+fees: seller 2.5%, opensea 2.5%
 
 payments (2): Ether (ETH), Wrapped Ether (WETH)
 
-attribute categories (13):
+<details><summary>attribute categories (13):</summary>
 - Background (44)
 - Race (6)
 - Face (30)
@@ -325,7 +325,7 @@ attribute categories (13):
 - Head Above (48)
 - Face Accessory (7)
 - Mask (7)
-
+</details>
 
 
 ##  MoonCats
@@ -343,12 +343,12 @@ stats:
 - average price: 1.04 ETH  (~ 1353 USD)
 - floor price: 0.25 ETH  (~ 321.10 USD)
 
-fees: seller - 3.0%, opensea - 2.5%
+fees: seller 3.0%, opensea 2.5%
 
 payments (3): Ether (ETH), Wrapped Ether (WETH), USD Coin (USDC)
 
-attribute categories (0):
-
+<details><summary>attribute categories (0):</summary>
+</details>
 
 
 ##  MorePunks
@@ -365,11 +365,11 @@ stats:
 - average price: 0.05 ETH  (~ 63.89 USD)
 - floor price: 0.008 ETH  (~ 10.40 USD)
 
-fees: seller - 10.0%, opensea - 2.5%
+fees: seller 10.0%, opensea 2.5%
 
 payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
 
-attribute categories (9):
+<details><summary>attribute categories (9):</summary>
 - Accessory (62)
 - Facial Hair (9)
 - Facial Hair Colour (3)
@@ -379,7 +379,7 @@ attribute categories (9):
 - Skin Tone (5)
 - Species (12)
 - Type (1)
-
+</details>
 
 
 ##  CryptoPunks
@@ -397,11 +397,11 @@ stats:
 - average price: 46.22 ETH  (~ 60085 USD)
 - floor price: ???
 
-fees: seller - -, opensea - 2.5%
+fees: seller -, opensea 2.5%
 
 payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
 
-attribute categories (2):
+<details><summary>attribute categories (2):</summary>
 - type (5)
 - accessory (95)
-
+</details>
