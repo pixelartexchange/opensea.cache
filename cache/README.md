@@ -2,7 +2,6 @@
 
 opensea: [thejews-nft](https://opensea.io/collection/thejews-nft) - created on Jul 17, 2022<br>
 web:  <https://thejewsnft.com/><br>
-twitter: [](https://twitter.com/)<br>
 
 contracts (1):
 - **The Jews (JEWS)** created on Jul 17, 2022 @ [0x1e283601f53032d9aac8dc73632f4e482e761c70](https://etherscan.io/address/0x1e283601f53032d9aac8dc73632f4e482e761c70)
