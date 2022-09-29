@@ -1,0 +1,47 @@
+{
+  "ACCESSORY": {
+    "bandana": 7,
+    "beanie": 10,
+    "big shades": 2,
+    "cap": 11,
+    "cap forward": 11,
+    "chinstrap": 1,
+    "classic shades": 1,
+    "clown eyes blue": 1,
+    "clown eyes green": 2,
+    "clown hair green": 2,
+    "clown nose": 1,
+    "cowboy": 7,
+    "cowboy hat": 3,
+    "crazy hair": 1,
+    "do-rag": 11,
+    "earring": 1,
+    "eye mask": 2,
+    "eye patch": 1,
+    "fedora": 11,
+    "female": 1,
+    "front beard dark": 1,
+    "headband": 6,
+    "hoodie": 9,
+    "hot lipstick": 1,
+    "knitted cap": 4,
+    "luxurious beard": 3,
+    "medical mask": 3,
+    "mohawk thin": 1,
+    "police cap": 11,
+    "regular shades": 1,
+    "tassle hat": 1,
+    "top hat": 5,
+    "vr": 1
+  },
+  "Type": {
+    "male": 1
+  },
+  "TYPE": {
+    "alien": 9,
+    "ape": 23,
+    "female": 41,
+    "male": 7,
+    "zombie": 42
+  }
+}

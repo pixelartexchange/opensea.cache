@@ -34,14 +34,40 @@ slugs = %w[
   thesaudis
   thejews-nft
   the-americans-nft
-]
-
-slugs = %w[
   cryptopunks
   official-v1-punks
   proof-moonbirds
   acclimatedmooncats
   chain-runners-nft
+
+  24px
+  anime-punks
+  athletes-101
+  basicboredapeclub
+  beautiful-female-punks
+  bladerunner-punks
+  blockydoge
+  blockydogeguilds
+  bwpunks
+  cinepunkss
+  wastelandpunks
+  clout-punks
+  cryptoapes-official
+  cryptogreats
+  cryptoluxurypunks
+  cryptomasterpiecez
+  cryptowiener-4
+  dogepunks-collection
+  dooggies
+  dubaipeeps
+  figurepunks
+  frontphunks
+  genius-punks
+  ghozalipunk
+]
+
+slugs = %w[
+  goodbye-punks
 ]
 
 
@@ -76,19 +102,29 @@ slugs.each do |slug|
   data.delete( 'payment_tokens' )
 
 
-  path = "./cache/#{slug}/collection.json"
+  cache_dir = if data_contracts.size > 0
+                 './ethereum'    ## assume ethereum contract
+              else
+                 './openstore'   ## assume openstore (opensea shared ethereum) contract
+              end
+
+
+  path = "#{cache_dir}/#{slug}/collection.json"
   write_json( path, data )
 
-  path = "./cache/#{slug}/contracts.json"
-  write_json( path, data_contracts )
+  ## note: only save if contracts present  - why? why not?
+  if data_contracts.size > 0
+    path = "#{cache_dir}/#{slug}/contracts.json"
+    write_json( path, data_contracts )
+  end
 
-  path = "./cache/#{slug}/traits.json"
+  path = "#{cache_dir}/#{slug}/traits.json"
   write_json( path, data_traits )
 
-  path = "./cache/#{slug}/stats.json"
+  path = "#{cache_dir}/#{slug}/stats.json"
   write_json( path, data_stats )
 
-  path = "./cache/#{slug}/payment.json"
+  path = "#{cache_dir}/#{slug}/payment.json"
   write_json( path, data_payment )
 
 

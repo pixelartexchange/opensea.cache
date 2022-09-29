@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0x48a4db0c92855ab80345c7848bf15b312f1049f2",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-05-08T19:00:14.420543",
+    "name": "WastelandPunks",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 58885766,
+    "schema_name": "ERC721",
+    "symbol": "WST",
+    "total_supply": "0",
+    "description": "MINT FOR 0.005! [Website](https://wastelandpunks.io)\n｜\n[Discord](https://discord.gg/wastelandpunks)\n｜\n[Twitter](https://twitter.com/WastelandPunks)\n\n**The year is 3048.**\n\nCan you imagine a world is in ruins after series of terrible nuclear wars? We believe you can't! In this world where radiation is rampant and water is more valuable than Ethereum, humanity has to start all over again.\n\n#CanYouSurviveHere ?",
+    "external_link": "http://wastelandpunks.io",
+    "image_url": "https://i.seadn.io/gae/KJK6AQRmQYYO7jBEIvmvpSOnHIvFhwaytYk720VdSDVZTs9K6RUw8r9a81ZoFlnjKgdYKY7OxpIbkAHU7qgMsD8-dj65kyc7I_LB?w=500&auto=format",
+    "default_to_fiat": false,
+    "dev_buyer_fee_basis_points": 0,
+    "dev_seller_fee_basis_points": 500,
+    "only_proxied_transfers": false,
+    "opensea_buyer_fee_basis_points": 0,
+    "opensea_seller_fee_basis_points": 250,
+    "buyer_fee_basis_points": 0,
+    "seller_fee_basis_points": 750,
+    "payout_address": "0x819a41a246483d3857ea576b7b2334f57960227d"
+  }
+]

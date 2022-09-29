@@ -1,0 +1,45 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/KF5yMe0oXlUQn7ouSqBwnHRBt2-DVsX6x_W48SLlkaQcDZqHRueReWrgmQTWMQq3Ma-rXSZON351XsG2kqXcErk_809ZALveErWNqA?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-12-11T18:24:37.566905",
+  "default_to_fiat": false,
+  "description": "The new generation of punk NFTs hit the Ethereum blockchain. \n\n10,000 unique dystopian NFTs with 100% CC0 to holders, newly constructed from scratch from over 100 traits to a defined BladeRunnerPunk-DNA rarity system. Forward facing and drawing eye-to-eye contact, BladeRunnerPunks emanate strong identity, status, & confidence. Inspired by the greatest sci-fi movie of all time and the greatest punk NFT collection! \n\nLook out for two new classes of punks:\n- 5 Replicants (Mythical) \n- 124 Androids (Legendary) \n\nThe future is wilder than we imagine. \n\nNote: BladeRunnerPunks are not associated with Alcon Entertainment.\n\n",
+  "dev_buyer_fee_basis_points": "0",
+  "dev_seller_fee_basis_points": "2",
+  "discord_url": "https://discord.gg/CRPCZzah",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "https://www.bladerunnerpunks.club/",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/Y7VKug_OMAkFna9O0Nn67a8cGTI4M0c_t93j1UcnmUXXKI1e5mbYZNFQ4d1gu3jdBWTJqrbmY5C5y6pP37TrkpWGlxoklqSCyI7Osc4?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/D58wRFlGekGrj_d4SiK-mMqe-yjne5DMNulqg-oiUm2LysQuwZ2HkI8io-zDONJUwAqx0Qb-JCeYQ5cWjGSXtKJnz9tyl136UkSTTfQ?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/Y7VKug_OMAkFna9O0Nn67a8cGTI4M0c_t93j1UcnmUXXKI1e5mbYZNFQ4d1gu3jdBWTJqrbmY5C5y6pP37TrkpWGlxoklqSCyI7Osc4?w=500&auto=format",
+  "medium_username": null,
+  "name": "BladeRunnerPunks",
+  "only_proxied_transfers": false,
+  "opensea_buyer_fee_basis_points": "0",
+  "opensea_seller_fee_basis_points": "250",
+  "payout_address": "0x43f711e89aca714db70df6a3ef8f580db1202638",
+  "require_email": false,
+  "short_description": null,
+  "slug": "bladerunner-punks",
+  "telegram_url": null,
+  "twitter_username": "BladeRunnerPunk",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x43f711e89aca714db70df6a3ef8f580db1202638": 1,
+      "0xff51cc1519c7a61144d3ff6f883122f150752445": 1
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

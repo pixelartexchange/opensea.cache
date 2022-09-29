@@ -72,14 +72,15 @@ def fmt_eth( amount )
 end
 
 
-
-
-
-cols = []
 Collection =  Struct.new(:date, :buf)
 
 
-each_dir( './cache/*' ) do |dir|
+
+def build_report( root_dir )
+
+   cols = []
+
+each_dir( "#{root_dir}/*" ) do |dir|
    puts "==> #{dir}"
 
    meta = OpenSea::Meta::Collection.read( dir )
@@ -137,13 +138,18 @@ each_dir( './cache/*' ) do |dir|
    cols << Collection.new( date, buf )
 end
 
-
 ## sort  cols by date
 
 cols = cols.sort { |l,r| r.date <=> l.date }
 buf =  cols.map { |col| col.buf }.join( "\n\n" )
 
+write_text( "#{root_dir}/README.md", buf )
+end
 
-write_text( "./cache/README.md", buf )
+
+build_report( './openstore' )
+build_report( './ethereum' )
+
+
 
 puts "bye"

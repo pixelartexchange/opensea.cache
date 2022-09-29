@@ -1,0 +1,44 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/wluWozVA5_TqJNhTjWTtVb2a_rLAOhvLO68zhPjTroco_yrMs-uFlYuCTR-pnEPamiafOwehug_TuOjzJ9lf64NRO4XVj2JLnJemKdY?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-04-15T01:33:44.200111",
+  "default_to_fiat": false,
+  "description": "\nClout Punks is a PFP project that turns your favorite public icons into their very own Cryptopunk!\n\n\nClout Punks are the original punks inspired by the likes of rappers, singers, actors, world leaders, internet personalities, billionaires and much more. All Clout Punks are 1/1 and will never be minted again. \n\n\nEach volume incliudes its own unique background color, which is also never repeated.\n\n\nThis project is inspired by the OG cryptopunks and is NOT affiliated with Larva Labs.",
+  "dev_buyer_fee_basis_points": "0",
+  "dev_seller_fee_basis_points": "800",
+  "discord_url": "https://discord.gg/JWbhfJnxES",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "http://cloutpunks.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/amx1cDY1Fq-doz7KlZSI36_gGREraHPFh6_F_lxbWQzUiX9XaqHxz-SE1W3OxZtte3ZKQRvD4giXdOkIFQa2hkshTJOnmTNTNi6Vsw?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/F3IOwKugf0aUwOLpJ0thes4ZsgWeRCMIwMAltpvNhyBuYc4Z10rL7cva8xldCqpWSypVbcjoqgzguPLD7QETQ1qN8t3roV8-LrRAkw?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/amx1cDY1Fq-doz7KlZSI36_gGREraHPFh6_F_lxbWQzUiX9XaqHxz-SE1W3OxZtte3ZKQRvD4giXdOkIFQa2hkshTJOnmTNTNi6Vsw?w=500&auto=format",
+  "medium_username": null,
+  "name": "Clout Punks",
+  "only_proxied_transfers": false,
+  "opensea_buyer_fee_basis_points": "0",
+  "opensea_seller_fee_basis_points": "250",
+  "payout_address": "0xacb3a1d7391da281b3d6f7565f81b7b4865efcb8",
+  "require_email": false,
+  "short_description": null,
+  "slug": "clout-punks",
+  "telegram_url": null,
+  "twitter_username": "cloutpunks",
+  "instagram_username": "cloutpunks",
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xacb3a1d7391da281b3d6f7565f81b7b4865efcb8": 800
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

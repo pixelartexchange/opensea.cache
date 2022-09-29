@@ -1,0 +1,44 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/IsBGT7zNUxM2NBd9KIqyYRkqnGN0cmPJVolye98Y_AfkyNiLnktnK9wKrh5M8jhdpAr3DBQv9DRCFXM89a_wQTMIvDa-NStkkqs48BQ?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-06-15T02:24:05.661464",
+  "default_to_fiat": false,
+  "description": "A beautiful collection of the lovely Doge, inspired by the cryptopunks.\n           Each DogePunk will be released in a single copy 1/1.\n                         There will only be 150 Dogepunks.\n\n  DISCLAIMER: THIS PROJECT IS NOT AFFILIATED WITH LARVA LABS",
+  "dev_buyer_fee_basis_points": "0",
+  "dev_seller_fee_basis_points": "1000",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/gqnoHwxnm1N1YpZ1yt7YQv-SpNS0wjq83uCR3AMaUY0qqm8GauJSfUdndQQNRGHoEJ5dC7O-0SBD-E_T92ZGSXzAy-y_geLtmYIEtA?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/TwCy2KXf6b6XifMHKlM3dS2qHLoGX8LIH2CVF1J4tbd8pine1NpDmR9jmzdrEgXk6RNJV6aRXRigCk6b3IlElW1WNovhFwFQcYOVdQ?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/gqnoHwxnm1N1YpZ1yt7YQv-SpNS0wjq83uCR3AMaUY0qqm8GauJSfUdndQQNRGHoEJ5dC7O-0SBD-E_T92ZGSXzAy-y_geLtmYIEtA?w=500&auto=format",
+  "medium_username": null,
+  "name": "DogePunks.",
+  "only_proxied_transfers": false,
+  "opensea_buyer_fee_basis_points": "0",
+  "opensea_seller_fee_basis_points": "250",
+  "payout_address": "0x6e7171909304f1ec2c6f4973ec66ebb076efa19c",
+  "require_email": false,
+  "short_description": null,
+  "slug": "dogepunks-collection",
+  "telegram_url": null,
+  "twitter_username": "@PunksDoge",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x6e7171909304f1ec2c6f4973ec66ebb076efa19c": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

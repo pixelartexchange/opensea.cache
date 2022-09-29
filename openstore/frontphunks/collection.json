@@ -1,0 +1,44 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/qLO1_V4aopbkGyA-ToABn8QSzGGS1Mno_xbvIIbADZwVXnngqEGz6OJ5x9jg7F0sWmOiUqJNH2MHxa3-7YXjezHkZopFvtH8QRQSkQ?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-07-01T20:35:21.799434",
+  "default_to_fiat": false,
+  "description": "CryptoPunks created from a frontal perspective. \n\nJust art. Just vibes. No roadmaps. No DAO. No utility. No discord.",
+  "dev_buyer_fee_basis_points": "0",
+  "dev_seller_fee_basis_points": "1000",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/qLO1_V4aopbkGyA-ToABn8QSzGGS1Mno_xbvIIbADZwVXnngqEGz6OJ5x9jg7F0sWmOiUqJNH2MHxa3-7YXjezHkZopFvtH8QRQSkQ?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/nMyIz9RdDRLlLlRYVBtNsqb4t9l1Jp5ZJhfDkUOMrxe6ZyGqWu2fvlbwXsvMx7kkTzKhicAYZRUF--qCwMDNOz46Ndfi14fjeruGS5E?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/qLO1_V4aopbkGyA-ToABn8QSzGGS1Mno_xbvIIbADZwVXnngqEGz6OJ5x9jg7F0sWmOiUqJNH2MHxa3-7YXjezHkZopFvtH8QRQSkQ?w=500&auto=format",
+  "medium_username": null,
+  "name": "CryptoFrontPunks",
+  "only_proxied_transfers": false,
+  "opensea_buyer_fee_basis_points": "0",
+  "opensea_seller_fee_basis_points": "250",
+  "payout_address": "0x6e7171909304f1ec2c6f4973ec66ebb076efa19c",
+  "require_email": false,
+  "short_description": null,
+  "slug": "frontphunks",
+  "telegram_url": null,
+  "twitter_username": "CryptoFrontPunk",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x6e7171909304f1ec2c6f4973ec66ebb076efa19c": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

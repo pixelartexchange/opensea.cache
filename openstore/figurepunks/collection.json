@@ -1,0 +1,44 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/N0-_J2xDsmvBjLtMd_02-gyrCKMVftNmEt5aF6ckHXTKNk84kHbHa_Omy9iDJoyL91qzk3Csyvp-oHnpP9UY1VFNXe9REbfYAzYm?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-08-13T13:46:05.235729",
+  "default_to_fiat": false,
+  "description": "Collection of only 500 Figure Punks living on the ETH Blockchain, based on famous figure, characters. Each Figure Punks is unique and manually created by hands\n\n[Twitter](https://twitter.com/FigurePunks) | [Discord](https://discord.gg/FEVNCuuvut)",
+  "dev_buyer_fee_basis_points": "0",
+  "dev_seller_fee_basis_points": "1000",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "https://www.fignhere.com/figure-punks",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/g9sYSCuYRICC7uiXg_6Lco8tkC8lfuvNVq_YM6qQSgchIlRkNFoAkOb1mhim1E190elZz-zImaKUgu5luPUmKmxOGE73l4Gify1BIQ?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/oILj4tlf4EZ04LnltA-exH3mNYw5VRPXr9UnVDoMhel4hf0asqWgJrg5U1dVFzv4L9mdUvCo3Y1gnWl3H89OtvTupcCHmF8GVkyceIM?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/g9sYSCuYRICC7uiXg_6Lco8tkC8lfuvNVq_YM6qQSgchIlRkNFoAkOb1mhim1E190elZz-zImaKUgu5luPUmKmxOGE73l4Gify1BIQ?w=500&auto=format",
+  "medium_username": null,
+  "name": "Figure Punks",
+  "only_proxied_transfers": false,
+  "opensea_buyer_fee_basis_points": "0",
+  "opensea_seller_fee_basis_points": "250",
+  "payout_address": "0x6cba43a7b6ebe99882b212ee12748a7238e303da",
+  "require_email": false,
+  "short_description": null,
+  "slug": "figurepunks",
+  "telegram_url": null,
+  "twitter_username": "FigurePunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x6cba43a7b6ebe99882b212ee12748a7238e303da": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

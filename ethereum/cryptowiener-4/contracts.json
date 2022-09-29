@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0xe73c9d94a542b1708450e13d12d4b38204dfd72c",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2019-11-15T07:54:51.008419",
+    "name": "Cryptowiener",
+    "nft_version": "3.0",
+    "opensea_version": "1.2.0",
+    "owner": 543144,
+    "schema_name": "ERC721",
+    "symbol": "",
+    "total_supply": "0",
+    "description": "most famous collectibles...\nthe cryptowieners are 32x32 pixel art images, all hand drawn and unique!\nLeiwand!",
+    "external_link": "https://www.cryptowiener.com",
+    "image_url": "https://i.seadn.io/gae/HyxNCbw5cSH4IYghVMWnz9heKkShyGtaU954-0AGFR_g9bAzqu4e6XRyiLr6NDutOj1uX5fY-8b9ayo-8ZG_FI-z8_9Mptyvlfdd?w=500&auto=format",
+    "default_to_fiat": false,
+    "dev_buyer_fee_basis_points": 0,
+    "dev_seller_fee_basis_points": 200,
+    "only_proxied_transfers": false,
+    "opensea_buyer_fee_basis_points": 0,
+    "opensea_seller_fee_basis_points": 250,
+    "buyer_fee_basis_points": 0,
+    "seller_fee_basis_points": 450,
+    "payout_address": "0x93ccbd66db522b729c06d3a8345b7935a103291a"
+  }
+]

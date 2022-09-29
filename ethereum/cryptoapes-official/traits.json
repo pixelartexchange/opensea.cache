@@ -1,0 +1,71 @@
+{
+  "Background": {
+    "blue": 862,
+    "sky_blue": 857,
+    "purple": 882,
+    "army_green": 926,
+    "orange": 833,
+    "aquamarine": 864,
+    "yellow": 870,
+    "gray": 875
+  },
+  "Fur": {
+    "cream": 849,
+    "red": 596,
+    "gold": 687,
+    "brown": 1196,
+    "blue": 589,
+    "pink": 481,
+    "light_brown": 1069,
+    "cheetah": 366,
+    "gray": 910,
+    "zombie": 118,
+    "cyborg": 108
+  },
+  "Mouth": {
+    "frown": 1087,
+    "red": 893,
+    "tongue": 612,
+    "cheese": 911,
+    "chill": 1194,
+    "smile": 1012,
+    "mask": 605,
+    "o": 655
+  },
+  "Clothes": {
+    "jumpsuit": 543,
+    "silver_chain": 549,
+    "sailor": 596,
+    "skeleton_tee": 570,
+    "robe": 425,
+    "hoodie": 744,
+    "gold_chain": 549,
+    "bone_necklace": 391,
+    "striped_tee": 637,
+    "turtleneck": 462,
+    "collar_shirt": 430,
+    "shirtless": 837,
+    "leather_jacket": 236
+  },
+  "Hat": {
+    "halo": 566,
+    "cap": 1069,
+    "beanie": 1093,
+    "none": 1192,
+    "horns": 729,
+    "hat": 904,
+    "propeller": 372,
+    "bunny_ears": 425,
+    "x": 619
+  },
+  "Eyes": {
+    "glasses": 992,
+    "closed": 1343,
+    "mask": 793,
+    "vr": 486,
+    "zombie": 640,
+    "open": 1580,
+    "laser": 369,
+    "3d_glasses": 766
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/HgUS6_Z8ooK4ovnqI2ZvmICu3IjLOiAWC0xXXdU37JIwWqESX191-GKXdXwsCDnOAzumSmMvzoX6K9QWCnFcen2EnmwYh-u1YKRDHw?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-02-28T06:11:58.334322",
+  "default_to_fiat": false,
+  "description": "Minimalist punks with only two colors - black and white. This project pays homage to the OG cryptopunks project and is not affiliated with Larva Labs. [bwpunks.com](bwpunks.com)\n\nAlso, please check out our other collection [Chubbies](https://opensea.io/collection/chubbies)!",
+  "dev_buyer_fee_basis_points": "0",
+  "dev_seller_fee_basis_points": "0",
+  "discord_url": "https://discord.gg/tAdTPHbsKp",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "http://bwpunks.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/s16By6Z-hJa4QteRSVPxLTWZqMSAhv5ihWO2ql90RGaDK8pf5TyyA1Gc8dymdiPVj0RbQsMPJYl-HB8DMZ_AEUm5OCtoCDpB5i0659k?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/s3w6pYZbo282Cnb9vMBBJyQwtW3f9-97Di_gpMW-ZCWAM6D7hwK8ZiApNZzl_cT1WUMOeny-44gWyKmo2aFL-kzmUhyIkdE7n1p4Hg?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/s16By6Z-hJa4QteRSVPxLTWZqMSAhv5ihWO2ql90RGaDK8pf5TyyA1Gc8dymdiPVj0RbQsMPJYl-HB8DMZ_AEUm5OCtoCDpB5i0659k?w=500&auto=format",
+  "medium_username": null,
+  "name": "B&W Punks",
+  "only_proxied_transfers": false,
+  "opensea_buyer_fee_basis_points": "0",
+  "opensea_seller_fee_basis_points": "250",
+  "payout_address": "0x8d9cb496a3a9ff6b7d0673757daaf4bf390d0c8c",
+  "require_email": false,
+  "short_description": null,
+  "slug": "bwpunks",
+  "telegram_url": null,
+  "twitter_username": "bwpunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

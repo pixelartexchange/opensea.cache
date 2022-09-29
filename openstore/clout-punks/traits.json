@@ -1,0 +1,676 @@
+{
+  "Abolitionist": {
+    "harriet tubman": 1
+  },
+  "Activist": {
+    "gandhi": 1,
+    "malcolm x": 1,
+    "martin luther king jr.": 1,
+    "rosa parks": 1
+  },
+  "Actor": {
+    "adam sandler": 1,
+    "al pacino": 1,
+    "arnold schwarzenegger": 1,
+    "bob saget": 1,
+    "brad pitt": 1,
+    "bruce lee": 1,
+    "charlie chaplin": 1,
+    "chris evans": 1,
+    "christian bale": 1,
+    "chuck norris": 1,
+    "cillian murphy": 1,
+    "donald glover": 1,
+    "dwayne johnson": 1,
+    "jackie chan": 1,
+    "jason statham": 1,
+    "jim carrey": 1,
+    "johnny depp": 1,
+    "johnny knoxville": 1,
+    "keanu reeves": 1,
+    "margot robbie": 1,
+    "michael b. jordan": 1,
+    "morgan freeman": 1,
+    "mr. t": 1,
+    "paul walker": 1,
+    "robert downey jr.": 1,
+    "samuel l. jackson": 1,
+    "seth rogan": 1,
+    "steve-o": 1,
+    "sung kang": 1,
+    "sylvester stallone": 1,
+    "tom hanks": 1,
+    "tom holland": 1,
+    "vin diesel": 1,
+    "will ferrell": 1,
+    "will smith": 1
+  },
+  "Actress": {
+    "betty white": 1,
+    "carrie fisher": 1,
+    "jennifer aniston": 1,
+    "marilyn monroe": 1,
+    "megan fox": 1,
+    "millie bobby brown": 1
+  },
+  "Adult Film Star": {
+    "lana rhoades": 1,
+    "mia khalifa": 1,
+    "riley reid": 1
+  },
+  "American Icon": {
+    "lady liberty": 1,
+    "rosie the riveter": 1,
+    "uncle sam": 1
+  },
+  "Artist": {
+    "banksy": 1,
+    "beeple": 1,
+    "kaws": 1,
+    "leonardo da vinci": 1,
+    "oliver tree": 1,
+    "takashi murakami": 1
+  },
+  "Astronaut": {
+    "neil armstrong": 1
+  },
+  "Athete": {
+    "serena williams": 1
+  },
+  "Athlete": {
+    "aaron rodgers": 1,
+    "alex morgan": 1,
+    "allen iverson": 1,
+    "anthony davis": 1,
+    "arnold palmer": 1,
+    "babe ruth": 1,
+    "barry bonds": 1,
+    "bryce harper": 1,
+    "bubba watson": 1,
+    "canelo álvarez": 1,
+    "christian pulisic": 1,
+    "conor mcgregor": 1,
+    "cooper kupp": 1,
+    "cristiano ronaldo": 1,
+    "dale earnhardt jr.": 1,
+    "david beckham": 1,
+    "derek jeter": 1,
+    "devin booker": 1,
+    "diego maradona": 1,
+    "drew brees": 1,
+    "floyd mayweather": 1,
+    "gannis antetokounmpo": 1,
+    "hasbulla": 1,
+    "hulk hogan": 1,
+    "jackie robinson": 1,
+    "james harden": 1,
+    "jayson tatum": 1,
+    "jimmy butler": 1,
+    "john cena": 1,
+    "john daly": 1,
+    "kevin durant": 1,
+    "khabib nurmagomedov": 1,
+    "kobe byant": 1,
+    "kyrie irving": 1,
+    "lance armstrong": 1,
+    "larry bird": 1,
+    "lebron james": 1,
+    "lewis hamilton": 1,
+    "lionel messi": 1,
+    "magic johnson": 1,
+    "manny pacquiao": 1,
+    "megan rapinoe": 1,
+    "michael jordan": 1,
+    "michael phelps": 1,
+    "mickey mantle": 1,
+    "mike trout": 1,
+    "mike tyson": 1,
+    "muhammad ali": 1,
+    "neymar jr.": 1,
+    "nikola jokić": 1,
+    "odell beckham jr.": 1,
+    "o.j. simpson": 1,
+    "patrick mahomes": 1,
+    "pelé": 1,
+    "peyton manning": 1,
+    "rafael nadal": 1,
+    "randy savage": 1,
+    "ric flair": 1,
+    "roger federer": 1,
+    "ronda rousey": 1,
+    "rory mcilroy": 1,
+    "sean o'malley": 1,
+    "sebastian vettel": 1,
+    "shaquille o'neal": 1,
+    "shaun white": 1,
+    "simone biles": 1,
+    "son heung-min": 1,
+    "stephen curry": 1,
+    "tiger woods": 1,
+    "tom brady": 1,
+    "tyson fury": 1,
+    "usain bolt": 1,
+    "wayne gretzky": 1,
+    "zlatan ibrahimović": 1
+  },
+  "Author": {
+    "helen keller": 1
+  },
+  "Aviator": {
+    "amelia earhart": 1
+  },
+  "Bounty Hunter": {
+    "dog the bounty hunter": 1
+  },
+  "Business Magnate": {
+    "adam silver": 1,
+    "andrew carnegie": 1,
+    "bill gates": 1,
+    "brian armstrong": 1,
+    "cameron winklevoss": 1,
+    "cathie wood": 1,
+    "colonel sanders": 1,
+    "cornelius vanderbilt": 1,
+    "dana white": 1,
+    "dan bilzerian": 1,
+    "dave portnoy": 1,
+    "elon musk": 1,
+    "enzo ferrari": 1,
+    "ferruccio lamborghini": 1,
+    "gary vaynerchuk": 1,
+    "henry ford": 1,
+    "jack ma": 1,
+    "jacob rothschild": 1,
+    "jeff bezos": 1,
+    "john carmack": 1,
+    "j. p. morgan": 1,
+    "karl benz": 1,
+    "kevin o'leary": 1,
+    "kris jenner": 1,
+    "mark cuban": 1,
+    "mark zuckerberg": 1,
+    "martha stewart": 1,
+    "richard branson": 1,
+    "steve jobs": 1,
+    "steve wozniak": 1,
+    "tim cook": 1,
+    "tyler winklevoss": 1,
+    "walt disney": 1,
+    "warren buffett": 1
+  },
+  "Captain": {
+    "captain edward smith": 1
+  },
+  "Carpenter": {
+    "jesus": 1
+  },
+  "Chef": {
+    "gordon ramsay": 1
+  },
+  "Coach": {
+    "coach k": 1
+  },
+  "Comedian": {
+    "bill cosby": 1,
+    "druski": 1,
+    "eric andré": 1,
+    "howie mandel": 1,
+    "jerry seinfeld": 1,
+    "joe rogan": 1,
+    "kevin hart": 1,
+    "pete davidson": 1
+  },
+  "Composer": {
+    "wolfgang amadeus mozart": 1
+  },
+  "Creature": {
+    "big foot": 1,
+    "harambe": 1,
+    "yeti": 1
+  },
+  "Criminal": {
+    "al capone": 1,
+    "blackbeard": 1,
+    "bonnie parker": 1,
+    "charles manson": 1,
+    "clyde chestnut": 1,
+    "el chapo": 1,
+    "jason": 1,
+    "jeffrey epstein": 1,
+    "jesse james": 1,
+    "john wilkes booth": 1,
+    "jordan belfort": 1,
+    "pablo escobar": 1,
+    "ted bundy": 1
+  },
+  "Dancer": {
+    "jojo siwa": 1
+  },
+  "Designer": {
+    "coco chanel": 1,
+    "gianni versace": 1,
+    "virgil abloh": 1,
+    "yves saint laurent": 1
+  },
+  "Developer": {
+    "charles hoskinson": 1,
+    "justin sun": 1,
+    "satoshi nakamoto": 1
+  },
+  "Deveolper": {
+    "billy markus": 1
+  },
+  "Devolper": {
+    "vitalik buterin": 1
+  },
+  "Director": {
+    "alfonso cuarón": 1,
+    "cole bennett": 1,
+    "steven spielberg": 1
+  },
+  "DJ": {
+    "chantel jeffries": 1,
+    "deadmau5": 1,
+    "kygo": 1,
+    "marshmello": 1,
+    "steve aoki": 1
+  },
+  "Explorer": {
+    "christopher columbus": 1,
+    "meriwether lewis": 1,
+    "sacagawea": 1,
+    "william clark": 1
+  },
+  "First Lady": {
+    "hillary clinton": 1,
+    "jacqueline kennedy": 1,
+    "melania trump": 1,
+    "michelle obama": 1
+  },
+  "Founding Father": {
+    "benjamin franklin": 1
+  },
+  "Gear Head": {
+    "smokey nagata": 1
+  },
+  "Greek God": {
+    "ares": 1,
+    "hermes": 1,
+    "zeus": 1
+  },
+  "Greek Godess": {
+    "medusa": 1
+  },
+  "Hacker": {
+    "anonymous": 1
+  },
+  "Influencer": {
+    "adam22": 1,
+    "addison rae": 1,
+    "adin ross": 1,
+    "alissa violet": 1,
+    "bryce hall": 1,
+    "corinna kopf": 1,
+    "danny duncan": 1,
+    "david dobrik": 1,
+    "dixie d'amelio": 1,
+    "jake paul": 1,
+    "josh richards": 1,
+    "keem star": 1,
+    "khloé kardashian": 1,
+    "ksi": 1,
+    "kylie jenner": 1,
+    "lil huddy": 1,
+    "logan paul": 1,
+    "matty smokes": 1,
+    "mr. beast": 1,
+    "ninja": 1,
+    "pewdiepie": 1,
+    "philip defranco": 1,
+    "rob kardashian": 1,
+    "scott disick": 1,
+    "stevewilldoit": 1,
+    "stormi webster": 1,
+    "supreme patty": 1,
+    "trisha paytas": 1,
+    "vinnie hacker": 1
+  },
+  "Influencer ": {
+    "charli d'amelio": 1
+  },
+  "Inventor": {
+    "nikola tesla": 1,
+    "thomas edison": 1
+  },
+  "Jewler": {
+    "elliot eliantte": 1
+  },
+  "Judge": {
+    "judge judy": 1
+  },
+  "Mathematician": {
+    "isaac newton": 1
+  },
+  "Model": {
+    "amber rose": 1,
+    "bella hadid": 1,
+    "hailey bieber": 1,
+    "kendall jenner": 1
+  },
+  "Monster": {
+    "frankenstein": 1
+  },
+  "Musician": {
+    "eric singer": 1,
+    "george harrison": 1,
+    "guy-manuel de homem-christo": 1,
+    "ludwig van beethoven": 1,
+    "paul stanley": 1,
+    "ringo starr": 1,
+    "thomas bangalter": 1,
+    "tommy thayer": 1,
+    "travis barker": 1
+  },
+  "NFT Collection": {
+    "nouns": 1
+  },
+  "Outlaw": {
+    "robinhood": 1,
+    "zorrow": 1
+  },
+  "Philosopher": {
+    "aristotle": 1,
+    "confucius": 1
+  },
+  "Physician": {
+    "dr. fauci": 1
+  },
+  "Poet": {
+    "william shakespeare": 1
+  },
+  "Politician ": {
+    "bernie sanders": 1
+  },
+  "Pope": {
+    "pope francis": 1
+  },
+  "President": {
+    "abraham lincoln": 1,
+    "barack obama": 1,
+    "bill clinton": 1,
+    "donald trump": 1,
+    "george washington": 1,
+    "joe biden": 1,
+    "john f. kennedy": 1,
+    "ronald reagan": 1,
+    "theodore roosevelt": 1,
+    "thomas jefferson": 1
+  },
+  "Producer": {
+    "benny blanco": 1,
+    "dj khaled": 1,
+    "metro boomin": 1,
+    "mike dean": 1,
+    "murda beatz": 1,
+    "no i.d": 1,
+    "pi'erre bourne": 1,
+    "tame impala": 1,
+    "tay keith": 1
+  },
+  "Professional Gamer": {
+    "dr disrespect": 1,
+    "nadeshot": 1,
+    "nickmercs": 1,
+    "tfue": 1,
+    "xqc": 1
+  },
+  "Prophet": {
+    "moses": 1
+  },
+  "Publisher": {
+    "hugh hefner": 1
+  },
+  "Rapper": {
+    "$not": 1,
+    "21 savage": 1,
+    "2 chainz": 1,
+    "42 dugg": 1,
+    "50 cent": 1,
+    "6ix9ine": 1,
+    "a$ap ferg": 1,
+    "a$ap rocky": 1,
+    "a boogie wit da hoodie": 1,
+    "bad bunny": 1,
+    "big sean": 1,
+    "blueface": 1,
+    "bobby shmurda": 1,
+    "cardi b": 1,
+    "chance the rapper": 1,
+    "chief keef": 1,
+    "coi leray": 1,
+    "da baby": 1,
+    "denzel curry": 1,
+    "dmx": 1,
+    "drake": 1,
+    "dr. dre": 1,
+    "earl sweatshirt": 1,
+    "eazy-e": 1,
+    "eminem": 1,
+    "fetty wap": 1,
+    "future": 1,
+    "ghostface killah": 1,
+    "gucci mane": 1,
+    "gunna": 1,
+    "ice cube": 1,
+    "jack harlow": 1,
+    "jay-z": 1,
+    "j. cole": 1,
+    "jid": 1,
+    "juice wrld": 1,
+    "kanye west": 1,
+    "kendrick lamar": 1,
+    "kid cudi": 1,
+    "kodak black": 1,
+    "lil baby": 1,
+    "lil dicky": 1,
+    "lil durk": 1,
+    "lil nas x": 1,
+    "lil peep": 1,
+    "lil pump": 1,
+    "lil skies": 1,
+    "lil uzi vert": 1,
+    "lil wayne": 1,
+    "lil xan": 1,
+    "lil yachty": 1,
+    "logic": 1,
+    "machine gun kelly": 1,
+    "mac miller": 1,
+    "mario judah": 1,
+    "meek mill": 1,
+    "mf doom": 1,
+    "mos def": 1,
+    "nav": 1,
+    "nba youngboy": 1,
+    "nicki minaj": 1,
+    "nipsey hussle": 1,
+    "nle choppa": 1,
+    "offset": 1,
+    "pharrell williams": 1,
+    "pitbull": 1,
+    "playboi carti": 1,
+    "polo g": 1,
+    "pop smoke": 1,
+    "post malone": 1,
+    "pusha t": 1,
+    "rich the kid": 1,
+    "rick ross": 1,
+    "riff raff": 1,
+    "roddy ricch": 1,
+    "ryan reynolds": 1,
+    "schoolboy q": 1,
+    "ski mask the slump god": 1,
+    "slick rick": 1,
+    "snoop dogg": 1,
+    "soulja boy": 1,
+    "tee grizley": 1,
+    "the kid laroi": 1,
+    "the notorious b.i.g.": 1,
+    "tory lanez": 1,
+    "t-pain": 1,
+    "travis scott": 1,
+    "trippie redd": 1,
+    "tupac shakur": 1,
+    "tyler, the creator": 1,
+    "vanilla ice": 1,
+    "waka flocka flame": 1,
+    "wiz khalifa": 1,
+    "xxxtentacion": 1,
+    "yeat": 1,
+    "young thug": 1,
+    "yung gravy": 1
+  },
+  "Restaurateur": {
+    "guy fieri": 1
+  },
+  "Royalty": {
+    "charles, prince of wales": 1,
+    "cleopatra": 1,
+    "elizabeth of york": 1,
+    "henry viii": 1,
+    "king arthur": 1,
+    "king tutankhamun": 1,
+    "prince harry, duke of sussex": 1,
+    "princess diana": 1,
+    "queen elizabeth ii": 1,
+    "queen nefertiti": 1,
+    "salman of saudi arabia": 1
+  },
+  "Saint": {
+    "mother teresa": 1,
+    "santa claus": 1
+  },
+  "Scientist": {
+    "sigmund freud": 1
+  },
+  "Scientist ": {
+    "albert einstein": 1
+  },
+  "Singer": {
+    "adam levine": 1,
+    "akon": 1,
+    "ariana grande": 1,
+    "beyoncé": 1,
+    "billie eilish": 1,
+    "billy ray cyrus": 1,
+    "bob marley": 1,
+    "bruno mars": 1,
+    "doja cat": 1,
+    "dolly parton": 1,
+    "ed sheeran": 1,
+    "elton john": 1,
+    "elvis presley": 1,
+    "frank ocean": 1,
+    "frank sinatra": 1,
+    "freddie mercury": 1,
+    "george strait": 1,
+    "jake owen": 1,
+    "jason derulo": 1,
+    "jimi hendrix": 1,
+    "jj lin": 1,
+    "john lennon": 1,
+    "jon bon jovi": 1,
+    "jungkook": 1,
+    "justin bieber": 1,
+    "justin timberlake": 1,
+    "katy perry": 1,
+    "kesha": 1,
+    "khalid": 1,
+    "lady gaga": 1,
+    "luke combs": 1,
+    "madonna": 1,
+    "marvin gaye": 1,
+    "michael jackson": 1,
+    "mick jagger": 1,
+    "miley cyrus": 1,
+    "morgan wallen": 1,
+    "olivia rodrigo": 1,
+    "ozzy osbourne": 1,
+    "paul mccartney": 1,
+    "prince": 1,
+    "psy": 1,
+    "rihanna": 1,
+    "selena gomez": 1,
+    "sia": 1,
+    "stevie wonder": 1,
+    "sza": 1,
+    "taylor swift": 1
+  },
+  "Singer ": {
+    "the weeknd": 1
+  },
+  "TV Host": {
+    "bill nye": 1,
+    "david letterman": 1,
+    "dr. phil": 1,
+    "ellen degeneres": 1,
+    "fred rogers": 1,
+    "jay leno": 1,
+    "jimmy fallon": 1,
+    "oprah winfrey": 1
+  },
+  "TV HOST": {
+    "steve harvey": 1
+  },
+  "Vice President": {
+    "kamala harris": 1,
+    "mike pence": 1
+  },
+  "Viking": {
+    "leif erikson": 1
+  },
+  "Villian": {
+    "atoman": 1
+  },
+  "Volume": {
+    "ii": 51,
+    "iii": 50,
+    "iv": 51,
+    "ix": 50,
+    "specialty punk": 10,
+    "v": 50,
+    "vi": 51,
+    "vii": 50,
+    "viii": 50,
+    "x": 40,
+    "xi": 24
+  },
+  "World Leader": {
+    "benito mussolini": 1,
+    "boris johnson": 1,
+    "che guevara": 1,
+    "cyrus the great": 1,
+    "fidel castro": 1,
+    "genghis khan": 1,
+    "julius caesar": 1,
+    "kim jong-un": 1,
+    "mao zedong": 1,
+    "napoleon bonaparte": 1,
+    "vladimir putin": 1,
+    "vlad the impaler": 1,
+    "winston churchill": 1,
+    "xi jinping": 1
+  },
+  "Writer": {
+    "dr. seuss": 1,
+    "mark twain": 1
+  },
+  "Ye's Mom": {
+    "donda": 1
+  },
+  "Youtuber": {
+    "dream": 1
+  },
+  "Zookeeper": {
+    "steve irwin": 1
+  }
+}

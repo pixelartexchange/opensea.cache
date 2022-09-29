@@ -1,0 +1,44 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/31JvAt-DpqbAa7FVhl5xeYsPHns3OemhpBmYqJV2x9WJoV_VheNSRtfG5c19i8JOgi9TRAklTJSofpqjL9yYq__kukEPLMIbH307shY?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-10-03T20:46:28.548006",
+  "default_to_fiat": false,
+  "description": "Bonus: Swipe the floor (<0.5) of Goodbye Punks and get a free Punk's Hand \n opensea.io/collection/punks-hands\n\nGOODBYE PUNKS!\nWe all missed them. We all have FOMO. \nGoodbye Punks™ never turn face back to you.  All you can is to wave them, shout love or hate into their back as they go away. That does not matter, they don't care ;)\n\nThis is a homage collection of 100 digitally “hand-painted\" punks that features never seen before occiputs of OG Crypto Punks. \nAliens: 9\nApes: 14\nZombies: 14\nFemale: 32\nMale: 31\n\n⚠️This project is not affiliated with Larva Labs.\nCreated by @designcollector",
+  "dev_buyer_fee_basis_points": "0",
+  "dev_seller_fee_basis_points": "1000",
+  "discord_url": "https://discord.gg/xeksZ3ncQS",
+  "display_data": {
+    "card_display_style": "padded"
+  },
+  "external_url": "https://digitaldecade.net/goodbyepunks",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/QUJnkb-lEdMKG3BD7PyRRVR85jN8COtOpTaFSKNxLTb-y7rcLb9ffeas9IhHBVCi6vp1DLiBHO86WYeREwi5_P94zapumjo_zfvg?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/7o66g3_gBblAnLv3TxX1HsUDvpNKmUG9DQ9ELBlWndheJJAOjFtutcKSA1LB7TGTa2r9Wm-OtSyD5ixWZ8AYTkZIZ0x6UlEO_TWzkw?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/QUJnkb-lEdMKG3BD7PyRRVR85jN8COtOpTaFSKNxLTb-y7rcLb9ffeas9IhHBVCi6vp1DLiBHO86WYeREwi5_P94zapumjo_zfvg?w=500&auto=format",
+  "medium_username": null,
+  "name": "Goodbye Punks",
+  "only_proxied_transfers": false,
+  "opensea_buyer_fee_basis_points": "0",
+  "opensea_seller_fee_basis_points": "250",
+  "payout_address": "0x196ab3e637219ea9d2efdec0523006af0c1fc8f1",
+  "require_email": false,
+  "short_description": null,
+  "slug": "goodbye-punks",
+  "telegram_url": null,
+  "twitter_username": "goodbyepunks",
+  "instagram_username": "Dcn.nft",
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x196ab3e637219ea9d2efdec0523006af0c1fc8f1": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

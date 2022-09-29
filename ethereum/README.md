@@ -95,6 +95,34 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 </details>
 
 
+##  Dooggies
+
+opensea: [dooggies](https://opensea.io/collection/dooggies) - created on Jun 11, 2022<br>
+web:  <https://dooggies.com/><br>
+twitter: [DooggiesNFT](https://twitter.com/DooggiesNFT)<br>
+
+contracts (1):
+- **Dooggies (Dooggies)** created on Jun 11, 2022 @ [0xb4e62d6363f82e0e74e8963828815f907eab2c66](https://etherscan.io/address/0xb4e62d6363f82e0e74e8963828815f907eab2c66)
+
+stats:
+- count / total supply: 1756 / 1756, num owners:  154
+- total sales:  3, total volume: 0.41 ETH  (~ 531.70 USD)
+- average price: 0.14 ETH  (~ 177.23 USD)
+- floor price: 0.07 ETH  (~ 91.00 USD)
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (3):</summary>
+
+- Attribute (91)
+- Skin (5)
+- Mood (4)
+
+</details>
+
+
 ##  Pixel goblintown
 
 opensea: [pixel-goblintown](https://opensea.io/collection/pixel-goblintown) - created on May 21, 2022<br>
@@ -125,6 +153,35 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 - EYE ON RYG (7)
 - UNDNZHOOLE (7)
 - Trahfolln (8)
+
+</details>
+
+
+##  WastelandPunks
+
+opensea: [wastelandpunks](https://opensea.io/collection/wastelandpunks) - created on May 08, 2022<br>
+web:  <http://wastelandpunks.io><br>
+twitter: [WastelandPunks](https://twitter.com/WastelandPunks)<br>
+
+contracts (1):
+- **WastelandPunks (WST)** created on May 08, 2022 @ [0x48a4db0c92855ab80345c7848bf15b312f1049f2](https://etherscan.io/address/0x48a4db0c92855ab80345c7848bf15b312f1049f2)
+
+stats:
+- count / total supply: 397 / 397, num owners:  75
+- total sales:  0, total volume: 0.0 ETH  (~ 0.00 USD)
+- average price: 0.0 ETH  (~ 0.00 USD)
+- floor price: 0.04 ETH  (~ 52.00 USD)
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (4):</summary>
+
+- Type (5)
+- Background (3)
+- Accessory (73)
+- Unit (6)
 
 </details>
 
@@ -279,6 +336,67 @@ payments (5): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 </details>
 
 
+##  CryptoApes Official
+
+opensea: [cryptoapes-official](https://opensea.io/collection/cryptoapes-official) - created on Dec 30, 2021<br>
+twitter: [CryptoApes](https://twitter.com/CryptoApes)<br>
+
+contracts (1):
+- **CryptoApes (CRAP)** created on Dec 30, 2021 @ [0x29714cafe792ef8b8c649451d13c89e21a0d7f5b](https://etherscan.io/address/0x29714cafe792ef8b8c649451d13c89e21a0d7f5b)
+
+stats:
+- count / total supply: 6969 / 6969, num owners:  2037
+- total sales:  7456, total volume: 706.96 ETH  (~ 919052 USD)
+- average price: 0.09 ETH  (~ 123.26 USD)
+- floor price: 0.03 ETH  (~ 40.30 USD)
+
+fees: seller 6.9%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (6):</summary>
+
+- Background (8)
+- Fur (11)
+- Mouth (8)
+- Clothes (13)
+- Hat (9)
+- Eyes (8)
+
+</details>
+
+
+##  Basic Bored Ape Club
+
+opensea: [basicboredapeclub](https://opensea.io/collection/basicboredapeclub) - created on Dec 17, 2021<br>
+twitter: [BasicBoredApe](https://twitter.com/BasicBoredApe)<br>
+
+contracts (1):
+- **Basic Bored Ape Club (BBAC)** created on Dec 17, 2021 @ [0xd16bdccae06dfd701a59103446a17e22e9ca0ef0](https://etherscan.io/address/0xd16bdccae06dfd701a59103446a17e22e9ca0ef0)
+
+stats:
+- count / total supply: 10000 / 10000, num owners:  4593
+- total sales:  13252, total volume: 524.25 ETH  (~ 681525 USD)
+- average price: 0.04 ETH  (~ 51.43 USD)
+- floor price: 0.009 ETH  (~ 11.70 USD)
+
+fees: seller 7.5%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (7):</summary>
+
+- Background (8)
+- Fur (13)
+- Neck (11)
+- Mouth (19)
+- Eye (24)
+- Earring (6)
+- Head (44)
+
+</details>
+
+
 ##  Galactic Alien Social Club
 
 opensea: [galacticaliensocialclub](https://opensea.io/collection/galacticaliensocialclub) - created on Dec 16, 2021<br>
@@ -306,6 +424,46 @@ payments (9): SAND (SAND), Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WET
 - Head (100)
 - Mouth (19)
 - Extra (12)
+
+</details>
+
+
+##  BladeRunnerPunks
+
+opensea: [bladerunner-punks](https://opensea.io/collection/bladerunner-punks) - created on Dec 11, 2021<br>
+web:  <https://www.bladerunnerpunks.club/><br>
+twitter: [BladeRunnerPunk](https://twitter.com/BladeRunnerPunk)<br>
+
+contracts (1):
+- **BladeRunner Punks (BRP)** created on Dec 11, 2021 @ [0x0651132f094551f9d4e40de3e1e2f8b7ac149c3a](https://etherscan.io/address/0x0651132f094551f9d4e40de3e1e2f8b7ac149c3a)
+
+stats:
+- count / total supply: 9999 / 9999, num owners:  3995
+- total sales:  14406, total volume: 1456.85 ETH  (~ 1.9 million(s) USD)
+- average price: 0.10 ETH  (~ 131.47 USD)
+- floor price: 0.007 ETH  (~ 9.10 USD)
+
+fees: seller 0.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (15):</summary>
+
+- Rarity Class (6)
+- Type (7)
+- Ears (2)
+- Hair (46)
+- Lips (3)
+- Eyes (22)
+- Face (2)
+- Beard (12)
+- Emotion (2)
+- Mouth (4)
+- Neck (3)
+- Teeth (1)
+- Nose (1)
+- Cheeks (1)
+- Eye Pupils (1)
 
 </details>
 
@@ -373,35 +531,27 @@ payments (3): Ether (ETH), Wrapped Ether (WETH), USD Coin (USDC)
 </details>
 
 
-##  MorePunks
+##  CryptoWiener
 
-opensea: [morepunks](https://opensea.io/collection/morepunks) - created on Apr 03, 2021<br>
-web:  <https://www.morepunks.com/><br>
-twitter: [MorePunks](https://twitter.com/MorePunks)<br>
+opensea: [cryptowiener-4](https://opensea.io/collection/cryptowiener-4) - created on Nov 15, 2019<br>
+web:  <https://www.cryptowiener.com><br>
+twitter: [CryptoWiener_](https://twitter.com/CryptoWiener_)<br>
 
-contracts (0):
+contracts (1):
+- **Cryptowiener ()** created on Nov 15, 2019 @ [0xe73c9d94a542b1708450e13d12d4b38204dfd72c](https://etherscan.io/address/0xe73c9d94a542b1708450e13d12d4b38204dfd72c)
 
 stats:
-- count / total supply: 1012 / 1012, num owners:  388
-- total sales:  1712, total volume: 84.14 ETH  (~ 109383 USD)
-- average price: 0.05 ETH  (~ 63.89 USD)
-- floor price: 0.008 ETH  (~ 10.40 USD)
+- count / total supply: 200 / 200, num owners:  80
+- total sales:  145, total volume: 166.65 ETH  (~ 216642 USD)
+- average price: 1.15 ETH  (~ 1494 USD)
+- floor price: ???
 
-fees: seller 10.0%, opensea 2.5%
+fees: seller 2.0%, opensea 2.5%
 
-payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
+payments (5):  (VRON), Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
 
-<details><summary>attribute categories (9):</summary>
+<details><summary>attribute categories (0):</summary>
 
-- Accessory (62)
-- Facial Hair (9)
-- Facial Hair Colour (3)
-- Gender (3)
-- Hair (16)
-- Hair Colour (16)
-- Skin Tone (5)
-- Species (12)
-- Type (1)
 
 </details>
 

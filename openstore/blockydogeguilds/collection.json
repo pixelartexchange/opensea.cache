@@ -1,0 +1,44 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/VEn9f7ZlXUPMSo8P9lM7h5L_SUlkWlGZH6R29ZoHCMjiUN5gwb7Eq2On6BhKme_hJZi54EpTHSEWU-txHQ8f-F6C4d6Rpw79D6mJVA?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-10-09T00:35:57.171366",
+  "default_to_fiat": false,
+  "description": "Blocky Doge: Guilds is a collection of unique pixelated Doge avatars living on the Ethereum blockchain, extending the original 100 [Blocky Doge Collection](https://opensea.io/collection/blockydoge).  Created by the Dogecoin Founder. \n\nThis series contains 1000 avatars total. \n\nEach avatar flies the banner of one of five guilds, each with their own rich history, proudly represented by guild symbols and colors.\n\n**The Guilds**\n\nDo Only Good Everyday Senate - DOGES are lawful doges who strive to add joy to the world.\n\nLeague of So Scare - The LOSS doges, through control and extortion, live opulent lives.\n\n420 Syndicate - 420s are all about the good times. \n\nHouse of Wow - The HoW doges are willing to bend the rules, so long as it's for a good cause.\n\nLegion of lulz - LoL's main goal is to disrupt the status quo.\n\n(linked website, discord, and twitter are community created / run)",
+  "dev_buyer_fee_basis_points": "0",
+  "dev_seller_fee_basis_points": "500",
+  "discord_url": "https://discord.gg/aD5MBVTmju",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://blockydogeguilds.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/NDoGCpCUczzmcSObqrSqginFPzPbHwbPZTFJg8droDCtRuSGrya4qzqpMtciyKWhYJcgCaAY96a7_z-MBg0l5UXaAUyQYDcrbl84TA?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "verified",
+  "image_url": "https://i.seadn.io/gae/imfG5f2Ct5AyHaduMAPsTnPTSlxbdDXoYSjAvht3SGNKoIhgqnjndsNQOFIadrKQNdJZ2yemNHZmSvj5QuZggEXBs2Wu1YWM8ig7jQ?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/NDoGCpCUczzmcSObqrSqginFPzPbHwbPZTFJg8droDCtRuSGrya4qzqpMtciyKWhYJcgCaAY96a7_z-MBg0l5UXaAUyQYDcrbl84TA?w=500&auto=format",
+  "medium_username": null,
+  "name": "Blocky Doge: Guilds",
+  "only_proxied_transfers": false,
+  "opensea_buyer_fee_basis_points": "0",
+  "opensea_seller_fee_basis_points": "250",
+  "payout_address": "0x2218e854019d3ac7989333470e8cf7bda8b930f3",
+  "require_email": false,
+  "short_description": null,
+  "slug": "blockydogeguilds",
+  "telegram_url": null,
+  "twitter_username": "BillyM2k",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x2218e854019d3ac7989333470e8cf7bda8b930f3": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

@@ -1,0 +1,44 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/J89YB6db4s45ju0OzGEU268GUG_3xOGasuRvTHOzVZUdbtYD37_eTQboNs9Nkr8TX1uURVAuS4bBvWFXGno1db6F3aqQTPZHEdMq25A?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-09-11T03:35:33.036746",
+  "default_to_fiat": false,
+  "description": "Athlete CryptoPunks contains the biggest athletes.",
+  "dev_buyer_fee_basis_points": "0",
+  "dev_seller_fee_basis_points": "1000",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/MKqoAgdRuzheFUQRjmwELlKvueq5nEEf2E3ziH6xYy4NsOCOAx7hbFcWmq0JAw0beYlqaJlume3sjJdO2c3lms5jp0Pn7hEfWnnDTg?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": null,
+  "medium_username": null,
+  "name": "Athletes 101",
+  "only_proxied_transfers": false,
+  "opensea_buyer_fee_basis_points": "0",
+  "opensea_seller_fee_basis_points": "250",
+  "payout_address": "0x4234947e43a4c0745826fd0b34e047f1b4b2bded",
+  "require_email": false,
+  "short_description": null,
+  "slug": "athletes-101",
+  "telegram_url": null,
+  "twitter_username": "AgressiffStudio",
+  "instagram_username": "agressifff",
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x4234947e43a4c0745826fd0b34e047f1b4b2bded": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

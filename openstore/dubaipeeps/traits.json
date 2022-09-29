@@ -1,0 +1,159 @@
+{
+  "Collection": {
+    "min": 1,
+    "max": 4
+  },
+  "Twin": {
+    "min": 2,
+    "max": 2
+  },
+  "Category": {
+    "special edition": 102,
+    "regular character": 462,
+    "masterpiece": 15,
+    "special edtion": 1
+  },
+  "Background": {
+    "day": 165,
+    "dusk": 134,
+    "dawn": 128,
+    "night": 138,
+    "unique": 15
+  },
+  "Gender": {
+    "female": 167,
+    "male": 397,
+    "unknown": 16
+  },
+  "Headwear": {
+    "beanie": 15,
+    "hair clip": 2,
+    "ghutra": 71,
+    "fedora": 11,
+    "shaila": 20,
+    "niqab": 5,
+    "cap": 28,
+    "kippa": 2,
+    "taqiyah": 1,
+    "fancy hat": 3,
+    "hair band": 8,
+    "bandana": 9,
+    "two hair bands": 1,
+    "sweatband": 3,
+    "bucket hat": 4,
+    "crown": 1,
+    "top hat": 1,
+    "comb": 1,
+    "flat cap": 3,
+    "beret": 1,
+    "jewelry": 1,
+    "shemagh": 1,
+    "tiara": 1,
+    "helmet": 3,
+    "headband": 4,
+    "turban": 1,
+    "mask": 1,
+    "shower cap": 1,
+    "zucchetto": 1
+  },
+  "Aesthetics": {
+    "big lips": 44,
+    "nose job": 5,
+    "contact lenses": 6
+  },
+  "Face": {
+    "makeup": 47,
+    "beard": 275,
+    "mole": 19,
+    "spots": 9,
+    "eyebags": 60,
+    "freckles": 10,
+    "tattoo": 6,
+    "mask": 7,
+    "red eyes": 10,
+    "scar": 5,
+    "gold&diamonds": 1,
+    "golden beard": 2,
+    "robotic": 4,
+    "skull": 1,
+    "unique": 3,
+    "dimple": 1,
+    "blue eye": 1,
+    "3rd eye": 1,
+    "excessive makeup": 1,
+    "undefined": 1
+  },
+  "Hair": {
+    "wild": 28,
+    "colored": 34,
+    "cool cut": 30,
+    "side curls": 5,
+    "punk": 3,
+    "dreadlocks": 7,
+    "string": 3,
+    "man bun": 2,
+    "gold": 1,
+    "braids": 1
+  },
+  "Mouth": {
+    "teeth": 69,
+    "lipstick": 93,
+    "vape": 10,
+    "pout": 3,
+    "cigarette": 20,
+    "cigar": 12,
+    "gold teeth": 5,
+    "gold tooth": 4,
+    "missing tooth": 2,
+    "diamond grill": 1
+  },
+  "Jewelry": {
+    "earring": 116,
+    "double necklace": 27,
+    "necklace": 46,
+    "double earring": 6,
+    "nose ring": 2,
+    "precious stone": 1,
+    "tripple necklace": 1
+  },
+  "Accessories": {
+    "sunglasses": 52,
+    "glasses": 28,
+    "3d glasses": 12,
+    "monocle": 2,
+    "vr headset": 11,
+    "visor": 1,
+    "headset": 2,
+    "goggles": 1
+  },
+  "Branding": {
+    "p": 11,
+    "unknown": 12
+  },
+  "Appearance": {
+    "neck band": 5,
+    "hoodie": 21,
+    "burghu": 7,
+    "bindi": 3,
+    "turtle neck": 4,
+    "slim tie": 4,
+    "thobe": 3,
+    "scarf": 5,
+    "veins": 1,
+    "inflated brain": 1,
+    "frown lines": 1,
+    "jacket": 10,
+    "djellaba": 1,
+    "regular tie": 1,
+    "on fire": 1,
+    "shirt": 17,
+    "eye patch": 1,
+    "clerical collar": 1,
+    "ice": 1
+  },
+  "Identity": {
+    "twin": 4,
+    "geisha": 2,
+    "fictional": 2
+  }
+}

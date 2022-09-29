@@ -1,0 +1,109 @@
+{
+  "Background": {
+    "background1": 2546,
+    "background2": 1946,
+    "background3": 1358,
+    "background4": 446,
+    "background5": 255,
+    "background6": 76
+  },
+  "Beard": {
+    "beard1": 214,
+    "beard2": 410,
+    "beardinfluencer": 36,
+    "nobeard": 5966,
+    "nobeãrd": 1
+  },
+  "Clothing": {
+    "cloth1": 898,
+    "cloth2": 1331,
+    "cloth3": 28,
+    "cloth4": 650,
+    "cloth5": 1374,
+    "cloth6": 43,
+    "clothinfluencer": 36,
+    "nocloth": 2267
+  },
+  "Earrings": {
+    "earrings1": 1768,
+    "earrings2": 1005,
+    "earringsinfluencer": 36,
+    "noearrings": 3818
+  },
+  "Glasses": {
+    "glasses1": 903,
+    "glasses2": 251,
+    "glasses3": 71,
+    "glasses4": 906,
+    "glassesinfluencer": 22,
+    "glassesinfluencers": 14,
+    "noglasses": 4460
+  },
+  "Hair": {
+    "hair1": 945,
+    "hair10": 705,
+    "hair2": 486,
+    "hair3": 898,
+    "hair4": 179,
+    "hair5": 1052,
+    "hair6": 688,
+    "hair7": 473,
+    "hair8": 519,
+    "hair9": 36,
+    "hairinfluencer": 36,
+    "nohair": 610
+  },
+  "Hat": {
+    "hat1": 640,
+    "hat2": 1233,
+    "hat3": 583,
+    "hat4": 43,
+    "hat5": 49,
+    "hatinfluencer": 36,
+    "nohat": 4043
+  },
+  "Head": {
+    "head1": 756,
+    "head2": 789,
+    "head3": 767,
+    "head4": 806,
+    "head5": 847,
+    "head6": 863,
+    "head7": 888,
+    "head8": 875,
+    "influencer1": 6,
+    "influencer2": 6,
+    "influencer4": 6,
+    "influencer5": 6,
+    "influencer7": 6,
+    "influencer8": 6
+  },
+  "Jewelry": {
+    "jewelry1": 4195,
+    "jewelry2": 1040,
+    "jewelryinfluencer": 36,
+    "nojewelry": 1356
+  },
+  "Makeup": {
+    "makeup1": 864,
+    "makeup2": 913,
+    "makeupinfluencer": 36,
+    "noearrings": 18,
+    "nomakeup": 4796
+  },
+  "Mouth": {
+    "mouth1": 1365,
+    "mouth2": 1725,
+    "mouth3": 1710,
+    "mouth4": 1791,
+    "mouthinfluencer": 36
+  },
+  "Smoke": {
+    "nosmoke": 5113,
+    "smoke1": 993,
+    "smoke2": 373,
+    "smoke3": 37,
+    "smokeinfluencer": 22,
+    "smokeinfluencers": 14
+  }
+}

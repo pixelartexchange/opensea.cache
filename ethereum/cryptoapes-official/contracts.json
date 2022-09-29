@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0x29714cafe792ef8b8c649451d13c89e21a0d7f5b",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2021-12-30T01:10:25.036339",
+    "name": "CryptoApes",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 184642145,
+    "schema_name": "ERC721",
+    "symbol": "CRAP",
+    "total_supply": "0",
+    "description": "CryptoApes is the flagship character of Primary Alt- a modern studio focused on creating alternative identities and experiences through innovative NFT-based utilities and storytelling.\n\nHold at least one CryptoApes for access to unique experiences (treasure hunts), innovative upcoming utility (ability to temporarily transfer utility of any NFT), web3 education-focused Discord community, IRL events, and priority access to Primary Alt's marketplaces and ecosystem.",
+    "external_link": null,
+    "image_url": "https://i.seadn.io/gae/3lpmqtV5jHIGRb8MD4Ps4habSGNHm6zy2Kq1_hVKBflluFoEHDW9Hek6ZkRWeVAWwHp9dqbN8nQub3XsnUb2QYyyl787gkPSps0EUA?w=500&auto=format",
+    "default_to_fiat": false,
+    "dev_buyer_fee_basis_points": 0,
+    "dev_seller_fee_basis_points": 690,
+    "only_proxied_transfers": false,
+    "opensea_buyer_fee_basis_points": 0,
+    "opensea_seller_fee_basis_points": 250,
+    "buyer_fee_basis_points": 0,
+    "seller_fee_basis_points": 940,
+    "payout_address": "0x0c6e451963aece79c3551e13c9915be6160449bc"
+  }
+]

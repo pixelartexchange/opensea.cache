@@ -1,0 +1,44 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/C6-Qlgc1aK5wHNbF1lU6Z6HTFR41sL6LaIOT9S3FnXrEEJetFYDiXXB3IcG4dwZ_jmsR_jfB3ufcgepI3ENbIg3uztfaLsznYoO-IA?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-03-15T18:10:20.534335",
+  "default_to_fiat": false,
+  "description": "GeniusPunks are a punky-looking #NFT collection of famous geniuses. 42 geniuses only. Get your Genius now! Not affiliated w/LarvaLabs\n\n#UnofficialPunks #punkverse #GeniusPunks",
+  "dev_buyer_fee_basis_points": "0",
+  "dev_seller_fee_basis_points": "750",
+  "discord_url": "https://discord.gg/9BV9EtNE",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://twitter.com/GeniusPunks",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/fwi89I_rgIxTt2Za_RdOm3zlVCxVLOPEl2M2ZiQ4ek5zQqD-2FqPVHXJBGkLr28Tx8RV3D5rq8T5efuV2KzsqVbtVrN9KYRgPX3Cow?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/J583XQLypnvQ7P1D7pou37TXhzg5I2S1VHjyaTLrgJYi0gfjlEbYwMytbs2xyobDhAkEtQELW7buYFvDIx_67vlG9U5VftgVqJM1UA?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/fwi89I_rgIxTt2Za_RdOm3zlVCxVLOPEl2M2ZiQ4ek5zQqD-2FqPVHXJBGkLr28Tx8RV3D5rq8T5efuV2KzsqVbtVrN9KYRgPX3Cow?w=500&auto=format",
+  "medium_username": null,
+  "name": "Genius Punks",
+  "only_proxied_transfers": false,
+  "opensea_buyer_fee_basis_points": "0",
+  "opensea_seller_fee_basis_points": "250",
+  "payout_address": "0x8d89bb142ada8fe4636b512f6a2820b1b2d483d2",
+  "require_email": false,
+  "short_description": null,
+  "slug": "genius-punks",
+  "telegram_url": null,
+  "twitter_username": "GeniusPunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x8d89bb142ada8fe4636b512f6a2820b1b2d483d2": 750
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

@@ -1,0 +1,44 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/CDoptVvinnuTtVLYGvOlUllDCrbbNi13avHNalSV8NWGHpUOwyXlLLE9xtIg_kxHo5tNyN0HDfEKW9C2kelguveNvpfqGZCn1wSr6bc?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-01-16T04:50:29.747999",
+  "default_to_fiat": false,
+  "description": "933 PFP of Ghozali Everyday but in pixel and punk!\n\nMissed the Ghozali Everyday hype train? \n\nDo not miss this one!\n\nGhozaliPunk is going to be the next CryptoPunks! ",
+  "dev_buyer_fee_basis_points": "0",
+  "dev_seller_fee_basis_points": "1000",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/CDoptVvinnuTtVLYGvOlUllDCrbbNi13avHNalSV8NWGHpUOwyXlLLE9xtIg_kxHo5tNyN0HDfEKW9C2kelguveNvpfqGZCn1wSr6bc?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/cAsALpKnf_1mgF422-VfGVnTCl6ZnWYMYGDXrLzyujd4z1304ohUrw67wMfNkQB8r_5aAarHO1KvJl7DXV5FhVxfUmB8xr1twugDBHM?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/CDoptVvinnuTtVLYGvOlUllDCrbbNi13avHNalSV8NWGHpUOwyXlLLE9xtIg_kxHo5tNyN0HDfEKW9C2kelguveNvpfqGZCn1wSr6bc?w=500&auto=format",
+  "medium_username": null,
+  "name": "GhozaliPunk",
+  "only_proxied_transfers": false,
+  "opensea_buyer_fee_basis_points": "0",
+  "opensea_seller_fee_basis_points": "250",
+  "payout_address": "0xf4adbeba5d111a05edddb8f01273c38811a7f9ee",
+  "require_email": false,
+  "short_description": null,
+  "slug": "ghozalipunk",
+  "telegram_url": null,
+  "twitter_username": null,
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xf4adbeba5d111a05edddb8f01273c38811a7f9ee": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

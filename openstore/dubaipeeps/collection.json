@@ -1,0 +1,44 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/FS_PGLm8XxAR1jg1PQKHUn9Dshy5QmzdozvtUAHMyJkMPGyULbZlZH3mSx1V3yI6hNmMucSpMUcKmiFOFJP0tllzr7tfJuDKtMDgaQ?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-10-25T14:09:17.255147",
+  "default_to_fiat": false,
+  "description": "**DubaiPeeps** is the first **Dubai Community NFT Collection** that was handcrafted (not generated) as an homage to the people of Dubai. The collection holds a total of only **600 Single Edition NFTs**.\n**All of our characters are fictional and do not relate to, or represent an individual or entity.*\n\n**Utility for our exclusive holders:**\n\n- **Recipe mint for a 3D Peep as per the peep you hold OR free mint of a generated 3d Peep (only gas fees apply).**\n\n- **Mint all future projects at zero cost (only gas fees apply).**\n\n- **Passive income through royalties (3% of each project for our DubaiPeeps holders) from all future projects as per the DubaiPeeps you hold, categorized through rarity.**\n\n- **Access to customized Merch in real life and digital.**\n\n- **Exclusive access to our real life “Holders Only” events.**\n\n- **Own 10 or more DubaiPeeps to receive an airdrop of an AnonymousPeeps Genesis.** https://opensea.io/collection/anonymouspeeps-genesis",
+  "dev_buyer_fee_basis_points": "0",
+  "dev_seller_fee_basis_points": "1000",
+  "discord_url": "https://discord.gg/thepeepsproject",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "http://www.dubaipeeps.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/L3Pd5_lq2nVMLe3hPQa9-gbNMPIGgZm8zGfoqcdllit4mol7WFkpLI0MypSJ2qI9bu3MMgMW_WdJop_zDwKvuilslAm-2l9qcd7uDvs?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/10RtwTp90ilpWqgDypLf0rZ2mUA1c5xzwVOCTHKwuS9jFf4HZ172_vV7s-kX2KXC-c8oAXiJw0GKAqsfrCu58NGSjUSw6-jHqAESjQ?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/L3Pd5_lq2nVMLe3hPQa9-gbNMPIGgZm8zGfoqcdllit4mol7WFkpLI0MypSJ2qI9bu3MMgMW_WdJop_zDwKvuilslAm-2l9qcd7uDvs?w=500&auto=format",
+  "medium_username": null,
+  "name": "DubaiPeeps",
+  "only_proxied_transfers": false,
+  "opensea_buyer_fee_basis_points": "0",
+  "opensea_seller_fee_basis_points": "250",
+  "payout_address": "0xb628cd5a63f35f969cab477f1e8321e4f0d0b9f3",
+  "require_email": false,
+  "short_description": null,
+  "slug": "dubaipeeps",
+  "telegram_url": "https://t.me/dubaipeeps",
+  "twitter_username": "dubaipeeps",
+  "instagram_username": "dubai.peeps",
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xb628cd5a63f35f969cab477f1e8321e4f0d0b9f3": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

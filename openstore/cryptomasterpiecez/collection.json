@@ -1,0 +1,44 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/ZuJ9heT0X79iL_dHchGIHHTZwKyqIwGyvh9ElnEJtKnBAER0E6KWnYMz-5gY91CHW9voBLamoYO9sU3SNf1H9ntOtqtK9Bu5nCZokg?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-12-29T20:21:34.922817",
+  "default_to_fiat": false,
+  "description": "\"CryptoMasterpiecez\"  - For Those Who Appreciate Pictorial Art. This is a collection that consists of many World Masterpieces by famous painters around the world. In this collection you can find works by Van Gogh, Pablo Picasso, Frida Kahlo, Rene Magritte, Peter Paul Rubens, Niko Pirosmani, Paul Cézan, Henri Matisse, Francisco Goya and many others. All unique collectible items with proof of ownership stored on the Ethereum/Polygon blockchain.",
+  "dev_buyer_fee_basis_points": "0",
+  "dev_seller_fee_basis_points": "600",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/U4OT8cpXstpEcMKJBGu73na_AhtHoND8WvjEKVnwI2M8Mk2BhVid9cRuJbF8PsnBKeOUd7KiVcMOpKsspW3T5rakqVc3RlC8Z7-uqA?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/WWmD1s5m6ipO3HYv_XrrVXPBv3zNm_MyrJdIhqKrajX-cGybKnkBKJDqLOCxxw-jbzpKvfebyqNXiFM1WZCSrcyc0qNN29vYAEg8?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/U4OT8cpXstpEcMKJBGu73na_AhtHoND8WvjEKVnwI2M8Mk2BhVid9cRuJbF8PsnBKeOUd7KiVcMOpKsspW3T5rakqVc3RlC8Z7-uqA?w=500&auto=format",
+  "medium_username": null,
+  "name": "CryptoMasterpiecez",
+  "only_proxied_transfers": false,
+  "opensea_buyer_fee_basis_points": "0",
+  "opensea_seller_fee_basis_points": "250",
+  "payout_address": "0x9494fbd803712c39c586aab3379a5e7d23942bfc",
+  "require_email": false,
+  "short_description": null,
+  "slug": "cryptomasterpiecez",
+  "telegram_url": null,
+  "twitter_username": null,
+  "instagram_username": "raresance_nft/",
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x9494fbd803712c39c586aab3379a5e7d23942bfc": 600
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

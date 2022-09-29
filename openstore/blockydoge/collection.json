@@ -1,0 +1,44 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/ipiXiPVPWDVy3bPzc6IZ9WLjlRucAL9li5-OjUI8O-d2JAZKzJftaWhJhIwo8W9s4iqbX1MsVihozFwCf5CL8RfEJa04wkYFWOFzFA?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-09-15T17:57:42.801923",
+  "default_to_fiat": false,
+  "description": "Blocky Doge is a collection of 100 unique pixelated Doge avatars living on the Ethereum blockchain. Created by the Dogecoin Founder.\n\n(linked website, discord, and twitter are community created / run)",
+  "dev_buyer_fee_basis_points": "0",
+  "dev_seller_fee_basis_points": "500",
+  "discord_url": "https://discord.gg/aD5MBVTmju",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://blockydoge.com/",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "verified",
+  "image_url": "https://i.seadn.io/gae/C462NmvpbuPVL5DATSp1SlUyL6Vv23W4v3R71MslfUh1WYebCWLrAOphbQH-rQlw5wt7yxLRtK3fdRmF9CkL8CFkDnNWESG5Kas-?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": null,
+  "medium_username": null,
+  "name": "Blocky Doge",
+  "only_proxied_transfers": false,
+  "opensea_buyer_fee_basis_points": "0",
+  "opensea_seller_fee_basis_points": "250",
+  "payout_address": "0x2218e854019d3ac7989333470e8cf7bda8b930f3",
+  "require_email": false,
+  "short_description": null,
+  "slug": "blockydoge",
+  "telegram_url": null,
+  "twitter_username": "BillyM2k",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x2218e854019d3ac7989333470e8cf7bda8b930f3": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

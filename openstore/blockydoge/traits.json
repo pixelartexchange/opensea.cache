@@ -1,0 +1,50 @@
+{
+  "Accessories": {
+    "none": 11
+  },
+  "Collar": {
+    "bitcoin crypto collar": 1,
+    "dogecoin crypto collar": 2,
+    "ethereum crypto collar": 1
+  },
+  "Expression": {
+    "cream fur": 1,
+    "laughing": 6,
+    "pouty": 2,
+    "sad": 2,
+    "shocked": 2,
+    "sleepy": 2,
+    "smiley": 2,
+    "tongue out": 7
+  },
+  "Fur": {
+    "black and tan fur": 19,
+    "cream fur": 20,
+    "meme fur": 22,
+    "red fur": 19,
+    "sesame fur": 19
+  },
+  "Glasses": {
+    "black glasses": 6,
+    "blue glasses": 6,
+    "maroon glasses": 6,
+    "sunglasses": 5,
+    "teal glasses": 7
+  },
+  "Hat": {
+    "black cap": 6,
+    "blue cap": 6,
+    "blue party hat": 5,
+    "green cap": 5,
+    "green party hat": 6,
+    "orange cap": 5,
+    "pink cap": 5,
+    "pink party hat": 7,
+    "white cap": 5
+  },
+  "Mask": {
+    "hodl mask": 1,
+    "lavender mask": 5,
+    "salmon mask": 6
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "banner_image_url": null,
+  "chat_url": null,
+  "created_date": "2019-11-15T07:54:51.221096",
+  "default_to_fiat": false,
+  "description": "most famous collectibles...\nthe cryptowieners are 32x32 pixel art images, all hand drawn and unique!\nLeiwand!",
+  "dev_buyer_fee_basis_points": "0",
+  "dev_seller_fee_basis_points": "200",
+  "discord_url": "https://discord.gg/J4McEA4",
+  "display_data": {
+    "card_display_style": "padded"
+  },
+  "external_url": "https://www.cryptowiener.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/jdCbMOj84NeQ62OYgyeZnC702xGdV0JnQ36-Qo8HLA_wReazf8PVbrDrq_Nr8WbJaWpJx2jdxOkw-xqgAfAG0O0M?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "verified",
+  "image_url": "https://i.seadn.io/gae/HyxNCbw5cSH4IYghVMWnz9heKkShyGtaU954-0AGFR_g9bAzqu4e6XRyiLr6NDutOj1uX5fY-8b9ayo-8ZG_FI-z8_9Mptyvlfdd?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/jdCbMOj84NeQ62OYgyeZnC702xGdV0JnQ36-Qo8HLA_wReazf8PVbrDrq_Nr8WbJaWpJx2jdxOkw-xqgAfAG0O0M?w=500&auto=format",
+  "medium_username": null,
+  "name": "CryptoWiener",
+  "only_proxied_transfers": false,
+  "opensea_buyer_fee_basis_points": "0",
+  "opensea_seller_fee_basis_points": "250",
+  "payout_address": "0x93ccbd66db522b729c06d3a8345b7935a103291a",
+  "require_email": false,
+  "short_description": null,
+  "slug": "cryptowiener-4",
+  "telegram_url": null,
+  "twitter_username": "CryptoWiener_",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x93ccbd66db522b729c06d3a8345b7935a103291a": 200
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

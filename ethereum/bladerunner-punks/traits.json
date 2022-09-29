@@ -1,0 +1,145 @@
+{
+  "Rarity Class": {
+    "normal": 6109,
+    "rare": 779,
+    "uncommon": 2315,
+    "epic": 540,
+    "legendary": 219,
+    "mythical": 38
+  },
+  "Type": {
+    "female": 3839,
+    "male": 5911,
+    "android": 124,
+    "zombie": 88,
+    "ape": 24,
+    "alien": 9,
+    "replicant": 5
+  },
+  "Ears": {
+    "earring": 2462,
+    "earring both ears": 5
+  },
+  "Hair": {
+    "mohawk": 452,
+    "frumpy hair": 347,
+    "do-rag": 248,
+    "vampire hair": 120,
+    "mohawk dark": 445,
+    "knitted cap": 420,
+    "mohawk thin": 380,
+    "wild white hair": 152,
+    "wild blonde": 170,
+    "pigtails": 104,
+    "fedora": 177,
+    "cap forward": 241,
+    "bandana": 396,
+    "police cap": 228,
+    "wild hair": 432,
+    "red mohawk": 160,
+    "tiara": 83,
+    "messy hair": 427,
+    "cowboy hat": 193,
+    "dark hair": 148,
+    "blonde bob": 159,
+    "peak spike": 285,
+    "straight hair dark": 164,
+    "shaved head": 277,
+    "pilot helmet": 44,
+    "beanie": 71,
+    "crazy hair red": 403,
+    "cap": 378,
+    "half shaved": 136,
+    "stringy hair": 366,
+    "top hat": 135,
+    "blonde short": 135,
+    "headband": 383,
+    "straight hair blonde": 144,
+    "hoodie": 322,
+    "tassle hat": 128,
+    "orange side": 81,
+    "straight hair": 156,
+    "clown hair green": 176,
+    "purple hair": 190,
+    "pink with hat": 83,
+    "white hair": 9,
+    "freak spike": 11,
+    "crazy hair gold": 4,
+    "crazy hair black": 3,
+    "headphones": 3
+  },
+  "Lips": {
+    "purple lipstick": 745,
+    "hot lipstick": 942,
+    "black lipstick": 490
+  },
+  "Eyes": {
+    "blue eye shadow": 245,
+    "vr": 413,
+    "eye patch": 497,
+    "classic shades": 591,
+    "green eye shadow": 244,
+    "horned rim glasses": 547,
+    "regular shades": 657,
+    "clown eyes blue": 330,
+    "big shades": 627,
+    "clown eyes green": 287,
+    "3d glasses": 438,
+    "small shades": 426,
+    "eye mask": 507,
+    "vr scanner": 15,
+    "nerd glasses": 697,
+    "purple eye shadow": 239,
+    "welding goggles": 111,
+    "multicolor visor": 12,
+    "cool shades green": 9,
+    "cool shades blue": 7,
+    "3d glasses black": 11,
+    "cool shades red": 5
+  },
+  "Face": {
+    "mole": 858,
+    "spots": 153
+  },
+  "Beard": {
+    "chinstrap": 266,
+    "muttonchops": 284,
+    "mustache": 294,
+    "normal beard": 375,
+    "front beard": 337,
+    "goat": 337,
+    "normal beard black": 411,
+    "handlebars": 275,
+    "front beard dark": 314,
+    "big beard": 167,
+    "shadow beard": 695,
+    "luxurious beard": 294
+  },
+  "Emotion": {
+    "frown": 266,
+    "smile": 377
+  },
+  "Mouth": {
+    "vape": 830,
+    "cigarette": 1065,
+    "pipe": 584,
+    "medical mask": 148
+  },
+  "Neck": {
+    "choker": 64,
+    "gold chain": 318,
+    "silver chain": 212
+  },
+  "Teeth": {
+    "buck teeth": 77
+  },
+  "Nose": {
+    "clown nose": 159
+  },
+  "Cheeks": {
+    "rosy cheeks": 148
+  },
+  "Eye Pupils": {
+    "replicant blue": 5
+  }
+}
