@@ -14,13 +14,6 @@
     "external_link": "http://binaryapes.org/",
     "image_url": "https://i.seadn.io/gae/g7pIc0R_0M0OmLDHaTCRRHDFgfzW4w1vx_IxbqhfuxNiyFDYwp98_sGYz0gPyDA0lXGoPRy1AkGLpxtTqqwXiedwvHNuAZ6FE9iVng?w=500&auto=format",
     "default_to_fiat": false,
-    "dev_buyer_fee_basis_points": 0,
-    "dev_seller_fee_basis_points": 900,
-    "only_proxied_transfers": false,
-    "opensea_buyer_fee_basis_points": 0,
-    "opensea_seller_fee_basis_points": 250,
-    "buyer_fee_basis_points": 0,
-    "seller_fee_basis_points": 1150,
-    "payout_address": "0x1958b24d214b07a1ee8606a450573be48eda5b4e"
+    "only_proxied_transfers": false
   }
 ]

@@ -4,8 +4,6 @@
   "created_date": "2021-08-13T13:46:05.235729",
   "default_to_fiat": false,
   "description": "Collection of only 500 Figure Punks living on the ETH Blockchain, based on famous figure, characters. Each Figure Punks is unique and manually created by hands\n\n[Twitter](https://twitter.com/FigurePunks) | [Discord](https://discord.gg/FEVNCuuvut)",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "1000",
   "discord_url": null,
   "display_data": {
     "card_display_style": "cover"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "Figure Punks",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0x6cba43a7b6ebe99882b212ee12748a7238e303da",
   "require_email": false,
   "short_description": null,
   "slug": "figurepunks",

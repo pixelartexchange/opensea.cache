@@ -4,8 +4,6 @@
   "created_date": "2021-11-28T22:47:18.461553",
   "default_to_fiat": false,
   "description": "Afro-Punks is an NFT collection inspired by the CryptoPunks and illustrated by professional NFT artists.\n\nThe project aims to support children in need and orphans in various parts of the world through the proceeds.\n\n10% of all proceeds go to charity.",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "0",
   "discord_url": null,
   "display_data": {
     "card_display_style": "cover"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "Afro-Punks #",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": null,
   "require_email": false,
   "short_description": null,
   "slug": "beautiful-female-punks",

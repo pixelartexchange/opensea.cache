@@ -4,8 +4,6 @@
   "created_date": "2017-06-23T20:55:07",
   "default_to_fiat": false,
   "description": "CryptoPunks launched as a fixed set of 10,000 items in mid-2017 and became one of the inspirations for the ERC-721 standard. They have been featured in places like The New York Times, Christie’s of London, Art|Basel Miami, and The PBS NewsHour.",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "0",
   "discord_url": "https://discord.gg/tQp4pSE",
   "display_data": {
     "card_display_style": "cover"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "CryptoPunks",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": null,
   "require_email": false,
   "short_description": null,
   "slug": "cryptopunks",

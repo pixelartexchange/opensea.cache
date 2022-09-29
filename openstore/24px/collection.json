@@ -4,8 +4,6 @@
   "created_date": "2021-08-02T13:02:32.742764",
   "default_to_fiat": false,
   "description": "24px cats! 9900 algorithmically composed unique pixelcats in the original CryptoPunk 24x24 format! Each trait handcrafted! Happy hunting for the special one :)!\n\nNot affiliated with Cool Cats NFT.\n",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "250",
   "discord_url": null,
   "display_data": {
     "card_display_style": "padded"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "24px",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0x542f1bfa97b1b2e1046abbf3e5c419bc1d1fa418",
   "require_email": false,
   "short_description": null,
   "slug": "24px",

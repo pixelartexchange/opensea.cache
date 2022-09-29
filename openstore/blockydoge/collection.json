@@ -4,8 +4,6 @@
   "created_date": "2021-09-15T17:57:42.801923",
   "default_to_fiat": false,
   "description": "Blocky Doge is a collection of 100 unique pixelated Doge avatars living on the Ethereum blockchain. Created by the Dogecoin Founder.\n\n(linked website, discord, and twitter are community created / run)",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "500",
   "discord_url": "https://discord.gg/aD5MBVTmju",
   "display_data": {
     "card_display_style": "contain"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "Blocky Doge",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0x2218e854019d3ac7989333470e8cf7bda8b930f3",
   "require_email": false,
   "short_description": null,
   "slug": "blockydoge",

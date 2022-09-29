@@ -4,8 +4,6 @@
   "created_date": "2021-04-15T01:33:44.200111",
   "default_to_fiat": false,
   "description": "\nClout Punks is a PFP project that turns your favorite public icons into their very own Cryptopunk!\n\n\nClout Punks are the original punks inspired by the likes of rappers, singers, actors, world leaders, internet personalities, billionaires and much more. All Clout Punks are 1/1 and will never be minted again. \n\n\nEach volume incliudes its own unique background color, which is also never repeated.\n\n\nThis project is inspired by the OG cryptopunks and is NOT affiliated with Larva Labs.",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "800",
   "discord_url": "https://discord.gg/JWbhfJnxES",
   "display_data": {
     "card_display_style": "cover"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "Clout Punks",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0xacb3a1d7391da281b3d6f7565f81b7b4865efcb8",
   "require_email": false,
   "short_description": null,
   "slug": "clout-punks",

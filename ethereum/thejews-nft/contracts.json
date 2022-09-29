@@ -14,13 +14,6 @@
     "external_link": "https://thejewsnft.com/",
     "image_url": "https://i.seadn.io/gcs/files/de402a0bdf26c744ccaf272d4baeb318.png?w=500&auto=format",
     "default_to_fiat": false,
-    "dev_buyer_fee_basis_points": 0,
-    "dev_seller_fee_basis_points": 1000,
-    "only_proxied_transfers": false,
-    "opensea_buyer_fee_basis_points": 0,
-    "opensea_seller_fee_basis_points": 250,
-    "buyer_fee_basis_points": 0,
-    "seller_fee_basis_points": 1250,
-    "payout_address": "0x34e59c038a80e890b251b842b3742efbef53f54d"
+    "only_proxied_transfers": false
   }
 ]

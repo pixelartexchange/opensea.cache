@@ -4,8 +4,6 @@
   "created_date": "2021-04-03T23:06:14.603776",
   "default_to_fiat": false,
   "description": "✨ Our new collection [MOREPUNKS OUTFITS](https://opensea.io/collection/morepunks-outfits) is OUT NOW! ✨\n\nMorePunks are new generation of 1,000 More Punks inspired by the originals! 🎉\n\nFeaturing all new attributes & 7 NEW SPECIES! 👀\n\nWebsite: [morepunks.com](https://www.morepunks.com/)",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "1000",
   "discord_url": null,
   "display_data": {
     "card_display_style": "contain"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "MorePunks",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0xa4abf37c95dd90e1f4fd2bc5d519d9deea19609c",
   "require_email": false,
   "short_description": null,
   "slug": "morepunks",

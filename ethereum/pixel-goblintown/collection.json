@@ -4,8 +4,6 @@
   "created_date": "2022-05-21T22:51:23.849032",
   "default_to_fiat": false,
   "description": "Pixel AAAAAAAUUUUUGGGHHHHH gobblins goblinns GOBLINNNNNNNNns wekm ta goblintown yoo sniksnakr DEJEN RATS oooooh rats are yummmz dis a NEFTEEE O GOBBLINGS on da BLOKCHIN wat? oh. crustybutt da goblinking say GEE EMMM DEDJEN RUTS an queenie saay HLLO SWEATIES ok dats all byeby - 0% Royalties",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "0",
   "discord_url": null,
   "display_data": {
     "card_display_style": "contain"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "Pixel goblintown",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0x474a6f7864064d3b4fb9f0e53c43b36ba5b96204",
   "require_email": false,
   "short_description": null,
   "slug": "pixel-goblintown",

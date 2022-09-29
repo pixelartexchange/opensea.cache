@@ -4,8 +4,6 @@
   "created_date": "2021-06-15T02:24:05.661464",
   "default_to_fiat": false,
   "description": "A beautiful collection of the lovely Doge, inspired by the cryptopunks.\n           Each DogePunk will be released in a single copy 1/1.\n                         There will only be 150 Dogepunks.\n\n  DISCLAIMER: THIS PROJECT IS NOT AFFILIATED WITH LARVA LABS",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "1000",
   "discord_url": null,
   "display_data": {
     "card_display_style": "cover"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "DogePunks.",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0x6e7171909304f1ec2c6f4973ec66ebb076efa19c",
   "require_email": false,
   "short_description": null,
   "slug": "dogepunks-collection",

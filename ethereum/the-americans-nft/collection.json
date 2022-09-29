@@ -4,8 +4,6 @@
   "created_date": "2022-07-14T18:14:36.939112",
   "default_to_fiat": false,
   "description": "The Americans are here to become the wealthiest group in the world. #THEAMERICANS.\n\nLink to token website: https://theamericans.io/\n\nLink to token: https://www.dextools.io/app/ether/pair-explorer/0xbbe19f3bed49191f341d58a00088144ba2ab48f9\n\nLink to Scrolls: https://opensea.io/collection/scroll-of-independence-by-the-americans-nft\n\nLink to staking website: https://theamericans.io/nft",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "750",
   "discord_url": null,
   "display_data": {
     "card_display_style": "contain"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "The Americans NFT",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0xd8373d95c2a6fd302704d7089304510fcf7cec3c",
   "require_email": false,
   "short_description": null,
   "slug": "the-americans-nft",

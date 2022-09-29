@@ -4,8 +4,6 @@
   "created_date": "2021-07-01T20:35:21.799434",
   "default_to_fiat": false,
   "description": "CryptoPunks created from a frontal perspective. \n\nJust art. Just vibes. No roadmaps. No DAO. No utility. No discord.",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "1000",
   "discord_url": null,
   "display_data": {
     "card_display_style": "contain"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "CryptoFrontPunks",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0x6e7171909304f1ec2c6f4973ec66ebb076efa19c",
   "require_email": false,
   "short_description": null,
   "slug": "frontphunks",

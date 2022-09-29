@@ -4,8 +4,6 @@
   "created_date": "2021-11-05T22:01:32.211402",
   "default_to_fiat": false,
   "description": "Chain Runners are Mega City renegades 100% stored and generated on chain.\n\nVisit https://chainrunners.xyz to find out more.",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "250",
   "discord_url": "https://discord.gg/f3sk2u4uKN",
   "display_data": {
     "card_display_style": "contain"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "Chain Runners",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0x49a966cef7bbb8b426e7b6bb264dda279a354a5f",
   "require_email": false,
   "short_description": null,
   "slug": "chain-runners-nft",

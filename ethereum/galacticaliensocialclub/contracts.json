@@ -14,13 +14,6 @@
     "external_link": "https://www.galacticaliensocialclub.com",
     "image_url": "https://i.seadn.io/gcs/files/9ea3defbcc046786a3b3a1698453907d.gif?w=500&auto=format",
     "default_to_fiat": false,
-    "dev_buyer_fee_basis_points": 0,
-    "dev_seller_fee_basis_points": 1000,
-    "only_proxied_transfers": false,
-    "opensea_buyer_fee_basis_points": 0,
-    "opensea_seller_fee_basis_points": 250,
-    "buyer_fee_basis_points": 0,
-    "seller_fee_basis_points": 1250,
-    "payout_address": "0x6d010cd9004120e1740287959f2fa3c01268a016"
+    "only_proxied_transfers": false
   }
 ]

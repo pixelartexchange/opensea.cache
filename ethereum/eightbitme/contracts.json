@@ -14,13 +14,6 @@
     "external_link": "https://eightbit.me",
     "image_url": "https://i.seadn.io/gae/mgRNPM0zN6K_oUSFb502luUZjK4MsC8UTX6cNIjlwBG7BySnG_j-NSUUHC9g8Y_gd1M5yVGGWfR8-39rAGgk15N1IoBzN4F0JgQ3n_8?w=500&auto=format",
     "default_to_fiat": false,
-    "dev_buyer_fee_basis_points": 0,
-    "dev_seller_fee_basis_points": 500,
-    "only_proxied_transfers": false,
-    "opensea_buyer_fee_basis_points": 0,
-    "opensea_seller_fee_basis_points": 250,
-    "buyer_fee_basis_points": 0,
-    "seller_fee_basis_points": 750,
-    "payout_address": "0x24ed60fc0963f19db8ed06aa52d14b6d9ea3b872"
+    "only_proxied_transfers": false
   }
 ]

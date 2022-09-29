@@ -4,8 +4,6 @@
   "created_date": "2021-09-11T03:35:33.036746",
   "default_to_fiat": false,
   "description": "Athlete CryptoPunks contains the biggest athletes.",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "1000",
   "discord_url": null,
   "display_data": {
     "card_display_style": "cover"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "Athletes 101",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0x4234947e43a4c0745826fd0b34e047f1b4b2bded",
   "require_email": false,
   "short_description": null,
   "slug": "athletes-101",

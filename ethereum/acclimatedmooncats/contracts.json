@@ -14,13 +14,6 @@
     "external_link": "https://mooncat.community",
     "image_url": "https://i.seadn.io/gcs/files/93ea4724fcb5596e34f3af1b63c9d7c6.gif?w=500&auto=format",
     "default_to_fiat": false,
-    "dev_buyer_fee_basis_points": 0,
-    "dev_seller_fee_basis_points": 300,
-    "only_proxied_transfers": false,
-    "opensea_buyer_fee_basis_points": 0,
-    "opensea_seller_fee_basis_points": 250,
-    "buyer_fee_basis_points": 0,
-    "seller_fee_basis_points": 550,
-    "payout_address": "0xa9913c13402939d68eac0dfb7f97760acd217c81"
+    "only_proxied_transfers": false
   }
 ]

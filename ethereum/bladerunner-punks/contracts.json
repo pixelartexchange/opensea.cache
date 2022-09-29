@@ -14,13 +14,6 @@
     "external_link": "https://www.bladerunnerpunks.club/",
     "image_url": "https://i.seadn.io/gae/D58wRFlGekGrj_d4SiK-mMqe-yjne5DMNulqg-oiUm2LysQuwZ2HkI8io-zDONJUwAqx0Qb-JCeYQ5cWjGSXtKJnz9tyl136UkSTTfQ?w=500&auto=format",
     "default_to_fiat": false,
-    "dev_buyer_fee_basis_points": 0,
-    "dev_seller_fee_basis_points": 2,
-    "only_proxied_transfers": false,
-    "opensea_buyer_fee_basis_points": 0,
-    "opensea_seller_fee_basis_points": 250,
-    "buyer_fee_basis_points": 0,
-    "seller_fee_basis_points": 252,
-    "payout_address": "0x43f711e89aca714db70df6a3ef8f580db1202638"
+    "only_proxied_transfers": false
   }
 ]

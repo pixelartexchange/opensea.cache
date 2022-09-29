@@ -4,8 +4,6 @@
   "created_date": "2022-05-08T19:20:52.631724",
   "default_to_fiat": false,
   "description": "MINT FOR 0.005! [Website](https://wastelandpunks.io)\n｜\n[Discord](https://discord.gg/wastelandpunks)\n｜\n[Twitter](https://twitter.com/WastelandPunks)\n\n**The year is 3048.**\n\nCan you imagine a world is in ruins after series of terrible nuclear wars? We believe you can't! In this world where radiation is rampant and water is more valuable than Ethereum, humanity has to start all over again.\n\n#CanYouSurviveHere ?",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "500",
   "discord_url": "https://discord.gg/wastelandpunks",
   "display_data": {
     "card_display_style": "contain"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "WastelandPunks",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0x819a41a246483d3857ea576b7b2334f57960227d",
   "require_email": false,
   "short_description": null,
   "slug": "wastelandpunks",

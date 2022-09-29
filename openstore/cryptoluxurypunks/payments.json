@@ -1,0 +1,42 @@
+[
+  {
+    "id": 13689077,
+    "symbol": "ETH",
+    "address": "0x0000000000000000000000000000000000000000",
+    "image_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+    "name": "Ether",
+    "decimals": 18
+  },
+  {
+    "id": 4645681,
+    "symbol": "WETH",
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "image_url": "https://openseauserdata.com/files/accae6b6fb3888cbff27a013729c22dc.svg",
+    "name": "Wrapped Ether",
+    "decimals": 18
+  },
+  {
+    "id": 4403908,
+    "symbol": "USDC",
+    "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "image_url": "https://openseauserdata.com/files/749015f009a66abcb3bbb3502ae2f1ce.svg",
+    "name": "USD Coin",
+    "decimals": 6
+  },
+  {
+    "id": 16085533,
+    "symbol": "WBTC",
+    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "image_url": "https://lh3.googleusercontent.com/c27cOa6AQ2-KlTy7VISxxc8kz09IGQYNT6OcozqKTtDvfFqnJ7GN27OxFkICDqhuu9Kls3S5r-48QefBw7AMBKkryw=s120",
+    "name": "Wrapped BTC",
+    "decimals": 8
+  },
+  {
+    "id": 39950859,
+    "symbol": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "image_url": "https://lh3.googleusercontent.com/iV4h4onAzSfMufjf8aUGmnoPu5oJ_5LrAc1GVg5dW0NLxvIybkF-DTrw6XlCfeqAs1E0uld1UwlDq79meKL001H-ViZPv0Blt9eTlg=s120",
+    "name": "SHIBA INU",
+    "decimals": 18
+  }
+]

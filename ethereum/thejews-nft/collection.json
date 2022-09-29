@@ -4,8 +4,6 @@
   "created_date": "2022-07-17T13:50:09.222846",
   "default_to_fiat": false,
   "description": "Saudis may be bidding Bitcoin, but who is bidding Saudis? 🇮🇱 5555 Jews are MAX BIDDING THE WORLD",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "1000",
   "discord_url": "https://discord.gg/thejews",
   "display_data": {
     "card_display_style": "contain"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "TheJewsNFT",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0x34e59c038a80e890b251b842b3742efbef53f54d",
   "require_email": false,
   "short_description": null,
   "slug": "thejews-nft",

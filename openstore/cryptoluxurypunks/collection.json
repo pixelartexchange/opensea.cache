@@ -4,8 +4,6 @@
   "created_date": "2021-09-05T15:29:59.903108",
   "default_to_fiat": false,
   "description": "Join us at the luxury resort! After all mints, a total of 10,000 unique LuxuryPunks with rare and super-rare features will have joined the resort.\n\nJoin the luxurious community: \n\nhttps://discord.com/invite/R749uUSJQv\n\nhttps://t.me/billiontoken_bll\n\nWebsite:\nhttps://luxurypunks.io/\n\nFloor price will double at 5k and again at 7.5k mints.\n\nUltra-rare features include crowns, round glasses, big afros for women, high hats, smoking pipe, brown coats, pink dresses, or light-beige backgrounds. Combinations of these properties increase the rarity of LuxuryPunks significantly (e.g., round glasses + golden background)!\n",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "1000",
   "discord_url": "https://discord.gg/invite/R749uUSJQv",
   "display_data": {
     "card_display_style": "contain"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "CryptoLuxuryPunks",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0x7bb96fa146674b365bf30bfd8a5db3bf5ea9436d",
   "require_email": false,
   "short_description": null,
   "slug": "cryptoluxurypunks",

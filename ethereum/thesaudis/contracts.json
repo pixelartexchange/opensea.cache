@@ -14,13 +14,6 @@
     "external_link": "https://www.thesaudisnft.com",
     "image_url": "https://i.seadn.io/gcs/files/2672eeeeaa51eaa4bf32b5d0280c0e3d.png?w=500&auto=format",
     "default_to_fiat": false,
-    "dev_buyer_fee_basis_points": 0,
-    "dev_seller_fee_basis_points": 750,
-    "only_proxied_transfers": false,
-    "opensea_buyer_fee_basis_points": 0,
-    "opensea_seller_fee_basis_points": 250,
-    "buyer_fee_basis_points": 0,
-    "seller_fee_basis_points": 1000,
-    "payout_address": "0xbfe5d10f8deded4706c212399d74289f860ac289"
+    "only_proxied_transfers": false
   }
 ]

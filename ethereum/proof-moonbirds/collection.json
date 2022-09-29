@@ -4,8 +4,6 @@
   "created_date": "2022-04-15T17:27:27.561334",
   "default_to_fiat": false,
   "description": "A collection of 10,000 utility-enabled PFPs that feature a richly diverse and unique pool of rarity-powered traits. What's more, each Moonbird unlocks private club membership and additional benefits the longer you hold them. We call it nesting – because, obviously.",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "500",
   "discord_url": "https://discord.gg/proof",
   "display_data": {
     "card_display_style": "contain"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "Moonbirds",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0xc8a5592031f93debea5d9e67a396944ee01bb2ca",
   "require_email": false,
   "short_description": null,
   "slug": "proof-moonbirds",

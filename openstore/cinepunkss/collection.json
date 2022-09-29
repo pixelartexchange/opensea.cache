@@ -4,8 +4,6 @@
   "created_date": "2021-07-31T07:57:18.562549",
   "default_to_fiat": false,
   "description": "**DO NOT BUY FOR MINTPASS PURPOSES!**\n\nTHE SNAPSHOT HAS BEEN TAKEN!\n\n[Discord](https://discord.gg/wastelandpunks)\n｜\n[Twitter](https://twitter.com/CinePunks)\n\nMobs, Vampires, Cowboys, Freaks, Fathers, Killers, Cops or Thiefs...\n\nWho is your favourite movie characater?\n\nThere will be 350 unique 1/1 (+Specials) CinePunks all handcrafted!",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "250",
   "discord_url": "https://discord.gg/wastelandpunks",
   "display_data": {
     "card_display_style": "contain"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "CinePunks",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0x819a41a246483d3857ea576b7b2334f57960227d",
   "require_email": false,
   "short_description": null,
   "slug": "cinepunkss",

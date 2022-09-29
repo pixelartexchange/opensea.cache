@@ -4,8 +4,6 @@
   "created_date": "2021-10-25T14:09:17.255147",
   "default_to_fiat": false,
   "description": "**DubaiPeeps** is the first **Dubai Community NFT Collection** that was handcrafted (not generated) as an homage to the people of Dubai. The collection holds a total of only **600 Single Edition NFTs**.\n**All of our characters are fictional and do not relate to, or represent an individual or entity.*\n\n**Utility for our exclusive holders:**\n\n- **Recipe mint for a 3D Peep as per the peep you hold OR free mint of a generated 3d Peep (only gas fees apply).**\n\n- **Mint all future projects at zero cost (only gas fees apply).**\n\n- **Passive income through royalties (3% of each project for our DubaiPeeps holders) from all future projects as per the DubaiPeeps you hold, categorized through rarity.**\n\n- **Access to customized Merch in real life and digital.**\n\n- **Exclusive access to our real life “Holders Only” events.**\n\n- **Own 10 or more DubaiPeeps to receive an airdrop of an AnonymousPeeps Genesis.** https://opensea.io/collection/anonymouspeeps-genesis",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "1000",
   "discord_url": "https://discord.gg/thepeepsproject",
   "display_data": {
     "card_display_style": "contain"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "DubaiPeeps",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0xb628cd5a63f35f969cab477f1e8321e4f0d0b9f3",
   "require_email": false,
   "short_description": null,
   "slug": "dubaipeeps",

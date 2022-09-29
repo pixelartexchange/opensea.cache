@@ -4,8 +4,6 @@
   "created_date": "2021-04-22T03:18:24.841043",
   "default_to_fiat": false,
   "description": "Launched on August 10th, 2017, the MoonCatRescue Insanely Cute Operation was a success! The 25440 MoonCats rescued are acclimating to their life as [fully on-chain](https://mooncat.community/about) collectible critters.\r\n\r\nVintage, generative, and a pioneer of fair distribution, MoonCats can also be customized in the on-chain [MoonCatBoutique](https://boutique.mooncat.community)!\r\n\r\nOwners have [Personal and Commercial License](https://mooncat.community/mooncatlicense) to their MoonCat's imagery.",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "300",
   "discord_url": "https://discord.gg/mooncats",
   "display_data": {
     "card_display_style": "padded"
@@ -21,9 +19,6 @@
   "medium_username": "mooncatcommunity",
   "name": "MoonCats",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0xa9913c13402939d68eac0dfb7f97760acd217c81",
   "require_email": false,
   "short_description": null,
   "slug": "acclimatedmooncats",

@@ -14,13 +14,6 @@
     "external_link": null,
     "image_url": "https://i.seadn.io/gae/3lpmqtV5jHIGRb8MD4Ps4habSGNHm6zy2Kq1_hVKBflluFoEHDW9Hek6ZkRWeVAWwHp9dqbN8nQub3XsnUb2QYyyl787gkPSps0EUA?w=500&auto=format",
     "default_to_fiat": false,
-    "dev_buyer_fee_basis_points": 0,
-    "dev_seller_fee_basis_points": 690,
-    "only_proxied_transfers": false,
-    "opensea_buyer_fee_basis_points": 0,
-    "opensea_seller_fee_basis_points": 250,
-    "buyer_fee_basis_points": 0,
-    "seller_fee_basis_points": 940,
-    "payout_address": "0x0c6e451963aece79c3551e13c9915be6160449bc"
+    "only_proxied_transfers": false
   }
 ]

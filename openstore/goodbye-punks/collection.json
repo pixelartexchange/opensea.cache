@@ -4,8 +4,6 @@
   "created_date": "2021-10-03T20:46:28.548006",
   "default_to_fiat": false,
   "description": "Bonus: Swipe the floor (<0.5) of Goodbye Punks and get a free Punk's Hand \n opensea.io/collection/punks-hands\n\nGOODBYE PUNKS!\nWe all missed them. We all have FOMO. \nGoodbye Punks™ never turn face back to you.  All you can is to wave them, shout love or hate into their back as they go away. That does not matter, they don't care ;)\n\nThis is a homage collection of 100 digitally “hand-painted\" punks that features never seen before occiputs of OG Crypto Punks. \nAliens: 9\nApes: 14\nZombies: 14\nFemale: 32\nMale: 31\n\n⚠️This project is not affiliated with Larva Labs.\nCreated by @designcollector",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "1000",
   "discord_url": "https://discord.gg/xeksZ3ncQS",
   "display_data": {
     "card_display_style": "padded"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "Goodbye Punks",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0x196ab3e637219ea9d2efdec0523006af0c1fc8f1",
   "require_email": false,
   "short_description": null,
   "slug": "goodbye-punks",

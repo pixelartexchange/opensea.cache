@@ -4,8 +4,6 @@
   "created_date": "2022-02-21T10:38:50.264736",
   "default_to_fiat": false,
   "description": "BinaryApes is an ERC-721 blockchain NFT. We are true degens and inspired by NFT history. Our identity is a fusion of two iconic characters;  Punked Apes",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "900",
   "discord_url": "https://discord.gg/RFbcMWZqZg",
   "display_data": {
     "card_display_style": "cover"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "BinaryApes",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0x1958b24d214b07a1ee8606a450573be48eda5b4e",
   "require_email": false,
   "short_description": null,
   "slug": "binaryapes",

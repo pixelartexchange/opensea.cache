@@ -4,8 +4,6 @@
   "created_date": "2022-06-11T19:46:15.168829",
   "default_to_fiat": false,
   "description": "The First 10k Doge PFP Collection - Rediscovered by the Community! Among the First 10k NFT Collections on Ethereum (Created before BAYC - April 6th, 2021).\n\nOwn a Piece of NFT History!\n\n**Join our Discord: https://discord.gg/dooggies**\n\n**Website: https://dooggies.com/**\n\n**Legacy ERC-1155 Dooggies: https://opensea.io/collection/dooggies-legacy**\n\nThe creator of Dooggies started learning programming at the age of 13 and created the Dooggies collection at 16. \n\nEach Dooggie is represented as 32x32 pixel art NFT, programmatically assembled and scaled up to 1024x1024 pixels. Unwrapped Dooggies are ERC-1155 tokens and Wrapped Dooggies are ERC-721 tokens.\n\nThe NFT collection was revived and resurrected by NFT Archeologists in January 2022.\n\nNFT collectors find this collection particularly noteworthy for the fact that it minted before BAYC and BAKC, yet it shares an overwhelming amount of traits with those collections.\n\n**Read more: https://medium.com/@dooggies**\n\nWelcome to the Pack!",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "500",
   "discord_url": "https://discord.gg/dooggies",
   "display_data": {
     "card_display_style": "cover"
@@ -21,9 +19,6 @@
   "medium_username": "dooggies",
   "name": "Dooggies",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0x73a77f5108db8c21041701561e436f0354f632f2",
   "require_email": false,
   "short_description": null,
   "slug": "dooggies",

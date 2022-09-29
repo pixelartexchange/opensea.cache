@@ -4,8 +4,6 @@
   "created_date": "2022-01-16T04:50:29.747999",
   "default_to_fiat": false,
   "description": "933 PFP of Ghozali Everyday but in pixel and punk!\n\nMissed the Ghozali Everyday hype train? \n\nDo not miss this one!\n\nGhozaliPunk is going to be the next CryptoPunks! ",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "1000",
   "discord_url": null,
   "display_data": {
     "card_display_style": "cover"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "GhozaliPunk",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0xf4adbeba5d111a05edddb8f01273c38811a7f9ee",
   "require_email": false,
   "short_description": null,
   "slug": "ghozalipunk",

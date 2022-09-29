@@ -4,8 +4,6 @@
   "created_date": "2021-03-18T19:46:31.577814",
   "default_to_fiat": false,
   "description": "#FREE [Celebrity Sports Punks](https://opensea.io/collection/celebrity-sports-punks) NFT with every CryptoGreats purchase!\n\nㅤ\n\n**CryptoGreats are hand drawn, 1-of-1 collectible NFT's. 500+ SOLD!**\n\n**Celebrating the greatest figures in sports, music & more. **\n\n**[New Items in Stock!](https://bit.ly/3DD9UPH)**\n\n**Categories: ** \n[Music](https://bit.ly/3zC0Mtq) | [Basketball](https://bit.ly/32WAPc4) | [Football](https://bit.ly/3f2qVIp) | [Baseball](https://bit.ly/3G1RWaR) | [Hockey](https://bit.ly/3q7HnO6) | [Actor](https://bit.ly/3zB6EmT) | [MMA](https://bit.ly/31AGynh) | [Boxing](https://bit.ly/3JRgpC3) | [WWE](https://bit.ly/3zAqLBs) | [Soccer](https://bit.ly/33czfmq) | [Racing](https://bit.ly/3zCsfLE) | [& More](https://bit.ly/31AHqbx)\n",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "1000",
   "discord_url": null,
   "display_data": {
     "card_display_style": "contain"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "CryptoGreats",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0xa4abf37c95dd90e1f4fd2bc5d519d9deea19609c",
   "require_email": false,
   "short_description": null,
   "slug": "cryptogreats",

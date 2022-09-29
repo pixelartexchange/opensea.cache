@@ -4,8 +4,6 @@
   "created_date": "2021-12-30T01:17:29.043066",
   "default_to_fiat": false,
   "description": "CryptoApes is the flagship character of Primary Alt- a modern studio focused on creating alternative identities and experiences through innovative NFT-based utilities and storytelling.\n\nHold at least one CryptoApes for access to unique experiences (treasure hunts), innovative upcoming utility (ability to temporarily transfer utility of any NFT), web3 education-focused Discord community, IRL events, and priority access to Primary Alt's marketplaces and ecosystem.",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "690",
   "discord_url": "https://discord.gg/cryptoapes",
   "display_data": {
     "card_display_style": "contain"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "CryptoApes Official",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0x0c6e451963aece79c3551e13c9915be6160449bc",
   "require_email": false,
   "short_description": null,
   "slug": "cryptoapes-official",

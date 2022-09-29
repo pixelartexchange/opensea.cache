@@ -14,13 +14,6 @@
     "external_link": "http://pixelgoblintown.xyz",
     "image_url": "https://i.seadn.io/gae/Vpx2cq2eakLzcmSC9FZnQdRVBjo2MzHQvtwvGYQsl2G24i4SXqI8uOMe__KQAn76kpEqRB4gXEPsmf5dtgzPvewi8wYxvI7qUBGR8A?w=500&auto=format",
     "default_to_fiat": false,
-    "dev_buyer_fee_basis_points": 0,
-    "dev_seller_fee_basis_points": 0,
-    "only_proxied_transfers": false,
-    "opensea_buyer_fee_basis_points": 0,
-    "opensea_seller_fee_basis_points": 250,
-    "buyer_fee_basis_points": 0,
-    "seller_fee_basis_points": 250,
-    "payout_address": "0x474a6f7864064d3b4fb9f0e53c43b36ba5b96204"
+    "only_proxied_transfers": false
   }
 ]

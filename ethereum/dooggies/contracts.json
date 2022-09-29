@@ -14,13 +14,6 @@
     "external_link": "https://dooggies.com/",
     "image_url": "https://i.seadn.io/gcs/files/43e333ce66873ae0eb5db62e5cb6beb5.gif?w=500&auto=format",
     "default_to_fiat": false,
-    "dev_buyer_fee_basis_points": 0,
-    "dev_seller_fee_basis_points": 500,
-    "only_proxied_transfers": false,
-    "opensea_buyer_fee_basis_points": 0,
-    "opensea_seller_fee_basis_points": 250,
-    "buyer_fee_basis_points": 0,
-    "seller_fee_basis_points": 750,
-    "payout_address": "0x73a77f5108db8c21041701561e436f0354f632f2"
+    "only_proxied_transfers": false
   }
 ]

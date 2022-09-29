@@ -4,8 +4,6 @@
   "created_date": "2019-11-15T07:54:51.221096",
   "default_to_fiat": false,
   "description": "most famous collectibles...\nthe cryptowieners are 32x32 pixel art images, all hand drawn and unique!\nLeiwand!",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "200",
   "discord_url": "https://discord.gg/J4McEA4",
   "display_data": {
     "card_display_style": "padded"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "CryptoWiener",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0x93ccbd66db522b729c06d3a8345b7935a103291a",
   "require_email": false,
   "short_description": null,
   "slug": "cryptowiener-4",

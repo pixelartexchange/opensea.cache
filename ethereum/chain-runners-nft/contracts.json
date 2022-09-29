@@ -14,13 +14,6 @@
     "external_link": "http://chainrunners.xyz",
     "image_url": "https://i.seadn.io/gae/3vScLGUcTB7yhItRYXuAFcPGFNJ3kgO0mXeUSUfEMBjGkGPKz__smtXyUlRxzZjr1Y5x8hz1QXoBQSEb8wm4oBByeQC_8WOCaDON4Go?w=500&auto=format",
     "default_to_fiat": false,
-    "dev_buyer_fee_basis_points": 0,
-    "dev_seller_fee_basis_points": 250,
-    "only_proxied_transfers": false,
-    "opensea_buyer_fee_basis_points": 0,
-    "opensea_seller_fee_basis_points": 250,
-    "buyer_fee_basis_points": 0,
-    "seller_fee_basis_points": 500,
-    "payout_address": "0x49a966cef7bbb8b426e7b6bb264dda279a354a5f"
+    "only_proxied_transfers": false
   }
 ]

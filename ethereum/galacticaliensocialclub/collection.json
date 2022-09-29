@@ -4,8 +4,6 @@
   "created_date": "2021-12-16T05:44:08.886471",
   "default_to_fiat": false,
   "description": "[Website](http://bit.ly/GASCwebsite)│[Twitter](http://bit.ly/GASCtwitter)│[Discord](http://bit.ly/GASCdiscord)│[LooksRare](http://bit.ly/GASClooksrare)│[Genie](http://bit.ly/GASCgenie)│[Gem](http://bit.ly/GASCgem)│[Rarible](http://bit.ly/GASCrarible)│[Coinbase](http://bit.ly/GASCcoinbase)\n\nGASC is an NFT collection of 10,000 provably unique, hand-drawn, pixel art Aliens programmatically generated with over 300+ attributes and traits.\n\nEach Alien is stored on the Ethereum blockchain as an ERC-721 token and hosted on IPFS.\n\nOwning an Alien will act as a membership card granting you exclusive access to our Social Club– giving you opportunities for giveaways, raffles, airdrops and extra content.\n\n[Rarity Ranking](http://bit.ly/GASCrarity)│[Verified Smart Contract](http://bit.ly/GASCetherscan)\n\n- [Galactic Alien Social Club: Extras](http://bit.ly/GASCextras)\n- [Galactic Alien Social Club: Collabs](http://bit.ly/GASCcollabs)",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "1000",
   "discord_url": "https://discord.gg/KHY2MguWNY",
   "display_data": {
     "card_display_style": "cover"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "Galactic Alien Social Club",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0x6d010cd9004120e1740287959f2fa3c01268a016",
   "require_email": false,
   "short_description": null,
   "slug": "galacticaliensocialclub",

@@ -4,8 +4,6 @@
   "created_date": "2021-12-29T20:21:34.922817",
   "default_to_fiat": false,
   "description": "\"CryptoMasterpiecez\"  - For Those Who Appreciate Pictorial Art. This is a collection that consists of many World Masterpieces by famous painters around the world. In this collection you can find works by Van Gogh, Pablo Picasso, Frida Kahlo, Rene Magritte, Peter Paul Rubens, Niko Pirosmani, Paul Cézan, Henri Matisse, Francisco Goya and many others. All unique collectible items with proof of ownership stored on the Ethereum/Polygon blockchain.",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "600",
   "discord_url": null,
   "display_data": {
     "card_display_style": "cover"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "CryptoMasterpiecez",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0x9494fbd803712c39c586aab3379a5e7d23942bfc",
   "require_email": false,
   "short_description": null,
   "slug": "cryptomasterpiecez",

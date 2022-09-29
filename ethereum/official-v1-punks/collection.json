@@ -4,8 +4,6 @@
   "created_date": "2022-01-17T12:26:42.495415",
   "default_to_fiat": false,
   "description": "CryptoPunks, released on June 9, 2017 by Larva Labs. \n\nThis is the original ERC-20 token now tradeable via a modern ERC-721 wrapper. \n\n[Wiki](https://v1punks.gitbook.io/) | [Twitter](https://twitter.com/v1punks)",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "0",
   "discord_url": "https://discord.gg/R4n5vq7qwm",
   "display_data": {
     "card_display_style": "contain"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "CryptoPunks V1 (wrapped)",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": null,
   "require_email": false,
   "short_description": null,
   "slug": "official-v1-punks",

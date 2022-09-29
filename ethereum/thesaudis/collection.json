@@ -4,8 +4,6 @@
   "created_date": "2022-07-09T03:50:39.286647",
   "default_to_fiat": false,
   "description": "🇸🇦 5,555 Saudis are here to save your bags Alhamdulillah #MAXBIDDING\r\n\r\nEvery Saudi comes with a Soulbound NFT Mashallah: https://opensea.io/collection/thesaudisbound\r\n\r\nNot affiliated with Larva Labs. Welcome to Kingdom Labs.",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "750",
   "discord_url": "https://discord.gg/thesaudisnft",
   "display_data": {
     "card_display_style": "cover"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "The Saudis",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0xbfe5d10f8deded4706c212399d74289f860ac289",
   "require_email": false,
   "short_description": null,
   "slug": "thesaudis",

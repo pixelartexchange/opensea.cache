@@ -14,13 +14,6 @@
     "external_link": "http://wastelandpunks.io",
     "image_url": "https://i.seadn.io/gae/KJK6AQRmQYYO7jBEIvmvpSOnHIvFhwaytYk720VdSDVZTs9K6RUw8r9a81ZoFlnjKgdYKY7OxpIbkAHU7qgMsD8-dj65kyc7I_LB?w=500&auto=format",
     "default_to_fiat": false,
-    "dev_buyer_fee_basis_points": 0,
-    "dev_seller_fee_basis_points": 500,
-    "only_proxied_transfers": false,
-    "opensea_buyer_fee_basis_points": 0,
-    "opensea_seller_fee_basis_points": 250,
-    "buyer_fee_basis_points": 0,
-    "seller_fee_basis_points": 750,
-    "payout_address": "0x819a41a246483d3857ea576b7b2334f57960227d"
+    "only_proxied_transfers": false
   }
 ]

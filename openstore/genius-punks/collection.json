@@ -4,8 +4,6 @@
   "created_date": "2021-03-15T18:10:20.534335",
   "default_to_fiat": false,
   "description": "GeniusPunks are a punky-looking #NFT collection of famous geniuses. 42 geniuses only. Get your Genius now! Not affiliated w/LarvaLabs\n\n#UnofficialPunks #punkverse #GeniusPunks",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "750",
   "discord_url": "https://discord.gg/9BV9EtNE",
   "display_data": {
     "card_display_style": "contain"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "Genius Punks",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0x8d89bb142ada8fe4636b512f6a2820b1b2d483d2",
   "require_email": false,
   "short_description": null,
   "slug": "genius-punks",

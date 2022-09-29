@@ -4,8 +4,6 @@
   "created_date": "2021-12-11T18:24:37.566905",
   "default_to_fiat": false,
   "description": "The new generation of punk NFTs hit the Ethereum blockchain. \n\n10,000 unique dystopian NFTs with 100% CC0 to holders, newly constructed from scratch from over 100 traits to a defined BladeRunnerPunk-DNA rarity system. Forward facing and drawing eye-to-eye contact, BladeRunnerPunks emanate strong identity, status, & confidence. Inspired by the greatest sci-fi movie of all time and the greatest punk NFT collection! \n\nLook out for two new classes of punks:\n- 5 Replicants (Mythical) \n- 124 Androids (Legendary) \n\nThe future is wilder than we imagine. \n\nNote: BladeRunnerPunks are not associated with Alcon Entertainment.\n\n",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "2",
   "discord_url": "https://discord.gg/CRPCZzah",
   "display_data": {
     "card_display_style": "cover"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "BladeRunnerPunks",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0x43f711e89aca714db70df6a3ef8f580db1202638",
   "require_email": false,
   "short_description": null,
   "slug": "bladerunner-punks",

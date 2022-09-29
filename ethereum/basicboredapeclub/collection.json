@@ -4,8 +4,6 @@
   "created_date": "2021-12-17T08:30:35.943762",
   "default_to_fiat": false,
   "description": "Basic Bored Ape Club / BBAC\n\nNFT collection inspired by an existing and truly admired collection,\nbut completely independent and unaffiliated.",
-  "dev_buyer_fee_basis_points": "0",
-  "dev_seller_fee_basis_points": "750",
   "discord_url": "https://discord.gg/NQuAZvvDwz",
   "display_data": {
     "card_display_style": "cover"
@@ -21,9 +19,6 @@
   "medium_username": null,
   "name": "Basic Bored Ape Club",
   "only_proxied_transfers": false,
-  "opensea_buyer_fee_basis_points": "0",
-  "opensea_seller_fee_basis_points": "250",
-  "payout_address": "0x5f63821374bac2093704fc6b42f35c494986b6a4",
   "require_email": false,
   "short_description": null,
   "slug": "basicboredapeclub",
