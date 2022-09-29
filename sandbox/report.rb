@@ -54,7 +54,7 @@ def fmt_eth( amount )
       usd = amount*ETH_IN_USD
 
       usd_str = if usd / 1_000_000 >= 1
-                   "#{'%.2f' % (usd / 1_000_000)} million(s)"
+                   "#{'%.1f' % (usd / 1_000_000)} million(s)"
                 elsif usd >= 1000
                    "#{'%.0f' % usd}"
                 else
@@ -102,17 +102,17 @@ each_dir( './cache/*' ) do |dir|
    buf << "\n"
 
    buf << "stats:\n"
-   buf << "- count / total supply: #{meta.stats.count} / #{meta.stats.total_supply}\n"
-   buf << "- num owners:  #{meta.stats.num_owners}\n"
-   buf << "- total sales:  #{meta.stats.total_sales}\n"
-   buf << "- total volume: #{fmt_eth( meta.stats.total_volume ) }\n"
+   buf << "- count / total supply: #{meta.stats.count} / #{meta.stats.total_supply},"
+   buf << " num owners:  #{meta.stats.num_owners}\n"
+   buf << "- total sales:  #{meta.stats.total_sales},"
+   buf << " total volume: #{fmt_eth( meta.stats.total_volume ) }\n"
    buf << "- average price: #{fmt_eth( meta.stats.average_price ) }\n"
    buf << "- floor price: #{fmt_eth( meta.stats.floor_price ) }\n"
    buf << "\n"
 
-   buf << "fees:\n"
-   buf << "- seller_fees: #{fmt_fees( meta.fees.seller_fees )}\n"
-   buf << "- opensea_fees: #{fmt_fees( meta.fees.opensea_fees )}\n"
+   buf << "fees:"
+   buf << " seller - #{fmt_fees( meta.fees.seller_fees )},"
+   buf << " opensea - #{fmt_fees( meta.fees.opensea_fees )}\n"
    buf << "\n"
 
    buf << "payments (#{meta.payment_methods.size}): #{meta.payment_methods.join(', ')}\n"
