@@ -25,71 +25,11 @@ require 'artbase-opensea'
 ##   same as stats section in collection???
 
 
-slugs = %w[
-  pixel-goblintown
-  morepunks
-  galacticaliensocialclub
-  binaryapes
-  eightbitme
-  thesaudis
-  thejews-nft
-  the-americans-nft
-  cryptopunks
-  official-v1-punks
-  proof-moonbirds
-  acclimatedmooncats
-  chain-runners-nft
+def download( slugs, *includes, delay_in_s: 2 )
 
-  24px
-  anime-punks
-  athletes-101
-  basicboredapeclub
-  beautiful-female-punks
-  bladerunner-punks
-  blockydoge
-  blockydogeguilds
-  bwpunks
-  cinepunkss
-  wastelandpunks
-  clout-punks
-  cryptoapes-official
-  cryptogreats
-  cryptoluxurypunks
-  cryptomasterpiecez
-  cryptowiener-4
-  dogepunks-collection
-  dooggies
-  dubaipeeps
-  figurepunks
-  frontphunks
-  genius-punks
-  ghozalipunk
-  goodbye-punks
-]
-
-slugs = %w[
-  high-effort-punks
-  histopunks
-  kimono-punks
-  mafia-punks-club
-  monkepunks
-  onlypunksnft
-  pixel-gals
-  pixelmeows
-  punkoftheday
-  scifipunks
-  the-pixel-portraits-og
-  the-pixel-portraits
-  thecryptogenius
-  unofficialpunks
-  weape24
-  wow-pixies-v2
-  wunks
-  youtubepunks
-]
+  includes = [:all]   if includes.empty?
 
 
-delay_in_s = 2
 
 slugs.each do |slug|
 
@@ -113,8 +53,32 @@ slugs.each do |slug|
   data_traits = data['traits']
   data.delete( 'traits')
 
-  data_stats  = data['stats']
+  ## note: split stats hash into two part
+  ##   - changes  (always changing)
+  ##   - totals   (more stable)
+  data_stats_changes  = data['stats']
   data.delete( 'stats')
+
+  ## move totals to its own hash
+  data_stats_totals  = { }
+
+  %w[
+    total_volume
+    total_sales
+    total_supply
+    count
+    num_owners
+    average_price
+    num_reports
+    market_cap
+    floor_price
+  ].each do |key|
+      data_stats_totals[ key ] = data_stats_changes.delete( key )
+  end
+
+
+
+
 
   data_payments = data['payment_tokens']
   data.delete( 'payment_tokens' )
@@ -170,33 +134,115 @@ slugs.each do |slug|
               end
 
 
+
+
   path = "#{cache_dir}/#{slug}/collection.json"
-  write_json( path, data )
+
+  write_json( path, data )   if includes.include?( :all ) ||
+                                includes.include?( :collection )
 
   ## note: only save if contracts present  - why? why not?
   if data_contracts.size > 0
     path = "#{cache_dir}/#{slug}/contracts.json"
-    write_json( path, data_contracts )
+    write_json( path, data_contracts )   if includes.include?( :all ) ||
+                                            includes.include?( :contracts )
   end
-
-  ## FileUtils.remove_file( "#{cache_dir}/#{slug}/traits.json" )
 
   if data_traits.size > 0
     path = "#{cache_dir}/#{slug}/traits.json"
-    write_json( path, data_traits )
+    write_json( path, data_traits )     if includes.include?( :all ) ||
+                                           includes.include?( :traits )
+  end
+
+  if includes.include?( :all ) ||
+     includes.include?( :stats )
+
+    FileUtils.remove_file( "#{cache_dir}/#{slug}/stats.json" )
+
+    path = "#{cache_dir}/#{slug}/stats_changes.json"
+    write_json( path, data_stats_changes )
+
+    path = "#{cache_dir}/#{slug}/stats_totals.json"
+    write_json( path, data_stats_totals )
   end
 
 
-  path = "#{cache_dir}/#{slug}/stats.json"
-  write_json( path, data_stats )
-
-
   path = "#{cache_dir}/#{slug}/payments.json"
-  write_json( path, data_payments )
+  write_json( path, data_payments )  if includes.include?( :all ) ||
+                                        includes.include?( :payments )
 
 
   puts "  sleeping #{delay_in_s}s..."
   sleep( delay_in_s )
 end
+end
+
+
+
+slugs = %w[
+  pixel-goblintown
+  morepunks
+  galacticaliensocialclub
+  binaryapes
+  eightbitme
+  thesaudis
+  thejews-nft
+  the-americans-nft
+  cryptopunks
+  official-v1-punks
+  proof-moonbirds
+  acclimatedmooncats
+  chain-runners-nft
+
+  24px
+  anime-punks
+  athletes-101
+  basicboredapeclub
+  beautiful-female-punks
+  bladerunner-punks
+  blockydoge
+  blockydogeguilds
+  bwpunks
+  cinepunkss
+  wastelandpunks
+  clout-punks
+  cryptoapes-official
+  cryptogreats
+  cryptoluxurypunks
+  cryptomasterpiecez
+  cryptowiener-4
+  dogepunks-collection
+  dooggies
+  dubaipeeps
+  figurepunks
+  frontphunks
+  genius-punks
+  ghozalipunk
+  goodbye-punks
+  high-effort-punks
+  histopunks
+  kimono-punks
+  mafia-punks-club
+  monkepunks
+  onlypunksnft
+  pixel-gals
+  pixelmeows
+  punkoftheday
+  scifipunks
+  the-pixel-portraits-og
+  the-pixel-portraits
+  thecryptogenius
+  unofficialpunks
+  weape24
+  wow-pixies-v2
+  wunks
+  youtubepunks
+]
+
+# slugs = %w[
+# ]
+
+download( slugs, :stats )
+
 
 puts "bye"
