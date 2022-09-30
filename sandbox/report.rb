@@ -72,11 +72,57 @@ def fmt_eth( amount )
 end
 
 
-Collection =  Struct.new(:date, :buf)
+
+
+class TopCollectionsReport
+
+   Collection =  Struct.new(:total_volume, :buf)
+
+
+def build( root_dir )
+
+   cols = []
+
+each_dir( "#{root_dir}/*" ) do |dir|
+   puts "==> #{dir}"
+
+   meta = OpenSea::Meta::Collection.read( dir )
+
+      date =  if meta.contracts.size > 0
+                   meta.contracts[0].created_date
+               else
+                   meta.created_date
+               end
+
+   buf = String.new('')
+
+   buf << "- **[#{meta.stats.total_supply} #{meta.name} (#{fmt_date(date)}), #{fmt_fees( meta.fees.seller_fees )}](https://opensea.io/collection/#{meta.slug})**"
+   buf << "   owners: #{meta.stats.num_owners},"
+   buf << "   sales:  #{meta.stats.total_sales},"
+   buf << "   -  #{fmt_eth( meta.stats.total_volume )},"
+   buf << "   price: avg #{fmt_eth( meta.stats.average_price ) },"
+   buf << "   floor #{fmt_eth( meta.stats.floor_price ) }"
+   buf << "\n"
+
+   cols << Collection.new( meta.stats.total_volume, buf )
+
+end
+  cols = cols.sort { |l,r| r.total_volume <=> l.total_volume }
+
+
+  buf = "# Top Collections by Sales Value\n\n"
+  buf +=  cols.map { |col| col.buf }.join( '' )
+  buf
+end
+end   # class TopCollectionReport
 
 
 
-def build_report( root_dir )
+class CollectionsReport
+
+   Collection =  Struct.new(:date, :buf)
+
+def build( root_dir )
 
    cols = []
 
@@ -145,15 +191,32 @@ end
 ## sort  cols by date
 
 cols = cols.sort { |l,r| r.date <=> l.date }
-buf =  cols.map { |col| col.buf }.join( "\n\n" )
 
-write_text( "#{root_dir}/README.md", buf )
+
+  buf = "# Collections\n\n"
+  buf +=  cols.map { |col| col.buf }.join( "\n\n" )
+  buf
 end
+end # class CollectionsReport
 
 
-build_report( './openstore' )
-build_report( './ethereum' )
 
+
+report = TopCollectionsReport.new
+buf = report.build( './ethereum' )
+write_text( "./ethereum/TOP.md", buf )
+
+buf = report.build( './openstore' )
+write_text( "./openstore/TOP.md", buf )
+
+
+
+report = CollectionsReport.new
+buf = report.build( './ethereum' )
+write_text( "./ethereum/README.md", buf )
+
+buf = report.build( './openstore' )
+write_text( "./openstore/README.md", buf )
 
 
 puts "bye"

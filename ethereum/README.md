@@ -1,3 +1,5 @@
+# Collections
+
 ##  TheJewsNFT
 
 opensea: [thejews-nft](https://opensea.io/collection/thejews-nft) - created on Jul 17, 2022<br>
@@ -8,8 +10,8 @@ contracts (1):
 
 stats:
 - count / total supply: 4745 / 4745, num owners:  2139
-- total sales:  3574, total volume: 166.91 ETH  (~ 216978 USD)
-- average price: 0.05 ETH  (~ 60.71 USD)
+- total sales:  3575, total volume: 166.91 ETH  (~ 216983 USD)
+- average price: 0.05 ETH  (~ 60.69 USD)
 - floor price: 0.004 ETH  (~ 4.81 USD)
 
 fees: seller 10.0%, opensea 2.5%
@@ -40,9 +42,9 @@ contracts (1):
 
 stats:
 - count / total supply: 9994 / 9994, num owners:  2198
-- total sales:  17612, total volume: 1028.99 ETH  (~ 1.3 million(s) USD)
-- average price: 0.06 ETH  (~ 75.95 USD)
-- floor price: 0.003 ETH  (~ 3.38 USD)
+- total sales:  17617, total volume: 1028.98 ETH  (~ 1.3 million(s) USD)
+- average price: 0.06 ETH  (~ 75.93 USD)
+- floor price: 0.003 ETH  (~ 3.83 USD)
 
 fees: seller 7.5%, opensea 2.5%
 
@@ -71,10 +73,10 @@ contracts (1):
 - **Unidentified contract ()** created on Jul 09, 2022 @ [0xe21ebcd28d37a67757b9bc7b290f4c4928a430b1](https://etherscan.io/address/0xe21ebcd28d37a67757b9bc7b290f4c4928a430b1)
 
 stats:
-- count / total supply: 5555 / 5555, num owners:  2108
-- total sales:  11286, total volume: 9671.34 ETH  (~ 12.6 million(s) USD)
+- count / total supply: 5555 / 5555, num owners:  2109
+- total sales:  11288, total volume: 9671.19 ETH  (~ 12.6 million(s) USD)
 - average price: 0.86 ETH  (~ 1114 USD)
-- floor price: 0.27 ETH  (~ 348.40 USD)
+- floor price: 0.26 ETH  (~ 340.60 USD)
 
 fees: seller 7.5%, opensea 2.5%
 
@@ -105,7 +107,7 @@ contracts (1):
 - **Dooggies (Dooggies)** created on Jun 11, 2022 @ [0xb4e62d6363f82e0e74e8963828815f907eab2c66](https://etherscan.io/address/0xb4e62d6363f82e0e74e8963828815f907eab2c66)
 
 stats:
-- count / total supply: 1756 / 1756, num owners:  154
+- count / total supply: 1761 / 1761, num owners:  156
 - total sales:  3, total volume: 0.41 ETH  (~ 531.70 USD)
 - average price: 0.14 ETH  (~ 177.23 USD)
 - floor price: 0.07 ETH  (~ 91.00 USD)
@@ -170,7 +172,7 @@ stats:
 - count / total supply: 397 / 397, num owners:  75
 - total sales:  0, total volume: 0.0 ETH  (~ 0.00 USD)
 - average price: 0.0 ETH  (~ 0.00 USD)
-- floor price: 0.04 ETH  (~ 52.00 USD)
+- floor price: 0.05 ETH  (~ 65.00 USD)
 
 fees: seller 5.0%, opensea 2.5%
 
@@ -196,9 +198,9 @@ contracts (1):
 - **Moonbirds (MOONBIRD)** created on Apr 15, 2022 @ [0x23581767a106ae21c074b2276d25e5c3e136a68b](https://etherscan.io/address/0x23581767a106ae21c074b2276d25e5c3e136a68b)
 
 stats:
-- count / total supply: 10000 / 10000, num owners:  6584
-- total sales:  9533, total volume: 171508.47 ETH  (~ 223.0 million(s) USD)
-- average price: 17.99 ETH  (~ 23388 USD)
+- count / total supply: 10000 / 10000, num owners:  6585
+- total sales:  9540, total volume: 171590.31 ETH  (~ 223.1 million(s) USD)
+- average price: 17.99 ETH  (~ 23382 USD)
 - floor price: 10.40 ETH  (~ 13520 USD)
 
 fees: seller 5.0%, opensea 2.5%
@@ -230,9 +232,9 @@ contracts (1):
 
 stats:
 - count / total supply: 8888 / 8888, num owners:  3034
-- total sales:  19724, total volume: 9004.17 ETH  (~ 11.7 million(s) USD)
-- average price: 0.46 ETH  (~ 593.46 USD)
-- floor price: 0.15 ETH  (~ 195.00 USD)
+- total sales:  19727, total volume: 9004.60 ETH  (~ 11.7 million(s) USD)
+- average price: 0.46 ETH  (~ 593.40 USD)
+- floor price: 0.14 ETH  (~ 175.50 USD)
 
 fees: seller 5.0%, opensea 2.5%
 
@@ -278,8 +280,8 @@ contracts (1):
 
 stats:
 - count / total supply: 9973 / 9973, num owners:  781
-- total sales:  764, total volume: 5.64 ETH  (~ 7336 USD)
-- average price: 0.007 ETH  (~ 9.60 USD)
+- total sales:  735, total volume: 5.39 ETH  (~ 7006 USD)
+- average price: 0.007 ETH  (~ 9.53 USD)
 - floor price: 0.000666 ETH  (~ 0.87 USD)
 
 fees: seller 9.0%, opensea 2.5%
@@ -305,10 +307,10 @@ contracts (1):
 - **V1 Cryptopunks (Wrapped) (WPV1)** created on Jan 17, 2022 @ [0x282bdd42f4eb70e7a9d9f40c8fea0825b7f68c5d](https://etherscan.io/address/0x282bdd42f4eb70e7a9d9f40c8fea0825b7f68c5d)
 
 stats:
-- count / total supply: 2603 / 2603, num owners:  782
-- total sales:  1606, total volume: 20593.61 ETH  (~ 26.8 million(s) USD)
-- average price: 12.82 ETH  (~ 16670 USD)
-- floor price: 5.40 ETH  (~ 7020 USD)
+- count / total supply: 2603 / 2603, num owners:  783
+- total sales:  1608, total volume: 20600.21 ETH  (~ 26.8 million(s) USD)
+- average price: 12.81 ETH  (~ 16654 USD)
+- floor price: 5.39 ETH  (~ 7006 USD)
 
 fees: seller -, opensea 2.5%
 
@@ -346,10 +348,10 @@ contracts (1):
 - **WoW Pixies (PIXIES)** created on Jan 14, 2022 @ [0xb67812ce508b9fc190740871032237c24b6896a0](https://etherscan.io/address/0xb67812ce508b9fc190740871032237c24b6896a0)
 
 stats:
-- count / total supply: 5555 / 5555, num owners:  2082
-- total sales:  4791, total volume: 894.92 ETH  (~ 1.2 million(s) USD)
-- average price: 0.19 ETH  (~ 242.83 USD)
-- floor price: 0.03 ETH  (~ 41.60 USD)
+- count / total supply: 5555 / 5555, num owners:  2081
+- total sales:  4802, total volume: 895.37 ETH  (~ 1.2 million(s) USD)
+- average price: 0.19 ETH  (~ 242.40 USD)
+- floor price: 0.04 ETH  (~ 54.69 USD)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -413,10 +415,10 @@ contracts (1):
 - **CryptoApes (CRAP)** created on Dec 30, 2021 @ [0x29714cafe792ef8b8c649451d13c89e21a0d7f5b](https://etherscan.io/address/0x29714cafe792ef8b8c649451d13c89e21a0d7f5b)
 
 stats:
-- count / total supply: 6969 / 6969, num owners:  2037
-- total sales:  7456, total volume: 706.96 ETH  (~ 919052 USD)
+- count / total supply: 6969 / 6969, num owners:  2035
+- total sales:  7455, total volume: 706.83 ETH  (~ 918875 USD)
 - average price: 0.09 ETH  (~ 123.26 USD)
-- floor price: 0.03 ETH  (~ 40.30 USD)
+- floor price: 0.04 ETH  (~ 49.40 USD)
 
 fees: seller 6.9%, opensea 2.5%
 
@@ -443,7 +445,7 @@ contracts (1):
 - **Basic Bored Ape Club (BBAC)** created on Dec 17, 2021 @ [0xd16bdccae06dfd701a59103446a17e22e9ca0ef0](https://etherscan.io/address/0xd16bdccae06dfd701a59103446a17e22e9ca0ef0)
 
 stats:
-- count / total supply: 10000 / 10000, num owners:  4593
+- count / total supply: 9985 / 9985, num owners:  4592
 - total sales:  13252, total volume: 524.25 ETH  (~ 681525 USD)
 - average price: 0.04 ETH  (~ 51.43 USD)
 - floor price: 0.009 ETH  (~ 11.70 USD)
@@ -475,9 +477,9 @@ contracts (1):
 - **Galactic Alien Social Club (GASC)** created on Dec 16, 2021 @ [0x33fd4167e51a10d19c89c3a606389d0fddc3e676](https://etherscan.io/address/0x33fd4167e51a10d19c89c3a606389d0fddc3e676)
 
 stats:
-- count / total supply: 9997 / 9997, num owners:  1780
-- total sales:  3723, total volume: 37.91 ETH  (~ 49284 USD)
-- average price: 0.010 ETH  (~ 13.24 USD)
+- count / total supply: 9996 / 9996, num owners:  1779
+- total sales:  3687, total volume: 37.60 ETH  (~ 48877 USD)
+- average price: 0.010 ETH  (~ 13.26 USD)
 - floor price: 0.0009 ETH  (~ 1.17 USD)
 
 fees: seller 10.0%, opensea 2.5%
@@ -506,7 +508,7 @@ contracts (1):
 - **BladeRunner Punks (BRP)** created on Dec 11, 2021 @ [0x0651132f094551f9d4e40de3e1e2f8b7ac149c3a](https://etherscan.io/address/0x0651132f094551f9d4e40de3e1e2f8b7ac149c3a)
 
 stats:
-- count / total supply: 9999 / 9999, num owners:  3995
+- count / total supply: 9999 / 9999, num owners:  3996
 - total sales:  14406, total volume: 1456.85 ETH  (~ 1.9 million(s) USD)
 - average price: 0.10 ETH  (~ 131.47 USD)
 - floor price: 0.007 ETH  (~ 9.10 USD)
@@ -546,8 +548,8 @@ contracts (1):
 - **Chain Runners (RUN)** created on Nov 05, 2021 @ [0x97597002980134bea46250aa0510c9b90d87a587](https://etherscan.io/address/0x97597002980134bea46250aa0510c9b90d87a587)
 
 stats:
-- count / total supply: 10000 / 10000, num owners:  3331
-- total sales:  13472, total volume: 13079.92 ETH  (~ 17.0 million(s) USD)
+- count / total supply: 10000 / 10000, num owners:  3330
+- total sales:  13478, total volume: 13083.28 ETH  (~ 17.0 million(s) USD)
 - average price: 0.97 ETH  (~ 1262 USD)
 - floor price: 0.18 ETH  (~ 231.40 USD)
 
@@ -620,8 +622,8 @@ contracts (1):
 
 stats:
 - count / total supply: 19217 / 19217, num owners:  5891
-- total sales:  18152, total volume: 18886.77 ETH  (~ 24.6 million(s) USD)
-- average price: 1.04 ETH  (~ 1353 USD)
+- total sales:  18158, total volume: 18888.43 ETH  (~ 24.6 million(s) USD)
+- average price: 1.04 ETH  (~ 1352 USD)
 - floor price: 0.27 ETH  (~ 348.40 USD)
 
 fees: seller 3.0%, opensea 2.5%
@@ -661,9 +663,9 @@ contracts (1):
 - **CryptoPunks (PUNK)** created on Jan 23, 2018 @ [0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb](https://etherscan.io/address/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb)
 
 stats:
-- count / total supply: 9998 / 9998, num owners:  3595
-- total sales:  21586, total volume: 1001261.24 ETH  (~ 1301.6 million(s) USD)
-- average price: 46.38 ETH  (~ 60300 USD)
+- count / total supply: 9998 / 9998, num owners:  3596
+- total sales:  21589, total volume: 1001326.14 ETH  (~ 1301.7 million(s) USD)
+- average price: 46.38 ETH  (~ 60296 USD)
 - floor price: ???
 
 fees: seller -, opensea 2.5%

@@ -1,3 +1,5 @@
+# Collections
+
 ##  GhozaliPunk
 
 opensea: [ghozalipunk](https://opensea.io/collection/ghozalipunk) - created on Jan 16, 2022<br>
@@ -128,10 +130,10 @@ web:  <http://www.dubaipeeps.com><br>
 twitter: [dubaipeeps](https://twitter.com/dubaipeeps)<br>
 
 stats:
-- count / total supply: 600 / 600, num owners:  281
-- total sales:  613, total volume: 73.42 ETH  (~ 95447 USD)
-- average price: 0.12 ETH  (~ 155.71 USD)
-- floor price: 0.14 ETH  (~ 182.00 USD)
+- count / total supply: 600 / 600, num owners:  280
+- total sales:  614, total volume: 73.56 ETH  (~ 95629 USD)
+- average price: 0.12 ETH  (~ 155.75 USD)
+- floor price: 0.16 ETH  (~ 208.00 USD)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -361,9 +363,9 @@ twitter: [MonkePunks](https://twitter.com/MonkePunks)<br>
 
 stats:
 - count / total supply: 999 / 999, num owners:  600
-- total sales:  1755, total volume: 136.51 ETH  (~ 177462 USD)
-- average price: 0.08 ETH  (~ 101.12 USD)
-- floor price: 0.04 ETH  (~ 50.70 USD)
+- total sales:  1756, total volume: 136.55 ETH  (~ 177513 USD)
+- average price: 0.08 ETH  (~ 101.09 USD)
+- floor price: 0.04 ETH  (~ 52.00 USD)
 
 fees: seller 5.0%, opensea 2.5%
 
@@ -414,7 +416,7 @@ stats:
 - count / total supply: 500 / 500, num owners:  226
 - total sales:  409, total volume: 13.44 ETH  (~ 17478 USD)
 - average price: 0.03 ETH  (~ 42.73 USD)
-- floor price: 0.02 ETH  (~ 26.00 USD)
+- floor price: 0.02 ETH  (~ 20.80 USD)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -459,9 +461,9 @@ web:  <https://www.24px.io><br>
 
 stats:
 - count / total supply: 9895 / 9895, num owners:  4225
-- total sales:  28187, total volume: 3588.08 ETH  (~ 4.7 million(s) USD)
+- total sales:  28189, total volume: 3588.14 ETH  (~ 4.7 million(s) USD)
 - average price: 0.13 ETH  (~ 165.48 USD)
-- floor price: 0.02 ETH  (~ 24.57 USD)
+- floor price: 0.02 ETH  (~ 23.27 USD)
 
 fees: seller 2.5%, opensea 2.5%
 
