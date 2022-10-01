@@ -10,9 +10,9 @@ contracts (1):
 
 stats:
 - count / total supply: 4745 / 4745, num owners:  2139
-- total sales:  3575, total volume: 166.91 ETH  (~ 216983 USD)
-- average price: 0.05 ETH  (~ 60.69 USD)
-- floor price: 0.004 ETH  (~ 4.81 USD)
+- total sales:  3575, total volume: Ξ166.91 (~ US$ 216983)
+- average price: Ξ0.05 (~ US$ 60.69)
+- floor price: Ξ0.004 (~ US$ 4.81)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -42,9 +42,9 @@ contracts (1):
 
 stats:
 - count / total supply: 9994 / 9994, num owners:  2198
-- total sales:  17617, total volume: 1028.98 ETH  (~ 1.3 million(s) USD)
-- average price: 0.06 ETH  (~ 75.93 USD)
-- floor price: 0.003 ETH  (~ 3.83 USD)
+- total sales:  17617, total volume: Ξ1028.98 (~ US$ 1.3 million(s))
+- average price: Ξ0.06 (~ US$ 75.93)
+- floor price: Ξ0.003 (~ US$ 3.83)
 
 fees: seller 7.5%, opensea 2.5%
 
@@ -74,9 +74,9 @@ contracts (1):
 
 stats:
 - count / total supply: 5555 / 5555, num owners:  2109
-- total sales:  11288, total volume: 9671.19 ETH  (~ 12.6 million(s) USD)
-- average price: 0.86 ETH  (~ 1114 USD)
-- floor price: 0.26 ETH  (~ 340.60 USD)
+- total sales:  11288, total volume: Ξ9671.19 (~ US$ 12.6 million(s))
+- average price: Ξ0.86 (~ US$ 1114)
+- floor price: Ξ0.26 (~ US$ 340.60)
 
 fees: seller 7.5%, opensea 2.5%
 
@@ -108,9 +108,9 @@ contracts (1):
 
 stats:
 - count / total supply: 1761 / 1761, num owners:  156
-- total sales:  3, total volume: 0.41 ETH  (~ 531.70 USD)
-- average price: 0.14 ETH  (~ 177.23 USD)
-- floor price: 0.07 ETH  (~ 91.00 USD)
+- total sales:  3, total volume: Ξ0.41 (~ US$ 531.70)
+- average price: Ξ0.14 (~ US$ 177.23)
+- floor price: Ξ0.07 (~ US$ 91.00)
 
 fees: seller 5.0%, opensea 2.5%
 
@@ -136,9 +136,9 @@ contracts (1):
 
 stats:
 - count / total supply: 4444 / 4444, num owners:  1436
-- total sales:  6509, total volume: 77.27 ETH  (~ 100452 USD)
-- average price: 0.012 ETH  (~ 15.43 USD)
-- floor price: 0.0007 ETH  (~ 0.91 USD)
+- total sales:  6509, total volume: Ξ77.27 (~ US$ 100452)
+- average price: Ξ0.012 (~ US$ 15.43)
+- floor price: Ξ0.0007 (~ US$ 0.91)
 
 fees: seller -, opensea 2.5%
 
@@ -170,9 +170,7 @@ contracts (1):
 
 stats:
 - count / total supply: 397 / 397, num owners:  75
-- total sales:  0, total volume: 0.0 ETH  (~ 0.00 USD)
-- average price: 0.0 ETH  (~ 0.00 USD)
-- floor price: 0.05 ETH  (~ 65.00 USD)
+- total sales:  0
 
 fees: seller 5.0%, opensea 2.5%
 
@@ -199,9 +197,9 @@ contracts (1):
 
 stats:
 - count / total supply: 10000 / 10000, num owners:  6585
-- total sales:  9540, total volume: 171590.31 ETH  (~ 223.1 million(s) USD)
-- average price: 17.99 ETH  (~ 23382 USD)
-- floor price: 10.40 ETH  (~ 13520 USD)
+- total sales:  9540, total volume: Ξ171590.31 (~ US$ 223.1 million(s))
+- average price: Ξ17.99 (~ US$ 23382)
+- floor price: Ξ10.40 (~ US$ 13520)
 
 fees: seller 5.0%, opensea 2.5%
 
@@ -232,9 +230,9 @@ contracts (1):
 
 stats:
 - count / total supply: 8888 / 8888, num owners:  3034
-- total sales:  19727, total volume: 9004.60 ETH  (~ 11.7 million(s) USD)
-- average price: 0.46 ETH  (~ 593.40 USD)
-- floor price: 0.14 ETH  (~ 175.50 USD)
+- total sales:  19727, total volume: Ξ9004.60 (~ US$ 11.7 million(s))
+- average price: Ξ0.46 (~ US$ 593.40)
+- floor price: Ξ0.14 (~ US$ 175.50)
 
 fees: seller 5.0%, opensea 2.5%
 
@@ -280,9 +278,9 @@ contracts (1):
 
 stats:
 - count / total supply: 9973 / 9973, num owners:  781
-- total sales:  735, total volume: 5.39 ETH  (~ 7006 USD)
-- average price: 0.007 ETH  (~ 9.53 USD)
-- floor price: 0.000666 ETH  (~ 0.87 USD)
+- total sales:  735, total volume: Ξ5.39 (~ US$ 7006)
+- average price: Ξ0.007 (~ US$ 9.53)
+- floor price: Ξ0.000666 (~ US$ 0.87)
 
 fees: seller 9.0%, opensea 2.5%
 
@@ -308,9 +306,9 @@ contracts (1):
 
 stats:
 - count / total supply: 2603 / 2603, num owners:  783
-- total sales:  1608, total volume: 20600.21 ETH  (~ 26.8 million(s) USD)
-- average price: 12.81 ETH  (~ 16654 USD)
-- floor price: 5.39 ETH  (~ 7006 USD)
+- total sales:  1608, total volume: Ξ20600.21 (~ US$ 26.8 million(s))
+- average price: Ξ12.81 (~ US$ 16654)
+- floor price: Ξ5.39 (~ US$ 7006)
 
 fees: seller -, opensea 2.5%
 
@@ -349,9 +347,9 @@ contracts (1):
 
 stats:
 - count / total supply: 5555 / 5555, num owners:  2081
-- total sales:  4802, total volume: 895.37 ETH  (~ 1.2 million(s) USD)
-- average price: 0.19 ETH  (~ 242.40 USD)
-- floor price: 0.04 ETH  (~ 54.69 USD)
+- total sales:  4802, total volume: Ξ895.37 (~ US$ 1.2 million(s))
+- average price: Ξ0.19 (~ US$ 242.40)
+- floor price: Ξ0.04 (~ US$ 54.69)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -385,9 +383,9 @@ contracts (1):
 
 stats:
 - count / total supply: 6000 / 6000, num owners:  2906
-- total sales:  8193, total volume: 975.31 ETH  (~ 1.3 million(s) USD)
-- average price: 0.12 ETH  (~ 154.75 USD)
-- floor price: 0.010 ETH  (~ 12.35 USD)
+- total sales:  8193, total volume: Ξ975.31 (~ US$ 1.3 million(s))
+- average price: Ξ0.12 (~ US$ 154.75)
+- floor price: Ξ0.010 (~ US$ 12.35)
 
 fees: seller 2.0%, opensea 2.5%
 
@@ -416,9 +414,9 @@ contracts (1):
 
 stats:
 - count / total supply: 6969 / 6969, num owners:  2035
-- total sales:  7455, total volume: 706.83 ETH  (~ 918875 USD)
-- average price: 0.09 ETH  (~ 123.26 USD)
-- floor price: 0.04 ETH  (~ 49.40 USD)
+- total sales:  7455, total volume: Ξ706.83 (~ US$ 918875)
+- average price: Ξ0.09 (~ US$ 123.26)
+- floor price: Ξ0.04 (~ US$ 49.40)
 
 fees: seller 6.9%, opensea 2.5%
 
@@ -446,9 +444,9 @@ contracts (1):
 
 stats:
 - count / total supply: 9985 / 9985, num owners:  4592
-- total sales:  13252, total volume: 524.25 ETH  (~ 681525 USD)
-- average price: 0.04 ETH  (~ 51.43 USD)
-- floor price: 0.009 ETH  (~ 11.70 USD)
+- total sales:  13252, total volume: Ξ524.25 (~ US$ 681525)
+- average price: Ξ0.04 (~ US$ 51.43)
+- floor price: Ξ0.009 (~ US$ 11.70)
 
 fees: seller 7.5%, opensea 2.5%
 
@@ -478,9 +476,9 @@ contracts (1):
 
 stats:
 - count / total supply: 9996 / 9996, num owners:  1779
-- total sales:  3687, total volume: 37.60 ETH  (~ 48877 USD)
-- average price: 0.010 ETH  (~ 13.26 USD)
-- floor price: 0.0009 ETH  (~ 1.17 USD)
+- total sales:  3687, total volume: Ξ37.60 (~ US$ 48877)
+- average price: Ξ0.010 (~ US$ 13.26)
+- floor price: Ξ0.0009 (~ US$ 1.17)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -509,9 +507,9 @@ contracts (1):
 
 stats:
 - count / total supply: 9999 / 9999, num owners:  3996
-- total sales:  14406, total volume: 1456.85 ETH  (~ 1.9 million(s) USD)
-- average price: 0.10 ETH  (~ 131.47 USD)
-- floor price: 0.007 ETH  (~ 9.10 USD)
+- total sales:  14406, total volume: Ξ1456.85 (~ US$ 1.9 million(s))
+- average price: Ξ0.10 (~ US$ 131.47)
+- floor price: Ξ0.007 (~ US$ 9.10)
 
 fees: seller 0.0%, opensea 2.5%
 
@@ -549,9 +547,9 @@ contracts (1):
 
 stats:
 - count / total supply: 10000 / 10000, num owners:  3330
-- total sales:  13478, total volume: 13083.28 ETH  (~ 17.0 million(s) USD)
-- average price: 0.97 ETH  (~ 1262 USD)
-- floor price: 0.18 ETH  (~ 231.40 USD)
+- total sales:  13478, total volume: Ξ13083.28 (~ US$ 17.0 million(s))
+- average price: Ξ0.97 (~ US$ 1262)
+- floor price: Ξ0.18 (~ US$ 231.40)
 
 fees: seller 2.5%, opensea 2.5%
 
@@ -587,9 +585,9 @@ contracts (1):
 
 stats:
 - count / total supply: 771 / 771, num owners:  563
-- total sales:  3, total volume: 1.33 ETH  (~ 1729 USD)
-- average price: 0.44 ETH  (~ 576.33 USD)
-- floor price: 0.50 ETH  (~ 650.00 USD)
+- total sales:  3, total volume: Ξ1.33 (~ US$ 1729)
+- average price: Ξ0.44 (~ US$ 576.33)
+- floor price: Ξ0.50 (~ US$ 650.00)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -622,9 +620,9 @@ contracts (1):
 
 stats:
 - count / total supply: 19217 / 19217, num owners:  5891
-- total sales:  18158, total volume: 18888.43 ETH  (~ 24.6 million(s) USD)
-- average price: 1.04 ETH  (~ 1352 USD)
-- floor price: 0.27 ETH  (~ 348.40 USD)
+- total sales:  18158, total volume: Ξ18888.43 (~ US$ 24.6 million(s))
+- average price: Ξ1.04 (~ US$ 1352)
+- floor price: Ξ0.27 (~ US$ 348.40)
 
 fees: seller 3.0%, opensea 2.5%
 
@@ -643,8 +641,8 @@ contracts (1):
 
 stats:
 - count / total supply: 200 / 200, num owners:  80
-- total sales:  145, total volume: 166.65 ETH  (~ 216642 USD)
-- average price: 1.15 ETH  (~ 1494 USD)
+- total sales:  145, total volume: Ξ166.65 (~ US$ 216642)
+- average price: Ξ1.15 (~ US$ 1494)
 - floor price: ???
 
 fees: seller 2.0%, opensea 2.5%
@@ -664,8 +662,8 @@ contracts (1):
 
 stats:
 - count / total supply: 9998 / 9998, num owners:  3596
-- total sales:  21589, total volume: 1001326.14 ETH  (~ 1301.7 million(s) USD)
-- average price: 46.38 ETH  (~ 60296 USD)
+- total sales:  21589, total volume: Ξ1001326.14 (~ US$ 1301.7 million(s))
+- average price: Ξ46.38 (~ US$ 60296)
 - floor price: ???
 
 fees: seller -, opensea 2.5%

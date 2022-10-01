@@ -64,11 +64,11 @@ def fmt_eth( amount )
                 end
 
       if amount >= 0.015
-        "#{'%.2f' % amount} ETH  (~ #{usd_str} USD)"
+        "#{'Ξ%.2f' % amount} (~ US$ #{usd_str})"
       elsif amount >= 0.0015
-        "#{'%.3f' % amount} ETH  (~ #{usd_str} USD)"
+        "#{'Ξ%.3f' % amount} (~ US$ #{usd_str})"
       else
-        "#{amount} ETH  (~ #{usd_str} USD)"
+        "Ξ#{amount} (~ US$ #{usd_str})"
       end
    end
 end
@@ -102,27 +102,31 @@ each_dir( "#{root_dir}/*" ) do |dir|
 
    buf << "- "
    if meta.stats.thirty_day_sales > 0
-      buf << " #{meta.stats.thirty_day_sales} - #{fmt_eth( meta.stats.thirty_day_volume )} (30d),"
+      buf << " #{meta.stats.thirty_day_sales} in 30d - #{fmt_eth( meta.stats.thirty_day_volume )},"
       if meta.stats.seven_day_sales > 0
-         buf << " #{meta.stats.seven_day_sales} - #{fmt_eth( meta.stats.seven_day_volume )} (7d),"
+         buf << " #{meta.stats.seven_day_sales} in 7d - #{fmt_eth( meta.stats.seven_day_volume )},"
          if meta.stats.one_day_sales > 0
-            buf << " #{meta.stats.one_day_sales} - #{fmt_eth( meta.stats.one_day_volume )} (1d),"
+            buf << " #{meta.stats.one_day_sales} in 1d - #{fmt_eth( meta.stats.one_day_volume )},"
          else
-            buf << " 0 (1d) "
+            buf << " 0 in 1d "
          end
       else
-         buf << " 0 / 0 (7d/1d) "
+         buf << " 0 in 7d/1d "
       end
    else
-      buf << " 0 / 0 / 0 (30d/7d/1d) "
+      buf << " 0 in 30d/7d/1d "
    end
 
    buf << " **[#{meta.stats.total_supply} #{meta.name} (#{fmt_date(date)}), #{fmt_fees( meta.fees.seller_fees )}](https://opensea.io/collection/#{meta.slug})**\n"
    buf << "   - owners: #{meta.stats.num_owners},"
-   buf << "   sales:  #{meta.stats.total_sales},"
-   buf << "   -  #{fmt_eth( meta.stats.total_volume )},"
-   buf << "   price: avg #{fmt_eth( meta.stats.average_price ) },"
-   buf << "   floor #{fmt_eth( meta.stats.floor_price ) }"
+   if meta.stats.total_sales > 0
+     buf << "   sales:  #{meta.stats.total_sales}"
+     buf << "   -  #{fmt_eth( meta.stats.total_volume )} @ "
+     buf << "   price avg #{fmt_eth( meta.stats.average_price ) },"
+     buf << "   floor #{fmt_eth( meta.stats.floor_price ) }"
+   else
+      buf << "   sales: 0"
+   end
    buf << "\n"
 
    cols << Collection.new( meta.stats.thirty_day_volume, date, buf )
@@ -168,14 +172,18 @@ each_dir( "#{root_dir}/*" ) do |dir|
 
    buf << "- **[#{meta.stats.total_supply} #{meta.name} (#{fmt_date(date)}), #{fmt_fees( meta.fees.seller_fees )}](https://opensea.io/collection/#{meta.slug})**"
    buf << "   owners: #{meta.stats.num_owners},"
-   buf << "   sales:  #{meta.stats.total_sales},"
-   buf << "   -  #{fmt_eth( meta.stats.total_volume )},"
-   buf << "   price: avg #{fmt_eth( meta.stats.average_price ) },"
-   buf << "   floor #{fmt_eth( meta.stats.floor_price ) }"
+   if meta.stats.total_sales > 0
+     buf << "   sales:  #{meta.stats.total_sales}"
+     buf << "   -  #{fmt_eth( meta.stats.total_volume )} @ "
+     buf << "   price avg #{fmt_eth( meta.stats.average_price ) },"
+     buf << "   floor #{fmt_eth( meta.stats.floor_price ) }"
+   else
+     buf << "   sales: 0"
+   end
    buf << "\n"
 
-   cols << Collection.new( meta.stats.total_volume, buf )
 
+   cols << Collection.new( meta.stats.total_volume, buf )
 end
   cols = cols.sort { |l,r| r.total_volume <=> l.total_volume }
 
@@ -224,11 +232,16 @@ each_dir( "#{root_dir}/*" ) do |dir|
    buf << "stats:\n"
    buf << "- count / total supply: #{meta.stats.count} / #{meta.stats.total_supply},"
    buf << " num owners:  #{meta.stats.num_owners}\n"
-   buf << "- total sales:  #{meta.stats.total_sales},"
-   buf << " total volume: #{fmt_eth( meta.stats.total_volume ) }\n"
-   buf << "- average price: #{fmt_eth( meta.stats.average_price ) }\n"
-   buf << "- floor price: #{fmt_eth( meta.stats.floor_price ) }\n"
+   if meta.stats.total_sales > 0
+      buf << "- total sales:  #{meta.stats.total_sales},"
+      buf << " total volume: #{fmt_eth( meta.stats.total_volume ) }\n"
+      buf << "- average price: #{fmt_eth( meta.stats.average_price ) }\n"
+      buf << "- floor price: #{fmt_eth( meta.stats.floor_price ) }\n"
+   else
+      buf << "- total sales:  0\n"
+   end
    buf << "\n"
+
 
    buf << "fees:"
    buf << " seller #{fmt_fees( meta.fees.seller_fees )},"
@@ -279,7 +292,6 @@ write_text( "./openstore/TRENDING.md", buf )
 
 
 
-__END__
 
 report = TopCollectionsReport.new
 buf = report.build( './ethereum' )

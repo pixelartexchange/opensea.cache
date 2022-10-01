@@ -6,8 +6,8 @@ opensea: [ghozalipunk](https://opensea.io/collection/ghozalipunk) - created on J
 
 stats:
 - count / total supply: 935 / 935, num owners:  2
-- total sales:  2, total volume: 0.002 ETH  (~ 2.60 USD)
-- average price: 0.001 ETH  (~ 1.30 USD)
+- total sales:  2, total volume: Ξ0.002 (~ US$ 2.60)
+- average price: Ξ0.001 (~ US$ 1.30)
 - floor price: ???
 
 fees: seller 10.0%, opensea 2.5%
@@ -22,9 +22,7 @@ opensea: [high-effort-punks](https://opensea.io/collection/high-effort-punks) - 
 
 stats:
 - count / total supply: 120 / 120, num owners:  1
-- total sales:  0, total volume: 0.0 ETH  (~ 0.00 USD)
-- average price: 0.0 ETH  (~ 0.00 USD)
-- floor price: ???
+- total sales:  0
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -40,9 +38,9 @@ twitter: [itsajoak](https://twitter.com/itsajoak)<br>
 
 stats:
 - count / total supply: 227 / 227, num owners:  18
-- total sales:  28, total volume: 0.55 ETH  (~ 713.18 USD)
-- average price: 0.02 ETH  (~ 25.47 USD)
-- floor price: 0.010 ETH  (~ 13.26 USD)
+- total sales:  28, total volume: Ξ0.55 (~ US$ 713.18)
+- average price: Ξ0.02 (~ US$ 25.47)
+- floor price: Ξ0.010 (~ US$ 13.26)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -56,9 +54,9 @@ opensea: [cryptomasterpiecez](https://opensea.io/collection/cryptomasterpiecez) 
 
 stats:
 - count / total supply: 61 / 61, num owners:  8
-- total sales:  9, total volume: 0.10 ETH  (~ 136.50 USD)
-- average price: 0.012 ETH  (~ 15.17 USD)
-- floor price: 0.010 ETH  (~ 13.00 USD)
+- total sales:  9, total volume: Ξ0.10 (~ US$ 136.50)
+- average price: Ξ0.012 (~ US$ 15.17)
+- floor price: Ξ0.010 (~ US$ 13.00)
 
 fees: seller 6.0%, opensea 2.5%
 
@@ -73,9 +71,9 @@ twitter: [punks_afro](https://twitter.com/punks_afro)<br>
 
 stats:
 - count / total supply: 40 / 40, num owners:  2
-- total sales:  1, total volume: 0.005 ETH  (~ 6.50 USD)
-- average price: 0.005 ETH  (~ 6.50 USD)
-- floor price: 0.005 ETH  (~ 6.50 USD)
+- total sales:  1, total volume: Ξ0.005 (~ US$ 6.50)
+- average price: Ξ0.005 (~ US$ 6.50)
+- floor price: Ξ0.005 (~ US$ 6.50)
 
 fees: seller -, opensea 2.5%
 
@@ -113,9 +111,7 @@ twitter: [pixelgalsnft](https://twitter.com/pixelgalsnft)<br>
 
 stats:
 - count / total supply: 61 / 61, num owners:  1
-- total sales:  0, total volume: 0.0 ETH  (~ 0.00 USD)
-- average price: 0.0 ETH  (~ 0.00 USD)
-- floor price: ???
+- total sales:  0
 
 fees: seller 3.0%, opensea 2.5%
 
@@ -131,9 +127,9 @@ twitter: [dubaipeeps](https://twitter.com/dubaipeeps)<br>
 
 stats:
 - count / total supply: 600 / 600, num owners:  280
-- total sales:  614, total volume: 73.56 ETH  (~ 95629 USD)
-- average price: 0.12 ETH  (~ 155.75 USD)
-- floor price: 0.16 ETH  (~ 208.00 USD)
+- total sales:  614, total volume: Ξ73.56 (~ US$ 95629)
+- average price: Ξ0.12 (~ US$ 155.75)
+- floor price: Ξ0.16 (~ US$ 208.00)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -168,9 +164,9 @@ twitter: [BillyM2k](https://twitter.com/BillyM2k)<br>
 
 stats:
 - count / total supply: 1000 / 1000, num owners:  482
-- total sales:  2265, total volume: 550.45 ETH  (~ 715591 USD)
-- average price: 0.24 ETH  (~ 315.93 USD)
-- floor price: 0.25 ETH  (~ 325.00 USD)
+- total sales:  2265, total volume: Ξ550.45 (~ US$ 715591)
+- average price: Ξ0.24 (~ US$ 315.93)
+- floor price: Ξ0.25 (~ US$ 325.00)
 
 fees: seller 5.0%, opensea 2.5%
 
@@ -198,9 +194,9 @@ twitter: [goodbyepunks](https://twitter.com/goodbyepunks)<br>
 
 stats:
 - count / total supply: 100 / 100, num owners:  86
-- total sales:  99, total volume: 14.52 ETH  (~ 18877 USD)
-- average price: 0.15 ETH  (~ 190.68 USD)
-- floor price: 0.10 ETH  (~ 130.00 USD)
+- total sales:  99, total volume: Ξ14.52 (~ US$ 18877)
+- average price: Ξ0.15 (~ US$ 190.68)
+- floor price: Ξ0.10 (~ US$ 130.00)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -222,9 +218,9 @@ twitter: [BillyM2k](https://twitter.com/BillyM2k)<br>
 
 stats:
 - count / total supply: 100 / 100, num owners:  82
-- total sales:  244, total volume: 868.48 ETH  (~ 1.1 million(s) USD)
-- average price: 3.56 ETH  (~ 4627 USD)
-- floor price: 4.07 ETH  (~ 5290 USD)
+- total sales:  244, total volume: Ξ868.48 (~ US$ 1.1 million(s))
+- average price: Ξ3.56 (~ US$ 4627)
+- floor price: Ξ4.07 (~ US$ 5290)
 
 fees: seller 5.0%, opensea 2.5%
 
@@ -250,9 +246,7 @@ twitter: [AgressiffStudio](https://twitter.com/AgressiffStudio)<br>
 
 stats:
 - count / total supply: 35 / 35, num owners:  3
-- total sales:  0, total volume: 0.0 ETH  (~ 0.00 USD)
-- average price: 0.0 ETH  (~ 0.00 USD)
-- floor price: ???
+- total sales:  0
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -268,9 +262,9 @@ twitter: [LuxuryPunks](https://twitter.com/LuxuryPunks)<br>
 
 stats:
 - count / total supply: 6629 / 6629, num owners:  80
-- total sales:  144, total volume: 2.30 ETH  (~ 2996 USD)
-- average price: 0.02 ETH  (~ 20.81 USD)
-- floor price: 0.70 ETH  (~ 910.00 USD)
+- total sales:  144, total volume: Ξ2.30 (~ US$ 2996)
+- average price: Ξ0.02 (~ US$ 20.81)
+- floor price: Ξ0.70 (~ US$ 910.00)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -300,9 +294,9 @@ opensea: [thecryptogenius](https://opensea.io/collection/thecryptogenius) - crea
 
 stats:
 - count / total supply: 90 / 90, num owners:  42
-- total sales:  69, total volume: 1.52 ETH  (~ 1980 USD)
-- average price: 0.02 ETH  (~ 28.69 USD)
-- floor price: 1.00 ETH  (~ 1300 USD)
+- total sales:  69, total volume: Ξ1.52 (~ US$ 1980)
+- average price: Ξ0.02 (~ US$ 28.69)
+- floor price: Ξ1.00 (~ US$ 1300)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -316,9 +310,9 @@ opensea: [histopunks](https://opensea.io/collection/histopunks) - created on Aug
 
 stats:
 - count / total supply: 175 / 175, num owners:  64
-- total sales:  103, total volume: 12.76 ETH  (~ 16594 USD)
-- average price: 0.12 ETH  (~ 161.11 USD)
-- floor price: 0.15 ETH  (~ 195.00 USD)
+- total sales:  103, total volume: Ξ12.76 (~ US$ 16594)
+- average price: Ξ0.12 (~ US$ 161.11)
+- floor price: Ξ0.15 (~ US$ 195.00)
 
 fees: seller 5.0%, opensea 2.5%
 
@@ -345,9 +339,9 @@ web:  <https://www.24px.io><br>
 
 stats:
 - count / total supply: 9900 / 9900, num owners:  4093
-- total sales:  20108, total volume: 937.67 ETH  (~ 1.2 million(s) USD)
-- average price: 0.05 ETH  (~ 60.62 USD)
-- floor price: 0.005 ETH  (~ 6.37 USD)
+- total sales:  20108, total volume: Ξ937.67 (~ US$ 1.2 million(s))
+- average price: Ξ0.05 (~ US$ 60.62)
+- floor price: Ξ0.005 (~ US$ 6.37)
 
 fees: seller 2.5%, opensea 2.5%
 
@@ -363,9 +357,9 @@ twitter: [MonkePunks](https://twitter.com/MonkePunks)<br>
 
 stats:
 - count / total supply: 999 / 999, num owners:  600
-- total sales:  1756, total volume: 136.55 ETH  (~ 177513 USD)
-- average price: 0.08 ETH  (~ 101.09 USD)
-- floor price: 0.04 ETH  (~ 52.00 USD)
+- total sales:  1756, total volume: Ξ136.55 (~ US$ 177513)
+- average price: Ξ0.08 (~ US$ 101.09)
+- floor price: Ξ0.04 (~ US$ 52.00)
 
 fees: seller 5.0%, opensea 2.5%
 
@@ -396,9 +390,9 @@ twitter: [FigurePunks](https://twitter.com/FigurePunks)<br>
 
 stats:
 - count / total supply: 454 / 454, num owners:  39
-- total sales:  131, total volume: 3.18 ETH  (~ 4140 USD)
-- average price: 0.02 ETH  (~ 31.61 USD)
-- floor price: 0.010 ETH  (~ 13.00 USD)
+- total sales:  131, total volume: Ξ3.18 (~ US$ 4140)
+- average price: Ξ0.02 (~ US$ 31.61)
+- floor price: Ξ0.010 (~ US$ 13.00)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -414,9 +408,9 @@ twitter: [youtubepunks](https://twitter.com/youtubepunks)<br>
 
 stats:
 - count / total supply: 500 / 500, num owners:  226
-- total sales:  409, total volume: 13.44 ETH  (~ 17478 USD)
-- average price: 0.03 ETH  (~ 42.73 USD)
-- floor price: 0.02 ETH  (~ 20.80 USD)
+- total sales:  409, total volume: Ξ13.44 (~ US$ 17478)
+- average price: Ξ0.03 (~ US$ 42.73)
+- floor price: Ξ0.02 (~ US$ 20.80)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -437,9 +431,9 @@ twitter: [OnlyPunksETH](https://twitter.com/OnlyPunksETH)<br>
 
 stats:
 - count / total supply: 2386 / 2386, num owners:  1032
-- total sales:  3918, total volume: 230.81 ETH  (~ 300050 USD)
-- average price: 0.06 ETH  (~ 76.58 USD)
-- floor price: 0.02 ETH  (~ 23.40 USD)
+- total sales:  3918, total volume: Ξ230.81 (~ US$ 300050)
+- average price: Ξ0.06 (~ US$ 76.58)
+- floor price: Ξ0.02 (~ US$ 23.40)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -461,9 +455,9 @@ web:  <https://www.24px.io><br>
 
 stats:
 - count / total supply: 9895 / 9895, num owners:  4225
-- total sales:  28189, total volume: 3588.14 ETH  (~ 4.7 million(s) USD)
-- average price: 0.13 ETH  (~ 165.48 USD)
-- floor price: 0.02 ETH  (~ 23.27 USD)
+- total sales:  28189, total volume: Ξ3588.14 (~ US$ 4.7 million(s))
+- average price: Ξ0.13 (~ US$ 165.48)
+- floor price: Ξ0.02 (~ US$ 23.27)
 
 fees: seller 2.5%, opensea 2.5%
 
@@ -478,9 +472,9 @@ twitter: [CinePunks](https://twitter.com/CinePunks)<br>
 
 stats:
 - count / total supply: 362 / 362, num owners:  115
-- total sales:  230, total volume: 6.06 ETH  (~ 7884 USD)
-- average price: 0.03 ETH  (~ 34.28 USD)
-- floor price: 0.02 ETH  (~ 19.50 USD)
+- total sales:  230, total volume: Ξ6.06 (~ US$ 7884)
+- average price: Ξ0.03 (~ US$ 34.28)
+- floor price: Ξ0.02 (~ US$ 19.50)
 
 fees: seller 2.5%, opensea 2.5%
 
@@ -504,8 +498,8 @@ twitter: [mafia_punks](https://twitter.com/mafia_punks)<br>
 
 stats:
 - count / total supply: 195 / 195, num owners:  88
-- total sales:  197, total volume: 4.46 ETH  (~ 5792 USD)
-- average price: 0.02 ETH  (~ 29.40 USD)
+- total sales:  197, total volume: Ξ4.46 (~ US$ 5792)
+- average price: Ξ0.02 (~ US$ 29.40)
 - floor price: ???
 
 fees: seller 3.5%, opensea 2.5%
@@ -528,9 +522,9 @@ twitter: [CryptoFrontPunk](https://twitter.com/CryptoFrontPunk)<br>
 
 stats:
 - count / total supply: 1000 / 1000, num owners:  185
-- total sales:  478, total volume: 16.01 ETH  (~ 20819 USD)
-- average price: 0.03 ETH  (~ 43.47 USD)
-- floor price: 0.02 ETH  (~ 26.00 USD)
+- total sales:  478, total volume: Ξ16.01 (~ US$ 20819)
+- average price: Ξ0.03 (~ US$ 43.47)
+- floor price: Ξ0.02 (~ US$ 26.00)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -552,9 +546,9 @@ twitter: [@PunksDoge](https://twitter.com/@PunksDoge)<br>
 
 stats:
 - count / total supply: 150 / 150, num owners:  69
-- total sales:  220, total volume: 4.96 ETH  (~ 6444 USD)
-- average price: 0.02 ETH  (~ 29.29 USD)
-- floor price: 0.010 ETH  (~ 12.87 USD)
+- total sales:  220, total volume: Ξ4.96 (~ US$ 6444)
+- average price: Ξ0.02 (~ US$ 29.29)
+- floor price: Ξ0.010 (~ US$ 12.87)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -569,9 +563,9 @@ twitter: [KimonoNinja_NFT](https://twitter.com/KimonoNinja_NFT)<br>
 
 stats:
 - count / total supply: 982 / 982, num owners:  445
-- total sales:  1066, total volume: 28.70 ETH  (~ 37315 USD)
-- average price: 0.03 ETH  (~ 35.00 USD)
-- floor price: 0.02 ETH  (~ 32.50 USD)
+- total sales:  1066, total volume: Ξ28.70 (~ US$ 37315)
+- average price: Ξ0.03 (~ US$ 35.00)
+- floor price: Ξ0.02 (~ US$ 32.50)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -587,9 +581,9 @@ twitter: [cloutpunks](https://twitter.com/cloutpunks)<br>
 
 stats:
 - count / total supply: 518 / 518, num owners:  280
-- total sales:  764, total volume: 85.50 ETH  (~ 111147 USD)
-- average price: 0.11 ETH  (~ 145.48 USD)
-- floor price: 0.04 ETH  (~ 52.00 USD)
+- total sales:  764, total volume: Ξ85.50 (~ US$ 111147)
+- average price: Ξ0.11 (~ US$ 145.48)
+- floor price: Ξ0.04 (~ US$ 52.00)
 
 fees: seller 8.0%, opensea 2.5%
 
@@ -685,9 +679,9 @@ twitter: [MorePunks](https://twitter.com/MorePunks)<br>
 
 stats:
 - count / total supply: 1012 / 1012, num owners:  388
-- total sales:  1712, total volume: 84.14 ETH  (~ 109383 USD)
-- average price: 0.05 ETH  (~ 63.89 USD)
-- floor price: 0.008 ETH  (~ 10.40 USD)
+- total sales:  1712, total volume: Ξ84.14 (~ US$ 109383)
+- average price: Ξ0.05 (~ US$ 63.89)
+- floor price: Ξ0.008 (~ US$ 10.40)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -715,9 +709,9 @@ twitter: [PixelMeows](https://twitter.com/PixelMeows)<br>
 
 stats:
 - count / total supply: 100 / 100, num owners:  13
-- total sales:  15, total volume: 0.14 ETH  (~ 187.20 USD)
-- average price: 0.010 ETH  (~ 12.48 USD)
-- floor price: 0.08 ETH  (~ 102.70 USD)
+- total sales:  15, total volume: Ξ0.14 (~ US$ 187.20)
+- average price: Ξ0.010 (~ US$ 12.48)
+- floor price: Ξ0.08 (~ US$ 102.70)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -752,9 +746,9 @@ twitter: [CryptoGreats](https://twitter.com/CryptoGreats)<br>
 
 stats:
 - count / total supply: 933 / 933, num owners:  137
-- total sales:  617, total volume: 10.62 ETH  (~ 13805 USD)
-- average price: 0.02 ETH  (~ 22.37 USD)
-- floor price: 0.010 ETH  (~ 13.00 USD)
+- total sales:  617, total volume: Ξ10.62 (~ US$ 13805)
+- average price: Ξ0.02 (~ US$ 22.37)
+- floor price: Ξ0.010 (~ US$ 13.00)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -776,9 +770,9 @@ twitter: [scifipunks](https://twitter.com/scifipunks)<br>
 
 stats:
 - count / total supply: 232 / 232, num owners:  43
-- total sales:  62, total volume: 9.94 ETH  (~ 12928 USD)
-- average price: 0.16 ETH  (~ 208.52 USD)
-- floor price: 0.10 ETH  (~ 130.00 USD)
+- total sales:  62, total volume: Ξ9.94 (~ US$ 12928)
+- average price: Ξ0.16 (~ US$ 208.52)
+- floor price: Ξ0.10 (~ US$ 130.00)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -831,8 +825,8 @@ twitter: [GeniusPunks](https://twitter.com/GeniusPunks)<br>
 
 stats:
 - count / total supply: 34 / 34, num owners:  11
-- total sales:  28, total volume: 6.44 ETH  (~ 8372 USD)
-- average price: 0.23 ETH  (~ 299.00 USD)
+- total sales:  28, total volume: Ξ6.44 (~ US$ 8372)
+- average price: Ξ0.23 (~ US$ 299.00)
 - floor price: ???
 
 fees: seller 7.5%, opensea 2.5%
@@ -855,9 +849,9 @@ twitter: [thepxlportraits](https://twitter.com/thepxlportraits)<br>
 
 stats:
 - count / total supply: 998 / 998, num owners:  548
-- total sales:  1029, total volume: 104.36 ETH  (~ 135667 USD)
-- average price: 0.10 ETH  (~ 131.84 USD)
-- floor price: 0.50 ETH  (~ 650.00 USD)
+- total sales:  1029, total volume: Ξ104.36 (~ US$ 135667)
+- average price: Ξ0.10 (~ US$ 131.84)
+- floor price: Ξ0.50 (~ US$ 650.00)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -935,9 +929,9 @@ twitter: [bwpunks](https://twitter.com/bwpunks)<br>
 
 stats:
 - count / total supply: 149 / 149, num owners:  68
-- total sales:  118, total volume: 56.28 ETH  (~ 73164 USD)
-- average price: 0.48 ETH  (~ 620.03 USD)
-- floor price: 0.04 ETH  (~ 58.50 USD)
+- total sales:  118, total volume: Ξ56.28 (~ US$ 73164)
+- average price: Ξ0.48 (~ US$ 620.03)
+- floor price: Ξ0.04 (~ US$ 58.50)
 
 fees: seller -, opensea 2.5%
 
@@ -958,9 +952,9 @@ twitter: [AnimePunks_](https://twitter.com/AnimePunks_)<br>
 
 stats:
 - count / total supply: 1000 / 1000, num owners:  342
-- total sales:  950, total volume: 138.88 ETH  (~ 180541 USD)
-- average price: 0.15 ETH  (~ 190.04 USD)
-- floor price: 0.04 ETH  (~ 49.40 USD)
+- total sales:  950, total volume: Ξ138.88 (~ US$ 180541)
+- average price: Ξ0.15 (~ US$ 190.04)
+- floor price: Ξ0.04 (~ US$ 49.40)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -1034,9 +1028,9 @@ twitter: [UnofficialPunks](https://twitter.com/UnofficialPunks)<br>
 
 stats:
 - count / total supply: 99 / 99, num owners:  82
-- total sales:  167, total volume: 144.31 ETH  (~ 187599 USD)
-- average price: 0.86 ETH  (~ 1121 USD)
-- floor price: 0.75 ETH  (~ 975.00 USD)
+- total sales:  167, total volume: Ξ144.31 (~ US$ 187599)
+- average price: Ξ0.86 (~ US$ 1121)
+- floor price: Ξ0.75 (~ US$ 975.00)
 
 fees: seller 10.0%, opensea 2.5%
 
