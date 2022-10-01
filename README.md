@@ -2,7 +2,7 @@
 
 
 
-## Collection Reports from (Cached) Opensea Datasets
+## (Auto-Generated) Collection Reports from (Cached) Opensea Datasets
 
 **Ethereum**
 
