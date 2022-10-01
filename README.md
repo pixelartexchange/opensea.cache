@@ -18,7 +18,8 @@
 - [Trending Collections (in 30d/7d/1d Sales Volume)](openstore/TRENDING.md)
 
 
-
+See the scripts in the /sandbox directory to update the (cached)
+datasets via the opensea api and (re)generate the reports.
 
 
 
