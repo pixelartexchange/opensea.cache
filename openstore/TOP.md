@@ -1,4 +1,4 @@
-# Top Collections by Sales Value
+# Top Collections by All-Time Sales Volume (in Ξ)
 
 - **[9895 24px (Aug 02, 2021), 2.5%](https://opensea.io/collection/24px)**   owners: 4225,   sales:  28189   -  Ξ3588.14 (~ US$ 4.7 million(s)) @    price avg Ξ0.13 (~ US$ 165.48),   floor Ξ0.02 (~ US$ 23.27)
 - **[9900 weape24 (Aug 24, 2021), 2.5%](https://opensea.io/collection/weape24)**   owners: 4093,   sales:  20108   -  Ξ937.67 (~ US$ 1.2 million(s)) @    price avg Ξ0.05 (~ US$ 60.62),   floor Ξ0.005 (~ US$ 6.37)

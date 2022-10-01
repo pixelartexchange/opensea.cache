@@ -1,4 +1,4 @@
-# Top Collections by Sales Value
+# Top Collections by All-Time Sales Volume (in Ξ)
 
 - **[9998 CryptoPunks (Jan 23, 2018), -](https://opensea.io/collection/cryptopunks)**   owners: 3596,   sales:  21589   -  Ξ1001326.14 (~ US$ 1301.7 million(s)) @    price avg Ξ46.38 (~ US$ 60296),   floor ???
 - **[10000 Moonbirds (Apr 15, 2022), 5.0%](https://opensea.io/collection/proof-moonbirds)**   owners: 6585,   sales:  9540   -  Ξ171590.31 (~ US$ 223.1 million(s)) @    price avg Ξ17.99 (~ US$ 23382),   floor Ξ10.40 (~ US$ 13520)
