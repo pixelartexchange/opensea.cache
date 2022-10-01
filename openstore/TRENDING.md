@@ -1,0 +1,72 @@
+# Trending Collections
+
+-  125 - 4.45 ETH  (~ 5782 USD) (30d), 13 - 0.66 ETH  (~ 852.80 USD) (7d), 3 - 0.28 ETH  (~ 362.70 USD) (1d), **[9895 24px (Aug 02, 2021), 2.5%](https://opensea.io/collection/24px)**
+   - owners: 4225,   sales:  28189,   -  3588.14 ETH  (~ 4.7 million(s) USD),   price: avg 0.13 ETH  (~ 165.48 USD),   floor 0.02 ETH  (~ 23.27 USD)
+-  1 - 1.50 ETH  (~ 1950 USD) (30d), 0 / 0 (7d/1d)  **[100 Blocky Doge (Sep 15, 2021), 5.0%](https://opensea.io/collection/blockydoge)**
+   - owners: 82,   sales:  244,   -  868.48 ETH  (~ 1.1 million(s) USD),   price: avg 3.56 ETH  (~ 4627 USD),   floor 4.07 ETH  (~ 5290 USD)
+-  2 - 1.14 ETH  (~ 1482 USD) (30d), 2 - 1.14 ETH  (~ 1482 USD) (7d), 1 - 0.14 ETH  (~ 182.00 USD) (1d), **[600 DubaiPeeps (Oct 25, 2021), 10.0%](https://opensea.io/collection/dubaipeeps)**
+   - owners: 280,   sales:  614,   -  73.56 ETH  (~ 95629 USD),   price: avg 0.12 ETH  (~ 155.75 USD),   floor 0.16 ETH  (~ 208.00 USD)
+-  5 - 0.75 ETH  (~ 969.67 USD) (30d), 1 - 0.03 ETH  (~ 34.97 USD) (7d), 0 (1d)  **[1000 Blocky Doge: Guilds (Oct 09, 2021), 5.0%](https://opensea.io/collection/blockydogeguilds)**
+   - owners: 482,   sales:  2265,   -  550.45 ETH  (~ 715591 USD),   price: avg 0.24 ETH  (~ 315.93 USD),   floor 0.25 ETH  (~ 325.00 USD)
+-  9 - 0.66 ETH  (~ 863.20 USD) (30d), 0 / 0 (7d/1d)  **[1000 Anime Punks (Feb 23, 2021), 10.0%](https://opensea.io/collection/anime-punks)**
+   - owners: 342,   sales:  950,   -  138.88 ETH  (~ 180541 USD),   price: avg 0.15 ETH  (~ 190.04 USD),   floor 0.04 ETH  (~ 49.40 USD)
+-  8 - 0.22 ETH  (~ 286.00 USD) (30d), 4 - 0.10 ETH  (~ 130.00 USD) (7d), 0 (1d)  **[982 KimonoNinjaPunks (May 23, 2021), 10.0%](https://opensea.io/collection/kimono-punks)**
+   - owners: 445,   sales:  1066,   -  28.70 ETH  (~ 37315 USD),   price: avg 0.03 ETH  (~ 35.00 USD),   floor 0.02 ETH  (~ 32.50 USD)
+-  8 - 0.16 ETH  (~ 202.67 USD) (30d), 1 - 0.04 ETH  (~ 50.70 USD) (7d), 1 - 0.04 ETH  (~ 50.70 USD) (1d), **[999 MonkePunks (Aug 21, 2021), 5.0%](https://opensea.io/collection/monkepunks)**
+   - owners: 600,   sales:  1756,   -  136.55 ETH  (~ 177513 USD),   price: avg 0.08 ETH  (~ 101.09 USD),   floor 0.04 ETH  (~ 52.00 USD)
+-  6 - 0.15 ETH  (~ 190.19 USD) (30d), 0 / 0 (7d/1d)  **[227 Punk of the Day (Jan 05, 2022), 10.0%](https://opensea.io/collection/punkoftheday)**
+   - owners: 18,   sales:  28,   -  0.55 ETH  (~ 713.18 USD),   price: avg 0.02 ETH  (~ 25.47 USD),   floor 0.010 ETH  (~ 13.26 USD)
+-  20 - 0.12 ETH  (~ 151.71 USD) (30d), 3 - 0.013 ETH  (~ 16.90 USD) (7d), 1 - 0.005 ETH  (~ 6.50 USD) (1d), **[9900 weape24 (Aug 24, 2021), 2.5%](https://opensea.io/collection/weape24)**
+   - owners: 4093,   sales:  20108,   -  937.67 ETH  (~ 1.2 million(s) USD),   price: avg 0.05 ETH  (~ 60.62 USD),   floor 0.005 ETH  (~ 6.37 USD)
+-  2 - 0.10 ETH  (~ 130.00 USD) (30d), 0 / 0 (7d/1d)  **[100 Goodbye Punks (Oct 03, 2021), 10.0%](https://opensea.io/collection/goodbye-punks)**
+   - owners: 86,   sales:  99,   -  14.52 ETH  (~ 18877 USD),   price: avg 0.15 ETH  (~ 190.68 USD),   floor 0.10 ETH  (~ 130.00 USD)
+-  0 / 0 / 0 (30d/7d/1d)  **[935 GhozaliPunk (Jan 16, 2022), 10.0%](https://opensea.io/collection/ghozalipunk)**
+   - owners: 2,   sales:  2,   -  0.002 ETH  (~ 2.60 USD),   price: avg 0.001 ETH  (~ 1.30 USD),   floor ???
+-  0 / 0 / 0 (30d/7d/1d)  **[120 High Effort Punks (Jan 08, 2022), 10.0%](https://opensea.io/collection/high-effort-punks)**
+   - owners: 1,   sales:  0,   -  0,   price: avg 0,   floor ???
+-  0 / 0 / 0 (30d/7d/1d)  **[61 CryptoMasterpiecez (Dec 29, 2021), 6.0%](https://opensea.io/collection/cryptomasterpiecez)**
+   - owners: 8,   sales:  9,   -  0.10 ETH  (~ 136.50 USD),   price: avg 0.012 ETH  (~ 15.17 USD),   floor 0.010 ETH  (~ 13.00 USD)
+-  0 / 0 / 0 (30d/7d/1d)  **[40 Afro-Punks # (Nov 28, 2021), -](https://opensea.io/collection/beautiful-female-punks)**
+   - owners: 2,   sales:  1,   -  0.005 ETH  (~ 6.50 USD),   price: avg 0.005 ETH  (~ 6.50 USD),   floor 0.005 ETH  (~ 6.50 USD)
+-  0 / 0 / 0 (30d/7d/1d)  **[61 PixelGalsNFT (Oct 30, 2021), 3.0%](https://opensea.io/collection/pixel-gals)**
+   - owners: 1,   sales:  0,   -  0,   price: avg 0,   floor ???
+-  0 / 0 / 0 (30d/7d/1d)  **[35 Athletes 101 (Sep 11, 2021), 10.0%](https://opensea.io/collection/athletes-101)**
+   - owners: 3,   sales:  0,   -  0,   price: avg 0,   floor ???
+-  0 / 0 / 0 (30d/7d/1d)  **[6629 CryptoLuxuryPunks (Sep 05, 2021), 10.0%](https://opensea.io/collection/cryptoluxurypunks)**
+   - owners: 80,   sales:  144,   -  2.30 ETH  (~ 2996 USD),   price: avg 0.02 ETH  (~ 20.81 USD),   floor 0.70 ETH  (~ 910.00 USD)
+-  0 / 0 / 0 (30d/7d/1d)  **[90 The Crypto Genius (Sep 02, 2021), 10.0%](https://opensea.io/collection/thecryptogenius)**
+   - owners: 42,   sales:  69,   -  1.52 ETH  (~ 1980 USD),   price: avg 0.02 ETH  (~ 28.69 USD),   floor 1.00 ETH  (~ 1300 USD)
+-  0 / 0 / 0 (30d/7d/1d)  **[175 HistoPunks (Aug 29, 2021), 5.0%](https://opensea.io/collection/histopunks)**
+   - owners: 64,   sales:  103,   -  12.76 ETH  (~ 16594 USD),   price: avg 0.12 ETH  (~ 161.11 USD),   floor 0.15 ETH  (~ 195.00 USD)
+-  0 / 0 / 0 (30d/7d/1d)  **[454 Figure Punks (Aug 13, 2021), 10.0%](https://opensea.io/collection/figurepunks)**
+   - owners: 39,   sales:  131,   -  3.18 ETH  (~ 4140 USD),   price: avg 0.02 ETH  (~ 31.61 USD),   floor 0.010 ETH  (~ 13.00 USD)
+-  0 / 0 / 0 (30d/7d/1d)  **[500 YoutubePunks (Aug 11, 2021), 10.0%](https://opensea.io/collection/youtubepunks)**
+   - owners: 226,   sales:  409,   -  13.44 ETH  (~ 17478 USD),   price: avg 0.03 ETH  (~ 42.73 USD),   floor 0.02 ETH  (~ 20.80 USD)
+-  0 / 0 / 0 (30d/7d/1d)  **[2386 OnlyPunks NFT (Aug 10, 2021), 10.0%](https://opensea.io/collection/onlypunksnft)**
+   - owners: 1032,   sales:  3918,   -  230.81 ETH  (~ 300050 USD),   price: avg 0.06 ETH  (~ 76.58 USD),   floor 0.02 ETH  (~ 23.40 USD)
+-  0 / 0 / 0 (30d/7d/1d)  **[362 CinePunks (Jul 31, 2021), 2.5%](https://opensea.io/collection/cinepunkss)**
+   - owners: 115,   sales:  230,   -  6.06 ETH  (~ 7884 USD),   price: avg 0.03 ETH  (~ 34.28 USD),   floor 0.02 ETH  (~ 19.50 USD)
+-  0 / 0 / 0 (30d/7d/1d)  **[195 Mafia Punks Club (Jul 10, 2021), 3.5%](https://opensea.io/collection/mafia-punks-club)**
+   - owners: 88,   sales:  197,   -  4.46 ETH  (~ 5792 USD),   price: avg 0.02 ETH  (~ 29.40 USD),   floor ???
+-  0 / 0 / 0 (30d/7d/1d)  **[1000 CryptoFrontPunks (Jul 01, 2021), 10.0%](https://opensea.io/collection/frontphunks)**
+   - owners: 185,   sales:  478,   -  16.01 ETH  (~ 20819 USD),   price: avg 0.03 ETH  (~ 43.47 USD),   floor 0.02 ETH  (~ 26.00 USD)
+-  0 / 0 / 0 (30d/7d/1d)  **[150 DogePunks. (Jun 15, 2021), 10.0%](https://opensea.io/collection/dogepunks-collection)**
+   - owners: 69,   sales:  220,   -  4.96 ETH  (~ 6444 USD),   price: avg 0.02 ETH  (~ 29.29 USD),   floor 0.010 ETH  (~ 12.87 USD)
+-  0 / 0 / 0 (30d/7d/1d)  **[518 Clout Punks (Apr 15, 2021), 8.0%](https://opensea.io/collection/clout-punks)**
+   - owners: 280,   sales:  764,   -  85.50 ETH  (~ 111147 USD),   price: avg 0.11 ETH  (~ 145.48 USD),   floor 0.04 ETH  (~ 52.00 USD)
+-  0 / 0 / 0 (30d/7d/1d)  **[1012 MorePunks (Apr 03, 2021), 10.0%](https://opensea.io/collection/morepunks)**
+   - owners: 388,   sales:  1712,   -  84.14 ETH  (~ 109383 USD),   price: avg 0.05 ETH  (~ 63.89 USD),   floor 0.008 ETH  (~ 10.40 USD)
+-  0 / 0 / 0 (30d/7d/1d)  **[100 PixelMeows (Mar 29, 2021), 10.0%](https://opensea.io/collection/pixelmeows)**
+   - owners: 13,   sales:  15,   -  0.14 ETH  (~ 187.20 USD),   price: avg 0.010 ETH  (~ 12.48 USD),   floor 0.08 ETH  (~ 102.70 USD)
+-  0 / 0 / 0 (30d/7d/1d)  **[933 CryptoGreats (Mar 18, 2021), 10.0%](https://opensea.io/collection/cryptogreats)**
+   - owners: 137,   sales:  617,   -  10.62 ETH  (~ 13805 USD),   price: avg 0.02 ETH  (~ 22.37 USD),   floor 0.010 ETH  (~ 13.00 USD)
+-  0 / 0 / 0 (30d/7d/1d)  **[232 ScifiPunks (Mar 16, 2021), 10.0%](https://opensea.io/collection/scifipunks)**
+   - owners: 43,   sales:  62,   -  9.94 ETH  (~ 12928 USD),   price: avg 0.16 ETH  (~ 208.52 USD),   floor 0.10 ETH  (~ 130.00 USD)
+-  0 / 0 / 0 (30d/7d/1d)  **[34 Genius Punks (Mar 15, 2021), 7.5%](https://opensea.io/collection/genius-punks)**
+   - owners: 11,   sales:  28,   -  6.44 ETH  (~ 8372 USD),   price: avg 0.23 ETH  (~ 299.00 USD),   floor ???
+-  0 / 0 / 0 (30d/7d/1d)  **[998 The Pixel Portraits OG Collection (Mar 07, 2021), 10.0%](https://opensea.io/collection/the-pixel-portraits-og)**
+   - owners: 548,   sales:  1029,   -  104.36 ETH  (~ 135667 USD),   price: avg 0.10 ETH  (~ 131.84 USD),   floor 0.50 ETH  (~ 650.00 USD)
+-  0 / 0 / 0 (30d/7d/1d)  **[149 B&W Punks (Feb 28, 2021), -](https://opensea.io/collection/bwpunks)**
+   - owners: 68,   sales:  118,   -  56.28 ETH  (~ 73164 USD),   price: avg 0.48 ETH  (~ 620.03 USD),   floor 0.04 ETH  (~ 58.50 USD)
+-  0 / 0 / 0 (30d/7d/1d)  **[99 Unofficial Punks (Feb 21, 2021), 10.0%](https://opensea.io/collection/unofficialpunks)**
+   - owners: 82,   sales:  167,   -  144.31 ETH  (~ 187599 USD),   price: avg 0.86 ETH  (~ 1121 USD),   floor 0.75 ETH  (~ 975.00 USD)
