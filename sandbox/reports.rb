@@ -8,30 +8,28 @@ $LOAD_PATH.unshift( "../../pixelart/artbase/artbase-opensea/lib" )
 require 'artbase-opensea'
 
 
-report = Opensea::TrendingCollectionsReport.new
-buf = report.build( './ethereum' )
-write_text( "./ethereum/TRENDING.md", buf )
 
-buf = report.build( './openstore' )
-write_text( "./openstore/TRENDING.md", buf )
+report = Opensea::TrendingCollectionsReport.new( './ethereum' )
+report.save( './ethereum/TRENDING.md' )
 
-
-
-report = Opensea::TopCollectionsReport.new
-buf = report.build( './ethereum' )
-write_text( "./ethereum/TOP.md", buf )
-
-buf = report.build( './openstore' )
-write_text( "./openstore/TOP.md", buf )
+report = Opensea::TrendingCollectionsReport.new( './openstore' )
+report.save( './openstore/TRENDING.md' )
 
 
 
-report = Opensea::CollectionsReport.new
-buf = report.build( './ethereum' )
-write_text( "./ethereum/README.md", buf )
+report = Opensea::TopCollectionsReport.new( './ethereum' )
+report.save( './ethereum/TOP.md' )
 
-buf = report.build( './openstore' )
-write_text( "./openstore/README.md", buf )
+report = Opensea::TopCollectionsReport.new( './openstore' )
+report.save( './openstore/TOP.md' )
+
+
+
+report = Opensea::CollectionsReport.new( './ethereum' )
+report.save( './ethereum/README.md' )
+
+report = Opensea::CollectionsReport.new( './openstore' )
+report.save( './openstore/README.md' )
 
 
 puts "bye"
