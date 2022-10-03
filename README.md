@@ -4,19 +4,19 @@
 
 ## (Auto-Generated) Collection Reports from (Cached) Opensea Datasets
 
-**Ethereum**
+**Ethereum Collections**
 
-- [Collections Timeline (in Reverse Chronological Order)](ethereum/)
-- [Top Collections by All-Time Sales Volume (in Ξ)](ethereum/TOP.md)
-- [Trending Collections (in 30d/7d/1d Sales Volume)](ethereum/TRENDING.md)
+- [Timeline (in Reverse Chronological Order)](ethereum/)
+- [Top by All-Time Sales Volume (in Ξ)](ethereum/TOP.md)
+- [Trending (in 30d/7d/1d Sales Volume)](ethereum/TRENDING.md)
 - [Collections in Detail](ethereum/COLLECTIONS.md)
 
 
-**Openstore @ Opensea**
+**Openstore @ Opensea Collections**
 
-- [Collections Timeline (in Reverse Chronological Order)](openstore/)
-- [Top Collections by All-Time Sales Volume (in Ξ)](openstore/TOP.md)
-- [Trending Collections (in 30d/7d/1d Sales Volume)](openstore/TRENDING.md)
+- [Timeline (in Reverse Chronological Order)](openstore/)
+- [Top by All-Time Sales Volume (in Ξ)](openstore/TOP.md)
+- [Trending (in 30d/7d/1d Sales Volume)](openstore/TRENDING.md)
 - [Collections in Detail](openstore/COLLECTIONS.md)
 
 
