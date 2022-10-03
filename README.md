@@ -9,6 +9,7 @@
 - [Collections Timeline (in Reverse Chronological Order)](ethereum/)
 - [Top Collections by All-Time Sales Volume (in Ξ)](ethereum/TOP.md)
 - [Trending Collections (in 30d/7d/1d Sales Volume)](ethereum/TRENDING.md)
+- [Collections in Detail](ethereum/COLLECTIONS.md)
 
 
 **Openstore @ Opensea**
@@ -16,6 +17,7 @@
 - [Collections Timeline (in Reverse Chronological Order)](openstore/)
 - [Top Collections by All-Time Sales Volume (in Ξ)](openstore/TOP.md)
 - [Trending Collections (in 30d/7d/1d Sales Volume)](openstore/TRENDING.md)
+- [Collections in Detail](openstore/COLLECTIONS.md)
 
 
 See the scripts in the /sandbox directory to update the (cached)
