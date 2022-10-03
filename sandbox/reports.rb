@@ -8,10 +8,10 @@ $LOAD_PATH.unshift( "../../pixelart/artbase/artbase-opensea/lib" )
 require 'artbase-opensea'
 
 
-report = Opensea::TimlineCollectionsReport.new( './ethereum' )
+report = Opensea::TimelineCollectionsReport.new( './ethereum' )
 report.save( './ethereum/README.md' )
 
-report = Opensea::TimlineCollectionsReport.new( './openstore' )
+report = Opensea::TimelineCollectionsReport.new( './openstore' )
 report.save( './openstore/README.md' )
 
 
