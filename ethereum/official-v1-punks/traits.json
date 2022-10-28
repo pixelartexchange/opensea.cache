@@ -1,126 +1,126 @@
 {
   "Body": {
-    "male": 1683,
-    "female": 908,
+    "male": 1770,
+    "female": 970,
     "alien": 6,
     "zombie": 21,
     "ape": 19
   },
   "Mouth": {
-    "muttonchops": 85,
-    "shadow beard": 131,
-    "handlebars": 78,
-    "purple lipstick": 139,
-    "hot lipstick": 174,
-    "black lipstick": 164,
-    "normal beard": 92,
-    "normal beard black": 59,
-    "luxurious beard": 73,
-    "goat": 91,
-    "front beard": 98,
-    "front beard dark": 92,
-    "big beard": 29
+    "muttonchops": 86,
+    "shadow beard": 142,
+    "handlebars": 83,
+    "purple lipstick": 151,
+    "hot lipstick": 184,
+    "black lipstick": 178,
+    "normal beard": 94,
+    "normal beard black": 61,
+    "luxurious beard": 78,
+    "goat": 97,
+    "front beard": 103,
+    "front beard dark": 94,
+    "big beard": 31
   },
   "Headband": {
-    "yes": 112
+    "yes": 120
   },
   "Earring": {
-    "yes": 694
+    "yes": 741
   },
   "Hat": {
-    "do-rag": 108,
+    "do-rag": 114,
     "cowboy hat": 24,
-    "cap forward": 81,
-    "hoodie": 58,
-    "blonde bob": 14,
-    "cap": 101,
+    "cap forward": 85,
+    "hoodie": 63,
+    "blonde bob": 16,
+    "cap": 105,
     "pink with hat": 12,
-    "bandana": 165,
+    "bandana": 173,
     "pilot helmet": 15,
-    "police cap": 23,
-    "tassle hat": 29,
-    "knitted cap": 118,
-    "fedora": 44,
+    "police cap": 26,
+    "tassle hat": 32,
+    "knitted cap": 121,
+    "fedora": 47,
     "tiara": 12,
-    "top hat": 19
+    "top hat": 21
   },
   "Mouth Ext.": {
-    "cigarette": 263,
-    "vape": 70,
-    "medical mask": 33,
-    "pipe": 55
+    "cigarette": 280,
+    "vape": 72,
+    "medical mask": 36,
+    "pipe": 65
   },
   "Eyes": {
-    "eye patch": 138,
-    "regular shades": 146,
-    "clown eyes green": 114,
-    "big shades": 90,
-    "classic shades": 116,
-    "green eye shadow": 71,
-    "vr": 72,
+    "eye patch": 143,
+    "regular shades": 154,
+    "clown eyes green": 116,
+    "big shades": 100,
+    "classic shades": 125,
+    "green eye shadow": 79,
+    "vr": 75,
     "welding goggles": 7,
-    "small shades": 109,
-    "purple eye shadow": 64,
-    "nerd glasses": 108,
-    "clown eyes blue": 106,
-    "eye mask": 89,
-    "horned rim glasses": 153,
-    "blue eye shadow": 69,
-    "3d glasses": 48
+    "small shades": 115,
+    "purple eye shadow": 72,
+    "nerd glasses": 115,
+    "clown eyes blue": 115,
+    "eye mask": 94,
+    "horned rim glasses": 160,
+    "blue eye shadow": 72,
+    "3d glasses": 51
   },
   "Hair": {
-    "wild hair": 112,
-    "mohawk dark": 131,
-    "messy hair": 129,
-    "mohawk thin": 151,
-    "mohawk": 125,
-    "stringy hair": 169,
-    "peak spike": 83,
-    "clown hair green": 14,
-    "crazy hair": 107,
-    "frumpy hair": 120,
-    "straight hair": 49,
+    "wild hair": 114,
+    "mohawk dark": 141,
+    "messy hair": 134,
+    "mohawk thin": 162,
+    "mohawk": 131,
+    "stringy hair": 171,
+    "peak spike": 88,
+    "clown hair green": 18,
+    "crazy hair": 115,
+    "frumpy hair": 128,
+    "straight hair": 53,
     "vampire hair": 23,
-    "blonde short": 20,
-    "shaved head": 109,
-    "straight hair dark": 36,
-    "purple hair": 37,
-    "dark hair": 39,
-    "half shaved": 32,
-    "orange side": 17,
-    "wild white hair": 17,
-    "straight hair blonde": 38,
+    "blonde short": 21,
+    "shaved head": 113,
+    "straight hair dark": 38,
+    "purple hair": 39,
+    "dark hair": 42,
+    "half shaved": 33,
+    "orange side": 21,
+    "wild white hair": 18,
+    "straight hair blonde": 39,
     "wild blonde": 13,
     "beanie": 14,
-    "red mohawk": 41,
-    "pigtails": 10
+    "red mohawk": 51,
+    "pigtails": 11
   },
   "Mole": {
-    "yes": 213
+    "yes": 223
   },
   "Chinstrap": {
-    "yes": 78
+    "yes": 83
   },
   "Mustache": {
-    "yes": 70
+    "yes": 74
   },
   "Smile": {
-    "yes": 61
+    "yes": 63
   },
   "Clown Nose": {
-    "yes": 48
+    "yes": 54
   },
   "Frown": {
-    "yes": 80
+    "yes": 82
   },
   "Feature": {
-    "spots": 25,
-    "rosy cheeks": 30,
-    "buck teeth": 10
+    "spots": 27,
+    "rosy cheeks": 34,
+    "buck teeth": 11
   },
   "Special": {
-    "gold chain": 44,
-    "choker": 8,
-    "silver chain": 31
+    "gold chain": 48,
+    "choker": 9,
+    "silver chain": 33
   }
 }

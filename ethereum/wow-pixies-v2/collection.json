@@ -1,7 +1,7 @@
 {
   "banner_image_url": "https://i.seadn.io/gae/vJXW1ev5b7m2ZuIh3xb8LmO-2Y2lzwKInQC_JQMRM-nKw6CgNhE6XFEiFavhshRJeuBiTipv58ZQMkN5bhli3qXEfjgyC5slkFTwhw?w=500&auto=format",
   "chat_url": null,
-  "created_date": "2022-01-14T23:03:36.259799",
+  "created_date": "2022-01-14T23:03:36.259799+00:00",
   "default_to_fiat": false,
   "description": "5,555 Generative Pixel NFTs on the Ethereum Blockchain. WOW Pixies is built around targeting women led NFT projects to help lift up the community and acquire amazing assets along the way. Not associated with World of Women NFT.",
   "discord_url": "https://discord.gg/S5MBngaQ4Y",
@@ -35,5 +35,5 @@
       "0x0000a26b00c1f0df003000390027140000faa719": 250
     }
   },
-  "is_rarity_enabled": false
+  "is_rarity_enabled": true
 }

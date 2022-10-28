@@ -1,11 +1,11 @@
 {
   "total_volume": 0.005,
   "total_sales": 1.0,
-  "total_supply": 40.0,
-  "count": 40.0,
+  "total_supply": 39.0,
+  "count": 39.0,
   "num_owners": 2,
   "average_price": 0.005,
   "num_reports": 0,
   "market_cap": 0.0,
-  "floor_price": 0.005
+  "floor_price": 0.01
 }

@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x6bbb0c6b059688ef11ecd7ec2aafe01e899d4364",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2021-10-18T17:48:44.912155",
+    "name": "NonVisiblePunks",
+    "nft_version": null,
+    "opensea_version": null,
+    "owner": 28630281,
+    "schema_name": "ERC721",
+    "symbol": "NVP",
+    "total_supply": "0",
+    "description": "Inspired by CryptoPunks, the Non-Visible Punks are an un-official collection of 7,777 pixelated PNGs at 2048x2048 px resolutions randomly generated and minted through ERC-721 standard on Polygon network. \nHidden in the blockchain, Non-Visible Punks can barely be seen, but can be collected, mint yourself from www.nonvisiblepunks.com or trade on OpenSea. ",
+    "external_link": "https://www.nonvisiblepunks.com/",
+    "image_url": "https://i.seadn.io/gae/7prnPji429cBZseIivYzVLgIhzKv1wOwqymlI9ZcUT5QOPjpZ06UM8HO7A2NWZFr1cYi_KNoum14aM6iUEHUQnJEBFx6EraVw3Aq?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

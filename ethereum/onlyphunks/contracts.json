@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x2ac19bf40a72c210b5d3b45c90e3222f4aefdb6e",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-10-23T12:44:27.641050",
+    "name": "OnlyPhunk",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 537078839,
+    "schema_name": "ERC721",
+    "symbol": "OPh",
+    "total_supply": "0",
+    "description": "A collection of 6969 OnlyPhunks creating content on the internet.",
+    "external_link": "https://onlyphunks.com",
+    "image_url": "https://i.seadn.io/gae/qAl-llL7a3mkThf7z1GYFLh_Op5aVt1G-_Li0TbF0nVouZSDHtKFKlQRPu4-vxSI-2gvWVaa5nCaN7nMySpKUaQ9bQL6BBw3FB_oz9Q?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

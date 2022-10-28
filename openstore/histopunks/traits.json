@@ -175,7 +175,12 @@
     "jacques-yves cousteau": 1,
     "charles hardin holley": 1,
     "eric lynn wright": 1,
-    "queen elizabeth ii": 1
+    "queen elizabeth ii": 1,
+    "mona lisa": 1,
+    "paul william walker iv": 1,
+    "darrent demarcus williams": 1,
+    "johannes peter \"honus\" wagner": 1,
+    "frankenstein": 1
   },
   "Occupation": {
     "painter": 10,
@@ -184,7 +189,7 @@
     "president": 3,
     "activist": 3,
     "missionary": 1,
-    "model": 2,
+    "model": 3,
     "componist": 2,
     "general": 2,
     "writer": 6,
@@ -196,7 +201,7 @@
     "revolutionary": 2,
     "philosopher": 2,
     "savior": 1,
-    "actor": 30,
+    "actor": 31,
     "soccer": 2,
     "rapper": 6,
     "fighter": 1,
@@ -258,7 +263,9 @@
     "mother of dragons": 1,
     "cartoonist": 1,
     "musician": 1,
-    "baseball player": 1
+    "baseball player": 2,
+    "american football player": 1,
+    "monster": 1
   },
   "Year of birth": {
     "1853": 1,
@@ -327,7 +334,7 @@
     "623 bc": 1,
     "19 bby": 1,
     "1899": 2,
-    "1973": 1,
+    "1973": 2,
     "1883": 1,
     "1893": 1,
     "1998": 1,
@@ -383,17 +390,21 @@
     "1370 bc": 1,
     "100 b.c.": 1,
     "1964": 1,
-    "21 april 1926": 1
+    "21 april 1926": 1,
+    "1479": 1,
+    "1982": 1,
+    "1974": 1,
+    "1818": 1
   },
   "Sex": {
-    "male": 143,
-    "female": 26,
+    "male": 147,
+    "female": 27,
     "unknown": 1
   },
   "Accessory": {
     "headscarf": 4,
-    "hat": 41,
-    "none": 45,
+    "hat": 42,
+    "none": 48,
     "necklace silver": 1,
     "earring silver": 1,
     "necklace": 11,
@@ -442,7 +453,8 @@
     "arrows": 1,
     "robot": 1,
     "laser eyes": 2,
-    "head wreath": 1
+    "head wreath": 1,
+    "bolts": 1
   },
   "Male": {
     "sex": 1

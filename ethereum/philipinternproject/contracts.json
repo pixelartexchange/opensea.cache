@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xa82f3a61f002f83eba7d184c50bb2a8b359ca1ce",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2021-06-14T04:19:14.967552",
+    "name": "CryptoPhunks",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 119260183,
+    "schema_name": "ERC721",
+    "symbol": "PHUNK",
+    "total_supply": "0",
+    "description": "CryptoPhunks are 10,000 punks created through the ERC-721 contract on the Ethereum blockchain from a perspective that we've never seen before. Each Phunk faces left and is minted through the flip of a completely randomized Punk on www.cryptophunks.com.",
+    "external_link": "https://www.cryptophunks.com/",
+    "image_url": "https://i.seadn.io/gae/uysSrRC33HXQjR82z6yMK58XzVFbglFgnfP-ChH0ZZADLZLXKIwVv2QMXR_8B7c_JvJLE8BmB4gq4ZY1Gs75EIERE5eZvolzC4eAxA?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

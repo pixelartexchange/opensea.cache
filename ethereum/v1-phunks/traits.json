@@ -1,0 +1,131 @@
+{
+  "Punk#": {
+    "min": 0,
+    "max": 9499
+  },
+  "Type": {
+    "female": 3651,
+    "male": 5733,
+    "zomb": 83,
+    "a": 24,
+    "ali": 9
+  },
+  "Skin Tone": {
+    "medium": 2870,
+    "dark": 2689,
+    "light": 2865,
+    "albino": 960,
+    "special": 116
+  },
+  "Hair": {
+    "blonde bob": 142,
+    "mohawk": 421,
+    "wild hair": 430,
+    "half shaved": 137,
+    "messy hair": 435,
+    "wild white hair": 129,
+    "straight hair dark": 139,
+    "blonde short": 124,
+    "straight hair blonde": 139,
+    "stringy hair": 449,
+    "crazy hair": 393,
+    "mohawk dark": 398,
+    "dark hair": 148,
+    "peak spike": 289,
+    "frumpy hair": 421,
+    "shaved head": 277,
+    "red mohawk": 142,
+    "straight hair": 145,
+    "pink with hat": 91,
+    "vampire hair": 134,
+    "mohawk thin": 417,
+    "purple hair": 159,
+    "clown hair green": 135,
+    "pigtails": 88,
+    "orange side": 65,
+    "wild blonde": 140
+  },
+  "Eyes (makeup)": {
+    "green eye shadow": 258,
+    "purple eye shadow": 258,
+    "clown eyes blue": 368,
+    "blue eye shadow": 244,
+    "clown eyes green": 365
+  },
+  "Ears": {
+    "earring": 2331
+  },
+  "Mouth": {
+    "smile": 222,
+    "frown": 247,
+    "buck teeth": 71
+  },
+  "Eyes": {
+    "nerd glasses": 539,
+    "big shades": 508,
+    "regular shades": 490,
+    "small shades": 360,
+    "eye mask": 273,
+    "horned rim glasses": 508,
+    "classic shades": 466,
+    "vr": 311,
+    "eye patch": 428,
+    "3d glasses": 269,
+    "welding goggles": 80
+  },
+  "Mouth Prop": {
+    "pipe": 301,
+    "cigarette": 910,
+    "vape": 260,
+    "medical mask": 162
+  },
+  "Beard": {
+    "goat": 278,
+    "luxurious beard": 273,
+    "big beard": 133,
+    "muttonchops": 282,
+    "handlebars": 252,
+    "chinstrap": 268,
+    "normal beard black": 270,
+    "normal beard": 275,
+    "shadow beard": 497,
+    "mustache": 274,
+    "front beard dark": 248,
+    "front beard": 256
+  },
+  "Hat": {
+    "do-rag": 283,
+    "police cap": 198,
+    "pilot helmet": 51,
+    "bandana": 459,
+    "cap": 334,
+    "knitted cap": 402,
+    "fedora": 178,
+    "hoodie": 242,
+    "headband": 384,
+    "cowboy hat": 134,
+    "tassle hat": 175,
+    "tiara": 52,
+    "cap forward": 241,
+    "beanie": 40,
+    "top hat": 112
+  },
+  "Blemishes": {
+    "spots": 118,
+    "mole": 599,
+    "rosy cheeks": 122
+  },
+  "Nose": {
+    "clown nose": 199
+  },
+  "Mouth (makeup)": {
+    "black lipstick": 580,
+    "purple lipstick": 625,
+    "hot lipstick": 655
+  },
+  "Neck": {
+    "choker": 46,
+    "gold chain": 159,
+    "silver chain": 141
+  }
+}

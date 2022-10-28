@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xe617c86530bc4a7a4819385ce4cafd31779b94fe",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-02-03T07:35:24.320994",
+    "name": "SelfMadePunks",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 195156827,
+    "schema_name": "ERC721",
+    "symbol": "SMP",
+    "total_supply": null,
+    "description": "Selfmadepunks is an experiment where you can create your own punk.\r\n\r\nhttps://selfmadepunks.com",
+    "external_link": "https://selfmadepunks.com",
+    "image_url": "https://i.seadn.io/gae/SEeoCoQpIFy49T_rPdiCIl3QpCp1rmC6gA1tlQOT-LOLAf6C1GoXjBAsQC_p31-B8_R9Hu0euQmB1w71peVmuYjw31xIctUlwajZ?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/A2CGnKeTZRn1rgb-20vG1mox_X63xXdqgPWXONX1FntJnj3bf_QpIbysCDbRCdnlvPoitjub8vu1cDaa0rRvt4f3tfx0zXNC0SZpUYQ?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-02-06T19:44:53.448622+00:00",
+  "default_to_fiat": false,
+  "description": "Selfmadepunks is an experiment where you can create your own punk.\r\n\r\nhttps://selfmadepunks.com",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "https://selfmadepunks.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/gKwAEM5TBnHI-tdhLP-yoLHz4I8GNxy_6h38zN3oqCh6-nMoUSKWBWa_gLuJbYAUwDvyATsSbvc86C4TMOJJvHJDOVcap8EuF_BmgXA?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/SEeoCoQpIFy49T_rPdiCIl3QpCp1rmC6gA1tlQOT-LOLAf6C1GoXjBAsQC_p31-B8_R9Hu0euQmB1w71peVmuYjw31xIctUlwajZ?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/gKwAEM5TBnHI-tdhLP-yoLHz4I8GNxy_6h38zN3oqCh6-nMoUSKWBWa_gLuJbYAUwDvyATsSbvc86C4TMOJJvHJDOVcap8EuF_BmgXA?w=500&auto=format",
+  "medium_username": null,
+  "name": "SelfMadePunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "selfmadepunks",
+  "telegram_url": null,
+  "twitter_username": "SelfMadePunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x208321120760a2a48dfdcb2769d066d4d1b6eee7": 100
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

@@ -1,7 +1,7 @@
 {
   "banner_image_url": "https://i.seadn.io/gae/NHVXuMgPcD1ksu_oQfnVZmd6HKDhCOQMvV240Oo095OnijFvdFc_gnyUGPMmwBaAHfITyPPZHnODjMGCVzxjB9aGfa5H5oQZBT14NQ?w=500&auto=format",
   "chat_url": null,
-  "created_date": "2022-05-21T22:51:23.849032",
+  "created_date": "2022-05-21T22:51:23.849032+00:00",
   "default_to_fiat": false,
   "description": "Pixel AAAAAAAUUUUUGGGHHHHH gobblins goblinns GOBLINNNNNNNNns wekm ta goblintown yoo sniksnakr DEJEN RATS oooooh rats are yummmz dis a NEFTEEE O GOBBLINGS on da BLOKCHIN wat? oh. crustybutt da goblinking say GEE EMMM DEDJEN RUTS an queenie saay HLLO SWEATIES ok dats all byeby - 0% Royalties",
   "discord_url": null,
@@ -34,5 +34,5 @@
       "0x0000a26b00c1f0df003000390027140000faa719": 250
     }
   },
-  "is_rarity_enabled": false
+  "is_rarity_enabled": true
 }

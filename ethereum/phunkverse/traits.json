@@ -1,0 +1,50 @@
+{
+  "Facing": {
+    "punk": 10,
+    "phunk": 6
+  },
+  "Sex": {
+    "female": 7,
+    "male": 9
+  },
+  "Hair": {
+    "stringy hair": 1,
+    "mohawk thin": 2,
+    "cap forward": 1,
+    "tassle hat": 1,
+    "cowboy hat": 1,
+    "half shaved": 1,
+    "top hat": 2,
+    "orange side": 1,
+    "straight hair": 1,
+    "do-rag": 2,
+    "straight hair blonde": 1,
+    "straight hair dark": 1,
+    "cap": 1
+  },
+  "Eyes": {
+    "clown eyes green": 1,
+    "classic shades": 2,
+    "horned rim glasses": 4,
+    "regular shades": 1,
+    "purple eye shadow": 1
+  },
+  "Ears": {
+    "earring": 4
+  },
+  "Lips": {
+    "hot lipstick": 4,
+    "black lipstick": 2
+  },
+  "Mouth": {
+    "cigarette": 2
+  },
+  "Beard": {
+    "muttonchops": 1,
+    "handlebars": 2,
+    "front beard dark": 1
+  },
+  "Face": {
+    "mole": 1
+  }
+}

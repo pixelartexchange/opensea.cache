@@ -1,7 +1,7 @@
 {
   "banner_image_url": "https://i.seadn.io/gae/KLC5V09YwVmUADXJ4cG1th9ttVAiJO7loFoAfFsS6RNOfwTzovcAsyWStS4AZSfsG43qnIKxd86o-DhOSS9Ljs1oAAWXPr1uYBIphU0?w=500&auto=format",
   "chat_url": null,
-  "created_date": "2021-12-17T08:30:35.943762",
+  "created_date": "2021-12-17T08:30:35.943762+00:00",
   "default_to_fiat": false,
   "description": "Basic Bored Ape Club / BBAC\n\nNFT collection inspired by an existing and truly admired collection,\nbut completely independent and unaffiliated.",
   "discord_url": "https://discord.gg/NQuAZvvDwz",
@@ -35,5 +35,5 @@
       "0x0000a26b00c1f0df003000390027140000faa719": 250
     }
   },
-  "is_rarity_enabled": false
+  "is_rarity_enabled": true
 }

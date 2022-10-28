@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x3ceb6868bfbf99f6b76fe5bb37343c075677c698",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-02-21T04:19:07.120854",
+    "name": "V1 Phunks",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 259320373,
+    "schema_name": "ERC721",
+    "symbol": "V1PHNK",
+    "total_supply": "1",
+    "description": "",
+    "external_link": "https://v1phunks.org/",
+    "image_url": "https://i.seadn.io/gae/8ZTSbA9JgMoWOIAlOKB51UVTD29kbwVZJVjAEJBUDsoi54GTJ_58nz0mt2WUb4LR-cBnfHLlY0GD-mk0NY-ZpvaJzxLO_zUEjobj1g?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

@@ -1,7 +1,7 @@
 {
   "banner_image_url": "https://i.seadn.io/gcs/files/96a0c93b3d0be3ea8eb9fe21a8d763c9.png?w=500&auto=format",
   "chat_url": null,
-  "created_date": "2022-07-17T13:50:09.222846",
+  "created_date": "2022-07-17T13:50:09.222846+00:00",
   "default_to_fiat": false,
   "description": "Saudis may be bidding Bitcoin, but who is bidding Saudis? 🇮🇱 5555 Jews are MAX BIDDING THE WORLD",
   "discord_url": "https://discord.gg/thejews",
@@ -35,5 +35,5 @@
       "0x0000a26b00c1f0df003000390027140000faa719": 250
     }
   },
-  "is_rarity_enabled": false
+  "is_rarity_enabled": true
 }

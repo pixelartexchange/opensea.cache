@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/btkNRUiNtERxpV-xYDHe5Uxn7jPkhwtRx1zKCGkDbjECqPrWQBtOeqAD8bu2pWfX2FIfmXXTumdzLnRf0DYc1-kgBch5bLu6WAbj4Q?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-02-21T04:19:07.632470+00:00",
+  "default_to_fiat": false,
+  "description": "",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "https://v1phunks.org/",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/8ZTSbA9JgMoWOIAlOKB51UVTD29kbwVZJVjAEJBUDsoi54GTJ_58nz0mt2WUb4LR-cBnfHLlY0GD-mk0NY-ZpvaJzxLO_zUEjobj1g?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/8ZTSbA9JgMoWOIAlOKB51UVTD29kbwVZJVjAEJBUDsoi54GTJ_58nz0mt2WUb4LR-cBnfHLlY0GD-mk0NY-ZpvaJzxLO_zUEjobj1g?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/8ZTSbA9JgMoWOIAlOKB51UVTD29kbwVZJVjAEJBUDsoi54GTJ_58nz0mt2WUb4LR-cBnfHLlY0GD-mk0NY-ZpvaJzxLO_zUEjobj1g?w=500&auto=format",
+  "medium_username": null,
+  "name": "V1 Phunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "v1-phunks",
+  "telegram_url": null,
+  "twitter_username": "v1phunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x6583ec53bf3dc210b05f718d75a3194d9bed08c0": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

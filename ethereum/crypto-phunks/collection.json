@@ -1,0 +1,38 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/5_NHn6L7xf77Yu4rQfnzEve3o8BxTlqIKeI1FMPByA7peKD_0t0NLKos0HUKTAy69ZGbEy_-epGZMMmQZUq5EfVlVUnqbqiPgPTd?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-06-21T01:08:00.139122+00:00",
+  "default_to_fiat": false,
+  "description": "Visit the community-built 0% fee marketplace at: https://NotLarvaLabs.com\n\nNot affiliated with Larva Labs. Welcome to the first (literal) NFT Flippening.\n\nCryptoPhunks face left, because the other way just doesn't feel right.",
+  "discord_url": "https://discord.gg/phunks",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "https://www.cryptophunks.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/C1FBNSJhYG-W3t1U6RI75o3A9XfsDXb4A34jRVpvD9tIUIYYs1GAx4Tt5aZaABeSYcX0RmNNhqEu9q6FeE44tkA9I9OCB1YS9_TlUQ?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "verified",
+  "image_url": "https://i.seadn.io/gae/_vCRujPPoBuNnafplf0X0QmTYYgn0QwjPd3Mp3sIGYsURkBl1o0ZUBMMmXInLOjY3hZmg2n4pCBHPLo8cm8DJVk6PkMrCWd0-ZE?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/C1FBNSJhYG-W3t1U6RI75o3A9XfsDXb4A34jRVpvD9tIUIYYs1GAx4Tt5aZaABeSYcX0RmNNhqEu9q6FeE44tkA9I9OCB1YS9_TlUQ?w=500&auto=format",
+  "medium_username": "eggphunk",
+  "name": "CryptoPhunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "crypto-phunks",
+  "telegram_url": null,
+  "twitter_username": "CryptoPhunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

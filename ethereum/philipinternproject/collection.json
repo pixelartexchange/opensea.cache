@@ -1,0 +1,38 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/HUPL609VCi8h4gyxgZs3npbtfE26K2vRHr6USMXDsIM34p61aeVxOOumzWPU8KV7bDIkiDvX5SVHKiC86eiu8F9RWYh-POIuaRaBE04?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-06-14T06:02:14.955802+00:00",
+  "default_to_fiat": false,
+  "description": "CryptoPhunks are 10,000 punks created through the ERC-721 contract on the Ethereum blockchain from a perspective that we've never seen before. Each Phunk faces left and is minted through the flip of a completely randomized Punk on www.cryptophunks.com.",
+  "discord_url": "https://discord.gg/D5BEnkCMS8",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "https://www.cryptophunks.com/",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/HUPL609VCi8h4gyxgZs3npbtfE26K2vRHr6USMXDsIM34p61aeVxOOumzWPU8KV7bDIkiDvX5SVHKiC86eiu8F9RWYh-POIuaRaBE04?w=500&auto=format",
+  "hidden": true,
+  "safelist_request_status": "requested",
+  "image_url": "https://i.seadn.io/gae/uysSrRC33HXQjR82z6yMK58XzVFbglFgnfP-ChH0ZZADLZLXKIwVv2QMXR_8B7c_JvJLE8BmB4gq4ZY1Gs75EIERE5eZvolzC4eAxA?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/HUPL609VCi8h4gyxgZs3npbtfE26K2vRHr6USMXDsIM34p61aeVxOOumzWPU8KV7bDIkiDvX5SVHKiC86eiu8F9RWYh-POIuaRaBE04?w=500&auto=format",
+  "medium_username": "CryptoPhunks",
+  "name": "PhilipInternProject",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "philipinternproject",
+  "telegram_url": null,
+  "twitter_username": "cryptophunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

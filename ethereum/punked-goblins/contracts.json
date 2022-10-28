@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xc1464cee1fed185505cf20794952739a689d8bda",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-08-14T05:41:38.974688",
+    "name": "Punked Goblins",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 466735169,
+    "schema_name": "ERC721",
+    "symbol": "PG",
+    "total_supply": "0",
+    "description": "Mining Live : https://punkedgoblins.com/\n8k goblins in the iconic punks",
+    "external_link": "https://punkedgoblins.com",
+    "image_url": "https://i.seadn.io/gcs/files/a4c25b195b76c5dbab128a284ebce39d.gif?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

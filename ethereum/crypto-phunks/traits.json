@@ -1,0 +1,120 @@
+{
+  "Beard": {
+    "front beard": 273,
+    "chinstrap": 282,
+    "big beard": 146,
+    "goat": 295,
+    "luxurious beard": 286,
+    "handlebars": 263,
+    "front beard dark": 260,
+    "shadow beard": 526,
+    "normal beard black": 289,
+    "mustache": 288,
+    "normal beard": 292,
+    "muttonchops": 303
+  },
+  "Hair": {
+    "cap forward": 253,
+    "shaved head": 300,
+    "straight hair dark": 148,
+    "vampire hair": 147,
+    "messy hair": 460,
+    "dark hair": 157,
+    "bandana": 481,
+    "knitted cap": 419,
+    "mohawk dark": 429,
+    "mohawk thin": 441,
+    "do-rag": 300,
+    "headband": 406,
+    "hoodie": 259,
+    "pilot helmet": 54,
+    "purple hair": 165,
+    "peak spike": 303,
+    "cowboy hat": 142,
+    "stringy hair": 463,
+    "frumpy hair": 442,
+    "red mohawk": 147,
+    "wild hair": 447,
+    "half shaved": 147,
+    "fedora": 186,
+    "cap": 351,
+    "crazy hair": 414,
+    "pigtails": 94,
+    "tiara": 55,
+    "blonde short": 129,
+    "straight hair": 151,
+    "wild blonde": 144,
+    "mohawk": 441,
+    "police cap": 203,
+    "pink with hat": 95,
+    "beanie": 44,
+    "wild white hair": 136,
+    "tassle hat": 178,
+    "blonde bob": 147,
+    "top hat": 115,
+    "clown hair green": 148,
+    "straight hair blonde": 144,
+    "orange side": 68
+  },
+  "Sex": {
+    "zombie": 88,
+    "male": 6038,
+    "female": 3840,
+    "ape": 24,
+    "alien": 9
+  },
+  "Eyes": {
+    "regular shades": 527,
+    "purple eye shadow": 262,
+    "blue eye shadow": 266,
+    "clown eyes blue": 384,
+    "vr": 332,
+    "big shades": 535,
+    "nerd glasses": 572,
+    "classic shades": 502,
+    "eye mask": 293,
+    "small shades": 378,
+    "green eye shadow": 271,
+    "3d glasses": 286,
+    "clown eyes green": 382,
+    "eye patch": 461,
+    "horned rim glasses": 535,
+    "welding goggles": 86
+  },
+  "Neck": {
+    "gold chain": 169,
+    "silver chain": 156,
+    "choker": 48
+  },
+  "Lips": {
+    "black lipstick": 617,
+    "purple lipstick": 655,
+    "hot lipstick": 696
+  },
+  "Ears": {
+    "earring": 2459
+  },
+  "Mouth": {
+    "pipe": 317,
+    "vape": 272,
+    "cigarette": 961,
+    "medical mask": 175
+  },
+  "Cheeks": {
+    "rosy cheeks": 128
+  },
+  "Face": {
+    "mole": 644,
+    "spots": 123
+  },
+  "Emotion": {
+    "smile": 238,
+    "frown": 261
+  },
+  "Nose": {
+    "clown nose": 212
+  },
+  "Teeth": {
+    "buck teeth": 78
+  }
+}

@@ -1,7 +1,7 @@
 {
   "banner_image_url": "https://i.seadn.io/gae/48oVuDyfe_xhs24BC2TTVcaYCX7rrU5mpuQLyTgRDbKHj2PtzKZsQ5qC3xTH4ar34wwAXxEKH8uUDPAGffbg7boeGYqX6op5vBDcbA?w=500&auto=format",
   "chat_url": null,
-  "created_date": "2017-06-23T20:55:07",
+  "created_date": "2017-06-23T20:55:07.000000+00:00",
   "default_to_fiat": false,
   "description": "CryptoPunks launched as a fixed set of 10,000 items in mid-2017 and became one of the inspirations for the ERC-721 standard. They have been featured in places like The New York Times, Christie’s of London, Art|Basel Miami, and The PBS NewsHour.",
   "discord_url": "https://discord.gg/tQp4pSE",

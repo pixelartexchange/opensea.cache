@@ -25,70 +25,6 @@ require 'artbase-opensea'
 ##   same as stats section in collection???
 
 
-slugs = %w[
-  pixel-goblintown
-  morepunks
-  galacticaliensocialclub
-  binaryapes
-  eightbitme
-  thesaudis
-  thejews-nft
-  the-americans-nft
-  cryptopunks
-  official-v1-punks
-  proof-moonbirds
-  acclimatedmooncats
-  chain-runners-nft
-
-  24px
-  anime-punks
-  athletes-101
-  basicboredapeclub
-  beautiful-female-punks
-  bladerunner-punks
-  blockydoge
-  blockydogeguilds
-  bwpunks
-  cinepunkss
-  wastelandpunks
-  clout-punks
-  cryptoapes-official
-  cryptogreats
-  cryptoluxurypunks
-  cryptomasterpiecez
-  cryptowiener-4
-  dogepunks-collection
-  dooggies
-  dubaipeeps
-  figurepunks
-  frontphunks
-  genius-punks
-  ghozalipunk
-  goodbye-punks
-  high-effort-punks
-  histopunks
-  kimono-punks
-  mafia-punks-club
-  monkepunks
-  onlypunksnft
-  pixel-gals
-  pixelmeows
-  punkoftheday
-  scifipunks
-  the-pixel-portraits-og
-  the-pixel-portraits
-  thecryptogenius
-  unofficialpunks
-  weape24
-  wow-pixies-v2
-]
-
-
-slugs = %w[
-  wunks
-  youtubepunks
-]
-
 
 cache_dir = ->(data) { if data['primary_asset_contracts'].size > 0
                          './ethereum'    ## assume ethereum contract
@@ -98,7 +34,17 @@ cache_dir = ->(data) { if data['primary_asset_contracts'].size > 0
                      }
 
 cache = OpenSea::Cache.new( cache_dir )
-cache.download( slugs, :stats )
+
+
+recs = read_csv( './collections.csv' )
+puts "  #{recs.size} collection(s)"
+
+slugs = recs.map { |rec| rec['slug'] }
+slugs = slugs.sort    ## sort a-z
+
+
+# cache.download( slugs, :stats )
+cache.download( slugs )
 
 
 puts "bye"

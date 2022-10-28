@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/0f64b8c6d489874f2a2273f167222ca4.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-07-17T18:59:21.763669+00:00",
+  "default_to_fiat": false,
+  "description": "Welcome to Crypto Marcs, the #1 meme NFT project of Summer 2022.\n\nYou’re here because you’ve proven to have a refined taste in memes, on-chain NFTs, and pixels that pack a punch.\n\nWhat are Crypto Marcs?\n\nCrypto Marcs are a series of profile pictures for those that love the free and open vision for web3.\nThe project is dedicated to Marc Andreessen, one of the great founders of the World Wide Web who is now an extremely successful venture capitalist.  His firm, A16Z, keeps making investment plays that work against the spirit of decentralization that means so much to web3. We have deployed the Crytpo Marcs to remind Andreesen that the web should be fun, phunky and above all, community driven.\n\nWe don’t think its too late for Marc, and we’re ready to meme him back to the light.. \n\nUnifying Web3 through memes is the last defense of the people. Are you ready for the meme rebellion? \n\nOn your Marc, get set, GO!!\n\n@ cryptomarcs - cryptomarcs.xyz\n",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "http://cryptomarcs.xyz",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/5b71fec067e197bb7f2f3afc07dba4b3.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/KnmJXuE0I6ZWUsg_Zn_8t-_A1MOIFLMxKnrazqZXTSKUwDM5XViNr7sNAWUz60-Rq3LYhHafiNG-cdM6YxTYM53hoRh01y9Vi-5C?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/5b71fec067e197bb7f2f3afc07dba4b3.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "Crypto Marcs",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "crypto-marcs",
+  "telegram_url": null,
+  "twitter_username": "cryptomarcs",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xdf12dba344515c98f866af1436245438cd7d8566": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

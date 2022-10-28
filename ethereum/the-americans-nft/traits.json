@@ -1,11 +1,11 @@
 {
   "Background": {
-    "american": 9989
+    "american": 9990
   },
   "Skin": {
     "black": 3246,
     "white": 3416,
-    "brown": 3327
+    "brown": 3328
   },
   "Eyes": {
     "closed": 660,
@@ -14,7 +14,7 @@
     "cute": 672,
     "usa flag": 385,
     "light blue": 1493,
-    "grey": 1515,
+    "grey": 1516,
     "crying": 688,
     "red": 1524
   },
@@ -24,7 +24,7 @@
     "mustache red": 499,
     "french beard black": 510,
     "medium beard black": 491,
-    "long beard brown": 509,
+    "long beard brown": 510,
     "french beard brown": 530,
     "mustache brown": 496,
     "beard black": 468,
@@ -65,7 +65,7 @@
     "afro blond": 381,
     "liberty cap": 107,
     "trump hair black": 375,
-    "backslick blond": 375,
+    "backslick blond": 376,
     "tomahawk grey": 409,
     "wsb": 126,
     "cowboy hat": 177,
@@ -81,7 +81,7 @@
     "open": 482,
     "meh": 632,
     "upset": 606,
-    "normal": 1978,
+    "normal": 1979,
     "drinking coke": 326,
     "braces": 414,
     "grin": 501,
@@ -112,7 +112,7 @@
     "american flag": 329,
     "eye patch": 318,
     "freckles": 348,
-    "flag tattoo": 525,
+    "flag tattoo": 526,
     "binoculars": 280,
     "rainbow shades": 313
   }

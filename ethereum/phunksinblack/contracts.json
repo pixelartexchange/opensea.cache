@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x2636942bfd3f60f4ec43e02edafcc84c9d49fb8e",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-07-31T10:05:31.929783",
+    "name": "PhunksInBlack",
+    "nft_version": null,
+    "opensea_version": null,
+    "owner": 36245243,
+    "schema_name": "ERC721",
+    "symbol": "PHBLK",
+    "total_supply": null,
+    "description": "[https://Black.Phunks.Net](https://Black.Phunks.Net)  \nA CryptoPhunks derivative inspired by MIB and generated with dark traits and some other cool shit.  0 Royalty.\nJoin the dark side.  \nNo Roadmap, No Discord, Just more art by [SkullCat](https://twitter.com/TheSkullCat)",
+    "external_link": "https://black.phunks.net/",
+    "image_url": "https://i.seadn.io/gcs/files/5947705f6df2707b4642ff88b56f80ca.png?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

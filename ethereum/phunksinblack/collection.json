@@ -1,0 +1,38 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/6ddbb33bab86b3a4ae5c4ef31b5f5a2d.jpg?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-08-08T14:13:55.184215+00:00",
+  "default_to_fiat": false,
+  "description": "[https://Black.Phunks.Net](https://Black.Phunks.Net)  \nA CryptoPhunks derivative inspired by MIB and generated with dark traits and some other cool shit.  0 Royalty.\nJoin the dark side.  \nNo Roadmap, No Discord, Just more art by [SkullCat](https://twitter.com/TheSkullCat)",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://black.phunks.net/",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/d21a73914177460e31cbb1b9446e8c73.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/5947705f6df2707b4642ff88b56f80ca.png?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/d21a73914177460e31cbb1b9446e8c73.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "Phunks In Black",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "phunksinblack",
+  "telegram_url": null,
+  "twitter_username": "phunksinblack",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/a5fa19fd0e8f3c1d316fdcb29a253a4b.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-10-24T17:47:59.283777+00:00",
+  "default_to_fiat": false,
+  "description": "A collection of 6969 OnlyPhunks creating content on the internet.",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://onlyphunks.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/a5fa19fd0e8f3c1d316fdcb29a253a4b.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/qAl-llL7a3mkThf7z1GYFLh_Op5aVt1G-_Li0TbF0nVouZSDHtKFKlQRPu4-vxSI-2gvWVaa5nCaN7nMySpKUaQ9bQL6BBw3FB_oz9Q?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/a5fa19fd0e8f3c1d316fdcb29a253a4b.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "OnlyPhunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "onlyphunks",
+  "telegram_url": null,
+  "twitter_username": "OnlyPhunksNFT",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x7ec5fdc296ec50c52d75cf112ec07dabb3b177c6": 690
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

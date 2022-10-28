@@ -1,0 +1,38 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/e5f2cbd9f7b6e05fd0c538a1ca8d43d9.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-08-27T19:23:06.571466+00:00",
+  "default_to_fiat": false,
+  "description": "v3Phunks are a low entry-point evolution of the CryptoPhunks ecosystem. 10,000 Phunks minting for .005ETH each with absolutely 100% of proceeds going directly and trustlessly to [MAPS](https://www.maps.org), a mental health organization. A Philanthropic, Phree, and Phunky arm of the overall CryptoPhunk community.",
+  "discord_url": "https://discord.gg/phunks",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://v3phunks.io/",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/06260c0d49feef865577ee2185a79e13.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gcs/files/a807b1a4347a2d4134b02d8e46865080.png?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/06260c0d49feef865577ee2185a79e13.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "V3Phunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "v3phunks",
+  "telegram_url": null,
+  "twitter_username": "v3phunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

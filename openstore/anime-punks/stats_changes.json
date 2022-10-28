@@ -18,13 +18,13 @@
   "one_day_average_price": 0.0,
   "one_day_difference": 0.0,
   "seven_day_volume": 0.0,
-  "seven_day_change": -1.0,
+  "seven_day_change": 0.0,
   "seven_day_sales": 0.0,
   "seven_day_average_price": 0.0,
-  "seven_day_difference": -0.07,
-  "thirty_day_volume": 0.664,
-  "thirty_day_change": 0.4921348314606742,
-  "thirty_day_sales": 9.0,
-  "thirty_day_average_price": 0.07377777777777778,
-  "thirty_day_difference": 0.21900000000000003
+  "seven_day_difference": 0.0,
+  "thirty_day_volume": 0.3384666242480333,
+  "thirty_day_change": -0.4902611080601908,
+  "thirty_day_sales": 3.0,
+  "thirty_day_average_price": 0.11282220808267777,
+  "thirty_day_difference": -0.3255333757519667
 }

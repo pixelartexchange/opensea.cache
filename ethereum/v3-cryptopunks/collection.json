@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/LPQp3wItdjyQgqiDut0Vo0G5QJ5uZ722Hnw1HARlqWEFSol4gvt8K4qZ5gZZc_2ZHugFbo0LzOpi9mSqZMP0LsjEDpagNwuBCuEK-A?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-02-02T17:05:34.717658+00:00",
+  "default_to_fiat": false,
+  "description": "V3 Punks are not affiliated with Larva Labs, and are instead a parody meme.\n\nWeb 1 -> v1  |  Web 2 -> v2  |  Web 3 -> v3",
+  "discord_url": "https://discord.gg/7tBgmfxn",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "http://v3punks.io",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/3VCDVNiqXmb00kGdDGrI6jq-HbUOCvKoyWWOZtA8SkDxrAQ-u_q8frW-MEJMsiCE7T-CC5R__dq0ni2WeGRaiPa4jEfp9q5wnig1uQ?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": null,
+  "medium_username": null,
+  "name": "V3 Punks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "v3-cryptopunks",
+  "telegram_url": null,
+  "twitter_username": "PunksV3",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x07558ea3218e62c00090003f420bd8272456ecc8": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

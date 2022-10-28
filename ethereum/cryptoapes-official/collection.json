@@ -1,7 +1,7 @@
 {
   "banner_image_url": "https://i.seadn.io/gae/u0azOCy44P7MTbLi-bDGaf7Um94kZ_EryiV4Ub6cBqL30WpmtrO8n8N02ThXm60fEc4m2diB-zUPMQR4Gcm7R1gw60B5W4kQ-Oel5A?w=500&auto=format",
   "chat_url": null,
-  "created_date": "2021-12-30T01:17:29.043066",
+  "created_date": "2021-12-30T01:17:29.043066+00:00",
   "default_to_fiat": false,
   "description": "CryptoApes is the flagship character of Primary Alt- a modern studio focused on creating alternative identities and experiences through innovative NFT-based utilities and storytelling.\n\nHold at least one CryptoApes for access to unique experiences (treasure hunts), innovative upcoming utility (ability to temporarily transfer utility of any NFT), web3 education-focused Discord community, IRL events, and priority access to Primary Alt's marketplaces and ecosystem.",
   "discord_url": "https://discord.gg/cryptoapes",
@@ -35,5 +35,5 @@
       "0x0000a26b00c1f0df003000390027140000faa719": 250
     }
   },
-  "is_rarity_enabled": false
+  "is_rarity_enabled": true
 }

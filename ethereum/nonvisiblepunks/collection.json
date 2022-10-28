@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/Z25m-fr_4s5nAHC5lIMGP_usd6xB-mX0LZS-mg-ejzhFQ4Cg-4XK6upD11nVcVI0AaMwoPPxYHr-N6bLOYAP2VDlifbL7llvhuquEg?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-10-18T17:51:08.440464+00:00",
+  "default_to_fiat": false,
+  "description": "Inspired by CryptoPunks, the Non-Visible Punks are an un-official collection of 7,777 pixelated PNGs at 2048x2048 px resolutions randomly generated and minted through ERC-721 standard on Polygon network. \nHidden in the blockchain, Non-Visible Punks can barely be seen, but can be collected, mint yourself from www.nonvisiblepunks.com or trade on OpenSea. ",
+  "discord_url": "https://discord.gg/invite/DaxrM4mU44",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "https://www.nonvisiblepunks.com/",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/V4a6BmP-WpZpYX1jsdI9gGaAZqqBLRJKcsPm_BkLdbBtTbI1G85tpWiZnyYVzTqx1Vu28eAcT1x-iQBR4DrRB9Rs-G1PpugUbs7Ukro?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/7prnPji429cBZseIivYzVLgIhzKv1wOwqymlI9ZcUT5QOPjpZ06UM8HO7A2NWZFr1cYi_KNoum14aM6iUEHUQnJEBFx6EraVw3Aq?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/V4a6BmP-WpZpYX1jsdI9gGaAZqqBLRJKcsPm_BkLdbBtTbI1G85tpWiZnyYVzTqx1Vu28eAcT1x-iQBR4DrRB9Rs-G1PpugUbs7Ukro?w=500&auto=format",
+  "medium_username": null,
+  "name": "NonVisiblePunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "nonvisiblepunks",
+  "telegram_url": null,
+  "twitter_username": "nonVisiblePunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x2ff267768ae2b041438be1078636038eab7ebbdd": 350
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

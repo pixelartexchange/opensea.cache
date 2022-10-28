@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/79b7ad1ddb68b98d2d6087dcb11f4771.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-08-14T05:46:17.203469+00:00",
+  "default_to_fiat": false,
+  "description": "Mining Live : https://punkedgoblins.com/\n8k goblins in the iconic punks",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "https://punkedgoblins.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/79b7ad1ddb68b98d2d6087dcb11f4771.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/a4c25b195b76c5dbab128a284ebce39d.gif?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/79b7ad1ddb68b98d2d6087dcb11f4771.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "Punked Goblins",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "punked-goblins",
+  "telegram_url": null,
+  "twitter_username": "PunkedGoblins",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xdcbad8a25446e1009b52f2175c808e280c9a9eec": 750
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

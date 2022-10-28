@@ -1,0 +1,38 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/14cbfff514d62663fdf32afcf4dcdcd4.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-10-24T13:49:18.028436+00:00",
+  "default_to_fiat": false,
+  "description": "##[Phunkverse.Com](http://phunkverse.com) On-Chain##, **Minting Now** The Phunkverse is home to many builders and creatives.  Whether they identify as Punks, Phunks, or both, they are pushing the boundaries of digital creativity. This collection captures the spirit of the Punks and Phunks but highlights how we are all 'Aliens' when we begin our Web3 journey. As the 'Phunkverse' grows, the pace of innovation will increase.  The collection is fully on-chain, with randomly \"Phunk\" or \"Punk\" facing cryto Aliens.  Enjoy the rarity.  ",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "http://phunkverse.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/58f26571cfcf886b8231e3917499da2e.jpg?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/b3dfa4f73e7602bd875bc2aba5dc77ea.png?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/58f26571cfcf886b8231e3917499da2e.jpg?w=500&auto=format",
+  "medium_username": null,
+  "name": "Phunkverse",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "phunkverse",
+  "telegram_url": null,
+  "twitter_username": "phunkverse",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

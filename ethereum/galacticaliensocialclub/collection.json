@@ -1,7 +1,7 @@
 {
   "banner_image_url": "https://i.seadn.io/gcs/files/7857b9f0fdcc2cda662dad1ffd712960.jpg?w=500&auto=format",
   "chat_url": null,
-  "created_date": "2021-12-16T05:44:08.886471",
+  "created_date": "2021-12-16T05:44:08.886471+00:00",
   "default_to_fiat": false,
   "description": "[Website](http://bit.ly/GASCwebsite)│[Twitter](http://bit.ly/GASCtwitter)│[Discord](http://bit.ly/GASCdiscord)│[LooksRare](http://bit.ly/GASClooksrare)│[Genie](http://bit.ly/GASCgenie)│[Gem](http://bit.ly/GASCgem)│[Rarible](http://bit.ly/GASCrarible)│[Coinbase](http://bit.ly/GASCcoinbase)\n\nGASC is an NFT collection of 10,000 provably unique, hand-drawn, pixel art Aliens programmatically generated with over 300+ attributes and traits.\n\nEach Alien is stored on the Ethereum blockchain as an ERC-721 token and hosted on IPFS.\n\nOwning an Alien will act as a membership card granting you exclusive access to our Social Club– giving you opportunities for giveaways, raffles, airdrops and extra content.\n\n[Rarity Ranking](http://bit.ly/GASCrarity)│[Verified Smart Contract](http://bit.ly/GASCetherscan)\n\n- [Galactic Alien Social Club: Extras](http://bit.ly/GASCextras)\n- [Galactic Alien Social Club: Collabs](http://bit.ly/GASCcollabs)",
   "discord_url": "https://discord.gg/KHY2MguWNY",
@@ -35,5 +35,5 @@
       "0x0000a26b00c1f0df003000390027140000faa719": 250
     }
   },
-  "is_rarity_enabled": false
+  "is_rarity_enabled": true
 }

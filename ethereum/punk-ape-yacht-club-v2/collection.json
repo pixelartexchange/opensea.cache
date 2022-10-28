@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/6eb7dd48bc9c0943fd3ab560dc0a93e6.gif?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-09-14T04:19:21.970299+00:00",
+  "default_to_fiat": false,
+  "description": "We are the first onchain PFP that was fully minted on PoS. No PUNKAYC existed on POW. This is an important first. \n\nPUNKAYC are Punks and Apes merged  - created to honour PoW and two of the significant collections that existed at that time. It was fitting that we made history by being the first onchain PFP to mint entirely on PoS paving the way for the future. \n\nWe plan to keep making history, while building the future. \n\nDiscord: https://discord.gg/5Gp6tZEGDX",
+  "discord_url": "https://discord.gg/5Gp6tZEGDX",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://punkapeyachtclub.com/",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/eedbbba80e47e5ccb980c07ea9bcfb0d.gif?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "disabled_top_trending",
+  "image_url": "https://i.seadn.io/gcs/files/e6988e31c9c7eec63b9691161cdd558d.png?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/eedbbba80e47e5ccb980c07ea9bcfb0d.gif?w=500&auto=format",
+  "medium_username": null,
+  "name": "PUNK APES YC",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "punk-ape-yacht-club-v2",
+  "telegram_url": null,
+  "twitter_username": "PunkApe_YC",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x549c01f812e609b80548c9837b2dacb0cb0adc64": 600
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

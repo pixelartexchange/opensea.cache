@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xf07468ead8cf26c752c676e43c814fee9c8cf402",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2021-06-21T00:07:30.072676",
+    "name": "CryptoPhunksV2",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 256361545,
+    "schema_name": "ERC721",
+    "symbol": "PHUNK",
+    "total_supply": "0",
+    "description": "Visit the community-built 0% fee marketplace at: https://NotLarvaLabs.com\n\nNot affiliated with Larva Labs. Welcome to the first (literal) NFT Flippening.\n\nCryptoPhunks face left, because the other way just doesn't feel right.",
+    "external_link": "https://www.cryptophunks.com",
+    "image_url": "https://i.seadn.io/gae/_vCRujPPoBuNnafplf0X0QmTYYgn0QwjPd3Mp3sIGYsURkBl1o0ZUBMMmXInLOjY3hZmg2n4pCBHPLo8cm8DJVk6PkMrCWd0-ZE?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xb7d405bee01c70a9577316c1b9c2505f146e8842",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-08-27T16:09:37.457511",
+    "name": "V3 Phunks",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 601,
+    "schema_name": "ERC721",
+    "symbol": "V3PHUNKS",
+    "total_supply": "9999",
+    "description": "v3Phunks are a low entry-point evolution of the CryptoPhunks ecosystem. 10,000 Phunks minting for .005ETH each with absolutely 100% of proceeds going directly and trustlessly to [MAPS](https://www.maps.org), a mental health organization. A Philanthropic, Phree, and Phunky arm of the overall CryptoPhunk community.",
+    "external_link": "https://v3phunks.io/",
+    "image_url": "https://i.seadn.io/gcs/files/a807b1a4347a2d4134b02d8e46865080.png?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

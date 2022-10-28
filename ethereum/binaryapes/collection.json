@@ -1,7 +1,7 @@
 {
   "banner_image_url": "https://i.seadn.io/gae/kOMZwZxJXxQ8DpSPbdW1osF2WySDSWW8GDSIWh64ZA-pbPSeS1JlByJnm6XSdhNyRNd-pO9RpsxrdLTJAj5mwZ2-WDsvBYxkK7nqFW4?w=500&auto=format",
   "chat_url": null,
-  "created_date": "2022-02-21T10:38:50.264736",
+  "created_date": "2022-02-21T10:38:50.264736+00:00",
   "default_to_fiat": false,
   "description": "BinaryApes is an ERC-721 blockchain NFT. We are true degens and inspired by NFT history. Our identity is a fusion of two iconic characters;  Punked Apes",
   "discord_url": "https://discord.gg/RFbcMWZqZg",
@@ -36,5 +36,5 @@
       "0x0000a26b00c1f0df003000390027140000faa719": 250
     }
   },
-  "is_rarity_enabled": false
+  "is_rarity_enabled": true
 }

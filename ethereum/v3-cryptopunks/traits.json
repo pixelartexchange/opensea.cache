@@ -1,0 +1,126 @@
+{
+  "Body": {
+    "female": 3840,
+    "male": 6039,
+    "zombie": 88,
+    "ape": 24,
+    "alien": 9
+  },
+  "Earring": {
+    "yes": 2459
+  },
+  "Hat": {
+    "blonde bob": 147,
+    "do-rag": 300,
+    "police cap": 203,
+    "pilot helmet": 54,
+    "bandana": 481,
+    "cap": 351,
+    "knitted cap": 419,
+    "fedora": 186,
+    "hoodie": 259,
+    "pink with hat": 95,
+    "tassle hat": 178,
+    "cowboy hat": 142,
+    "tiara": 55,
+    "cap forward": 254,
+    "top hat": 115
+  },
+  "Eyes": {
+    "green eye shadow": 271,
+    "nerd glasses": 572,
+    "big shades": 535,
+    "purple eye shadow": 262,
+    "clown eyes blue": 384,
+    "clown eyes green": 382,
+    "small shades": 378,
+    "horned rim glasses": 535,
+    "classic shades": 502,
+    "eye mask": 293,
+    "vr": 332,
+    "eye patch": 461,
+    "3d glasses": 286,
+    "regular shades": 527,
+    "welding goggles": 86,
+    "blue eye shadow": 266
+  },
+  "Smile": {
+    "yes": 238
+  },
+  "Hair": {
+    "mohawk": 441,
+    "wild hair": 447,
+    "half shaved": 147,
+    "wild white hair": 136,
+    "messy hair": 460,
+    "straight hair dark": 148,
+    "blonde short": 129,
+    "stringy hair": 463,
+    "dark hair": 157,
+    "peak spike": 303,
+    "crazy hair": 414,
+    "red mohawk": 147,
+    "frumpy hair": 442,
+    "shaved head": 300,
+    "mohawk dark": 429,
+    "straight hair": 151,
+    "vampire hair": 147,
+    "mohawk thin": 441,
+    "beanie": 44,
+    "straight hair blonde": 144,
+    "purple hair": 165,
+    "clown hair green": 148,
+    "pigtails": 94,
+    "wild blonde": 144,
+    "orange side": 68
+  },
+  "Mouth Ext.": {
+    "pipe": 317,
+    "cigarette": 961,
+    "vape": 272,
+    "medical mask": 175
+  },
+  "Mouth": {
+    "goat": 295,
+    "luxurious beard": 286,
+    "big beard": 146,
+    "black lipstick": 617,
+    "purple lipstick": 655,
+    "hot lipstick": 696,
+    "muttonchops": 303,
+    "normal beard black": 289,
+    "normal beard": 292,
+    "shadow beard": 526,
+    "handlebars": 263,
+    "front beard dark": 260,
+    "front beard": 273
+  },
+  "Feature": {
+    "spots": 124,
+    "rosy cheeks": 128,
+    "buck teeth": 78
+  },
+  "Clown Nose": {
+    "yes": 212
+  },
+  "Frown": {
+    "yes": 261
+  },
+  "Mole": {
+    "yes": 644
+  },
+  "Chinstrap": {
+    "yes": 282
+  },
+  "Headband": {
+    "yes": 406
+  },
+  "Special": {
+    "choker": 48,
+    "gold chain": 169,
+    "silver chain": 156
+  },
+  "Mustache": {
+    "yes": 288
+  }
+}

@@ -1,11 +1,11 @@
 {
-  "total_volume": 937.6731848742771,
-  "total_sales": 20108.0,
+  "total_volume": 937.6690320742771,
+  "total_sales": 20112.0,
   "total_supply": 9900.0,
   "count": 9900.0,
   "num_owners": 4093,
-  "average_price": 0.04663184726846415,
+  "average_price": 0.04662236635214186,
   "num_reports": 3,
-  "market_cap": 42.900000000000006,
-  "floor_price": 0.0049
+  "market_cap": 0.0,
+  "floor_price": 0.0055
 }
