@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/cgmZ7u_aX2x0Qpi9Q0_q0J_aZi5yFZAcCXzVhtlvcd-UqtNrUo0jI89s8EBdNHjgMdGUs1IKCkz3KyTeNhypOm7STswkvg1NYI6l?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-07-31T08:41:14.623793+00:00",
+  "default_to_fiat": false,
+  "description": "A tribute to Philip the Intern & the first CryptoPhunk derivative collection.\n\nERC721 | IPFS | Phully Decentralized",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/cgmZ7u_aX2x0Qpi9Q0_q0J_aZi5yFZAcCXzVhtlvcd-UqtNrUo0jI89s8EBdNHjgMdGUs1IKCkz3KyTeNhypOm7STswkvg1NYI6l?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/CSoYvwnuSU5fcSivwmOWCduA5fjRi-3MWsT0ACs9lcg-wJCxxhq1e_vvx_ii2RBoyC5tti7uK2yyFyPtLhHBHwhwCGa0PSVEXuZTDQ?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/cgmZ7u_aX2x0Qpi9Q0_q0J_aZi5yFZAcCXzVhtlvcd-UqtNrUo0jI89s8EBdNHjgMdGUs1IKCkz3KyTeNhypOm7STswkvg1NYI6l?w=500&auto=format",
+  "medium_username": null,
+  "name": "PhilipPhunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "philip-phunks",
+  "telegram_url": null,
+  "twitter_username": "pphunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x8860def75d22b8a07c4925cc1263ed1f083d9afa": 750
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

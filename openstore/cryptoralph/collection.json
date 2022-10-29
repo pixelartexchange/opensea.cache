@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/rn0reZAvIlE98F9GsHwYj9wFKjZ89WdWQ7qpPiJyQPtflnpubISsUgYSzlTHYGTyk-EDG_uLgyhDpaolvUuL71Hr4cJqTy4A3Aw_0A?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-09-13T14:26:19.185513+00:00",
+  "default_to_fiat": false,
+  "description": "CryptoRalph is the first real person’s life on the blockchain - someone called them \"first real person punks\" ;-).\r\nThe 1.089 collectable NFTs are created by Alexa Wagner, a Munich based Artist, as unique generative Art work.\r\nFirst CryptoRalph was minted on September 13th, which is also real Ralph's birthday (Alexa’s husband ;-)",
+  "discord_url": "https://discord.gg/F3UcBDxczE",
+  "display_data": {
+    "card_display_style": "padded"
+  },
+  "external_url": "https://cryptoralph.io",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/2514a63ab5f7299623ce262815b9fa6d.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/aKYAj6aTxagPiVUSVGwHUtGnITVBhH371ELRN5S4vm3kLNYdmcYmszwZ94VRLmHgiMpOc_kUE7bM4onO4Gl6W4I5D2x_AdPh_Msvlw?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/2514a63ab5f7299623ce262815b9fa6d.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "CryptoRalph",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "cryptoralph",
+  "telegram_url": null,
+  "twitter_username": "CryptoRalphNFT",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xc2a8c7363b43a37f3828db6f4807de2dff6ad46d": 533
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

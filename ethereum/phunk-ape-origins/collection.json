@@ -1,0 +1,38 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/e5584aa4392c0484c8c2255c2d817016.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-09-23T05:56:56.758883+00:00",
+  "default_to_fiat": false,
+  "description": "5000 On-Chain Phunks, reimagined, APES only.\r\n \r\nCC0   -   0% Royalties, in true Phunk phashion, this project is for the community. \r\n\r\nPhunk Ape Origins pays homage to the CryptoPhunk culture as well as to the Great Apes.",
+  "discord_url": "https://discord.gg/WNtZURFPTc",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://app.indelible.xyz/mint/0x9b66d03fc1eee61a512341058e95f1a68dc3a913",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/8d1b6d104cf8a76f31d019b0bbe356f2.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "disabled_top_trending",
+  "image_url": "https://i.seadn.io/gae/8m98NKUOYN-J37ak-mjrWGl-YsExIdx5kMDEWpicHbEaZU8aSybbe60tXxD-AGwvb1_nT5gYAF_lze-mAnmqyWHc_8uEBHzY9SVR?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/8d1b6d104cf8a76f31d019b0bbe356f2.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "Phunk APE Origins",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "phunk-ape-origins",
+  "telegram_url": null,
+  "twitter_username": "PhunkAPEorigins",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

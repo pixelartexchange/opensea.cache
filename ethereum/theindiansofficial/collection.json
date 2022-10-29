@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/6eaf993847c463dd13517d04f148c88d.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-07-21T00:25:35.044674+00:00",
+  "default_to_fiat": false,
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "discord_url": "https://discord.gg/theindians",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "http://theindiansnft.com/publicmint/",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/03c47aa387697c09ffc7ffcda80f25ed.gif?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": null,
+  "medium_username": null,
+  "name": "The Indians Official",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "theindiansofficial",
+  "telegram_url": null,
+  "twitter_username": "TheIndians_NFT",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x407d625be8fce2d40f4e06622ae5bdcca04d130a": 750
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

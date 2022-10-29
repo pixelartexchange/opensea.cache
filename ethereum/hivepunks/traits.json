@@ -1,0 +1,28 @@
+{
+  "CryptoPunk #": {
+    "min": 99,
+    "max": 9082
+  },
+  "# Traits": {
+    "min": 2,
+    "max": 3
+  },
+  "Accessory": {
+    "bandana": 1,
+    "big shades": 1,
+    "cigarette": 1,
+    "earring": 2,
+    "handlebars": 1,
+    "hoodie": 1,
+    "knitted cap": 1,
+    "mohawk dark": 1,
+    "normal beard": 1,
+    "police cap": 1,
+    "regular shades": 1,
+    "shadow beard": 1
+  },
+  "Type": {
+    "male 1": 1,
+    "male 2": 4
+  }
+}

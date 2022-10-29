@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/YTpecWWvTBMNxmS0RA4jlIteMdZDVlgNh3zjUJlX4FHVTmXyKkmS5w3hsnSQVX1oLeDxtkwly72VNTLBmi0c2Ey_AFpwKDXRPLwAZg?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-08-27T22:16:57.365391+00:00",
+  "default_to_fiat": false,
+  "description": "10,000 Punks checking in from every corner of the 🌎 Representing a symbiotic relationship between people, culture and history \n\n*not affiliated with Larva Labs*\n\n👾 http://discord.gg/4zf23AZ2wj",
+  "discord_url": "https://discord.gg/4zf23AZ2wj",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://internationalpunks.com",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/ynz3zNngruLpB31oCVNGsrbMXsr4HYEqw4U0YE-N-YUXbHjEJ2o9DV0fiwVoS9fFxys1NoupCeSk9ojwaN8ovHoskI1-J9IoSO-d?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": null,
+  "medium_username": null,
+  "name": "International Punks.",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "international-punks-",
+  "telegram_url": null,
+  "twitter_username": "intl_punks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xb52d067469adc08a1ad7e710502df144c190a3ec": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

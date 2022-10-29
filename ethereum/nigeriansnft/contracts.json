@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x9f35425c2ef3616dd024d866082e0b61023fbfe1",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-07-23T21:37:28.251807",
+    "name": "The Nigerians",
+    "nft_version": null,
+    "opensea_version": null,
+    "owner": 457340722,
+    "schema_name": "ERC721",
+    "symbol": "NIGERIANS",
+    "total_supply": "0",
+    "description": "We a' de Nigerian NFT. We want ev'yone to become ajebutter! 5555 nigerians on eth #MAXBRUDDA",
+    "external_link": "https://www.nigeriansnft.com/",
+    "image_url": "https://i.seadn.io/gcs/files/e79d70b10e590a69a792db28ac61d36b.gif?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

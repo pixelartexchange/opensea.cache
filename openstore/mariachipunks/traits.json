@@ -1,0 +1,61 @@
+{
+  "Beliefs": {
+    "telepathy": 1
+  },
+  "Drinks": {
+    "tejuino": 1
+  },
+  "Instrument": {
+    "guitar": 2,
+    "guitarrón": 1,
+    "guitar & voice": 1,
+    "harp": 1,
+    "mexican vihuela": 1,
+    "trumpet": 2,
+    "violin": 2
+  },
+  "Name": {
+    "alma rosa": 1,
+    "aurora": 1,
+    "delfino barragán": 1,
+    "don miguel": 1,
+    "el güero": 1,
+    "elvira": 1,
+    "josé peregrino": 1,
+    "lalo": 1,
+    "margarito": 1,
+    "nepomuceno domínguez": 1
+  },
+  "Occupation": {
+    "mariachi punk": 10
+  },
+  "Other": {
+    "el sabio": 1,
+    "good memory": 1,
+    "good sleep": 1,
+    "iceland": 1,
+    "insomnia": 1,
+    "pants reluctant": 1,
+    "security blanket": 1,
+    "solidity": 1,
+    "tequila": 1,
+    "vampiritos": 1
+  },
+  "Shows played": {
+    "11,136": 1,
+    "1800": 1,
+    "3330": 1,
+    "3501": 1,
+    "3600": 1
+  },
+  "Shows Played": {
+    "1344": 1,
+    "2151": 1,
+    "4050": 1,
+    "4321": 1,
+    "5454": 1
+  },
+  "Violin": {
+    "rosalba": 1
+  }
+}

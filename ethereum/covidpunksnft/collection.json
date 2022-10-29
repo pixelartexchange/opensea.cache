@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/kKcy7fqBE6ffCcsH4G-5pOFJd7tM0uOFWRq_ZM50XKMiRc2fQq8OenbOBGdubiCjSTyl76dGQYNAfRchuU6wd32BAgCF9Cbqph-xZQ?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-07-31T04:01:38.265812+00:00",
+  "default_to_fiat": false,
+  "description": "\"It's punk to wear a mask!\"\n\nCOVIDPunks are 10,000 parody Punks raising awareness about COVID protocols. Mask up and get vaccinated! We're all in this together. \n\nThe project donated to CARE, a global humanitarian relief fund that aims to save lives and reduce poverty. CARE's current mission includes COVID relief in those places most devastated by the pandemic. \n\nNOTE: This is *not* a Larva Labs project. We love LL and their contribution to this space. They have inspired many, and helped democratize art for the masses.",
+  "discord_url": "https://discord.gg/eZUkDgZGAe",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://covidpunks.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/pZ2qF1sjs-ex4cZxSlpPFis2DnHepuqTszn29QAlNRw1w_99g4c_BL2a5a6IhHk3sG35fLPoGTrrlcpkk8LvdsCAYhBgqCC1D5K-3g?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/8tPEJB16PEE8uSv7RiVlgmCHuhM2yVy22o-f-HGabHNEcGhlblD20rFi1zqlJoyv5761iUhwpzoqcwpP2uC8wrm4vtxuB3uLyPjRlw?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/pZ2qF1sjs-ex4cZxSlpPFis2DnHepuqTszn29QAlNRw1w_99g4c_BL2a5a6IhHk3sG35fLPoGTrrlcpkk8LvdsCAYhBgqCC1D5K-3g?w=500&auto=format",
+  "medium_username": null,
+  "name": "COVIDPunks!",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "covidpunksnft",
+  "telegram_url": null,
+  "twitter_username": "COVIDPunksNFT",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x2dd34d3fab28cd226f17a99f34941e0e0a989861": 250
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x07cd221b2fe54094277a2f4e1c1bc6df14e63678",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2021-08-29T19:29:41.867558",
+    "name": "Cryptorastas",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 71652143,
+    "schema_name": "ERC721",
+    "symbol": "RASTA",
+    "total_supply": "0",
+    "description": "[**→ 1/1 remixes**](https://opensea.io/collection/cryptorastas-remixes)\n[**→ 1/1 stories**](https://opensea.io/collection/cryptorastas-stories)\n[**→ IRL skate**](https://opensea.io/collection/cryptorastas-irl)\n[**→ IRL sneakers**](https://opensea.io/collection/cryptorastas-sneakers)\n[**→ Wearables**](https://opensea.io/collection/wearables-cryptorastas)\n[**→ Genesis**](https://opensea.io/collection/cryptorastas-founders)",
+    "external_link": "https://www.cryptorastas.com/",
+    "image_url": "https://i.seadn.io/gae/Zmpgzf4xZOFMi6Xh1L6aETXHbPUrLulOMYKhrQ0k_ZCyuKr-YxQhm96gwCdd2zAzCu4RUCApHcQyxMWRhqzaqKSd9PDhoSaDZKVTYds?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

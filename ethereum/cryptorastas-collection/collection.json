@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/qKFujOyuYSKcWQ3X7wSZwZbB5IyEleyGZHAC9LMy1WbS7K6xfKhOFI1Qm1eIVwgpHuM7quGYB3bProEw7bN1jJOCwGMX0OPbzPPn?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-08-29T20:17:31.880439+00:00",
+  "default_to_fiat": false,
+  "description": "[**→ 1/1 remixes**](https://opensea.io/collection/cryptorastas-remixes)\n[**→ 1/1 stories**](https://opensea.io/collection/cryptorastas-stories)\n[**→ IRL skate**](https://opensea.io/collection/cryptorastas-irl)\n[**→ IRL sneakers**](https://opensea.io/collection/cryptorastas-sneakers)\n[**→ Wearables**](https://opensea.io/collection/wearables-cryptorastas)\n[**→ Genesis**](https://opensea.io/collection/cryptorastas-founders)",
+  "discord_url": "https://discord.gg/YKf5xnscF9",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "https://www.cryptorastas.com/",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/vWo_UBx2wPaXb2cG3r-TxB73PbJzAkC7_wQCGVk6pf-tDavHVfADDr2CcP9XEJf842O5_3yaGO_Ho3lP8G_JXWtVmGhgDu6cW1hh?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/Zmpgzf4xZOFMi6Xh1L6aETXHbPUrLulOMYKhrQ0k_ZCyuKr-YxQhm96gwCdd2zAzCu4RUCApHcQyxMWRhqzaqKSd9PDhoSaDZKVTYds?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/vWo_UBx2wPaXb2cG3r-TxB73PbJzAkC7_wQCGVk6pf-tDavHVfADDr2CcP9XEJf842O5_3yaGO_Ho3lP8G_JXWtVmGhgDu6cW1hh?w=500&auto=format",
+  "medium_username": null,
+  "name": "Cryptorastas Collection",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "cryptorastas-collection",
+  "telegram_url": null,
+  "twitter_username": "cryptorastas",
+  "instagram_username": "cryptorastas",
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x0fa9c989bbde8c25a3361fda00fadde4e1f478dc": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

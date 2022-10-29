@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/L3lkdvDwoLe3hGTvvUDCBFrcO6WCq_ehj_R89UU982SZQxGDFmF9rvwQ-tv-fHdnQZ9VvnmOkzr-v2p1vs7RvfZ8aa1uUNge4hObpQ?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-01-17T12:53:04.071465+00:00",
+  "default_to_fiat": false,
+  "description": "In the beginning was the Punk, and the Punk was one without a square head or a pointed chin, and the Punk was One... \n\nDivine Punks are 1,000 androgynous punks with one head shape representing all and any genders. Introducing dozens of earthly and heavenly traits you have not seen on any punks since the beginning of time. \n\nFollow the Divine Punks on Discord (https://discord.gg/37qV8NnJBG) and Twitter (https://twitter.com/DivinePunksNFT) and join their journey to the holy mountain. \n\nAll made by Suzyjaq.",
+  "discord_url": "https://discord.gg/37qV8NnJBG",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "https://punks.heeldivine.com/",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/-sUfK8N6PJOB3j8mB_iR4Bs6p-DUwblG_G8t8oo4ijOhNAKUFqN72lNOMgs-LvdcexTH2QOW64b6kOCluK_Swpl--GUXMKSeZ3EB?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/-sUfK8N6PJOB3j8mB_iR4Bs6p-DUwblG_G8t8oo4ijOhNAKUFqN72lNOMgs-LvdcexTH2QOW64b6kOCluK_Swpl--GUXMKSeZ3EB?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/-sUfK8N6PJOB3j8mB_iR4Bs6p-DUwblG_G8t8oo4ijOhNAKUFqN72lNOMgs-LvdcexTH2QOW64b6kOCluK_Swpl--GUXMKSeZ3EB?w=500&auto=format",
+  "medium_username": null,
+  "name": "DivinePunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "divinepunks",
+  "telegram_url": null,
+  "twitter_username": "DivinePunksNFT",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x288249e37009fecae6c6f4d5556e973b0cc0ad0a": 666
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

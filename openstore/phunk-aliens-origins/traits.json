@@ -1,0 +1,97 @@
+{
+  "BACKGROUND": {
+    "blue": 175,
+    "grey": 156,
+    "red": 179,
+    "purple": 193,
+    "cream": 179
+  },
+  "SKIN": {
+    "alien": 418,
+    "trippy": 69,
+    "zombie": 212,
+    "ape": 143,
+    "solid gold": 39
+  },
+  "NECK": {
+    "gold chain": 94,
+    "silver chain": 200,
+    "bow": 26,
+    "eyes": 1
+  },
+  "EARRING": {
+    "gold": 139,
+    "silver": 206,
+    "gold dangle": 49,
+    "diamond": 23
+  },
+  "EYES": {
+    "sunglasses": 82,
+    "grey visor": 55,
+    "normal": 297,
+    "blue nouns": 35,
+    "red hero mask": 33,
+    "blue sunglasses": 80,
+    "eye patch": 63,
+    "3d glasses": 15,
+    "green nouns": 39,
+    "black eye": 50,
+    "red visor": 59,
+    "orange sunglasses": 60,
+    "blue sunglases": 1,
+    "rainbow visor": 11
+  },
+  "BOWLER HAT": {
+    "joint": 1
+  },
+  "MOUTH": {
+    "joint": 58,
+    "tongue out": 70,
+    "rick's mouth": 21,
+    "teeth": 82,
+    "vape": 71,
+    "covid mask": 58,
+    "normal": 178,
+    "oooh": 70,
+    "grey moustache": 56,
+    "hockey mask": 25,
+    "blunt": 79,
+    "cigar": 53,
+    "pipe": 31,
+    "bubble gum": 30
+  },
+  "HEAD": {
+    "red back cap": 73,
+    "straw hat": 40,
+    "bowler hat": 40,
+    "cowboy hat": 50,
+    "blue cap": 57,
+    "purple bucket": 39,
+    "dark hoodie": 28,
+    "trucker hat": 54,
+    "beret": 72,
+    "headband": 48,
+    "crown": 41,
+    "knitted cap": 56,
+    "clean hoodie": 21,
+    "bald": 73,
+    "rick hair": 7,
+    "mcdonalds hat": 41,
+    "punk": 36,
+    "bandana": 13,
+    "tucker hat": 1,
+    "brain": 29,
+    "alien antennas": 13,
+    "mask": 16,
+    "royal crown": 11,
+    "beanie": 20
+  },
+  "LEGENDARY 1/1": {
+    "rick sanchez": 1,
+    "stitch": 1,
+    "baby yoda": 1,
+    "alf": 1,
+    "simpsons alien": 1,
+    "buzz lightyear": 1
+  }
+}

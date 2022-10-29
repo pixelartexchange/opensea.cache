@@ -43,6 +43,9 @@ slugs = recs.map { |rec| rec['slug'] }
 slugs = slugs.sort    ## sort a-z
 
 
+
+
+
 # cache.download( slugs, :stats )
 cache.download( slugs )
 

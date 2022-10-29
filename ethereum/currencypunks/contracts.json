@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xe433e90c5b898819544346e73a501d9e8013dbd8",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2021-09-21T11:04:29.219985",
+    "name": "CurrencyPunks",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 73677601,
+    "schema_name": "ERC721",
+    "symbol": "CUPU",
+    "total_supply": "1",
+    "description": "CurrencyPunks are a manifestation of the fact that art has become currency. After multiple years of ripening, NFT has finally taken its shape of a merge of art, crypto and market.\n\n📊[ANALYTICS](https://dune.xyz/currencypunks/CurrencyPunks-NFT)📊       💎[RARITY RANKING](https://currencypunks.art/rarity.html)💎\n\n🚀 TOP-100: [trades](https://currencypunks.art/top_trades.html) | [sales](https://currencypunks.art/top_sales.html) | [minter sales](https://currencypunks.art/top_minter_sales.html) 🚀\n\nThis project pays homage to the original CryptoPunks and The Currency by Damien H.\n\nNot affiliated with LarvaLabs and Mr Damien. No original images were used, CUPUs are drawn from scratch by an algorithm.",
+    "external_link": "https://artcodenft.com/",
+    "image_url": "https://i.seadn.io/gae/lOQiczVntodjEo4ihOw34syQmgeywckJbmdHxIeXhOqxJg2cjIVzbJkpV5njmKXWWCI4jCEXrjLtia0hUZS80xyaH-nFW4bTa3W4CA?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

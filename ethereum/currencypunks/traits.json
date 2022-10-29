@@ -1,0 +1,146 @@
+{
+  "Black dots": {
+    "min": 1,
+    "max": 12
+  },
+  "Blue dots": {
+    "min": 6,
+    "max": 53
+  },
+  "Green dots": {
+    "min": 7,
+    "max": 50
+  },
+  "Number of dot inconsistencies": {
+    "min": 0,
+    "max": 16
+  },
+  "Number of dots": {
+    "min": 235,
+    "max": 272
+  },
+  "Number of paint drops": {
+    "min": 34,
+    "max": 120
+  },
+  "Orange dots": {
+    "min": 1,
+    "max": 27
+  },
+  "Pink dots": {
+    "min": 1,
+    "max": 30
+  },
+  "Purple dots": {
+    "min": 7,
+    "max": 51
+  },
+  "Red dots": {
+    "min": 7,
+    "max": 48
+  },
+  "White dots": {
+    "min": 1,
+    "max": 11
+  },
+  "Yellow dots": {
+    "min": 8,
+    "max": 49
+  },
+  "accessory": {
+    "3d glasses": 286,
+    "bandana": 481,
+    "beanie": 44,
+    "big beard": 146,
+    "big shades": 535,
+    "black lipstick": 617,
+    "blonde bob": 147,
+    "blonde short": 129,
+    "blue eye shadow": 266,
+    "buck teeth": 78,
+    "cap": 351,
+    "cap forward": 254,
+    "chinstrap": 282,
+    "choker": 48,
+    "cigarette": 961,
+    "classic shades": 502,
+    "clown eyes blue": 384,
+    "clown eyes green": 382,
+    "clown hair green": 148,
+    "clown nose": 212,
+    "cowboy hat": 142,
+    "crazy hair": 414,
+    "dark hair": 157,
+    "do-rag": 300,
+    "earring": 2459,
+    "eye mask": 293,
+    "eye patch": 461,
+    "fedora": 186,
+    "front beard": 273,
+    "front beard dark": 260,
+    "frown": 261,
+    "frumpy hair": 442,
+    "goat": 295,
+    "gold chain": 169,
+    "green eye shadow": 271,
+    "half shaved": 147,
+    "handlebars": 263,
+    "headband": 406,
+    "hoodie": 259,
+    "horned rim glasses": 535,
+    "hot lipstick": 696,
+    "knitted cap": 419,
+    "luxurious beard": 286,
+    "medical mask": 175,
+    "messy hair": 460,
+    "mohawk": 441,
+    "mohawk dark": 429,
+    "mohawk thin": 441,
+    "mole": 644,
+    "mustache": 288,
+    "muttonchops": 303,
+    "nerd glasses": 572,
+    "normal beard": 292,
+    "normal beard black": 289,
+    "orange side": 68,
+    "peak spike": 303,
+    "pigtails": 94,
+    "pilot helmet": 54,
+    "pink with hat": 95,
+    "pipe": 317,
+    "police cap": 203,
+    "purple eye shadow": 262,
+    "purple hair": 165,
+    "purple lipstick": 655,
+    "red mohawk": 147,
+    "regular shades": 527,
+    "rosy cheeks": 128,
+    "shadow beard": 526,
+    "shaved head": 300,
+    "silver chain": 156,
+    "small shades": 378,
+    "smile": 238,
+    "spots": 124,
+    "straight hair": 151,
+    "straight hair blonde": 144,
+    "straight hair dark": 148,
+    "stringy hair": 463,
+    "tassle hat": 178,
+    "tiara": 55,
+    "top hat": 115,
+    "vampire hair": 147,
+    "vape": 272,
+    "vr": 332,
+    "welding goggles": 86,
+    "wild blonde": 144,
+    "wild hair": 446,
+    "wild white hair": 136
+  },
+  "type": {
+    "alien": 9,
+    "ape": 24,
+    "female": 3840,
+    "male": 6038,
+    "zombie": 88
+  }
+}

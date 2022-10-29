@@ -1,0 +1,38 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/3babd0c535b3f472243c7ea8ae6f7388.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-09-29T16:45:16.771351+00:00",
+  "default_to_fiat": false,
+  "description": "A collection of 888 Phunk Aliens who came from another galaxy straight to OpenSea. 👽🛸\n\nLooking for a new beginning, this collection of NFTs manually uploaded to the ethereum network cannot promise anything but good vibes and create a nice community to grow together in this origins journey.",
+  "discord_url": "https://discord.gg/825Au4HkHs",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/0610512e77e3bed74d17d3d62a7fcf87.jpg?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/fdf0e34b3a4c21d2b1ea1ec6fb351f9a.png?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/0610512e77e3bed74d17d3d62a7fcf87.jpg?w=500&auto=format",
+  "medium_username": null,
+  "name": "Phunk Aliens Origins",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "phunk-aliens-origins",
+  "telegram_url": null,
+  "twitter_username": "PhunkAliens",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

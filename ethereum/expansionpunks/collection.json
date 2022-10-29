@@ -1,0 +1,40 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/gIEqQ6_zbucBZrW-OyCcxrxdmU35MqnrOCBhK2ZiJNxzkBaqj5Dj6UVlP_is2GUQu20okeonpipdH91Bv6YxrXLQOKrburacylhI?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-08-15T05:37:14.456999+00:00",
+  "default_to_fiat": false,
+  "description": "~ [Homepage](https://expansionpunks.com/) - [Read more](https://medium.com/@Posvar) ~ \r\n\r\nA community-led expansion to the CryptoPunks phenomena that empowers everyone to feel welcome, valued and represented in the emerging metaverse. Honoring the ethos of the original collection's design philosophies and trait principles, ExpansionPunks are fully unique and diverse additions to the Punkverse.\r\n\r\n\r\n\r\nEXPANSIONPUNKS 2021 - NOT AFFILIATED WITH LARVALABS",
+  "discord_url": "https://discord.gg/kTNcWfYfbv",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://expansionpunks.com/",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/gIEqQ6_zbucBZrW-OyCcxrxdmU35MqnrOCBhK2ZiJNxzkBaqj5Dj6UVlP_is2GUQu20okeonpipdH91Bv6YxrXLQOKrburacylhI?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "verified",
+  "image_url": "https://i.seadn.io/gae/wOcdC7XRZ5JZ3Z5xym5jEi895YGuZKzrDxRLaxHPXWBPxH8fzXs9_7oml8mka4Suj2xp-yAu4q9Qp3-vx5aiWCbh-WCyu2pybUUEIQ?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/gIEqQ6_zbucBZrW-OyCcxrxdmU35MqnrOCBhK2ZiJNxzkBaqj5Dj6UVlP_is2GUQu20okeonpipdH91Bv6YxrXLQOKrburacylhI?w=500&auto=format",
+  "medium_username": "Posvar",
+  "name": "ExpansionPunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "expansionpunks",
+  "telegram_url": null,
+  "twitter_username": "ExpansionPunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x6df748fd1d9154ffaea6f2f59d369ccacc1c9f2c": 300,
+      "0xcb25bf20256b54b3797128d49b6808439b61b0a3": 200
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

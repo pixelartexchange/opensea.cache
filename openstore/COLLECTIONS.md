@@ -1,5 +1,35 @@
 # Collections
 
+##  Phunk Aliens Origins
+
+opensea: [phunk-aliens-origins](https://opensea.io/collection/phunk-aliens-origins) - created on Sep 29, 2022<br>
+twitter: [PhunkAliens](https://twitter.com/PhunkAliens)<br>
+
+stats:
+- count / total supply: 890 / 890, num owners:  108
+- total sales:  643, total volume: Ξ3.20 (~ US$ 4164)
+- average price: Ξ0.005 (~ US$ 6.48)
+- floor price: Ξ0.004 (~ US$ 4.88)
+
+fees: seller -, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (9):</summary>
+
+- BACKGROUND (5)
+- SKIN (5)
+- NECK (4)
+- EARRING (4)
+- EYES (14)
+- BOWLER HAT (1)
+- MOUTH (14)
+- HEAD (24)
+- LEGENDARY 1/1 (6)
+
+</details>
+
+
 ##  GhozaliPunk
 
 opensea: [ghozalipunk](https://opensea.io/collection/ghozalipunk) - created on Jan 16, 2022<br>
@@ -37,7 +67,7 @@ web:  <http://itsajoak.com><br>
 twitter: [itsajoak](https://twitter.com/itsajoak)<br>
 
 stats:
-- count / total supply: 227 / 227, num owners:  18
+- count / total supply: 300 / 300, num owners:  18
 - total sales:  28, total volume: Ξ0.55 (~ US$ 713.18)
 - average price: Ξ0.02 (~ US$ 25.47)
 - floor price: Ξ0.010 (~ US$ 13.26)
@@ -56,7 +86,7 @@ stats:
 - count / total supply: 61 / 61, num owners:  8
 - total sales:  9, total volume: Ξ0.10 (~ US$ 136.50)
 - average price: Ξ0.012 (~ US$ 15.17)
-- floor price: Ξ0.010 (~ US$ 13.00)
+- floor price: ???
 
 fees: seller 6.0%, opensea 2.5%
 
@@ -70,36 +100,35 @@ opensea: [beautiful-female-punks](https://opensea.io/collection/beautiful-female
 twitter: [punks_afro](https://twitter.com/punks_afro)<br>
 
 stats:
-- count / total supply: 40 / 40, num owners:  2
+- count / total supply: 39 / 39, num owners:  2
 - total sales:  1, total volume: Ξ0.005 (~ US$ 6.50)
 - average price: Ξ0.005 (~ US$ 6.50)
-- floor price: Ξ0.005 (~ US$ 6.50)
+- floor price: Ξ0.010 (~ US$ 13.00)
 
 fees: seller -, opensea 2.5%
 
 payments (2): Ether (ETH), Wrapped Ether (WETH)
 
-<details><summary>attribute categories (19):</summary>
+<details><summary>attribute categories (18):</summary>
 
-- 3 (2)
 - 4 (2)
-- Artist (1)
-- Captain K (1)
-- Female character (1)
-- Female Punk (1)
-- Jojo (1)
-- Kelly (1)
-- Lucy (1)
-- LUNA (1)
-- Male (2)
-- Mary (1)
-- MM (1)
-- NFT (14)
+- 3 (2)
 - Punk (1)
 - Queen (1)
 - Stylish (1)
-- Taylor (1)
+- Female Punk (1)
+- Female character (1)
+- Lucy (1)
+- Mary (1)
+- Kelly (1)
+- Male (2)
+- NFT (14)
 - Yan (1)
+- MM (1)
+- Captain K (1)
+- Taylor (1)
+- Jojo (1)
+- LUNA (1)
 
 </details>
 
@@ -129,7 +158,7 @@ stats:
 - count / total supply: 600 / 600, num owners:  280
 - total sales:  614, total volume: Ξ73.56 (~ US$ 95629)
 - average price: Ξ0.12 (~ US$ 155.75)
-- floor price: Ξ0.16 (~ US$ 208.00)
+- floor price: Ξ0.28 (~ US$ 364.00)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -163,10 +192,10 @@ web:  <https://blockydogeguilds.com><br>
 twitter: [BillyM2k](https://twitter.com/BillyM2k)<br>
 
 stats:
-- count / total supply: 1000 / 1000, num owners:  482
-- total sales:  2265, total volume: Ξ550.45 (~ US$ 715591)
-- average price: Ξ0.24 (~ US$ 315.93)
-- floor price: Ξ0.25 (~ US$ 325.00)
+- count / total supply: 1000 / 1000, num owners:  477
+- total sales:  2273, total volume: Ξ552.12 (~ US$ 717750)
+- average price: Ξ0.24 (~ US$ 315.77)
+- floor price: Ξ0.20 (~ US$ 260.00)
 
 fees: seller 5.0%, opensea 2.5%
 
@@ -217,10 +246,10 @@ web:  <https://blockydoge.com/><br>
 twitter: [BillyM2k](https://twitter.com/BillyM2k)<br>
 
 stats:
-- count / total supply: 100 / 100, num owners:  82
-- total sales:  244, total volume: Ξ868.48 (~ US$ 1.1 million(s))
-- average price: Ξ3.56 (~ US$ 4627)
-- floor price: Ξ4.07 (~ US$ 5290)
+- count / total supply: 100 / 100, num owners:  80
+- total sales:  246, total volume: Ξ876.71 (~ US$ 1.1 million(s))
+- average price: Ξ3.56 (~ US$ 4633)
+- floor price: Ξ8.00 (~ US$ 10400)
 
 fees: seller 5.0%, opensea 2.5%
 
@@ -235,6 +264,35 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 - Glasses (5)
 - Hat (9)
 - Mask (3)
+
+</details>
+
+
+##  CryptoRalph
+
+opensea: [cryptoralph](https://opensea.io/collection/cryptoralph) - created on Sep 13, 2021<br>
+web:  <https://cryptoralph.io><br>
+twitter: [CryptoRalphNFT](https://twitter.com/CryptoRalphNFT)<br>
+
+stats:
+- count / total supply: 1089 / 1089, num owners:  219
+- total sales:  295, total volume: Ξ4.52 (~ US$ 5874)
+- average price: Ξ0.02 (~ US$ 19.91)
+- floor price: Ξ0.02 (~ US$ 24.70)
+
+fees: seller 5.3%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (7):</summary>
+
+- Age (4)
+- Beard (4)
+- Face (10)
+- Fun (20)
+- Glasses (11)
+- Hair (24)
+- Type (4)
 
 </details>
 
@@ -296,7 +354,7 @@ stats:
 - count / total supply: 90 / 90, num owners:  42
 - total sales:  69, total volume: Ξ1.52 (~ US$ 1980)
 - average price: Ξ0.02 (~ US$ 28.69)
-- floor price: Ξ1.00 (~ US$ 1300)
+- floor price: ???
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -309,10 +367,10 @@ payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 opensea: [histopunks](https://opensea.io/collection/histopunks) - created on Aug 29, 2021<br>
 
 stats:
-- count / total supply: 175 / 175, num owners:  64
-- total sales:  103, total volume: Ξ12.76 (~ US$ 16594)
-- average price: Ξ0.12 (~ US$ 161.11)
-- floor price: Ξ0.15 (~ US$ 195.00)
+- count / total supply: 176 / 176, num owners:  65
+- total sales:  105, total volume: Ξ13.06 (~ US$ 16984)
+- average price: Ξ0.12 (~ US$ 161.76)
+- floor price: Ξ0.13 (~ US$ 169.00)
 
 fees: seller 5.0%, opensea 2.5%
 
@@ -320,11 +378,11 @@ payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 
 <details><summary>attribute categories (8):</summary>
 
-- Name (176)
-- Occupation (81)
-- Year of birth (123)
+- Name (181)
+- Occupation (83)
+- Year of birth (127)
 - Sex (3)
-- Accessory (52)
+- Accessory (53)
 - Male (1)
 - Legendary (3)
 - Special (1)
@@ -339,9 +397,9 @@ web:  <https://www.24px.io><br>
 
 stats:
 - count / total supply: 9900 / 9900, num owners:  4093
-- total sales:  20108, total volume: Ξ937.67 (~ US$ 1.2 million(s))
-- average price: Ξ0.05 (~ US$ 60.62)
-- floor price: Ξ0.005 (~ US$ 6.37)
+- total sales:  20112, total volume: Ξ937.67 (~ US$ 1.2 million(s))
+- average price: Ξ0.05 (~ US$ 60.61)
+- floor price: Ξ0.006 (~ US$ 7.15)
 
 fees: seller 2.5%, opensea 2.5%
 
@@ -356,10 +414,10 @@ web:  <https://monkepunks.com><br>
 twitter: [MonkePunks](https://twitter.com/MonkePunks)<br>
 
 stats:
-- count / total supply: 999 / 999, num owners:  600
+- count / total supply: 999 / 999, num owners:  601
 - total sales:  1756, total volume: Ξ136.55 (~ US$ 177513)
 - average price: Ξ0.08 (~ US$ 101.09)
-- floor price: Ξ0.04 (~ US$ 52.00)
+- floor price: Ξ0.02 (~ US$ 29.90)
 
 fees: seller 5.0%, opensea 2.5%
 
@@ -410,7 +468,7 @@ stats:
 - count / total supply: 500 / 500, num owners:  227
 - total sales:  410, total volume: Ξ13.46 (~ US$ 17499)
 - average price: Ξ0.03 (~ US$ 42.68)
-- floor price: Ξ0.02 (~ US$ 26.00)
+- floor price: Ξ0.02 (~ US$ 24.70)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -430,10 +488,10 @@ web:  <http://OnlyPunks.io><br>
 twitter: [OnlyPunksETH](https://twitter.com/OnlyPunksETH)<br>
 
 stats:
-- count / total supply: 2386 / 2386, num owners:  1032
-- total sales:  3918, total volume: Ξ230.81 (~ US$ 300050)
-- average price: Ξ0.06 (~ US$ 76.58)
-- floor price: Ξ0.02 (~ US$ 23.40)
+- count / total supply: 2386 / 2386, num owners:  1033
+- total sales:  3921, total volume: Ξ232.01 (~ US$ 301618)
+- average price: Ξ0.06 (~ US$ 76.92)
+- floor price: Ξ0.03 (~ US$ 36.40)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -454,10 +512,10 @@ opensea: [24px](https://opensea.io/collection/24px) - created on Aug 02, 2021<br
 web:  <https://www.24px.io><br>
 
 stats:
-- count / total supply: 9895 / 9895, num owners:  4225
-- total sales:  28189, total volume: Ξ3588.14 (~ US$ 4.7 million(s))
-- average price: Ξ0.13 (~ US$ 165.48)
-- floor price: Ξ0.02 (~ US$ 23.27)
+- count / total supply: 9893 / 9893, num owners:  4217
+- total sales:  28219, total volume: Ξ3588.11 (~ US$ 4.7 million(s))
+- average price: Ξ0.13 (~ US$ 165.30)
+- floor price: Ξ0.013 (~ US$ 16.90)
 
 fees: seller 2.5%, opensea 2.5%
 
@@ -474,7 +532,7 @@ stats:
 - count / total supply: 362 / 362, num owners:  115
 - total sales:  230, total volume: Ξ6.06 (~ US$ 7884)
 - average price: Ξ0.03 (~ US$ 34.28)
-- floor price: Ξ0.02 (~ US$ 19.50)
+- floor price: Ξ0.10 (~ US$ 130.00)
 
 fees: seller 2.5%, opensea 2.5%
 
@@ -521,8 +579,8 @@ opensea: [frontphunks](https://opensea.io/collection/frontphunks) - created on J
 twitter: [CryptoFrontPunk](https://twitter.com/CryptoFrontPunk)<br>
 
 stats:
-- count / total supply: 1000 / 1000, num owners:  185
-- total sales:  478, total volume: Ξ16.01 (~ US$ 20819)
+- count / total supply: 998 / 998, num owners:  184
+- total sales:  478, total volume: Ξ16.01 (~ US$ 20817)
 - average price: Ξ0.03 (~ US$ 43.47)
 - floor price: Ξ0.02 (~ US$ 26.00)
 
@@ -546,9 +604,9 @@ twitter: [@PunksDoge](https://twitter.com/@PunksDoge)<br>
 
 stats:
 - count / total supply: 150 / 150, num owners:  69
-- total sales:  220, total volume: Ξ4.96 (~ US$ 6444)
-- average price: Ξ0.02 (~ US$ 29.29)
-- floor price: Ξ0.010 (~ US$ 12.87)
+- total sales:  221, total volume: Ξ4.97 (~ US$ 6457)
+- average price: Ξ0.02 (~ US$ 29.22)
+- floor price: Ξ0.013 (~ US$ 16.90)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -562,14 +620,31 @@ opensea: [kimono-punks](https://opensea.io/collection/kimono-punks) - created on
 twitter: [KimonoNinja_NFT](https://twitter.com/KimonoNinja_NFT)<br>
 
 stats:
-- count / total supply: 982 / 982, num owners:  445
-- total sales:  1066, total volume: Ξ28.70 (~ US$ 37315)
-- average price: Ξ0.03 (~ US$ 35.00)
-- floor price: Ξ0.02 (~ US$ 32.50)
+- count / total supply: 982 / 982, num owners:  447
+- total sales:  1069, total volume: Ξ28.79 (~ US$ 37428)
+- average price: Ξ0.03 (~ US$ 35.01)
+- floor price: Ξ0.03 (~ US$ 33.54)
 
 fees: seller 10.0%, opensea 2.5%
 
 payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+
+
+##  Goblin Punks
+
+opensea: [goblin-punks](https://opensea.io/collection/goblin-punks) - created on Apr 27, 2021<br>
+twitter: [Gossip_Goblin](https://twitter.com/Gossip_Goblin)<br>
+
+stats:
+- count / total supply: 99 / 99, num owners:  69
+- total sales:  197, total volume: Ξ34.40 (~ US$ 44716)
+- average price: Ξ0.17 (~ US$ 226.98)
+- floor price: Ξ0.69 (~ US$ 897.00)
+
+fees: seller 10.0%, opensea 2.5%
+
+payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
 
 
 
@@ -580,10 +655,10 @@ web:  <http://cloutpunks.com><br>
 twitter: [cloutpunks](https://twitter.com/cloutpunks)<br>
 
 stats:
-- count / total supply: 518 / 518, num owners:  280
-- total sales:  764, total volume: Ξ85.50 (~ US$ 111147)
-- average price: Ξ0.11 (~ US$ 145.48)
-- floor price: Ξ0.04 (~ US$ 52.00)
+- count / total supply: 517 / 517, num owners:  279
+- total sales:  764, total volume: Ξ85.52 (~ US$ 111182)
+- average price: Ξ0.11 (~ US$ 145.53)
+- floor price: Ξ0.24 (~ US$ 312.00)
 
 fees: seller 8.0%, opensea 2.5%
 
@@ -745,9 +820,9 @@ web:  <https://twitter.com/cryptogreats><br>
 twitter: [CryptoGreats](https://twitter.com/CryptoGreats)<br>
 
 stats:
-- count / total supply: 933 / 933, num owners:  137
-- total sales:  617, total volume: Ξ10.62 (~ US$ 13805)
-- average price: Ξ0.02 (~ US$ 22.37)
+- count / total supply: 932 / 932, num owners:  139
+- total sales:  624, total volume: Ξ10.71 (~ US$ 13922)
+- average price: Ξ0.02 (~ US$ 22.31)
 - floor price: Ξ0.010 (~ US$ 13.00)
 
 fees: seller 10.0%, opensea 2.5%
@@ -758,6 +833,32 @@ payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 
 - Category (41)
 - Country (65)
+
+</details>
+
+
+##  ReggaetonPunks
+
+opensea: [reggaetonpunks](https://opensea.io/collection/reggaetonpunks) - created on Mar 16, 2021<br>
+web:  <http://www.reggaetonpunks.com><br>
+twitter: [reggaetonpunks](https://twitter.com/reggaetonpunks)<br>
+
+stats:
+- count / total supply: 100 / 100, num owners:  43
+- total sales:  95, total volume: Ξ12.88 (~ US$ 16741)
+- average price: Ξ0.14 (~ US$ 176.23)
+- floor price: Ξ0.11 (~ US$ 144.43)
+
+fees: seller 10.0%, opensea 2.5%
+
+payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
+
+<details><summary>attribute categories (4):</summary>
+
+- Character (86)
+- Background Color (7)
+- Accessory Color (16)
+- Has Music (2)
 
 </details>
 
@@ -776,7 +877,7 @@ stats:
 
 fees: seller 10.0%, opensea 2.5%
 
-payments (6): Ether (ETH), Dai Stablecoin (DAI), Matic Token (MATIC), Wrapped Ether (WETH), USD Coin (USDC), TRASH (TRSH)
+payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
 
 <details><summary>attribute categories (33):</summary>
 
@@ -817,6 +918,37 @@ payments (6): Ether (ETH), Dai Stablecoin (DAI), Matic Token (MATIC), Wrapped Et
 </details>
 
 
+##  MariachiPunks
+
+opensea: [mariachipunks](https://opensea.io/collection/mariachipunks) - created on Mar 16, 2021<br>
+web:  <https://mariachipunks.com><br>
+twitter: [MariachiPunks](https://twitter.com/MariachiPunks)<br>
+
+stats:
+- count / total supply: 10 / 10, num owners:  7
+- total sales:  8, total volume: Ξ2.16 (~ US$ 2808)
+- average price: Ξ0.27 (~ US$ 351.00)
+- floor price: Ξ0.27 (~ US$ 351.00)
+
+fees: seller 10.0%, opensea 2.5%
+
+payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
+
+<details><summary>attribute categories (9):</summary>
+
+- Beliefs (1)
+- Drinks (1)
+- Instrument (7)
+- Name (10)
+- Occupation (1)
+- Other (10)
+- Shows played (5)
+- Shows Played (5)
+- Violin (1)
+
+</details>
+
+
 ##  Genius Punks
 
 opensea: [genius-punks](https://opensea.io/collection/genius-punks) - created on Mar 15, 2021<br>
@@ -848,10 +980,10 @@ web:  <http://thepixelportraits.me><br>
 twitter: [thepxlportraits](https://twitter.com/thepxlportraits)<br>
 
 stats:
-- count / total supply: 998 / 998, num owners:  548
-- total sales:  1029, total volume: Ξ104.36 (~ US$ 135667)
-- average price: Ξ0.10 (~ US$ 131.84)
-- floor price: Ξ0.50 (~ US$ 650.00)
+- count / total supply: 997 / 997, num owners:  547
+- total sales:  1030, total volume: Ξ104.37 (~ US$ 135680)
+- average price: Ξ0.10 (~ US$ 131.73)
+- floor price: Ξ0.40 (~ US$ 520.00)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -928,7 +1060,7 @@ web:  <http://bwpunks.com><br>
 twitter: [bwpunks](https://twitter.com/bwpunks)<br>
 
 stats:
-- count / total supply: 149 / 149, num owners:  68
+- count / total supply: 147 / 147, num owners:  67
 - total sales:  118, total volume: Ξ56.28 (~ US$ 73164)
 - average price: Ξ0.48 (~ US$ 620.03)
 - floor price: Ξ0.04 (~ US$ 58.50)
@@ -951,10 +1083,10 @@ web:  <https://animepunks.io><br>
 twitter: [AnimePunks_](https://twitter.com/AnimePunks_)<br>
 
 stats:
-- count / total supply: 1000 / 1000, num owners:  342
-- total sales:  950, total volume: Ξ138.88 (~ US$ 180541)
-- average price: Ξ0.15 (~ US$ 190.04)
-- floor price: Ξ0.04 (~ US$ 49.40)
+- count / total supply: 999 / 999, num owners:  341
+- total sales:  953, total volume: Ξ139.21 (~ US$ 180978)
+- average price: Ξ0.15 (~ US$ 189.90)
+- floor price: Ξ0.08 (~ US$ 97.50)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -1028,9 +1160,9 @@ twitter: [UnofficialPunks](https://twitter.com/UnofficialPunks)<br>
 
 stats:
 - count / total supply: 99 / 99, num owners:  82
-- total sales:  167, total volume: Ξ144.31 (~ US$ 187599)
+- total sales:  167, total volume: Ξ144.51 (~ US$ 187859)
 - average price: Ξ0.86 (~ US$ 1121)
-- floor price: Ξ0.75 (~ US$ 975.00)
+- floor price: Ξ0.40 (~ US$ 520.00)
 
 fees: seller 10.0%, opensea 2.5%
 

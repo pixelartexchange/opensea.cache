@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/tHwsNTvC6LX11mjAsywOa-v6YLjUrjEmr63KBCF5c8BIALpS5rwPwHzZnr5mpLzCLKGnEcBMsdxGDUIpIkepaNmbtraZehfHw49z?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-03-16T02:13:31.714292+00:00",
+  "default_to_fiat": false,
+  "description": "Web3's first NFT Reggaeton collection on the Ethereum blockchain. \nThe NFTs double as lifetime access tokens to the world's first NFT x Reggaeton music festival (Reggaeton Rave) in New York City.\nBuilt by: \n@safaeranights x @reggaetonrave \nThe ReggaetonPunks™️ Genesis Collection consists of 100 unique digital characters—This project is not affiliated with Yuga Labs.\n[Roadmap](https://tinyurl.com/2p8hwzse) | \n[License](https://tinyurl.com/2p8n4ysd)\n\nLa primera colección NFT Reggaeton de Web3 en la cadena de bloques Ethereum. Los NFT se duplican como tokens de acceso de por vida al primer festival de música NFT x Reggaeton del mundo (Reggaeton Rave) en la ciudad de Nueva York. Creado por: @safaeranights x @reggaetonrave The ReggaetonPunks™️ Genesis Collection consta de 100 personajes digitales únicos. Este proyecto no está afiliado a Yuga Labs.",
+  "discord_url": "https://discord.gg/SkYdvrtBZC",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "http://www.reggaetonpunks.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/JIimtjW2a8ZcFfWWOo8Pax2JygRAccmekZ8BPxTFfhQnNaMRHcor4V2H4icGDfudx5XyvGhODEi18ismgwL0mVryKFHOHXnC1a09KQ?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/lQ7ThqCmAbLe7NCycmNKMeS7MR-b7d89smFiZ2izYe7lJDyJNdow7wTLjUOb2A1HfKwSGPmXDMvUeGVKqRLlKeMkCXWxNBjk_7Po0CQ?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/JIimtjW2a8ZcFfWWOo8Pax2JygRAccmekZ8BPxTFfhQnNaMRHcor4V2H4icGDfudx5XyvGhODEi18ismgwL0mVryKFHOHXnC1a09KQ?w=500&auto=format",
+  "medium_username": "reggaetonpunks",
+  "name": "ReggaetonPunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "reggaetonpunks",
+  "telegram_url": null,
+  "twitter_username": "reggaetonpunks",
+  "instagram_username": "reggaetonpunks",
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x83ca4b485e6d0389fbbc7c58120d918d4867098d": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

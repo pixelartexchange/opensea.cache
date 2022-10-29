@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xa3915c387ccebfd451343a7768e3c2cfb6fdad48",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2021-07-31T08:41:13.728651",
+    "name": "PhilipPhunks",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 57436907,
+    "schema_name": "ERC721",
+    "symbol": "PPH",
+    "total_supply": null,
+    "description": "A tribute to Philip the Intern & the first CryptoPhunk derivative collection.\n\nERC721 | IPFS | Phully Decentralized",
+    "external_link": null,
+    "image_url": "https://i.seadn.io/gae/CSoYvwnuSU5fcSivwmOWCduA5fjRi-3MWsT0ACs9lcg-wJCxxhq1e_vvx_ii2RBoyC5tti7uK2yyFyPtLhHBHwhwCGa0PSVEXuZTDQ?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

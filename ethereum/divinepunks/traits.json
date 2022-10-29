@@ -1,0 +1,117 @@
+{
+  "Background": {
+    "blue": 39,
+    "green": 46,
+    "noise": 9,
+    "red": 32,
+    "stripes": 16,
+    "triangles": 8,
+    "waves": 11
+  },
+  "Base": {
+    "base 1": 34,
+    "base 2": 45,
+    "base 3": 48,
+    "base 4": 34
+  },
+  "Cloak": {
+    "black cloak": 3,
+    "black cloak with gold": 1,
+    "green cloak": 13,
+    "purple cloak": 2
+  },
+  "Eyebrows": {
+    "golden eyeshadow": 8,
+    "green eyeshadow": 15,
+    "no eyeshadow": 84,
+    "purple eyeshadow": 21,
+    "shaved": 33
+  },
+  "Eyes": {
+    "bloodshot": 19,
+    "dazed": 9,
+    "green eyes": 13,
+    "looking left": 32,
+    "looking right": 67,
+    "red eyes": 13,
+    "spice eyes": 3,
+    "ziggy eyes": 5
+  },
+  "Facepaint": {
+    "blue fowers": 6,
+    "half skull": 3,
+    "half stinger": 2,
+    "half zombie": 2,
+    "red flowers": 4,
+    "simple cat": 4
+  },
+  "Forehead": {
+    "cross": 9,
+    "cross upside down": 2,
+    "golden pyramid": 7,
+    "third eye": 7,
+    "yin and yang": 6
+  },
+  "Hair": {
+    "blonde long hair": 7,
+    "blonde mullet": 3,
+    "blonde short hair": 8,
+    "blonde wet hair": 5,
+    "gray long hair": 12,
+    "gray mullet": 1,
+    "gray short hair": 13,
+    "gray wet hair": 5,
+    "no hair": 13,
+    "purple long hair": 4,
+    "purple mullet": 3,
+    "purple short hair": 6,
+    "purple wet hair": 5,
+    "red long hair": 13,
+    "red mullet": 8,
+    "red short hair": 10,
+    "red wet hair": 1,
+    "silver long hair": 7,
+    "silver mullet": 5,
+    "silver short hair": 8,
+    "silver wet hair": 4
+  },
+  "Headwear": {
+    "beast": 4,
+    "beret": 10,
+    "crown of thorns": 1,
+    "dove": 4,
+    "high priestess": 1,
+    "horns": 9,
+    "laurel wreath": 15,
+    "montera": 12,
+    "no headwear": 51,
+    "parrot": 11,
+    "sailor cap": 12,
+    "sun hat": 11
+  },
+  "Lips": {
+    "blue lipstick": 11,
+    "golden lipstick": 5,
+    "no lipstick": 106,
+    "red lipstick": 36,
+    "silver lipstick": 3
+  },
+  "Mask": {
+    "bauta mask": 7,
+    "black domino mask": 10,
+    "blue domino mask": 7,
+    "guy fawkes mask": 1,
+    "rainbow domino mask": 5,
+    "red domino mask": 5,
+    "volto mask": 3
+  },
+  "Signature haircut": {
+    "brussels quiff": 1
+  },
+  "Tattoo": {
+    "big cross": 4,
+    "neck tattoo": 7,
+    "right eye tattoo": 2,
+    "tear tattoo": 8
+  }
+}

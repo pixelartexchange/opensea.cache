@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/tHkrzSyYTBDHlb4oFovU6yQ-wkMc23TlqewhwSdLVA8wyC1uBBtdXh2N_eSvO-mZULKZdW-5WF_KD8hbrFoMR7GcZoZDTSXtfKzGHNc?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-12-30T17:10:09.598337+00:00",
+  "default_to_fiat": false,
+  "description": "Expansion Phunks is a revolution in the Punkverse. Whether you are male, female, non-binary, black, white, zombie, ape or even an alien you can find a home with us.",
+  "discord_url": "https://discord.gg/zzgjKgnHts",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "http://xphunks.org",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/Dt26uTOQunUPAnEemt7mIxfQM7jxupQNLGky1dOMIKjlxvV-gdkP1nZ9vsQDSJ1Ofhu-HxOODvaCFOyghGP9H44hIw4hvaH_MjFL5Q?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/MG7sLUPQO03cTu2qz7eh0W5pEfNqB8eCf4yHIwFStEUldUkjsYH6VPWpQNVqr9SSTy03kWmil3VShqEt-t_0SxNWShHQS7tsIdLCeQ?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/Dt26uTOQunUPAnEemt7mIxfQM7jxupQNLGky1dOMIKjlxvV-gdkP1nZ9vsQDSJ1Ofhu-HxOODvaCFOyghGP9H44hIw4hvaH_MjFL5Q?w=500&auto=format",
+  "medium_username": null,
+  "name": "ExpansionPhunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "expansionphunks",
+  "telegram_url": null,
+  "twitter_username": "xPhunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xadd19b9b060a07484f31ed2cc837e8dedf0cf6b6": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

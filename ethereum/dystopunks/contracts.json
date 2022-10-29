@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xbea8123277142de42571f1fac045225a1d347977",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2021-06-20T20:58:54.004104",
+    "name": "DystoPunks V2",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 22091731,
+    "schema_name": "ERC721",
+    "symbol": "DYSTO",
+    "total_supply": "0",
+    "description": "Welcome to a tech-filled dystopian future. DystoPunks is a utility-focused cyberpunk-themed NFT project that allows holders to generate a utility-governance token called $CREDS and use it in the Dystolab.\n\nVoxel Avatars: [DystoPunks VX](https://opensea.io/collection/dystopunks-vx) | [Dystolab Crates](https://opensea.io/collection/dystolab-crates)\n\nPunks of the Metaverse | By: [Dekadente](https://twitter.com/0xDekadente)\n\n[Website](https://dystopunks.net/) | [Discord](https://discord.gg/DystoPunks) | [Medium](https://dystopunks.medium.com/) | [Twitter](https://twitter.com/DystoPunks)",
+    "external_link": "https://dystopunks.net/",
+    "image_url": "https://i.seadn.io/gcs/files/254216ef9b30ce52611b20270127d7c7.png?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

@@ -45,6 +45,27 @@ end
 
 
 slugs = %w[
+  nigeriansnft
+  theindiansofficial
+
+  reggaetonpunks
+  punkforce
+
+  covidpunksnft
+  divinepunks
+
+  goblin-punks
+
+  mariachipunks
+
+  philip-phunks
+
+  pisspunks
+
+  cryptoralph
+  cryptorastas-collection
+
+  unfudables-1
 ]
 
 

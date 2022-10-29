@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xa583beacdf3ed3808402f8db4f6628a7e1c6cec6",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2021-10-02T09:57:42.056082",
+    "name": "LostPunkSociety",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 87013125,
+    "schema_name": "ERC721",
+    "symbol": "LPS",
+    "total_supply": "0",
+    "description": "Welcome to the Lost Punk Society, where descendants of the original CryptoPunks gather to share their colorful stories. New members can only be added by those who own both a father punk and a mother punk. But beware! No punk can ever have more than two children, and parents cannot be closely related.\n\n⚠️ If you decide to buy a Lost Punk with the intention of minting more children from it, you should check how many children were previously minted before completing your purchase, by entering the token ID into the `punkAttributes` function on [Etherscan](https://t.co/wWGXYK89JU).\n\nMetadata and images are fully generated and stored on-chain. Cost of minting increases by 0.05E per generation (free if both parents are CryptoPunks) with 10% donated to GiveDirectly.org.\n\nWill siblings go their separate ways to be reunited years later? How often will twins occur? Will we see any lost aliens or apes? Do we risk a zombie infestation? Only time will tell...\n\nInspired by LarvaLabs (not affiliated).",
+    "external_link": "https://lostpunksociety.eth.link/",
+    "image_url": "https://i.seadn.io/gae/XRV3MsdMXHOVYUIO6sQS0qMIW5k9B9Iuni_m3LLQ2snbzo8UJoifP7GttLS4zjR6KgaZtSTOAIFLWB5LKlOc24dtw8DY0gVX0I6v?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

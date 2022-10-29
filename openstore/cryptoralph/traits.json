@@ -1,0 +1,93 @@
+{
+  "Age": {
+    "kid": 292,
+    "midlife": 324,
+    "toddler": 98,
+    "young": 360
+  },
+  "Beard": {
+    "circle beard": 6,
+    "stubble beard": 94,
+    "stubble beard grey": 20,
+    "stubble beard greyish": 54
+  },
+  "Face": {
+    "chocolate lips": 78,
+    "frown": 49,
+    "full smile": 193,
+    "ketchup lips": 40,
+    "medical mask": 3,
+    "milk lips": 13,
+    "pacifier": 5,
+    "smile": 283,
+    "spots": 30,
+    "teeth": 17
+  },
+  "Fun": {
+    "beer": 79,
+    "cigar": 8,
+    "cigarette": 39,
+    "clown nose": 39,
+    "cocktail": 43,
+    "cola": 32,
+    "ice cream": 18,
+    "lemonade": 24,
+    "light saber": 15,
+    "milk bottle": 5,
+    "mobile phone": 34,
+    "orange juice": 16,
+    "rosy cheeks": 69,
+    "silver chain": 139,
+    "smartphone": 41,
+    "tennis": 37,
+    "videogame": 21,
+    "whiskey": 18,
+    "white shirt": 62,
+    "wine": 22
+  },
+  "Glasses": {
+    "big sunglasses": 32,
+    "black sunglasses": 39,
+    "extra small sunglasses": 28,
+    "horn glasses": 77,
+    "horn sunglasses": 33,
+    "silver glasses": 176,
+    "silver green glasses": 85,
+    "silver small glasses": 40,
+    "silver sunglasses": 47,
+    "small sunglasses": 66,
+    "vr headset": 8
+  },
+  "Hair": {
+    "adult": 129,
+    "adult greyish": 42,
+    "adult grey sides": 39,
+    "army": 14,
+    "baby": 26,
+    "bathing cap": 28,
+    "blue cap": 15,
+    "blue knitted cap": 22,
+    "cowboy hat": 8,
+    "dark blue cap": 20,
+    "gradeschool": 76,
+    "graduation cap": 5,
+    "head band": 32,
+    "highschool": 122,
+    "kindergarden": 29,
+    "preschool": 20,
+    "red cap": 33,
+    "red knitted cap": 8,
+    "sideburns": 30,
+    "startup": 49,
+    "teenager": 81,
+    "tween": 45,
+    "university": 88,
+    "young adult": 114
+  },
+  "Type": {
+    "alien": 51,
+    "normal": 935,
+    "tanned": 64,
+    "zombie": 25
+  }
+}

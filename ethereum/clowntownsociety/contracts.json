@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x590bbd9c960a2f081311007b912e441d3588e136",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2021-10-09T13:31:43.874878",
+    "name": "ClownTownSociety",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 87013125,
+    "schema_name": "ERC721",
+    "symbol": "CLWN",
+    "total_supply": "0",
+    "description": "Welcome to Clown Town, where the 10,000 funny alter-egos of the original CryptoPunks gather to dress up and entertain the Ethereum crowd. Join the fun and celebrate Halloween in style this year!\n\nCryptoPunk owners can mint the randomly generated clown version of their punk for free at any time. Once the public sale opens, anyone will be able to mint clowns for unclaimed punks, but half the proceeds will be automatically transferred to the corresponding CryptoPunk owners. Cost of minting during public sale depends on whether you mint a clown from a human punk (0.08E), from a zombie (0.2E), from an ape (0.4E) or from an alien (0.8E). 10% of all profits are donated to GiveDirectly.org in contract.\n\nAll metadata and images are fully generated and stored on-chain. Please don't fall for scams! Only mint directly through contract after verifying it was created by lostpunksociety.eth.\n\nBrought to you by Lost Punk Society. Inspired by Larva Labs (not affiliated).",
+    "external_link": "https://clowntown.io",
+    "image_url": "https://i.seadn.io/gae/BVmbtZWtvxphrPIAA_ok1yV-dvkTJovxI0Y7y619PCB5-wVm2tsnj17BRvgy4PQVmo8i09gwiP29vACLV5G_RzyQrRB0RlPFBnkP?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

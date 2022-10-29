@@ -1,0 +1,178 @@
+{
+  "Hair": {
+    "messy hair": 460,
+    "crazy hair": 414,
+    "purple hair": 165,
+    "mohawk": 441,
+    "shaved head": 300,
+    "pigtails": 94,
+    "mohawk dark": 429,
+    "blonde short": 129,
+    "frumpy hair": 442,
+    "wild hair": 447,
+    "mohawk thin": 441,
+    "stringy hair": 463,
+    "half shaved": 147,
+    "dark hair": 157,
+    "vampire hair": 147,
+    "straight hair blonde": 144,
+    "blonde bob": 147,
+    "orange side": 68,
+    "clown hair green": 148,
+    "straight hair dark": 148,
+    "wild white hair": 136,
+    "straight hair": 151,
+    "wild blonde": 144,
+    "red mohawk": 147,
+    "peak spike": 303,
+    "pink with hat": 95
+  },
+  "Facial Hair": {
+    "front beard dark": 260,
+    "goat": 295,
+    "normal beard black": 289,
+    "shadow beard": 526,
+    "handlebars": 263,
+    "front beard": 273,
+    "luxurious beard": 286,
+    "chinstrap": 282,
+    "muttonchops": 303,
+    "mustache": 288,
+    "big beard": 146,
+    "normal beard": 292
+  },
+  "Eyes": {
+    "clown eyes green": 382,
+    "big shades": 535,
+    "nerd glasses": 572,
+    "purple eye shadow": 262,
+    "eye patch": 461,
+    "classic shades": 502,
+    "small shades": 378,
+    "3d glasses": 286,
+    "vr": 332,
+    "regular shades": 527,
+    "clown eyes blue": 384,
+    "green eye shadow": 271,
+    "horned rim glasses": 535,
+    "eye mask": 293,
+    "blue eye shadow": 266,
+    "welding goggles": 86
+  },
+  "Sex": {
+    "male": 6039,
+    "female": 3840
+  },
+  "Mask": {
+    "pink": 734,
+    "kn-95 black": 484,
+    "yellow": 953,
+    "cloth red": 738,
+    "cloth white": 223,
+    "cloth blue": 858,
+    "blue": 1189,
+    "cloth brown": 631,
+    "cloth purple": 499,
+    "kn-95 yellow": 352,
+    "cloth green": 672,
+    "kn-95": 641,
+    "black": 620,
+    "cloth orange": 283,
+    "white": 897,
+    "rainbow": 133,
+    "faceshield": 93
+  },
+  "Vaccine Status": {
+    "vaccinated": 5391,
+    "unvaccinated": 4609
+  },
+  "Vaccine": {
+    "moderno": 2120,
+    "pfazer": 2816,
+    "swanson & swanson": 437,
+    "liquid bleach": 18
+  },
+  "COVID Status": {
+    "healthy": 7153,
+    "infected": 2832
+  },
+  "Headgear": {
+    "fedora": 186,
+    "cowboy hat": 142,
+    "bandana": 481,
+    "cap": 351,
+    "pilot helmet": 54,
+    "top hat": 115,
+    "beanie": 44,
+    "knitted cap": 419,
+    "hoodie": 259,
+    "do-rag": 300,
+    "headband": 406,
+    "cap forward": 254,
+    "police cap": 203,
+    "tassle hat": 178,
+    "tiara": 55
+  },
+  "Accessory": {
+    "earring": 2459,
+    "clown nose": 212,
+    "medical mask": 175
+  },
+  "Mouth": {
+    "black lipstick": 617,
+    "hot lipstick": 696,
+    "frown": 261,
+    "smile": 238,
+    "purple lipstick": 655,
+    "buck teeth": 78
+  },
+  "Symptom": {
+    "brain fog": 975,
+    "fatigued": 997,
+    "wheezing": 996,
+    "lack of taste": 942,
+    "headache": 933,
+    "asymptomatic": 563
+  },
+  "Vice": {
+    "pipe": 317,
+    "cigarette": 961,
+    "vape": 272
+  },
+  "Complexion": {
+    "spots": 124,
+    "mole": 644,
+    "rosy cheeks": 128
+  },
+  "Necklace": {
+    "gold chain": 169,
+    "silver chain": 156,
+    "choker": 48
+  },
+  "Species": {
+    "zombie": 88,
+    "alien": 9,
+    "ape": 24
+  },
+  "Health": {
+    "bleach sickness": 15
+  },
+  "Attributes": {
+    "none!": 8
+  },
+  "Special Status": {
+    "patient zero": 1
+  },
+  "Rarity": {
+    "uncommon": 3498,
+    "common": 5001,
+    "rare": 942,
+    "superrare": 288,
+    "legendary": 36,
+    "priceless": 18,
+    "epic": 216
+  },
+  "???": {
+    "robotified!": 39
+  }
+}

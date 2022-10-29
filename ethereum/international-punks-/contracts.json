@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x7b89c26ff23be91695bdafb2fc80ab919f2d2a4e",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2021-08-27T13:59:27.915459",
+    "name": "International Punks",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 12560851,
+    "schema_name": "ERC721",
+    "symbol": "INTPUNKS",
+    "total_supply": "0",
+    "description": "10,000 Punks checking in from every corner of the 🌎 Representing a symbiotic relationship between people, culture and history \n\n*not affiliated with Larva Labs*\n\n👾 http://discord.gg/4zf23AZ2wj",
+    "external_link": "https://internationalpunks.com",
+    "image_url": "https://i.seadn.io/gae/ynz3zNngruLpB31oCVNGsrbMXsr4HYEqw4U0YE-N-YUXbHjEJ2o9DV0fiwVoS9fFxys1NoupCeSk9ojwaN8ovHoskI1-J9IoSO-d?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

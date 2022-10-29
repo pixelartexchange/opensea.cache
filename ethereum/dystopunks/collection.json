@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/3258b5d3949a9043a28c1b3d2b98ed82.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-06-20T21:01:12.215286+00:00",
+  "default_to_fiat": false,
+  "description": "Welcome to a tech-filled dystopian future. DystoPunks is a utility-focused cyberpunk-themed NFT project that allows holders to generate a utility-governance token called $CREDS and use it in the Dystolab.\n\nVoxel Avatars: [DystoPunks VX](https://opensea.io/collection/dystopunks-vx) | [Dystolab Crates](https://opensea.io/collection/dystolab-crates)\n\nPunks of the Metaverse | By: [Dekadente](https://twitter.com/0xDekadente)\n\n[Website](https://dystopunks.net/) | [Discord](https://discord.gg/DystoPunks) | [Medium](https://dystopunks.medium.com/) | [Twitter](https://twitter.com/DystoPunks)",
+  "discord_url": "https://discord.gg/DystoPunks",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://dystopunks.net/",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/a2d54f35b51d82d18561850b1fc3179d.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "verified",
+  "image_url": "https://i.seadn.io/gcs/files/254216ef9b30ce52611b20270127d7c7.png?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/a2d54f35b51d82d18561850b1fc3179d.png?w=500&auto=format",
+  "medium_username": "DystoPunks",
+  "name": "DystoPunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "dystopunks",
+  "telegram_url": null,
+  "twitter_username": "DystoPunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x41d01d47e7457817f46502837b5a898a763e60b0": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

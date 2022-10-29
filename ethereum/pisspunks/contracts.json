@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x164915306034939e89667ba04d400a6a19b820a1",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2021-09-05T10:10:57.740881",
+    "name": "Piss Punks",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 49346754,
+    "schema_name": "ERC721",
+    "symbol": "PSSPNKS",
+    "total_supply": "0",
+    "description": "Piss Punks is a collection by Basis Coppola.\n\nDesigned to create a dialogue, to challenge the new and parody what are undoubtedly two of the most controversial artworks in modern art; Piss Christ and Punks.\n\nAfter all, what could be more punk, than drowning your Punks in Piss?\n\nFor more information [www.pisspunks.com](https://www.pisspunks.com) \n\nFollow [@BasisCoppola](https://www.twitter.com/BasisCoppola) on Twitter\n\nThis is part of the Maxon Bollocks project. Follow us on Twitter at [@MaxonBollocks](https://www.twitter.com/MaxonBollocks)\n\n**Disclaimer: This work has no association with Larva Labs or Andres Serrano the artist behind \"Piss Christ\"**",
+    "external_link": "http://pisspunks.com",
+    "image_url": "https://i.seadn.io/gae/wQXjz14uWc2P9b1OtM1MIX21UzsVTYRtDMoLPlM5bYOQe5-5t1q4xYSPnCvkjdnYXKsMVSyqxh-LNK6yTlNs2j9mAPw1ZPGptA0l?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

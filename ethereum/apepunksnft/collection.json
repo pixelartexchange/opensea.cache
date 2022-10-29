@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/qo7eaxbGajFtH18KCiFQs5oEzuI5_xfzzCoFj59IBQi1tLN4-xtUDxiwHSWN8d9TpXEvHNKagymPsT3eVNwQm3csYz5laN8_caPL?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-09-01T09:43:26.125631+00:00",
+  "default_to_fiat": false,
+  "description": "What if all 10,000 punks were apes?\nNot affiliated with Larva Labs",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/nOtyTG-k0iMr61ixJga3Lz1QjfByutTzh6JXGO9gLO4Ylto8V7HHftSLm2q7xm5cmleVKojjFg3Dz4xqkSk-wwKIHdVUySUCvr_-XQ?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": null,
+  "medium_username": null,
+  "name": "APE PUNKS NFTS",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "apepunksnft",
+  "telegram_url": null,
+  "twitter_username": "apepunksnft",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xe93d5d9bc8a8ce62f8087152eaf22c9f6fa3016c": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

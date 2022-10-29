@@ -1,0 +1,38 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/U5FtZaDlHdeU-HInqdybJibKCWRlWlVTqSyKSKsU-9_lk6sn2KQGt4y7tmbwjGSFYb-olVCrfzZTgDZ0uKDfDWWdxcbQcnd8npzE?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-09-23T17:32:33.675558+00:00",
+  "default_to_fiat": false,
+  "description": "a mineable NFT. randomly generated. difficulty increases as more get minted. stored 100% on-chain. not affiliated with larvalabs.",
+  "discord_url": "https://discord.gg/EVquaxg9WA",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "http://mpunks.org",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/hQqSI5pwBqzQ0b2E1hmHyKy7ZQMKQn0LbPo3v2_wRMXJHdqkPCAioILHWDTsSPY7Kict0spLoPXuV5PMfp10ssPpQiDRInsxMAaStQ?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/V2BZiBggsYYsOSrqW0Jx94pxALGZLYajG0Ac9vVBnJl-BaShs4bisK5iOz33vcl0JN_xGmgDM-OXjRgoRyyR1jJ17zUU00POAxu_pAY?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/hQqSI5pwBqzQ0b2E1hmHyKy7ZQMKQn0LbPo3v2_wRMXJHdqkPCAioILHWDTsSPY7Kict0spLoPXuV5PMfp10ssPpQiDRInsxMAaStQ?w=500&auto=format",
+  "medium_username": null,
+  "name": "MineablePunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "mineablepunks",
+  "telegram_url": null,
+  "twitter_username": "mineable_nft",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

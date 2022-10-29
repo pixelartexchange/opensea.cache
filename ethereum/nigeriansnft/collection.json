@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/e6d95535ff16b24561ae9ad32c508aa3.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-07-23T21:42:41.392509+00:00",
+  "default_to_fiat": false,
+  "description": "We a' de Nigerian NFT. We want ev'yone to become ajebutter! 5555 nigerians on eth #MAXBRUDDA",
+  "discord_url": "https://discord.gg/nigeriansnft",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://www.nigeriansnft.com/",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/fad3556368edc9a0514ed8ca4fdcd60e.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/e79d70b10e590a69a792db28ac61d36b.gif?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/fad3556368edc9a0514ed8ca4fdcd60e.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "The Official Nigerians NFT",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "nigeriansnft",
+  "telegram_url": null,
+  "twitter_username": "NigeriansNFT",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xd426776ffd3dc3ec965bf5ee748a7bc41fc163f5": 850
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xe90c10611d3ea7539f76913d112db579aae839e6",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-07-20T07:01:12.357830",
+    "name": "The Indians NFT",
+    "nft_version": null,
+    "opensea_version": null,
+    "owner": 455434189,
+    "schema_name": "ERC721",
+    "symbol": "TI",
+    "total_supply": "0",
+    "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+    "external_link": "http://theindiansnft.com/publicmint/",
+    "image_url": "https://i.seadn.io/gcs/files/03c47aa387697c09ffc7ffcda80f25ed.gif?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

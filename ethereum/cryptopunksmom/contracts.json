@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x2b634b336531424826e6000af3c54a7d821b49d3",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-05-03T23:04:49.304769",
+    "name": "CryptoPunksMom",
+    "nft_version": null,
+    "opensea_version": null,
+    "owner": 271227590,
+    "schema_name": "ERC721",
+    "symbol": "MOM",
+    "total_supply": "0",
+    "description": "A PFP project in honor of our mothers 💝 l Free Mint Is Live\n\nCreate a punk version of your mother for free on our website [CryptoPunksMom](https://www.mintables.club/m/cryptopunksmom)",
+    "external_link": "https://www.mintables.club/m/cryptopunksmom",
+    "image_url": "https://i.seadn.io/gae/2ll9BF-CX8eONeCj6YImP8ktd0GV4bbLSFcQPWzswWm6h5y-hBFLI0I5d5mBuwd3aY-f9m3mUHso_2pXmbel1qrxhfffl36qU454AUo?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

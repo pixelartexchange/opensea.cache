@@ -1,0 +1,124 @@
+{
+  "base": {
+    "female 3": 146,
+    "male 4": 285,
+    "zombie": 41,
+    "male 2": 229,
+    "male 3": 207,
+    "female 4": 186,
+    "male 1": 254,
+    "female 1": 131,
+    "female 2": 140,
+    "alien": 5,
+    "ape": 11
+  },
+  "lips": {
+    "purple lipstick": 121,
+    "hot lipstick": 109,
+    "black lipstick": 90
+  },
+  "face": {
+    "rosy cheeks": 40,
+    "mole": 159,
+    "spots": 29
+  },
+  "ear": {
+    "earring": 454
+  },
+  "head": {
+    "tassle hat": 32,
+    "cap": 59,
+    "hoodie": 55,
+    "shaved head": 48,
+    "wild white hair": 21,
+    "frumpy hair": 82,
+    "stringy hair": 85,
+    "wild blonde": 25,
+    "purple hair": 33,
+    "mohawk": 67,
+    "peak spike": 44,
+    "bandana": 68,
+    "clown hair green": 30,
+    "wild hair": 68,
+    "mohawk dark": 63,
+    "straight hair blonde": 28,
+    "top hat": 30,
+    "messy hair": 82,
+    "knitted cap": 66,
+    "headband": 64,
+    "pilot helmet": 13,
+    "dark hair": 19,
+    "cowboy hat": 24,
+    "do-rag": 46,
+    "crazy hair": 64,
+    "pigtails": 11,
+    "vampire hair": 27,
+    "orange side": 13,
+    "half shaved": 25,
+    "mohawk thin": 73,
+    "fedora": 25,
+    "straight hair": 25,
+    "red mohawk": 17,
+    "police cap": 29,
+    "straight hair dark": 19,
+    "cap forward": 40,
+    "tiara": 10,
+    "blonde bob": 18,
+    "blonde short": 14,
+    "beanie": 8,
+    "pink with hat": 16
+  },
+  "mouth": {
+    "medical mask": 38,
+    "cigarette": 198,
+    "pipe": 85,
+    "vape": 62
+  },
+  "eyes": {
+    "blue eye shadow": 55,
+    "3d glasses": 70,
+    "big shades": 79,
+    "clown eyes blue": 85,
+    "eye patch": 84,
+    "eye mask": 72,
+    "horned rim glasses": 100,
+    "regular shades": 98,
+    "clown eyes green": 67,
+    "small shades": 87,
+    "classic shades": 87,
+    "vr": 79,
+    "nerd glasses": 104,
+    "purple eye shadow": 38,
+    "green eye shadow": 56,
+    "welding goggles": 14
+  },
+  "beard": {
+    "normal beard black": 59,
+    "shadow beard": 104,
+    "luxurious beard": 60,
+    "normal beard": 61,
+    "goat": 75,
+    "mustache": 52,
+    "handlebars": 50,
+    "front beard dark": 51,
+    "big beard": 29,
+    "muttonchops": 74,
+    "chinstrap": 50,
+    "front beard": 47
+  },
+  "neck": {
+    "silver chain": 42,
+    "gold chain": 54,
+    "choker": 12
+  },
+  "emotion": {
+    "frown": 36,
+    "smile": 50
+  },
+  "teeth": {
+    "buck teeth": 29
+  },
+  "nose": {
+    "clown nose": 44
+  }
+}

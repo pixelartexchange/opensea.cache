@@ -1,0 +1,58 @@
+{
+  "CryptoPunk #": {
+    "min": 103,
+    "max": 9998
+  },
+  "# Traits": {
+    "min": 3,
+    "max": 7
+  },
+  "Accessory": {
+    "big beard": 2,
+    "big shades": 1,
+    "black lipstick": 5,
+    "buck teeth": 1,
+    "chinstrap": 2,
+    "cigarette": 3,
+    "classic shades": 4,
+    "clown eyes blue": 5,
+    "clown eyes green": 9,
+    "clown eyes purple": 4,
+    "clown hair blue": 7,
+    "clown hair green": 8,
+    "clown hair pink": 6,
+    "clown hair purple": 5,
+    "clown hair red": 6,
+    "clown nose": 15,
+    "clown nose blue": 11,
+    "clown nose green": 5,
+    "earring": 9,
+    "eye patch": 1,
+    "goat": 3,
+    "handlebars": 1,
+    "hot lipstick": 1,
+    "luxurious beard": 1,
+    "medical mask": 1,
+    "mole": 1,
+    "mustache": 2,
+    "nerd glasses": 2,
+    "normal beard black": 1,
+    "purple lipstick": 1,
+    "regular shades": 3,
+    "shadow beard": 1,
+    "small shades": 2,
+    "smile": 1,
+    "spots": 1,
+    "vr": 1
+  },
+  "Type": {
+    "female 1": 5,
+    "female 2": 3,
+    "female 3": 3,
+    "female 4": 1,
+    "male 1": 4,
+    "male 2": 9,
+    "male 3": 6,
+    "male 4": 1
+  }
+}

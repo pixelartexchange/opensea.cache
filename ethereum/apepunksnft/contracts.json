@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x97f2eed9a7d3edbbca56120ed26795a5467f57fc",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2021-09-01T09:34:44.795046",
+    "name": "ApePunks",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 72900628,
+    "schema_name": "ERC721",
+    "symbol": "APEK",
+    "total_supply": "0",
+    "description": "What if all 10,000 punks were apes?\nNot affiliated with Larva Labs",
+    "external_link": null,
+    "image_url": "https://i.seadn.io/gae/nOtyTG-k0iMr61ixJga3Lz1QjfByutTzh6JXGO9gLO4Ylto8V7HHftSLm2q7xm5cmleVKojjFg3Dz4xqkSk-wwKIHdVUySUCvr_-XQ?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

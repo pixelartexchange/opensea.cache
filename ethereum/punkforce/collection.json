@@ -1,0 +1,38 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/6cxSoUryQnKCMlm4ETiDt4Z-N8y0y6D82r_4uRw7iFrgQ-4m_yrQcMBAcI5tU7x9tduXAvWcfDPkwzrqTRUHGFEgVeLC8HbImit_HRI?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-01-26T22:00:43.918621+00:00",
+  "default_to_fiat": false,
+  "description": "Public Domain, Free Mint  27-01-2022, IPFS\n\nPunkForce is a Cyber-Fantasy themed CryptoPunks derivative PFP collection on the Ethereum blockchain, hosted on IPFS,  minted for free, and published in the Public Domain.\n\nCollection is programmatically generated using various traits created in 24px and the contract is deployed using Factoria.app. The contract is set at 0% royalties.\n\nPlease note this collection is in no way affiliated with Larva Labs.\n\ntwitter.com/TheSkullCat\n",
+  "discord_url": "https://discord.gg/zkF64t4szj",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://thepunkforce.com/",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/vu0IsX2OYLnHF5zJIpasSKZm7o5quQBaVno0sVJnwdIcP1BXVIc0VAPPn8x748jMSVcXXjgdV7_tHvJ4UnVkEIBFLjtR4KuFTs0vpA?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/doelBTf8mjZ6MOz1yPrgkIBbliZhetWIwdv3Wp15QvJSFb8sZ6OeuAwGhISEdQ9-nOG6QcuFdXLDcktmO2EVQr8O7ADxFKGZdJl2FQ?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/vu0IsX2OYLnHF5zJIpasSKZm7o5quQBaVno0sVJnwdIcP1BXVIc0VAPPn8x748jMSVcXXjgdV7_tHvJ4UnVkEIBFLjtR4KuFTs0vpA?w=500&auto=format",
+  "medium_username": null,
+  "name": "PunkForce",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "punkforce",
+  "telegram_url": "https://t.me/ThePunkForce",
+  "twitter_username": "ThePunkForce",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

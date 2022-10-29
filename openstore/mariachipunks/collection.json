@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/MVpGXxgAyDDijGH8fSPlu16EmWewiIHQGtV8aI8kWCOLACUPGXHpJdHzEuH57T0uBtaJ9_P0z6nEbRge3FowcGmsldp-FzjEobnuAA?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-03-16T01:42:45.091177+00:00",
+  "default_to_fiat": false,
+  "description": "This an original collection of Mariachi Punks.\n\nThey have been out of work for over a year now.\n\nOnly 10 Mariachi Punks will ever be made.",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "https://mariachipunks.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/xOQFmQBrbfebuXVSqRtSB1g3GiBJETOF4i0VRLfUcIGlNSKVsCT03W7AWyRjZZ-SIXZ9rrQQUtYoWzSDDghzJEuuCHO6WqKeFCeQPw?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/RgX0qGarAIJWn4djcJn1mG_GvDxRhKaT80P6ph9QK7h8qY26V6GKMPsibnvHwsKULU7RM7eIoxSVP0__QVxWPr0qP7CDMCHpY-LQHQ?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/xOQFmQBrbfebuXVSqRtSB1g3GiBJETOF4i0VRLfUcIGlNSKVsCT03W7AWyRjZZ-SIXZ9rrQQUtYoWzSDDghzJEuuCHO6WqKeFCeQPw?w=500&auto=format",
+  "medium_username": null,
+  "name": "MariachiPunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "mariachipunks",
+  "telegram_url": null,
+  "twitter_username": "MariachiPunks",
+  "instagram_username": "mariachipunks",
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xfc3dc0b5d05b26143cb9c188fef7c8a74b3366f5": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

@@ -1,0 +1,135 @@
+{
+  "Attribute Count": {
+    "0": 2,
+    "1": 165,
+    "2": 3147,
+    "3": 4832,
+    "4": 1587,
+    "5": 243,
+    "6": 19,
+    "7": 4,
+    "8": 1
+  },
+  "Blemish": {
+    "mole": 766,
+    "rosy cheeks": 206,
+    "spots": 189
+  },
+  "Ear": {
+    "earring": 2212
+  },
+  "Eyes": {
+    "3d glasses": 270,
+    "big shades": 486,
+    "blue eye shadow": 420,
+    "classic shades": 508,
+    "clown eyes blue": 493,
+    "clown eyes green": 492,
+    "eye mask": 282,
+    "eye patch": 391,
+    "green eye shadow": 416,
+    "horned rim glasses": 495,
+    "nerd glasses": 526,
+    "purple eye shadow": 442,
+    "regular shades": 450,
+    "small shades": 336,
+    "vr": 333,
+    "welding goggles": 245
+  },
+  "Facial Hair": {
+    "big beard": 128,
+    "chinstrap": 201,
+    "front beard": 182,
+    "front beard dark": 180,
+    "goat": 182,
+    "handlebars": 197,
+    "luxurious beard": 198,
+    "mustache": 200,
+    "muttonchops": 210,
+    "normal beard": 172,
+    "normal beard black": 181,
+    "shadow beard": 291
+  },
+  "Hair": {
+    "bandana": 368,
+    "beanie": 85,
+    "blonde bob": 170,
+    "blonde short": 165,
+    "cap": 323,
+    "cap forward": 383,
+    "clown hair green": 182,
+    "cowboy hat": 202,
+    "crazy hair": 324,
+    "dark hair": 161,
+    "do-rag": 248,
+    "fedora": 315,
+    "frumpy hair": 305,
+    "half shaved": 153,
+    "headband": 370,
+    "hoodie": 312,
+    "knitted cap": 342,
+    "messy hair": 350,
+    "mohawk": 405,
+    "mohawk dark": 376,
+    "mohawk thin": 369,
+    "orange side": 139,
+    "peak spike": 216,
+    "pigtails": 119,
+    "pilot helmet": 67,
+    "pink with hat": 120,
+    "police cap": 238,
+    "purple hair": 154,
+    "red mohawk": 266,
+    "shaved head": 215,
+    "straight hair": 164,
+    "straight hair blonde": 153,
+    "straight hair dark": 141,
+    "stringy hair": 340,
+    "tassle hat": 236,
+    "tiara": 89,
+    "top hat": 173,
+    "vampire hair": 142,
+    "wild blonde": 194,
+    "wild hair": 301,
+    "wild white hair": 194
+  },
+  "Mouth": {
+    "black lipstick": 826,
+    "buck teeth": 293,
+    "frown": 416,
+    "hot lipstick": 936,
+    "purple lipstick": 946,
+    "smile": 403
+  },
+  "Mouth Prop": {
+    "cigarette": 1034,
+    "medical mask": 245,
+    "pipe": 394,
+    "vape": 402
+  },
+  "Neck Accessory": {
+    "choker": 173,
+    "gold chain": 238,
+    "silver chain": 200
+  },
+  "Nose": {
+    "clown nose": 313
+  },
+  "Skin Tone": {
+    "albino": 1158,
+    "alien": 10,
+    "ape": 23,
+    "dark": 2925,
+    "light": 2886,
+    "medium": 2902,
+    "zombie": 96
+  },
+  "Type": {
+    "alien": 10,
+    "ape": 23,
+    "female": 5932,
+    "male": 3725,
+    "non-binary (???)": 214,
+    "zombie": 96
+  }
+}

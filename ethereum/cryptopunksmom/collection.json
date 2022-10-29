@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/yGA-JDy8GbOOkqyD6-aGNtQM0KYSEq7yEp9fa4kC2U6eSEJhAr9mvn_PgYU_FYvurNtjcmbxeG9vrIBZAlSCEpycy0fKc8LgSIEo?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-05-04T12:46:12.066663+00:00",
+  "default_to_fiat": false,
+  "description": "A PFP project in honor of our mothers 💝 l Free Mint Is Live\n\nCreate a punk version of your mother for free on our website [CryptoPunksMom](https://www.mintables.club/m/cryptopunksmom)",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://www.mintables.club/m/cryptopunksmom",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/2ll9BF-CX8eONeCj6YImP8ktd0GV4bbLSFcQPWzswWm6h5y-hBFLI0I5d5mBuwd3aY-f9m3mUHso_2pXmbel1qrxhfffl36qU454AUo?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": null,
+  "medium_username": null,
+  "name": "CryptoPunksMom",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "cryptopunksmom",
+  "telegram_url": null,
+  "twitter_username": null,
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x85542278b8d8ce54a2f20803fd894b8a33757a20": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

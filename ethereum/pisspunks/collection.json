@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/mfT7T5BQDM_aUDrvFWN7MeNKf2vppv2yllD_3Ffknx5dFwrwzMo0WeeI7tuOX9T3IqvhzIlkmp67g53Kxp5xn475HxVBss7AHgrmIg?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-09-05T10:49:17.754133+00:00",
+  "default_to_fiat": false,
+  "description": "Piss Punks is a collection by Basis Coppola.\n\nDesigned to create a dialogue, to challenge the new and parody what are undoubtedly two of the most controversial artworks in modern art; Piss Christ and Punks.\n\nAfter all, what could be more punk, than drowning your Punks in Piss?\n\nFor more information [www.pisspunks.com](https://www.pisspunks.com) \n\nFollow [@BasisCoppola](https://www.twitter.com/BasisCoppola) on Twitter\n\nThis is part of the Maxon Bollocks project. Follow us on Twitter at [@MaxonBollocks](https://www.twitter.com/MaxonBollocks)\n\n**Disclaimer: This work has no association with Larva Labs or Andres Serrano the artist behind \"Piss Christ\"**",
+  "discord_url": "https://discord.gg/aGF3kf8BS4",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "http://pisspunks.com",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/wQXjz14uWc2P9b1OtM1MIX21UzsVTYRtDMoLPlM5bYOQe5-5t1q4xYSPnCvkjdnYXKsMVSyqxh-LNK6yTlNs2j9mAPw1ZPGptA0l?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": null,
+  "medium_username": null,
+  "name": "PissPunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "pisspunks",
+  "telegram_url": null,
+  "twitter_username": "BasisCoppola",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x83e6078409429b7d25f04015d920a499f944f5c5": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

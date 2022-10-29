@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x595a8974c1473717c4b5d456350cd594d9bda687",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2021-09-23T17:32:29.901331",
+    "name": "MineablePunks",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 87933123,
+    "schema_name": "ERC721",
+    "symbol": "MPUNKS",
+    "total_supply": null,
+    "description": "a mineable NFT. randomly generated. difficulty increases as more get minted. stored 100% on-chain. not affiliated with larvalabs.",
+    "external_link": "http://mpunks.org",
+    "image_url": "https://i.seadn.io/gae/V2BZiBggsYYsOSrqW0Jx94pxALGZLYajG0Ac9vVBnJl-BaShs4bisK5iOz33vcl0JN_xGmgDM-OXjRgoRyyR1jJ17zUU00POAxu_pAY?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "Father": {
+    "min": 1463,
+    "max": 10006
+  },
+  "Generation": {
+    "min": 1,
+    "max": 2
+  },
+  "Mother": {
+    "min": 103,
+    "max": 10008
+  },
+  "# Traits": {
+    "min": 2,
+    "max": 6
+  },
+  "Accessory": {
+    "black lipstick": 1,
+    "cap": 1,
+    "chinstrap": 1,
+    "cigarette": 6,
+    "classic shades": 1,
+    "clown eyes blue": 2,
+    "clown hair green": 2,
+    "earring": 12,
+    "eye patch": 5,
+    "fedora": 2,
+    "front beard": 1,
+    "front beard dark": 3,
+    "frown": 1,
+    "green eye shadow": 1,
+    "headband": 5,
+    "hoodie": 1,
+    "horned rim glasses": 3,
+    "hot lipstick": 7,
+    "knitted cap": 1,
+    "mohawk thin": 2,
+    "mole": 5,
+    "mustache": 3,
+    "nerd glasses": 1,
+    "peak spike": 2,
+    "pigtails": 3,
+    "regular shades": 4,
+    "shadow beard": 1,
+    "silver chain": 1,
+    "small shades": 1,
+    "spots": 2,
+    "welding goggles": 1
+  },
+  "Type": {
+    "female 1": 5,
+    "female 2": 2,
+    "female 3": 3,
+    "male 1": 5,
+    "male 2": 3,
+    "male 3": 3
+  }
+}

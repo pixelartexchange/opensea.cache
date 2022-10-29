@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/DrCSd3JDwjM0KbCMPsZCGmD-qSu1LXOu7jfJcins-WHLfiiKP4aDxPYdr49SatDdLUqRSnGqxI_QGXfoh8_-eG4q5TlxD1ZhM0kTSQ?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-10-16T08:30:18.000663+00:00",
+  "default_to_fiat": false,
+  "description": "HivePunks are 10,000 slightly distorted hexagonal inhabitants of the Ethereum blockchain.\n\nEach HivePunk is unique and has the exact same traits as their CryptoPunk twin - pseudo-randomly picked at the time of minting. All metadata and images are fully generated and stored on-chain (no IPFS, no secret reveal).\n\nCost to mint is 0.02E + gas (max 10 per transaction). 10% of proceeds donated to GiveDirectly.org in contract.\n\nInspired by Larva Labs (not affiliated).",
+  "discord_url": "https://discord.gg/t5V6mkZqva",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "https://etherscan.io/address/0x887ec3a5419d2836de4b13cedf34ac3ed3ec1442#writeContract",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/5xYqiJvyeXXW9Dv1sdmZeOganUR1YvfSxUJPuNNT9SqdTfUCsbNR_njf_YZpN1xsoWGVerNs8jGumt452xcUSwMcHgpn2UYFI040fw?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/MmTlRcBOV72PDf_4LVD94KTe1AsZ0yVGJq2cKwZ9F3rukHimsa7y1ZBfFJolaIFuQPp3szp2u5SNKvTu16MoH5tyQdLTtkyvXBtZRQ?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/5xYqiJvyeXXW9Dv1sdmZeOganUR1YvfSxUJPuNNT9SqdTfUCsbNR_njf_YZpN1xsoWGVerNs8jGumt452xcUSwMcHgpn2UYFI040fw?w=500&auto=format",
+  "medium_username": null,
+  "name": "HivePunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "hivepunks",
+  "telegram_url": null,
+  "twitter_username": "lostpunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xa2a5ff5e94bda082a97ff9b049358eee5f6fd18e": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

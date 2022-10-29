@@ -22,7 +22,6 @@ report = Opensea::TimelineCollectionsReport.new( './openstore' )
 report.save( './openstore/README.md' )
 
 
-__END__
 
 
 

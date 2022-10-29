@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/za5Fo8Ha4ltc0Z_SLfZ_71TzOo9eA4b_hn7LTQiEYfVe1IdK5E9QK_HfwBz8a4-qsCqJk69KVQ7ZEzIlMA78U7Wt8j1pqt349-KFUw?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-04-27T16:08:44.734706+00:00",
+  "default_to_fiat": false,
+  "description": "GoblinPunks are a digital art project on the Ethereum Blockchain paying homage to the two most pre-eminent cultural trends of our time; punks and goblins. GoblinPunks are uniquely generated characters; no  two are exactly alike, and only 100 GoblinPunks will ever be created.",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "padded"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/DIwCmVMM2aeAmct000jB87_LVyKTomENvkapkSM2M5d4oMnCFiP9LM49sSf6WCegW4dse7Ua-8GzgKSMe2hmwKSPBhcXWnGhNrSV?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": null,
+  "medium_username": null,
+  "name": "Goblin Punks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "goblin-punks",
+  "telegram_url": null,
+  "twitter_username": "Gossip_Goblin",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xbdd85048cb3633c7997e4f06bdb932312dce99b3": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}
