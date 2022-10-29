@@ -1,6 +1,40 @@
 # Timeline Collections
 
 
+
+## 2022
+
+
+
+**January** - [935 GhozaliPunk](https://opensea.io/collection/ghozalipunk) • [120 High Effort Punks](https://opensea.io/collection/high-effort-punks) • [300 Punk of the Day](https://opensea.io/collection/punkoftheday)
+
+## 2021
+
+
+
+**December** - [61 CryptoMasterpiecez](https://opensea.io/collection/cryptomasterpiecez)
+
+**November** - [39 Afro-Punks #](https://opensea.io/collection/beautiful-female-punks)
+
+**October** - [61 PixelGalsNFT](https://opensea.io/collection/pixel-gals) • [600 DubaiPeeps](https://opensea.io/collection/dubaipeeps) • [1000 Blocky Doge: Guilds](https://opensea.io/collection/blockydogeguilds) • [100 Goodbye Punks](https://opensea.io/collection/goodbye-punks)
+
+**September** - [100 Blocky Doge](https://opensea.io/collection/blockydoge) • [35 Athletes 101](https://opensea.io/collection/athletes-101) • [6629 CryptoLuxuryPunks](https://opensea.io/collection/cryptoluxurypunks) • [90 The Crypto Genius](https://opensea.io/collection/thecryptogenius)
+
+**August** - [176 HistoPunks](https://opensea.io/collection/histopunks) • [9900 weape24](https://opensea.io/collection/weape24) • [999 MonkePunks](https://opensea.io/collection/monkepunks) • [454 Figure Punks](https://opensea.io/collection/figurepunks) • [500 YoutubePunks](https://opensea.io/collection/youtubepunks) • [2386 OnlyPunks NFT](https://opensea.io/collection/onlypunksnft) • [9893 24px](https://opensea.io/collection/24px)
+
+**July** - [362 CinePunks](https://opensea.io/collection/cinepunkss) • [195 Mafia Punks Club](https://opensea.io/collection/mafia-punks-club) • [998 CryptoFrontPunks](https://opensea.io/collection/frontphunks)
+
+**June** - [150 DogePunks.](https://opensea.io/collection/dogepunks-collection)
+
+**May** - [982 KimonoNinjaPunks](https://opensea.io/collection/kimono-punks)
+
+**April** - [517 Clout Punks](https://opensea.io/collection/clout-punks) • [1012 MorePunks](https://opensea.io/collection/morepunks)
+
+**March** - [100 PixelMeows](https://opensea.io/collection/pixelmeows) • [932 CryptoGreats](https://opensea.io/collection/cryptogreats) • [232 ScifiPunks](https://opensea.io/collection/scifipunks) • [34 Genius Punks](https://opensea.io/collection/genius-punks) • [997 The Pixel Portraits OG Collection](https://opensea.io/collection/the-pixel-portraits-og)
+
+**February** - [147 B&W Punks](https://opensea.io/collection/bwpunks) • [999 Anime Punks](https://opensea.io/collection/anime-punks) • [99 Unofficial Punks](https://opensea.io/collection/unofficialpunks)
+
+
 ## 2022
 
 **January**
