@@ -7,20 +7,23 @@
 $LOAD_PATH.unshift( "../../pixelart/artbase/artbase-opensea/lib" )
 require 'artbase-opensea'
 
-report = Opensea::TimelineCollectionsReport.new( './ethereum' )
+report = Opensea::CollectionsDataset.new( './ethereum' )
 report.export( './ethereum/collections.csv' )
 
-report = Opensea::TimelineCollectionsReport.new( './openstore' )
+report = Opensea::CollectionsDataset.new( './openstore' )
 report.export( './openstore/collections.csv' )
 
 
-__END__
 
 report = Opensea::TimelineCollectionsReport.new( './ethereum' )
 report.save( './ethereum/README.md' )
 
 report = Opensea::TimelineCollectionsReport.new( './openstore' )
 report.save( './openstore/README.md' )
+
+
+__END__
+
 
 
 report = Opensea::CollectionsReport.new( './ethereum' )

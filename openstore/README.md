@@ -1,37 +1,77 @@
 # Timeline Collections
 
+
+## 2022
+
+**January**
+
 -  Jan 16, 2022 - **[935 GhozaliPunk, 10.0%](https://opensea.io/collection/ghozalipunk)** - 2 owner(s), 2 sale(s) -  Ξ0.002 (~ US$ 2.60)
 -  Jan 08, 2022 - **[120 High Effort Punks, 10.0%](https://opensea.io/collection/high-effort-punks)** - 1 owner(s)
--  Jan 05, 2022 - **[227 Punk of the Day, 10.0%](https://opensea.io/collection/punkoftheday)** - 18 owner(s), 28 sale(s) -  Ξ0.55 (~ US$ 713.18)
+-  Jan 05, 2022 - **[300 Punk of the Day, 10.0%](https://opensea.io/collection/punkoftheday)** - 18 owner(s), 28 sale(s) -  Ξ0.55 (~ US$ 713.18)
+
+## 2021
+
+**December**
+
 -  Dec 29, 2021 - **[61 CryptoMasterpiecez, 6.0%](https://opensea.io/collection/cryptomasterpiecez)** - 8 owner(s), 9 sale(s) -  Ξ0.10 (~ US$ 136.50)
--  Nov 28, 2021 - **[40 Afro-Punks #, -](https://opensea.io/collection/beautiful-female-punks)** - 2 owner(s), 1 sale(s) -  Ξ0.005 (~ US$ 6.50)
+
+**November**
+
+-  Nov 28, 2021 - **[39 Afro-Punks #, -](https://opensea.io/collection/beautiful-female-punks)** - 2 owner(s), 1 sale(s) -  Ξ0.005 (~ US$ 6.50)
+
+**October**
+
 -  Oct 30, 2021 - **[61 PixelGalsNFT, 3.0%](https://opensea.io/collection/pixel-gals)** - 1 owner(s)
 -  Oct 25, 2021 - **[600 DubaiPeeps, 10.0%](https://opensea.io/collection/dubaipeeps)** - 280 owner(s), 614 sale(s) -  Ξ73.56 (~ US$ 95629)
--  Oct 09, 2021 - **[1000 Blocky Doge: Guilds, 5.0%](https://opensea.io/collection/blockydogeguilds)** - 482 owner(s), 2265 sale(s) -  Ξ550.45 (~ US$ 715591)
+-  Oct 09, 2021 - **[1000 Blocky Doge: Guilds, 5.0%](https://opensea.io/collection/blockydogeguilds)** - 477 owner(s), 2273 sale(s) -  Ξ552.12 (~ US$ 717750)
 -  Oct 03, 2021 - **[100 Goodbye Punks, 10.0%](https://opensea.io/collection/goodbye-punks)** - 86 owner(s), 99 sale(s) -  Ξ14.52 (~ US$ 18877)
--  Sep 15, 2021 - **[100 Blocky Doge, 5.0%](https://opensea.io/collection/blockydoge)** - 82 owner(s), 244 sale(s) -  Ξ868.48 (~ US$ 1.1 million(s))
+
+**September**
+
+-  Sep 15, 2021 - **[100 Blocky Doge, 5.0%](https://opensea.io/collection/blockydoge)** - 80 owner(s), 246 sale(s) -  Ξ876.71 (~ US$ 1.1 million(s))
 -  Sep 11, 2021 - **[35 Athletes 101, 10.0%](https://opensea.io/collection/athletes-101)** - 3 owner(s)
 -  Sep 05, 2021 - **[6629 CryptoLuxuryPunks, 10.0%](https://opensea.io/collection/cryptoluxurypunks)** - 80 owner(s), 144 sale(s) -  Ξ2.30 (~ US$ 2996)
 -  Sep 02, 2021 - **[90 The Crypto Genius, 10.0%](https://opensea.io/collection/thecryptogenius)** - 42 owner(s), 69 sale(s) -  Ξ1.52 (~ US$ 1980)
--  Aug 29, 2021 - **[175 HistoPunks, 5.0%](https://opensea.io/collection/histopunks)** - 64 owner(s), 103 sale(s) -  Ξ12.76 (~ US$ 16594)
--  Aug 24, 2021 - **[9900 weape24, 2.5%](https://opensea.io/collection/weape24)** - 4093 owner(s), 20108 sale(s) -  Ξ937.67 (~ US$ 1.2 million(s))
--  Aug 21, 2021 - **[999 MonkePunks, 5.0%](https://opensea.io/collection/monkepunks)** - 600 owner(s), 1756 sale(s) -  Ξ136.55 (~ US$ 177513)
+
+**August**
+
+-  Aug 29, 2021 - **[176 HistoPunks, 5.0%](https://opensea.io/collection/histopunks)** - 65 owner(s), 105 sale(s) -  Ξ13.06 (~ US$ 16984)
+-  Aug 24, 2021 - **[9900 weape24, 2.5%](https://opensea.io/collection/weape24)** - 4093 owner(s), 20112 sale(s) -  Ξ937.67 (~ US$ 1.2 million(s))
+-  Aug 21, 2021 - **[999 MonkePunks, 5.0%](https://opensea.io/collection/monkepunks)** - 601 owner(s), 1756 sale(s) -  Ξ136.55 (~ US$ 177513)
 -  Aug 13, 2021 - **[454 Figure Punks, 10.0%](https://opensea.io/collection/figurepunks)** - 39 owner(s), 131 sale(s) -  Ξ3.18 (~ US$ 4140)
 -  Aug 11, 2021 - **[500 YoutubePunks, 10.0%](https://opensea.io/collection/youtubepunks)** - 227 owner(s), 410 sale(s) -  Ξ13.46 (~ US$ 17499)
--  Aug 10, 2021 - **[2386 OnlyPunks NFT, 10.0%](https://opensea.io/collection/onlypunksnft)** - 1032 owner(s), 3918 sale(s) -  Ξ230.81 (~ US$ 300050)
--  Aug 02, 2021 - **[9895 24px, 2.5%](https://opensea.io/collection/24px)** - 4225 owner(s), 28189 sale(s) -  Ξ3588.14 (~ US$ 4.7 million(s))
+-  Aug 10, 2021 - **[2386 OnlyPunks NFT, 10.0%](https://opensea.io/collection/onlypunksnft)** - 1033 owner(s), 3921 sale(s) -  Ξ232.01 (~ US$ 301618)
+-  Aug 02, 2021 - **[9893 24px, 2.5%](https://opensea.io/collection/24px)** - 4217 owner(s), 28219 sale(s) -  Ξ3588.11 (~ US$ 4.7 million(s))
+
+**July**
+
 -  Jul 31, 2021 - **[362 CinePunks, 2.5%](https://opensea.io/collection/cinepunkss)** - 115 owner(s), 230 sale(s) -  Ξ6.06 (~ US$ 7884)
 -  Jul 10, 2021 - **[195 Mafia Punks Club, 3.5%](https://opensea.io/collection/mafia-punks-club)** - 88 owner(s), 197 sale(s) -  Ξ4.46 (~ US$ 5792)
--  Jul 01, 2021 - **[1000 CryptoFrontPunks, 10.0%](https://opensea.io/collection/frontphunks)** - 185 owner(s), 478 sale(s) -  Ξ16.01 (~ US$ 20819)
--  Jun 15, 2021 - **[150 DogePunks., 10.0%](https://opensea.io/collection/dogepunks-collection)** - 69 owner(s), 220 sale(s) -  Ξ4.96 (~ US$ 6444)
--  May 23, 2021 - **[982 KimonoNinjaPunks, 10.0%](https://opensea.io/collection/kimono-punks)** - 445 owner(s), 1066 sale(s) -  Ξ28.70 (~ US$ 37315)
--  Apr 15, 2021 - **[518 Clout Punks, 8.0%](https://opensea.io/collection/clout-punks)** - 280 owner(s), 764 sale(s) -  Ξ85.50 (~ US$ 111147)
+-  Jul 01, 2021 - **[998 CryptoFrontPunks, 10.0%](https://opensea.io/collection/frontphunks)** - 184 owner(s), 478 sale(s) -  Ξ16.01 (~ US$ 20817)
+
+**June**
+
+-  Jun 15, 2021 - **[150 DogePunks., 10.0%](https://opensea.io/collection/dogepunks-collection)** - 69 owner(s), 221 sale(s) -  Ξ4.97 (~ US$ 6457)
+
+**May**
+
+-  May 23, 2021 - **[982 KimonoNinjaPunks, 10.0%](https://opensea.io/collection/kimono-punks)** - 447 owner(s), 1069 sale(s) -  Ξ28.79 (~ US$ 37428)
+
+**April**
+
+-  Apr 15, 2021 - **[517 Clout Punks, 8.0%](https://opensea.io/collection/clout-punks)** - 279 owner(s), 764 sale(s) -  Ξ85.52 (~ US$ 111182)
 -  Apr 03, 2021 - **[1012 MorePunks, 10.0%](https://opensea.io/collection/morepunks)** - 388 owner(s), 1712 sale(s) -  Ξ84.14 (~ US$ 109383)
+
+**March**
+
 -  Mar 29, 2021 - **[100 PixelMeows, 10.0%](https://opensea.io/collection/pixelmeows)** - 13 owner(s), 15 sale(s) -  Ξ0.14 (~ US$ 187.20)
--  Mar 18, 2021 - **[933 CryptoGreats, 10.0%](https://opensea.io/collection/cryptogreats)** - 137 owner(s), 617 sale(s) -  Ξ10.62 (~ US$ 13805)
+-  Mar 18, 2021 - **[932 CryptoGreats, 10.0%](https://opensea.io/collection/cryptogreats)** - 139 owner(s), 624 sale(s) -  Ξ10.71 (~ US$ 13922)
 -  Mar 16, 2021 - **[232 ScifiPunks, 10.0%](https://opensea.io/collection/scifipunks)** - 43 owner(s), 62 sale(s) -  Ξ9.94 (~ US$ 12928)
 -  Mar 15, 2021 - **[34 Genius Punks, 7.5%](https://opensea.io/collection/genius-punks)** - 11 owner(s), 28 sale(s) -  Ξ6.44 (~ US$ 8372)
--  Mar 07, 2021 - **[998 The Pixel Portraits OG Collection, 10.0%](https://opensea.io/collection/the-pixel-portraits-og)** - 548 owner(s), 1029 sale(s) -  Ξ104.36 (~ US$ 135667)
--  Feb 28, 2021 - **[149 B&W Punks, -](https://opensea.io/collection/bwpunks)** - 68 owner(s), 118 sale(s) -  Ξ56.28 (~ US$ 73164)
--  Feb 23, 2021 - **[1000 Anime Punks, 10.0%](https://opensea.io/collection/anime-punks)** - 342 owner(s), 950 sale(s) -  Ξ138.88 (~ US$ 180541)
--  Feb 21, 2021 - **[99 Unofficial Punks, 10.0%](https://opensea.io/collection/unofficialpunks)** - 82 owner(s), 167 sale(s) -  Ξ144.31 (~ US$ 187599)
+-  Mar 07, 2021 - **[997 The Pixel Portraits OG Collection, 10.0%](https://opensea.io/collection/the-pixel-portraits-og)** - 547 owner(s), 1030 sale(s) -  Ξ104.37 (~ US$ 135680)
+
+**February**
+
+-  Feb 28, 2021 - **[147 B&W Punks, -](https://opensea.io/collection/bwpunks)** - 67 owner(s), 118 sale(s) -  Ξ56.28 (~ US$ 73164)
+-  Feb 23, 2021 - **[999 Anime Punks, 10.0%](https://opensea.io/collection/anime-punks)** - 341 owner(s), 953 sale(s) -  Ξ139.21 (~ US$ 180978)
+-  Feb 21, 2021 - **[99 Unofficial Punks, 10.0%](https://opensea.io/collection/unofficialpunks)** - 82 owner(s), 167 sale(s) -  Ξ144.51 (~ US$ 187859)

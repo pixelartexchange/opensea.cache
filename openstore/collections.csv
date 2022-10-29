@@ -1,36 +1,36 @@
-slug, created, items, seller_fees, no. of owners, no. of sales, total sales in eth, contract(s), name
-ghozalipunk, Jan 16 2022, 935, 10.0%, 2, 2, 0.002, OPENSTORE, GhozaliPunk
-high-effort-punks, Jan 08 2022, 120, 10.0%, 1, 0, 0.0, OPENSTORE, High Effort Punks
-punkoftheday, Jan 05 2022, 300, 10.0%, 18, 28, 0.5485999999999999, OPENSTORE, Punk of the Day
-cryptomasterpiecez, Dec 29 2021, 61, 6.0%, 8, 9, 0.105, OPENSTORE, CryptoMasterpiecez
-beautiful-female-punks, Nov 28 2021, 39, -, 2, 1, 0.005, OPENSTORE, Afro-Punks #
-pixel-gals, Oct 30 2021, 61, 3.0%, 1, 0, 0.0, OPENSTORE, PixelGalsNFT
-dubaipeeps, Oct 25 2021, 600, 10.0%, 280, 614, 73.56110000000014, OPENSTORE, DubaiPeeps
-blockydogeguilds, Oct 09 2021, 1000, 5.0%, 477, 2273, 552.115250793989, OPENSTORE, Blocky Doge: Guilds
-goodbye-punks, Oct 03 2021, 100, 10.0%, 86, 99, 14.521, OPENSTORE, Goodbye Punks
-blockydoge, Sep 15 2021, 100, 5.0%, 80, 246, 876.7121000000002, OPENSTORE, Blocky Doge
-athletes-101, Sep 11 2021, 35, 10.0%, 3, 0, 0.0, OPENSTORE, Athletes 101
-cryptoluxurypunks, Sep 05 2021, 6629, 10.0%, 80, 144, 2.3050000000000006, OPENSTORE, CryptoLuxuryPunks
-thecryptogenius, Sep 02 2021, 90, 10.0%, 42, 69, 1.5230000000000006, OPENSTORE, The Crypto Genius
-histopunks, Aug 29 2021, 176, 5.0%, 65, 105, 13.065000000000007, OPENSTORE, HistoPunks
-weape24, Aug 24 2021, 9900, 2.5%, 4093, 20112, 937.6690320742771, OPENSTORE, weape24
-monkepunks, Aug 21 2021, 999, 5.0%, 601, 1756, 136.54836265998355, OPENSTORE, MonkePunks
-figurepunks, Aug 13 2021, 454, 10.0%, 39, 131, 3.1849599999989966, OPENSTORE, Figure Punks
-youtubepunks, Aug 11 2021, 500, 10.0%, 227, 410, 13.46069999999999, OPENSTORE, YoutubePunks
-onlypunksnft, Aug 10 2021, 2386, 10.0%, 1033, 3921, 232.01421805423232, OPENSTORE, OnlyPunks NFT
-24px, Aug 02 2021, 9893, 2.5%, 4217, 28219, 3588.111709730032, OPENSTORE, 24px
-cinepunkss, Jul 31 2021, 362, 2.5%, 115, 230, 6.064390343749978, OPENSTORE, CinePunks
-mafia-punks-club, Jul 10 2021, 195, 3.5%, 88, 197, 4.45529682870853, OPENSTORE, Mafia Punks Club
-frontphunks, Jul 01 2021, 998, 10.0%, 184, 478, 16.013399, OPENSTORE, CryptoFrontPunks
-dogepunks-collection, Jun 15 2021, 150, 10.0%, 69, 221, 4.966900000000001, OPENSTORE, DogePunks.
-kimono-punks, May 23 2021, 982, 10.0%, 447, 1069, 28.79079899999994, OPENSTORE, KimonoNinjaPunks
-clout-punks, Apr 15 2021, 517, 8.0%, 279, 764, 85.52442847900001, OPENSTORE, Clout Punks
-morepunks, Apr 03 2021, 1012, 10.0%, 388, 1712, 84.14095066491939, OPENSTORE, MorePunks
-pixelmeows, Mar 29 2021, 100, 10.0%, 13, 15, 0.144, OPENSTORE, PixelMeows
-cryptogreats, Mar 18 2021, 932, 10.0%, 139, 624, 10.709299999999883, OPENSTORE, CryptoGreats
-scifipunks, Mar 16 2021, 232, 10.0%, 43, 62, 9.945000000000006, OPENSTORE, ScifiPunks
-genius-punks, Mar 15 2021, 34, 7.5%, 11, 28, 6.44, OPENSTORE, Genius Punks
-the-pixel-portraits-og, Mar 07 2021, 997, 10.0%, 547, 1030, 104.36895889719978, OPENSTORE, The Pixel Portraits OG Collection
-bwpunks, Feb 28 2021, 147, -, 67, 118, 56.279999999999845, OPENSTORE, B&W Punks
-anime-punks, Feb 23 2021, 999, 10.0%, 341, 953, 139.21378087424918, OPENSTORE, Anime Punks
-unofficialpunks, Feb 21 2021, 99, 10.0%, 82, 167, 144.5073, OPENSTORE, Unofficial Punks
+slug, created, items, seller fee, no. of owners, no. of sales, total sales, contract(s), name
+ghozalipunk, Jan 16 2022, 935, 10.0%, 2, 2, 0 ETH, OPENSTORE, GhozaliPunk
+high-effort-punks, Jan 08 2022, 120, 10.0%, 1, 0, 0 ETH, OPENSTORE, High Effort Punks
+punkoftheday, Jan 05 2022, 300, 10.0%, 18, 28, 1 ETH, OPENSTORE, Punk of the Day
+cryptomasterpiecez, Dec 29 2021, 61, 6.0%, 8, 9, 0 ETH, OPENSTORE, CryptoMasterpiecez
+beautiful-female-punks, Nov 28 2021, 39, -, 2, 1, 0 ETH, OPENSTORE, Afro-Punks #
+pixel-gals, Oct 30 2021, 61, 3.0%, 1, 0, 0 ETH, OPENSTORE, PixelGalsNFT
+dubaipeeps, Oct 25 2021, 600, 10.0%, 280, 614, 74 ETH, OPENSTORE, DubaiPeeps
+blockydogeguilds, Oct 09 2021, 1000, 5.0%, 477, 2273, 552 ETH, OPENSTORE, Blocky Doge: Guilds
+goodbye-punks, Oct 03 2021, 100, 10.0%, 86, 99, 15 ETH, OPENSTORE, Goodbye Punks
+blockydoge, Sep 15 2021, 100, 5.0%, 80, 246, 877 ETH, OPENSTORE, Blocky Doge
+athletes-101, Sep 11 2021, 35, 10.0%, 3, 0, 0 ETH, OPENSTORE, Athletes 101
+cryptoluxurypunks, Sep 05 2021, 6629, 10.0%, 80, 144, 2 ETH, OPENSTORE, CryptoLuxuryPunks
+thecryptogenius, Sep 02 2021, 90, 10.0%, 42, 69, 2 ETH, OPENSTORE, The Crypto Genius
+histopunks, Aug 29 2021, 176, 5.0%, 65, 105, 13 ETH, OPENSTORE, HistoPunks
+weape24, Aug 24 2021, 9900, 2.5%, 4093, 20112, 938 ETH, OPENSTORE, weape24
+monkepunks, Aug 21 2021, 999, 5.0%, 601, 1756, 137 ETH, OPENSTORE, MonkePunks
+figurepunks, Aug 13 2021, 454, 10.0%, 39, 131, 3 ETH, OPENSTORE, Figure Punks
+youtubepunks, Aug 11 2021, 500, 10.0%, 227, 410, 13 ETH, OPENSTORE, YoutubePunks
+onlypunksnft, Aug 10 2021, 2386, 10.0%, 1033, 3921, 232 ETH, OPENSTORE, OnlyPunks NFT
+24px, Aug 02 2021, 9893, 2.5%, 4217, 28219, 3588 ETH, OPENSTORE, 24px
+cinepunkss, Jul 31 2021, 362, 2.5%, 115, 230, 6 ETH, OPENSTORE, CinePunks
+mafia-punks-club, Jul 10 2021, 195, 3.5%, 88, 197, 4 ETH, OPENSTORE, Mafia Punks Club
+frontphunks, Jul 01 2021, 998, 10.0%, 184, 478, 16 ETH, OPENSTORE, CryptoFrontPunks
+dogepunks-collection, Jun 15 2021, 150, 10.0%, 69, 221, 5 ETH, OPENSTORE, DogePunks.
+kimono-punks, May 23 2021, 982, 10.0%, 447, 1069, 29 ETH, OPENSTORE, KimonoNinjaPunks
+clout-punks, Apr 15 2021, 517, 8.0%, 279, 764, 86 ETH, OPENSTORE, Clout Punks
+morepunks, Apr 03 2021, 1012, 10.0%, 388, 1712, 84 ETH, OPENSTORE, MorePunks
+pixelmeows, Mar 29 2021, 100, 10.0%, 13, 15, 0 ETH, OPENSTORE, PixelMeows
+cryptogreats, Mar 18 2021, 932, 10.0%, 139, 624, 11 ETH, OPENSTORE, CryptoGreats
+scifipunks, Mar 16 2021, 232, 10.0%, 43, 62, 10 ETH, OPENSTORE, ScifiPunks
+genius-punks, Mar 15 2021, 34, 7.5%, 11, 28, 6 ETH, OPENSTORE, Genius Punks
+the-pixel-portraits-og, Mar 07 2021, 997, 10.0%, 547, 1030, 104 ETH, OPENSTORE, The Pixel Portraits OG Collection
+bwpunks, Feb 28 2021, 147, -, 67, 118, 56 ETH, OPENSTORE, B&W Punks
+anime-punks, Feb 23 2021, 999, 10.0%, 341, 953, 139 ETH, OPENSTORE, Anime Punks
+unofficialpunks, Feb 21 2021, 99, 10.0%, 82, 167, 145 ETH, OPENSTORE, Unofficial Punks
