@@ -1,0 +1,10 @@
+{
+  "slug": "reggaetonpunks",
+  "count": 100,
+  "token_base": "opensea",
+  "format": "24x24",
+  "source": "512x512",
+  "offset": 1,
+  "opensea": "reggaetonpunks",
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/reggaetonpunks/collection.yml"
+}

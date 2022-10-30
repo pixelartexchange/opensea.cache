@@ -1,0 +1,16 @@
+{
+  "slug": "covidpunks",
+  "count": 10000,
+  "token_base": "https://gateway.pinata.cloud/ipfs/QmbbPdpdob4Hh5Dj7csBg7tYZMR27fgKjYPEy7zHhATpv5/{id}.json",
+  "format": "24x24",
+  "source": "480x480",
+  "web": "https://covidpunks.com",
+  "opensea": "covidpunksnft",
+  "token": {
+    "contract": "0xe4cfae3aa41115cb94cff39bb5dbae8bd0ea9d41",
+    "name": "COVIDPunks",
+    "symbol": "PUNK-19",
+    "created": "???"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/covidpunks/collection.yml"
+}

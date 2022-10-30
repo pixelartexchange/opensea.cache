@@ -1,0 +1,17 @@
+{
+  "slug": "apepunks",
+  "count": 1868,
+  "token_base": "https://api.apepunks.io/punk/{id}",
+  "image_base": "https://api.apepunks.io/punk/image/{id}",
+  "format": "24x24",
+  "source": "1200x1200",
+  "offset": 1,
+  "opensea": "apepunksnft",
+  "token": {
+    "contract": "0x97f2eed9a7d3edbbca56120ed26795a5467f57fc",
+    "name": "ApePunks",
+    "symbol": "APEK",
+    "created": "???"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/apepunks/collection.yml"
+}

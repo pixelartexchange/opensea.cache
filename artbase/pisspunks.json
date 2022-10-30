@@ -1,0 +1,13 @@
+{
+  "slug": "pisspunks",
+  "count": 9999,
+  "token_base": "https://psspnks-basiscoppola.s3.us-west-1.amazonaws.com/x/{id}",
+  "image_base": "https://psspnks-basiscoppola.s3.us-west-1.amazonaws.com/pi/{id}.png",
+  "format": "25x25",
+  "source": "350x350",
+  "opensea": "pisspunks",
+  "token": {
+    "contract": "0x164915306034939e89667ba04d400a6a19b820a1"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/pisspunks/collection.yml"
+}

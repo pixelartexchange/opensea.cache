@@ -1,0 +1,17 @@
+{
+  "slug": "thenigerians",
+  "count": 5555,
+  "token_base": "ipfs://QmQyT2thbpCrBNrnsTbLVyQUsUoMsdVmyJM4sr4QXrt8oc/{id}.json",
+  "image_base": "ipfs://QmPKQ4QqaqKXJzgRvJiXQmTxCMPWq5N7jrRmwYmgzzUgoC/{id}.png",
+  "format": "24x24",
+  "source": [
+    "512x512",
+    "576x576"
+  ],
+  "offset": 1,
+  "opensea": "nigeriansnft",
+  "token": {
+    "contract": "0x9f35425c2ef3616dd024d866082e0b61023fbfe1"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/thenigerians/collection.yml"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "philip-phunks",
+  "count": 100,
+  "token_base": "tobedone",
+  "format": "24x24",
+  "source": "512x512",
+  "offset": 1,
+  "opensea": "philip-phunks",
+  "token": {
+    "contract": "0xa3915c387ccebfd451343a7768e3c2cfb6fdad48"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/philip-phunks/collection.yml"
+}
