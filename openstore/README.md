@@ -30,9 +30,9 @@
 
 **May** - [982 KimonoNinjaPunks](https://opensea.io/collection/kimono-punks)
 
-**April** - [99 Goblin Punks](https://opensea.io/collection/goblin-punks) • [517 Clout Punks](https://opensea.io/collection/clout-punks) • [1012 MorePunks](https://opensea.io/collection/morepunks)
+**April** - [99 Goblin Punks](https://opensea.io/collection/goblin-punks) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/goblin-punks-strip.png) • [517 Clout Punks](https://opensea.io/collection/clout-punks) • [1012 MorePunks](https://opensea.io/collection/morepunks)
 
-**March** - [100 PixelMeows](https://opensea.io/collection/pixelmeows) • [4995 EtherBears](https://opensea.io/collection/etherbears) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/bears-strip.png) • [932 CryptoGreats](https://opensea.io/collection/cryptogreats) • [100 ReggaetonPunks](https://opensea.io/collection/reggaetonpunks) • [232 ScifiPunks](https://opensea.io/collection/scifipunks) • [10 MariachiPunks](https://opensea.io/collection/mariachipunks) • [34 Genius Punks](https://opensea.io/collection/genius-punks) • [997 The Pixel Portraits OG Collection](https://opensea.io/collection/the-pixel-portraits-og)
+**March** - [100 PixelMeows](https://opensea.io/collection/pixelmeows) • [4995 EtherBears](https://opensea.io/collection/etherbears) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/bears-strip.png) • [932 CryptoGreats](https://opensea.io/collection/cryptogreats) • [100 ReggaetonPunks](https://opensea.io/collection/reggaetonpunks) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/reggaetonpunks-strip.png) • [232 ScifiPunks](https://opensea.io/collection/scifipunks) • [10 MariachiPunks](https://opensea.io/collection/mariachipunks) • [34 Genius Punks](https://opensea.io/collection/genius-punks) • [997 The Pixel Portraits OG Collection](https://opensea.io/collection/the-pixel-portraits-og)
 
 **February** - [147 B&W Punks](https://opensea.io/collection/bwpunks) • [999 Anime Punks](https://opensea.io/collection/anime-punks) • [99 Unofficial Punks](https://opensea.io/collection/unofficialpunks)
 
@@ -100,16 +100,16 @@
 
 **April**
 
--  Apr 27, 2021 - **[99 Goblin Punks, 10.0%](https://opensea.io/collection/goblin-punks)** - 69 owner(s), 197 sale(s) -  Ξ34.40 (~ US$ 44716)
+-  Apr 27, 2021 - **[99 Goblin Punks, 10.0%](https://opensea.io/collection/goblin-punks)** - 69 owner(s), 197 sale(s) -  Ξ34.40 (~ US$ 44716) <br> ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/goblin-punks-strip.png)
 -  Apr 15, 2021 - **[517 Clout Punks, 8.0%](https://opensea.io/collection/clout-punks)** - 279 owner(s), 764 sale(s) -  Ξ85.52 (~ US$ 111182)
 -  Apr 03, 2021 - **[1012 MorePunks, 10.0%](https://opensea.io/collection/morepunks)** - 388 owner(s), 1712 sale(s) -  Ξ84.14 (~ US$ 109383)
 
 **March**
 
 -  Mar 29, 2021 - **[100 PixelMeows, 10.0%](https://opensea.io/collection/pixelmeows)** - 13 owner(s), 15 sale(s) -  Ξ0.14 (~ US$ 187.20)
--  Mar 19, 2021 - **[4995 EtherBears, 7.0%](https://opensea.io/collection/etherbears)** <br> ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/bears-strip.png) - 1531 owner(s), 2502 sale(s) -  Ξ83.19 (~ US$ 108147)
+-  Mar 19, 2021 - **[4995 EtherBears, 7.0%](https://opensea.io/collection/etherbears)** - 1531 owner(s), 2502 sale(s) -  Ξ83.19 (~ US$ 108147) <br> ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/bears-strip.png)
 -  Mar 18, 2021 - **[932 CryptoGreats, 10.0%](https://opensea.io/collection/cryptogreats)** - 139 owner(s), 624 sale(s) -  Ξ10.71 (~ US$ 13922)
--  Mar 16, 2021 - **[100 ReggaetonPunks, 10.0%](https://opensea.io/collection/reggaetonpunks)** - 43 owner(s), 95 sale(s) -  Ξ12.88 (~ US$ 16741)
+-  Mar 16, 2021 - **[100 ReggaetonPunks, 10.0%](https://opensea.io/collection/reggaetonpunks)** - 43 owner(s), 95 sale(s) -  Ξ12.88 (~ US$ 16741) <br> ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/reggaetonpunks-strip.png)
 -  Mar 16, 2021 - **[232 ScifiPunks, 10.0%](https://opensea.io/collection/scifipunks)** - 43 owner(s), 62 sale(s) -  Ξ9.94 (~ US$ 12928)
 -  Mar 16, 2021 - **[10 MariachiPunks, 10.0%](https://opensea.io/collection/mariachipunks)** - 7 owner(s), 8 sale(s) -  Ξ2.16 (~ US$ 2808)
 -  Mar 15, 2021 - **[34 Genius Punks, 7.5%](https://opensea.io/collection/genius-punks)** - 11 owner(s), 28 sale(s) -  Ξ6.44 (~ US$ 8372)

@@ -9,5 +9,6 @@
   "token": {
     "contract": "0xa3915c387ccebfd451343a7768e3c2cfb6fdad48"
   },
-  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/philip-phunks/collection.yml"
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/philip-phunks/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/philip-phunks-strip.png"
 }

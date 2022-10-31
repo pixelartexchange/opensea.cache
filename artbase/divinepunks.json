@@ -10,5 +10,6 @@
   "token": {
     "contract": "0xc2cdb10342fa908137b6a4d2ac6a8eced88b61b2"
   },
-  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/divinepunks/collection.yml"
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/divinepunks/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/divinepunks-strip.png"
 }

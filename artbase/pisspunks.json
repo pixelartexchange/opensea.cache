@@ -9,5 +9,6 @@
   "token": {
     "contract": "0x164915306034939e89667ba04d400a6a19b820a1"
   },
-  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/pisspunks/collection.yml"
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/pisspunks/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/pisspunks-strip.png"
 }

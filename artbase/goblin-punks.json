@@ -6,5 +6,6 @@
   "source": "504x504",
   "offset": 1,
   "opensea": "goblin-punks",
-  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/goblin-punks/collection.yml"
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/goblin-punks/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/goblin-punks-strip.png"
 }

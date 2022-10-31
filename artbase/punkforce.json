@@ -13,5 +13,6 @@
   "token": {
     "contract": "0x8218b8cfdfa0e7c55a90c693a9c55e3409ee155f"
   },
-  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/punkforce/collection.yml"
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/punkforce/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/punkforce-strip.png"
 }
