@@ -813,6 +813,36 @@ payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 </details>
 
 
+##  EtherBears
+
+opensea: [etherbears](https://opensea.io/collection/etherbears) - created on Mar 19, 2021<br>
+web:  <http://etherbears.club/><br>
+twitter: [ether_bear](https://twitter.com/ether_bear)<br>
+
+stats:
+- count / total supply: 4995 / 4995, num owners:  1531
+- total sales:  2502, total volume: Ξ83.19 (~ US$ 108147)
+- average price: Ξ0.03 (~ US$ 43.22)
+- floor price: Ξ0.02 (~ US$ 19.50)
+
+fees: seller 7.0%, opensea 2.5%
+
+payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
+
+<details><summary>attribute categories (8):</summary>
+
+- background (8)
+- body (8)
+- clothes (12)
+- eyes (9)
+- glasses (5)
+- head (18)
+- mouth (10)
+- necklace (6)
+
+</details>
+
+
 ##  CryptoGreats
 
 opensea: [cryptogreats](https://opensea.io/collection/cryptogreats) - created on Mar 18, 2021<br>

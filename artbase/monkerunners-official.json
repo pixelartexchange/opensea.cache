@@ -1,0 +1,14 @@
+{
+  "slug": "monkerunners",
+  "count": 6666,
+  "token_base": "ipfs://QmeBAUAiXjEBLW2Pjm6B5grpCfUftoZndS5FjN7s5ZekV4/{id}.json",
+  "image_base": "ipfs://QmbTuEyZdS7cyG1Si967eWpiS2QaMgofzAsCBgizHFdQGE/{id}.png",
+  "format": "50x50",
+  "source": "600x600",
+  "opensea": "monkerunners-official",
+  "token": {
+    "contract": "0x23e449da6e242d7b94c6d35806f2c5cc9b950ddb"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox/raw/master/monkerunners/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/monkerunners-strip.png"
+}

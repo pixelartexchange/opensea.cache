@@ -45,29 +45,27 @@ end
 
 
 slugs = %w[
-  nigeriansnft
-  theindiansofficial
-
-  reggaetonpunks
-  punkforce
-
-  covidpunksnft
-  divinepunks
-
-  goblin-punks
-
-  mariachipunks
-
-  philip-phunks
-
-  pisspunks
-
-  cryptoralph
-  cryptorastas-collection
-
-  unfudables-1
 ]
 
+slugs = ["etherbears",
+"binaryapes",
+"eightbitme",
+"galacticaliensocialclub",
+"pixel-goblintown",
+"monkerunners-official",
+"moonbears-nft",
+"moonbirdpunks",
+"moon-goblz",
+"moonquacks",
+"moonrunnersnft",
+"moonstalkers",
+"nounpunks-eth",
+"papc-punk-ape-pixel-club",
+"pridepunks2018",
+"pixelpudgies",
+"crypto-pudgy-punks",
+"unemployables",
+"unfudables-1"]
 
 
 check_slugs( slugs )

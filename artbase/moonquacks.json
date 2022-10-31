@@ -1,0 +1,17 @@
+{
+  "slug": "moonquacks",
+  "count": 3500,
+  "token_base": "ipfs://QmS3vn9hNd2sxM4igwbT3qfafXYxeeiArC67ETKx4vQuLS/{id}",
+  "image_base": "ipfs://Qmea6VGe5x7NgsnNEbbUZ3KT49gy2NEEu3UAAMMw6ZFnTs/{id}",
+  "format": "42x42",
+  "source": "350x350",
+  "offset": 1,
+  "web": "https://moonquacks.xyz",
+  "twitter": "moonquacksnft",
+  "opensea": "moonquacks",
+  "token": {
+    "contract": "0x0eed0a2b4df338fc1bca6115e4100592632d14cd"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox/raw/master/moonquacks/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/moonquacks-strip.png"
+}

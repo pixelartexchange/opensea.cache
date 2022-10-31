@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x0eed0a2b4df338fc1bca6115e4100592632d14cd",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-05-11T05:32:43.305953",
+    "name": "MoonQuacks",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 388594285,
+    "schema_name": "ERC721",
+    "symbol": "MQ",
+    "total_supply": "0",
+    "description": "MoonQuacks is a collection of 3,500 CC0 PFPs on the Ethereum blockchain. Founded by a team of non-billionaires, passionate NFT collectors, and savvy developers, we’re looking to democratize generational wealth for everyone. Each MoonQuack trait is a handmade drawing influenced from some of the most popular NFT projects today. The MoonQuack itself is made through a generative process seeded by the number 42069.",
+    "external_link": "http://moonquacks.xyz",
+    "image_url": "https://i.seadn.io/gae/PEYPQ6DAsQ32thsNZQzpVZF_gZld7XugOTjxiMBriLCpIaKsphg0rnWNYWeWjf4_NbhPcKyO84NkudomjjMxpyYlBXkATzTxWyIeFw?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

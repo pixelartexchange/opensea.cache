@@ -1,0 +1,77 @@
+{
+  "Background": {
+    "red": 545,
+    "yellow": 525,
+    "grey": 529,
+    "sky blue": 468,
+    "blue": 537,
+    "white": 543,
+    "purple": 524,
+    "brown": 482,
+    "green": 526
+  },
+  "Skin": {
+    "human skin": 515,
+    "yellow skin tatooe": 521,
+    "green skin tatooe": 504,
+    "green skin tribe": 488,
+    "yellow skin": 521,
+    "green skin": 524,
+    "dark skin tribe": 531,
+    "human skin tattooe": 528,
+    "dark skin": 547
+  },
+  "Clothes": {
+    "belt": 459,
+    "fairy dress": 480,
+    "old clothes green": 465,
+    "bone armor": 465,
+    "bone necklace": 474,
+    "old clothes brown": 460,
+    "shaman clothes": 482,
+    "old jacket": 485,
+    "goblin clothes": 443,
+    "viking clothes": 466
+  },
+  "Eyes": {
+    "white eyes": 959,
+    "robo eyes": 945,
+    "yellow eyes": 868,
+    "red eyes": 937,
+    "black eyes": 970
+  },
+  "Face Accessory": {
+    "tooths": 451,
+    "blood": 440,
+    "snot": 506,
+    "drool": 528,
+    "nose bone": 389,
+    "face mask": 478,
+    "eyelashes": 450,
+    "no face accessory": 471,
+    "zoro mask": 509,
+    "blush": 457
+  },
+  "Accessory": {
+    "no accessory": 802,
+    "earring": 745,
+    "bat": 755,
+    "flies": 810,
+    "torch": 808,
+    "ear socks": 759
+  },
+  "Head": {
+    "shades": 413,
+    "sprout": 404,
+    "woodpecker": 374,
+    "skull": 409,
+    "pompadour": 369,
+    "punk hair": 363,
+    "sad hairs": 385,
+    "hat": 409,
+    "crown": 350,
+    "bow": 416,
+    "nest": 384,
+    "no hat": 403
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/8fd5d32fb3aa955d243301a3e38b0fc9.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-06-29T12:21:58.548231+00:00",
+  "default_to_fiat": false,
+  "description": "doontt misSs mooonGoblzz\n\n6666 cc0s fck roadmap fck utility fck disCC0rd fck royalties\n\n#freemint",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://moongoblz.xyz/",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/e43856fb13c9e0ed5e7f94f971bd35d6.jpg?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": null,
+  "medium_username": null,
+  "name": "Moon Goblz",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "moon-goblz",
+  "telegram_url": null,
+  "twitter_username": "moongoblz",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

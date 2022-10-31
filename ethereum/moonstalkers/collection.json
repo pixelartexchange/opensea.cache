@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/f2371d74ffaf949dab9b63122d0e58c9.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-06-29T16:45:09.915770+00:00",
+  "default_to_fiat": false,
+  "description": "6688 Moonstalkers preserving the balance of the realms. Enter Fedora and claim yours now to join the quest. Community Driven. CC0\n\nMinting Now : moonstalkers.quest",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "http://moonstalkers.quest",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/7db36655c198b2bef1b70bd96d826b9a.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/ba1de7daf24fafdaa3d5815f23c425c7.png?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/7db36655c198b2bef1b70bd96d826b9a.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "Moonstalkers",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "moonstalkers",
+  "telegram_url": null,
+  "twitter_username": "Moonstalkersnft",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x7c461d3fa156bc74445e7f85463cf80c1d9314fa": 750
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "eightbitme",
+  "count": 8888,
+  "token_base": "https://eightbit.me/api/token/{id}",
+  "format": "24x24",
+  "source": "1800x1800",
+  "offset": 1,
+  "web": "https://eightbit.me",
+  "twitter": "eightbit",
+  "opensea": "eightbitme",
+  "token": {
+    "contract": "0x6080b6d2c02e9a0853495b87ce6a65e353b74744",
+    "name": "EightBit",
+    "symbol": "BIT",
+    "created": "Mar-30-2022 08:43:49 AM"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox/raw/master/eightbitme/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/eightbitme-strip.png"
+}

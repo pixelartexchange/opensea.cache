@@ -32,7 +32,7 @@
 
 **April** - [99 Goblin Punks](https://opensea.io/collection/goblin-punks) • [517 Clout Punks](https://opensea.io/collection/clout-punks) • [1012 MorePunks](https://opensea.io/collection/morepunks)
 
-**March** - [100 PixelMeows](https://opensea.io/collection/pixelmeows) • [932 CryptoGreats](https://opensea.io/collection/cryptogreats) • [100 ReggaetonPunks](https://opensea.io/collection/reggaetonpunks) • [232 ScifiPunks](https://opensea.io/collection/scifipunks) • [10 MariachiPunks](https://opensea.io/collection/mariachipunks) • [34 Genius Punks](https://opensea.io/collection/genius-punks) • [997 The Pixel Portraits OG Collection](https://opensea.io/collection/the-pixel-portraits-og)
+**March** - [100 PixelMeows](https://opensea.io/collection/pixelmeows) • [4995 EtherBears](https://opensea.io/collection/etherbears) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/bears-strip.png) • [932 CryptoGreats](https://opensea.io/collection/cryptogreats) • [100 ReggaetonPunks](https://opensea.io/collection/reggaetonpunks) • [232 ScifiPunks](https://opensea.io/collection/scifipunks) • [10 MariachiPunks](https://opensea.io/collection/mariachipunks) • [34 Genius Punks](https://opensea.io/collection/genius-punks) • [997 The Pixel Portraits OG Collection](https://opensea.io/collection/the-pixel-portraits-og)
 
 **February** - [147 B&W Punks](https://opensea.io/collection/bwpunks) • [999 Anime Punks](https://opensea.io/collection/anime-punks) • [99 Unofficial Punks](https://opensea.io/collection/unofficialpunks)
 
@@ -107,6 +107,7 @@
 **March**
 
 -  Mar 29, 2021 - **[100 PixelMeows, 10.0%](https://opensea.io/collection/pixelmeows)** - 13 owner(s), 15 sale(s) -  Ξ0.14 (~ US$ 187.20)
+-  Mar 19, 2021 - **[4995 EtherBears, 7.0%](https://opensea.io/collection/etherbears)** <br> ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/bears-strip.png) - 1531 owner(s), 2502 sale(s) -  Ξ83.19 (~ US$ 108147)
 -  Mar 18, 2021 - **[932 CryptoGreats, 10.0%](https://opensea.io/collection/cryptogreats)** - 139 owner(s), 624 sale(s) -  Ξ10.71 (~ US$ 13922)
 -  Mar 16, 2021 - **[100 ReggaetonPunks, 10.0%](https://opensea.io/collection/reggaetonpunks)** - 43 owner(s), 95 sale(s) -  Ξ12.88 (~ US$ 16741)
 -  Mar 16, 2021 - **[232 ScifiPunks, 10.0%](https://opensea.io/collection/scifipunks)** - 43 owner(s), 62 sale(s) -  Ξ9.94 (~ US$ 12928)

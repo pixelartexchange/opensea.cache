@@ -68,6 +68,8 @@
    - owners: 388,   sales:  1712   -  Ξ84.14 (~ US$ 109383) @    price avg Ξ0.05 (~ US$ 63.89),   floor Ξ0.008 (~ US$ 10.40)
 -  0 in 30d/7d/1d  **[100 PixelMeows (Mar 29, 2021), 10.0%](https://opensea.io/collection/pixelmeows)**
    - owners: 13,   sales:  15   -  Ξ0.14 (~ US$ 187.20) @    price avg Ξ0.010 (~ US$ 12.48),   floor Ξ0.08 (~ US$ 102.70)
+-  0 in 30d/7d/1d  **[4995 EtherBears (Mar 19, 2021), 7.0%](https://opensea.io/collection/etherbears)**
+   - owners: 1531,   sales:  2502   -  Ξ83.19 (~ US$ 108147) @    price avg Ξ0.03 (~ US$ 43.22),   floor Ξ0.02 (~ US$ 19.50)
 -  0 in 30d/7d/1d  **[100 ReggaetonPunks (Mar 16, 2021), 10.0%](https://opensea.io/collection/reggaetonpunks)**
    - owners: 43,   sales:  95   -  Ξ12.88 (~ US$ 16741) @    price avg Ξ0.14 (~ US$ 176.23),   floor Ξ0.11 (~ US$ 144.43)
 -  0 in 30d/7d/1d  **[232 ScifiPunks (Mar 16, 2021), 10.0%](https://opensea.io/collection/scifipunks)**

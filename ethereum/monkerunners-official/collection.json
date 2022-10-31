@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/59560fd23aad5d77e08bdfee34e3dd30.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-06-26T21:59:05.465706+00:00",
+  "default_to_fiat": false,
+  "description": "𝟞,𝟞𝟞𝟞 𝕊𝕥𝕣𝕠𝕟𝕘 𝕔𝕠𝕞𝕚𝕟𝕘 𝕥𝕠𝕘𝕖𝕥𝕙𝕖𝕣 𝕥𝕠 𝕡𝕣𝕠𝕥𝕖𝕔𝕥 𝕠𝕟𝕖 𝕒𝕟𝕠𝕥𝕙𝕖𝕣. 𝔻𝕠𝕟'𝕥 𝕗𝕒𝕝𝕝 𝕗𝕣𝕠𝕞 𝕥𝕙𝕖 𝕓𝕣𝕒𝕟𝕔𝕙 𝕠𝕣 𝕖𝕝𝕤𝕖. ",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "http://monkerunners.xyz",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/4220ef2d068dcee204c970f0530d796c.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/Gae5yRegkOqNUQkxQ5axPkGYE0yw-idYVvJw2rc4iztgOwskBgE4iEH4ADcK7Z6v5WjKbr4c2EXE3Q_w1n8LNrDA5d2D8MkSO5W8?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/4220ef2d068dcee204c970f0530d796c.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "Monkerunners Official",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "monkerunners-official",
+  "telegram_url": null,
+  "twitter_username": null,
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x67e1c4a800ce403af65be35aa83b449a18222e01": 750
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

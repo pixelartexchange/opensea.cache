@@ -1,0 +1,20 @@
+{
+  "slug": "galacticaliensocialclub",
+  "count": 10000,
+  "token_base": "ipfs://QmZTnfNyexYgz1Zvtg441fyKA5Sa5zV6SFsPpJXVnaxwcf/{id}.json",
+  "image_base": "ipfs://Qme5s6aP17QVcJScDEeoPeEbXrAU279TRC7Vn3gReE9PUG/{id}.png",
+  "format": "28x28",
+  "source": "2800x2800",
+  "offset": 1,
+  "web": "galacticaliensocialclub.com",
+  "twitter": "GalacticAlienSC",
+  "opensea": "galacticaliensocialclub",
+  "token": {
+    "contract": "0x33fd4167e51a10d19c89c3a606389d0fddc3e676",
+    "name": "Galactic Alien Social Club",
+    "symbol": "GASC",
+    "created": "Dec-16-2021 05:31:17 AM"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox/raw/master/galacticaliensocialclub/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/galacticaliensocialclub-strip.png"
+}

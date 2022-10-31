@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/SLAwVTB6ODRdAeLiEvIskeHl_MB_6N530rv4pUgfxK5fXfUzvSH3xc3aXleDt6ppnroBxH8f1OuRdRmPYTvlUik-YBw_UgaofsQT?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-04-18T23:52:14.354131+00:00",
+  "default_to_fiat": false,
+  "description": "First Omni-Chain NFT with a [DAPP](https://moonbears.xyz/).\nUse DAPP to traverse through 7 of the top blockchains. \n\nCollection of 4000 Moonbears roaming 7 different blockchains.\nStealth launched April 18th. (Any bears not present are on other chains)\nDedicated Private TrippyNode (RPC Node) for Holders. (Across all chains)\n\n[Moonbears NFT Polygon](https://opensea.io/collection/moonbears-nft-polygon)",
+  "discord_url": "https://discord.gg/kcqxrJe8w3",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "https://moonbears.xyz",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/FgTQVY2tWFzs2Ofido0yKuhgvhvkkycqZ4b98irfg1TBVOgN1_sCAYV8QoRhSIItR9gP0Fqoh7EKeBpeNmCggHfFdvtbyiCAYBsFFw?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "verified",
+  "image_url": "https://i.seadn.io/gae/VO2UpUG_KL9sRS1B1aXfmRG39M3Dg22r1mb-dGyPX6iuqOoMcFIecPV8MPaDR2DX0tLEouKgG1pMYIgxf7RRTgDM8kbx5WQMA6jOFQ?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/FgTQVY2tWFzs2Ofido0yKuhgvhvkkycqZ4b98irfg1TBVOgN1_sCAYV8QoRhSIItR9gP0Fqoh7EKeBpeNmCggHfFdvtbyiCAYBsFFw?w=500&auto=format",
+  "medium_username": "trippyfish",
+  "name": "Moonbears NFT",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "moonbears-nft",
+  "telegram_url": null,
+  "twitter_username": "moonbears_xyz",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x094dd2d69c4c86a5de464c3aa6ec301a010182b7": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

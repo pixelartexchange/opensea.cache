@@ -1,0 +1,13 @@
+{
+  "slug": "bears",
+  "count": 5000,
+  "token_base": "openstore@opensea",
+  "format": "24x24",
+  "source": "384x384",
+  "offset": 1,
+  "web": "etherbears.club",
+  "twitter": "ether_bear",
+  "opensea": "etherbears",
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox/raw/master/bears/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/bears-strip.png"
+}

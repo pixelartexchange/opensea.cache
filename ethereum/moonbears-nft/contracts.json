@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x3b8420eb6ef77bc25025b32d8205cde2683f979e",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-04-18T22:51:26.756331",
+    "name": "Moonbears",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 296557336,
+    "schema_name": "ERC721",
+    "symbol": "MB",
+    "total_supply": null,
+    "description": "First Omni-Chain NFT with a [DAPP](https://moonbears.xyz/).\nUse DAPP to traverse through 7 of the top blockchains. \n\nCollection of 4000 Moonbears roaming 7 different blockchains.\nStealth launched April 18th. (Any bears not present are on other chains)\nDedicated Private TrippyNode (RPC Node) for Holders. (Across all chains)\n\n[Moonbears NFT Polygon](https://opensea.io/collection/moonbears-nft-polygon)",
+    "external_link": "https://moonbears.xyz",
+    "image_url": "https://i.seadn.io/gae/VO2UpUG_KL9sRS1B1aXfmRG39M3Dg22r1mb-dGyPX6iuqOoMcFIecPV8MPaDR2DX0tLEouKgG1pMYIgxf7RRTgDM8kbx5WQMA6jOFQ?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

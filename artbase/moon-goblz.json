@@ -1,0 +1,15 @@
+{
+  "slug": "moongoblz",
+  "count": 6666,
+  "token_base": "https://gateway.pinata.cloud/ipfs/Qmcnsy1KAVCqsKomSkT7vPfYGPjGGt8wAtbWBr5vCnDeBm/{id}",
+  "format": "50x50",
+  "source": "500x500",
+  "web": "moongoblz.xyz",
+  "twitter": "moongoblz",
+  "opensea": "moon-goblz",
+  "token": {
+    "contract": "0x72bbc77668f8a5fba15333126548a82d27186dfd"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox/raw/master/moongoblz/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/moongoblz-strip.png"
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xcd903693a2edda8d4c9f69f9937eaf2b38a2cbf6",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-08-21T19:38:57.934452",
+    "name": "Crypto Pudgy Punks",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 476557812,
+    "schema_name": "ERC721",
+    "symbol": "CPP",
+    "total_supply": "0",
+    "description": "8888 Crypto Pudgy Punks, in 24 x 24 Pixel Crypto Punks Style\nMeme & Culture",
+    "external_link": null,
+    "image_url": "https://i.seadn.io/gcs/files/28c17ffe5fa994e1d4223b5640354749.jpg?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

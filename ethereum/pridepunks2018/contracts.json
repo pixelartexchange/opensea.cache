@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x0144b7e66993c6bfab85581e8601f96bfe50c9df",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2018-06-23T03:45:28.066387",
+    "name": "MetaPunk",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 274648791,
+    "schema_name": "ERC721",
+    "symbol": "MP",
+    "total_supply": null,
+    "description": "The FIRST CryptoPunks Derivative, in 2018!\r\n\r\n\r\nProof: (LarvaLabs Discord Announcement) https://discord.com/channels/329381334701178885/329381334701178885/460157631437340693\r\nProof: (2018 Smart Contract) https://etherscan.io/address/0x0144b7e66993c6bfab85581e8601f96bfe50c9df#code\r\n\r\nCreated as a statement on diversity in Web3, now a legitimate historical NFT.",
+    "external_link": "http://pridepunk.xyz",
+    "image_url": "https://i.seadn.io/gae/DWKOSDqHY5BpP9lnXTn2Cmb5OEwzvVT01nZNwSxwzA8qXaLuagOXVaszkMcxXe6BNIGlx8CdKMzhPahwm6x21NX2p-LbsmBGBGqQ?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

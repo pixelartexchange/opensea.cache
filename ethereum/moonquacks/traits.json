@@ -1,0 +1,91 @@
+{
+  "Background": {
+    "green": 522,
+    "grey": 679,
+    "white": 509,
+    "pink": 674,
+    "purple": 589,
+    "blue": 500,
+    "glitch red": 6,
+    "ethereal red": 7,
+    "cosmic purple": 6
+  },
+  "Body": {
+    "snow": 654,
+    "blue": 746,
+    "glitch": 251,
+    "brown": 892,
+    "red": 700,
+    "jade": 197,
+    "robot": 24,
+    "skeleton": 28
+  },
+  "Outerwear": {
+    "none": 2776,
+    "hoodie": 161,
+    "blue kimono": 35,
+    "green kimono": 43,
+    "hoodie down": 304,
+    "members only jacket": 151,
+    "diamond necklace": 22
+  },
+  "Headgear": {
+    "none": 1387,
+    "chromie squiggs": 41,
+    "wizard hat": 466,
+    "headphones": 436,
+    "dancing flame": 270,
+    "bow": 457,
+    "gremplin": 42,
+    "halo": 274,
+    "potato": 8,
+    "astronaut helmet": 23,
+    "mouse hat": 32,
+    "diamond": 41,
+    "kitty kat": 15
+  },
+  "Bill": {
+    "orange": 1402,
+    "yellow": 1733,
+    "blue": 82,
+    "snarl": 42,
+    "none": 73,
+    "green": 160
+  },
+  "Eyes": {
+    "caws": 74,
+    "rainbow": 237,
+    "adorable": 819,
+    "open": 1105,
+    "blue laser": 32,
+    "angry": 543,
+    "heart": 265,
+    "bloodshot": 109,
+    "diamond": 151,
+    "none": 73,
+    "green laser": 50,
+    "red laser": 34
+  },
+  "Eyewear": {
+    "none": 2248,
+    "eyepatch": 593,
+    "visor": 20,
+    "monocle": 152,
+    "half-moon spectacles": 326,
+    "big tech": 111,
+    "3d glasses": 42
+  },
+  "Title": {
+    "mousequack": 1,
+    "dafty": 1,
+    "launchpad moonquack": 1,
+    "mallard": 1,
+    "the don": 1,
+    "the moonquack": 1,
+    "gold duck": 1,
+    "kevin": 1
+  },
+  "Winner": {
+    "yes": 1
+  }
+}

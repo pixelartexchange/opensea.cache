@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x72bbc77668f8a5fba15333126548a82d27186dfd",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-06-29T08:38:30.458472",
+    "name": "Moon Goblz",
+    "nft_version": null,
+    "opensea_version": null,
+    "owner": 449467975,
+    "schema_name": "ERC721",
+    "symbol": "MG",
+    "total_supply": "0",
+    "description": "doontt misSs mooonGoblzz\n\n6666 cc0s fck roadmap fck utility fck disCC0rd fck royalties\n\n#freemint",
+    "external_link": "https://moongoblz.xyz/",
+    "image_url": "https://i.seadn.io/gcs/files/e43856fb13c9e0ed5e7f94f971bd35d6.jpg?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

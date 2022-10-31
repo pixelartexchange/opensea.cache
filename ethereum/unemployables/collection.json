@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/b77a172eb00c0e1432332da5659ac66b.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-04-13T18:59:06.235745+00:00",
+  "default_to_fiat": false,
+  "description": "For people who do what they love. A collection of 5,000 NFTs by the team at able.com\n\n[Twitter](https://twitter.com/unemployables) | [Discord](https://discord.gg/unemployables)",
+  "discord_url": "https://discord.gg/unemployables",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "http://able.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/V7IGjI8FKOrQXy_bZvvMWjiKJGSBfUTGqVp5kDAe_fNyGOLAe_Fu4cS67t08EpMLvEGEtKhVwosXII2CFmbuh7HtnGSulbbMItFdLQ8?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "verified",
+  "image_url": "https://i.seadn.io/gcs/files/54f7948b2fc121756913b6b72b15091f.png?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/V7IGjI8FKOrQXy_bZvvMWjiKJGSBfUTGqVp5kDAe_fNyGOLAe_Fu4cS67t08EpMLvEGEtKhVwosXII2CFmbuh7HtnGSulbbMItFdLQ8?w=500&auto=format",
+  "medium_username": null,
+  "name": "Unemployables",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "unemployables",
+  "telegram_url": null,
+  "twitter_username": "unemployables",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xefbdba6473c07dc8a69743d69a15bb0d0febdac0": 750
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

@@ -15,10 +15,12 @@ report.export( './openstore/collections.csv' )
 
 
 
-report = Opensea::TimelineCollectionsReport.new( './ethereum' )
+report = Opensea::TimelineCollectionsReport.new( './ethereum',
+                                                 artbase_dir: './artbase' )
 report.save( './ethereum/README.md' )
 
-report = Opensea::TimelineCollectionsReport.new( './openstore' )
+report = Opensea::TimelineCollectionsReport.new( './openstore',
+                                                 artbase_dir: './artbase' )
 report.save( './openstore/README.md' )
 
 

@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x4af30b139f60c5f9ef5a494674d41e93114f5e1e",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-03-24T19:09:21.922530",
+    "name": "Punk Ape Pixel Club",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 265624097,
+    "schema_name": "ERC721",
+    "symbol": "PAPC",
+    "total_supply": "150",
+    "description": "Punk Ape Pixel Club OG (PAPC-OG) SOLD OUT.\nIs a collection of 368 unique and collectable Punk themed Apes on the Ethereum blockchain.\n\nA hybrid collection of two of the most iconic projects in the NFT space. Harnessing the pixelated power of Crypto Punks forged with BAYC DNA, PAPC is a new breed of NFT. Pixelated Primates.\n\nDriven by evolution.",
+    "external_link": "https://papc.io/",
+    "image_url": "https://i.seadn.io/gae/xJTNWJ-G0plBd4Lj8eOy1c9E9UMApN9KhJzU5EGOHwgH5wNZU1-0xs8TCn0cDn-bTiOGKWeVLuqGP4cyhcPxHZ3XPfx9Sn6nAm7s?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

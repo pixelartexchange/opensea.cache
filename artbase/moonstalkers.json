@@ -1,0 +1,15 @@
+{
+  "slug": "moonstalkers",
+  "count": 6688,
+  "token_base": "ipfs://bafybeifhedcv72b3h4ypatvs5bnzfh6hdcec3ahyc3ijya5e6o7j52c564/{id}.json",
+  "image_base": "ipfs://bafybeif4rzdlhl6olmgxuy5deyfpraxzzuo4wiijjnm7yetsi4y5e7nb2a/{id}.png",
+  "format": "44x44",
+  "source": "1080x1080",
+  "offset": 1,
+  "opensea": "moonstalkers",
+  "token": {
+    "contract": "0x309014e55d485579c3470d21b248d1e197e4e590"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox/raw/master/moonstalkers/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/moonstalkers-strip.png"
+}

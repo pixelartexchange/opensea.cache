@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/gNTuZ4tBvCKwPgzRk2YAek46VPdAqtvE-3mQ8zFB7es3b-nTg_23njkDXgcgwpD54fI1NaN-Fybbb5SwnMIaiCyEs1f5M5ApIqPA7SI?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-11-20T06:19:55.974273+00:00",
+  "default_to_fiat": false,
+  "description": "NounPunks is a group of 9969 beings\ninspired by the world of LarvaLabs and SuperGremplin\nthat bridges the autonomy of separate cultures\nforming the first hybrid culture with a FU attitude\nthat !vibes in the fabric of block and time.\nNo roadmap, no utility, just !vibe   \n\nThis project is in the public domain. Feel free to use NounPunks in any way you want.",
+  "discord_url": "https://discord.gg/mXMvBpaJba",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "https://nounpunks.wtf",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/rqVylvF_okKqBI4h7KF1MCAEx1OC_-7wxIN7Czlrlcf6dISc5zSQ7XrN_33WIWVK0kdZMVaAo_7qEAbm6EiWR_Cg0dBT1bkrkIy8rA?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "verified",
+  "image_url": "https://i.seadn.io/gae/meJRoR8SF9Q8yNRjc46aH_-ElnqXe4PFwxTL9fWT66x8grPGdm1aTpDmERLwZ_Nm63826dSw3CKx2HmVR6RYH_wRDJd5FFp0UPWFoQ?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/rqVylvF_okKqBI4h7KF1MCAEx1OC_-7wxIN7Czlrlcf6dISc5zSQ7XrN_33WIWVK0kdZMVaAo_7qEAbm6EiWR_Cg0dBT1bkrkIy8rA?w=500&auto=format",
+  "medium_username": null,
+  "name": "NounPunks.eth",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "nounpunks-eth",
+  "telegram_url": null,
+  "twitter_username": "NounPunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x173930b079dfc5557c43cc4bc708ca1e8ded7acd": 750
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

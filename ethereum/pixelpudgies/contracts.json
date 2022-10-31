@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xff7d1de1806853cfe81af936e6d660f4b1f6a753",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-08-24T20:33:58.674694",
+    "name": "PixelPudgies",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 36245243,
+    "schema_name": "ERC721",
+    "symbol": "PXPG",
+    "total_supply": null,
+    "description": "Pixel Pudgies is a free NFT collectible project by SkullCat, hosted on IPFS with 0 royalties on all marketplaces.\n\nOriginal Pudgy Penguins traits were handcrafted in 28 pixel format and programatically composed to generate 5000 unique Pudgy combinations and 5 1/1s.",
+    "external_link": "https://pudgies.phunks.net/#mint",
+    "image_url": "https://i.seadn.io/gcs/files/30d54a7eb30d1ee8c3c423831352f2e9.png?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

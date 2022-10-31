@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/cb77e7dfb3f926cf2f6c63400a0a66c6.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-06-23T16:10:05.862065+00:00",
+  "default_to_fiat": false,
+  "description": "𝔻𝕠𝕟’𝕥 𝕘𝕖𝕥 𝕝𝕖𝕗𝕥 𝕠𝕦𝕥 𝕠𝕗 𝕥𝕙𝕖 𝕡𝕒𝕔𝕜, ℙ𝕣𝕠𝕥𝕖𝕔𝕥 𝕥𝕙𝕖 𝕄𝕠𝕠𝕟𝕣𝕦𝕟𝕟𝕖𝕣𝕤 𝕒𝕥 𝕒𝕝𝕝 𝕔𝕠𝕤𝕥𝕤. ℂℂ𝟘. \n\n𝕎𝕖𝕒𝕡𝕠𝕟𝕤:\nhttps://opensea.io/collection/moonrunners-secrets-of-primordia\n\n𝕋𝕙𝕖 ℂ𝕒𝕧𝕖: https://moonrunners-cave.vercel.app/\n\nhttps://twitter.com/MoonrunnersNFT",
+  "discord_url": "https://discord.gg/moonrunners",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "http://moonrunners.io",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/51e59a9a5e3454a83217f6d7f8fd5a77.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "verified",
+  "image_url": "https://i.seadn.io/gcs/files/8bb5a3faa8de2761782f03b9ecc8e785.png?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/51e59a9a5e3454a83217f6d7f8fd5a77.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "Moonrunners Official",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "moonrunnersnft",
+  "telegram_url": null,
+  "twitter_username": "MoonrunnersNFT",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xe83b9da546c549af8818b02d8d328f0fcb58ee8c": 750
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

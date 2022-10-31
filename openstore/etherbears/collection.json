@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/tgklqACRUyTS6Agfkf6BKPJxtdk8-yfErWdNQXbt5h4aJFwwPWo81cvJDm7vFXo7DRv0IsU0uWGqEFqktx5pItmiaDreT4c78wKR?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-03-19T14:56:09.976599+00:00",
+  "default_to_fiat": false,
+  "description": "A happily grizzly bear named Ether , has his world turned upside down after he meets NFT world. It turns out that Ether can be different from other forest bears: wearing clothes, smoking cigarettes and doing whatever he wants.   \n\nWe decided to keep up with the automatically generated collections. Therefore, there have been changes in our collection. EtherBears #1 to #265 are handcrafted and unique. Starting from EtherBear #266, automatically generated bears with prescribed properties will be minted.  \n\nI invite you to see what happens. Here will only ever be 5000 EtherBears in the world, and we've minted 5000/5000!",
+  "discord_url": "https://discord.gg/CPnFtPPtrK",
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "http://etherbears.club/",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/fyg-Wo8UrtVVGvy1wR3nhCA4Ma7DicuhUxoyXWUwF3kE_qGPWrvnkisWFAjRrG20AFPhe5RYjsjnueULg4AJA2lO0yPpC9k4cNNI6w?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/F5zjPKSMpJ6X778YtOQXp304MCbUKxlFqt_gQL7GOr9zhJcwVDEI5ZW65Yjxt_ScXGtVzhQImdDvByL-c9GNiMXLrP_AO2xawgO1yxM?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/fyg-Wo8UrtVVGvy1wR3nhCA4Ma7DicuhUxoyXWUwF3kE_qGPWrvnkisWFAjRrG20AFPhe5RYjsjnueULg4AJA2lO0yPpC9k4cNNI6w?w=500&auto=format",
+  "medium_username": null,
+  "name": "EtherBears",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "etherbears",
+  "telegram_url": null,
+  "twitter_username": "ether_bear",
+  "instagram_username": "etherbear",
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xade4c7461af8bb8cbf59536dcac0904d1473275d": 700
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

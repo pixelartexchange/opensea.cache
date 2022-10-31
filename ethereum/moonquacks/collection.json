@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/tWvnPzrnv-1mgp8qLkPFMZnm9GrQtGN9A3JuOWLniKc7y79lP4m4mramToHaZ2ElXvWdCYHDKlsNuV9Nr7-H1H3cBcWFvboDSIp_4Q?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-05-11T05:35:01.416502+00:00",
+  "default_to_fiat": false,
+  "description": "MoonQuacks is a collection of 3,500 CC0 PFPs on the Ethereum blockchain. Founded by a team of non-billionaires, passionate NFT collectors, and savvy developers, we’re looking to democratize generational wealth for everyone. Each MoonQuack trait is a handmade drawing influenced from some of the most popular NFT projects today. The MoonQuack itself is made through a generative process seeded by the number 42069.",
+  "discord_url": "https://discord.gg/ZVW5b4nqre",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "http://moonquacks.xyz",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/akUeN-gpN2vRmiji2PDxRiAA5VdNWnYeo0qDGUXulrGEixFKKzW2fP9TAoCCyaYgrEmH_bYA-IWrVv-MmV2LGuMcGA9J7XG1bRU5kA?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/PEYPQ6DAsQ32thsNZQzpVZF_gZld7XugOTjxiMBriLCpIaKsphg0rnWNYWeWjf4_NbhPcKyO84NkudomjjMxpyYlBXkATzTxWyIeFw?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/akUeN-gpN2vRmiji2PDxRiAA5VdNWnYeo0qDGUXulrGEixFKKzW2fP9TAoCCyaYgrEmH_bYA-IWrVv-MmV2LGuMcGA9J7XG1bRU5kA?w=500&auto=format",
+  "medium_username": "@moonquacksnft",
+  "name": "MoonQuacks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "moonquacks",
+  "telegram_url": null,
+  "twitter_username": "moonquacksnft",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x75af930277e986a6d12cc6f423be037bc1c5d245": 250
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

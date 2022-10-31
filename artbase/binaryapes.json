@@ -1,0 +1,19 @@
+{
+  "slug": "binaryapes",
+  "count": 10000,
+  "token_base": "ipfs://Qma9FdEsVsnvaUdMhkzFAkJ2MLeHMVFkx878reKYzzSJ4H/{id}.json",
+  "image_base": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/{id}.png",
+  "format": "24x24",
+  "source": "240x240",
+  "offset": 1,
+  "web": "binaryapes.org",
+  "opensea": "binaryapes",
+  "token": {
+    "contract": "0xdcd552496f0240374e365b7776239672bfd891a8",
+    "name": "Crypto BAYC",
+    "symbol": "CBAYC",
+    "created": "Feb-21-2022 10:30:48 AM"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox/raw/master/binaryapes/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/binaryapes-strip.png"
+}

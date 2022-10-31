@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/weuzocbwyBu_vFwZ5BilZ7cjbk0ZPEfLCkZSE7AAO_5-q43WRgcxRQhq9gE6IvtANDXkjfI5-BInomGH8yWa_6btVCJVzGUZJaTgjQ?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2018-06-23T14:56:01.000000+00:00",
+  "default_to_fiat": false,
+  "description": "The FIRST CryptoPunks Derivative, in 2018!\r\n\r\n\r\nProof: (LarvaLabs Discord Announcement) https://discord.com/channels/329381334701178885/329381334701178885/460157631437340693\r\nProof: (2018 Smart Contract) https://etherscan.io/address/0x0144b7e66993c6bfab85581e8601f96bfe50c9df#code\r\n\r\nCreated as a statement on diversity in Web3, now a legitimate historical NFT.",
+  "discord_url": "https://discord.gg/mnYJKxMgaU",
+  "display_data": {
+    "card_display_style": "padded"
+  },
+  "external_url": "http://pridepunk.xyz",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/rQWHSLfzLM2HerdgsxDKBXt-NoeZbz3YOsvChohAXXooT__NmQMpgM1O2cI1EJguQUcYtV4DNpAlVxKTu3O-7S6PAJw3a6pnq0ke?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/DWKOSDqHY5BpP9lnXTn2Cmb5OEwzvVT01nZNwSxwzA8qXaLuagOXVaszkMcxXe6BNIGlx8CdKMzhPahwm6x21NX2p-LbsmBGBGqQ?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/rQWHSLfzLM2HerdgsxDKBXt-NoeZbz3YOsvChohAXXooT__NmQMpgM1O2cI1EJguQUcYtV4DNpAlVxKTu3O-7S6PAJw3a6pnq0ke?w=500&auto=format",
+  "medium_username": null,
+  "name": "PridePunks 2018",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "pridepunks2018",
+  "telegram_url": null,
+  "twitter_username": "pridepunks2018",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x7e6745c248aeaa9d3c7c9aa4bacb7edd5b6f9848": 700
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

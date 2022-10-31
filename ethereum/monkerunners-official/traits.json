@@ -1,0 +1,81 @@
+{
+  "Background": {
+    "mars": 745,
+    "pink": 720,
+    "deep blue": 748,
+    "green": 732,
+    "yellow": 750,
+    "violet": 725,
+    "blue": 733,
+    "baby blue": 755,
+    "grey": 757
+  },
+  "Fur": {
+    "brown": 740,
+    "white": 705,
+    "red": 712,
+    "blue": 764,
+    "grey": 753,
+    "zombie": 728,
+    "jelly": 785,
+    "black": 727,
+    "robot": 751
+  },
+  "Eyes": {
+    "red serious": 568,
+    "surprised": 596,
+    "cute": 526,
+    "martian red": 559,
+    "serious": 543,
+    "one eye": 523,
+    "neo shades": 545,
+    "suspicious": 587,
+    "pissed": 559,
+    "martian green": 550,
+    "cyclop": 553,
+    "round shades": 556
+  },
+  "Mouth": {
+    "cig": 539,
+    "respirator": 567,
+    "mask": 561,
+    "oo": 558,
+    "acid": 561,
+    "cute smile": 562,
+    "teeth": 534,
+    "wired": 565,
+    "tongue": 562,
+    "what": 547,
+    "smile": 561,
+    "okay": 548
+  },
+  "Head": {
+    "illuminati": 301,
+    "fish": 310,
+    "mars creature": 322,
+    "light": 293,
+    "roll": 298,
+    "frog": 317,
+    "top hat": 311,
+    "crown": 347,
+    "brainout": 342,
+    "moon": 343,
+    "octopus": 315,
+    "empty": 311,
+    "mars": 318,
+    "whitemoon": 313,
+    "blue moonbird": 302,
+    "violet beenie": 346,
+    "red moonbird": 322,
+    "cap": 303,
+    "yellow beenie": 340,
+    "mars crown": 306,
+    "berserk": 305
+  },
+  "From Burn": {
+    "yes": 21
+  },
+  "Special": {
+    "special": 21
+  }
+}

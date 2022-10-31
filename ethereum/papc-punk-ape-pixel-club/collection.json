@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/G--luIx9zyBw0SrH81UQTW1if_VtNdp60lJ_tn1DjKvNjZJyrfIbdkl2XoQ_ho75R9MFYSeq93A3noMfWe5fQ3tIirROW1rToc84?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-03-24T19:30:08.269497+00:00",
+  "default_to_fiat": false,
+  "description": "Punk Ape Pixel Club OG (PAPC-OG) SOLD OUT.\nIs a collection of 368 unique and collectable Punk themed Apes on the Ethereum blockchain.\n\nA hybrid collection of two of the most iconic projects in the NFT space. Harnessing the pixelated power of Crypto Punks forged with BAYC DNA, PAPC is a new breed of NFT. Pixelated Primates.\n\nDriven by evolution.",
+  "discord_url": "https://discord.gg/papc",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://papc.io/",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/lmqtYbWJ0DdetQD2rMeXIchc48cmciefhoTdYLLgSVzRLUSynxQdXEmURW3fWEY9wMnO_uEUGRre9KV28drhJxKBvHYhwkQrtkDMvg?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/xJTNWJ-G0plBd4Lj8eOy1c9E9UMApN9KhJzU5EGOHwgH5wNZU1-0xs8TCn0cDn-bTiOGKWeVLuqGP4cyhcPxHZ3XPfx9Sn6nAm7s?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/lmqtYbWJ0DdetQD2rMeXIchc48cmciefhoTdYLLgSVzRLUSynxQdXEmURW3fWEY9wMnO_uEUGRre9KV28drhJxKBvHYhwkQrtkDMvg?w=500&auto=format",
+  "medium_username": "papc",
+  "name": "PAPC - Punk Ape Pixel Club OG",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "papc-punk-ape-pixel-club",
+  "telegram_url": null,
+  "twitter_username": "PUNKxAPE",
+  "instagram_username": "Punkapepixelclub",
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xeffd3ac8ea0e9ebf3fdf4371109fa5caee2d4ab1": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

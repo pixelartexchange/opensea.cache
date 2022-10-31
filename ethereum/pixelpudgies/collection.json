@@ -1,0 +1,38 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/50286e56178b6e382cae121e5bf830b5.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-08-24T21:05:43.354904+00:00",
+  "default_to_fiat": false,
+  "description": "Pixel Pudgies is a free NFT collectible project by SkullCat, hosted on IPFS with 0 royalties on all marketplaces.\n\nOriginal Pudgy Penguins traits were handcrafted in 28 pixel format and programatically composed to generate 5000 unique Pudgy combinations and 5 1/1s.",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://pudgies.phunks.net/#mint",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/098157c53973d02d2d5c68d6775154af.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/30d54a7eb30d1ee8c3c423831352f2e9.png?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/098157c53973d02d2d5c68d6775154af.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "Pixel Pudgies",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "pixelpudgies",
+  "telegram_url": null,
+  "twitter_username": "TheSkullCat",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

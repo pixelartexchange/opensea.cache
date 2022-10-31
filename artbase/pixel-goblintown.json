@@ -1,0 +1,19 @@
+{
+  "slug": "goblintown",
+  "count": 4444,
+  "token_base": "ipfs://QmYnChZoVXKqgB2uEsN2vehg5Gqb57oRwdaAq3jLo2xLPC/{id}.json",
+  "image_base": "ipfs://QmfDU1BngfoatA7379giVNWUpdRfXFscHFspUEWaVMaZA2/{id}.png",
+  "format": "48x48",
+  "source": "600x600",
+  "web": "pixelgoblintown.xyz",
+  "twitter": "pixelgoblinnft",
+  "opensea": "pixel-goblintown",
+  "token": {
+    "contract": "0x255503fe2a00f6b1e3b8a893e2a4c2363be38225",
+    "name": "Pixel goblintown",
+    "symbol": "GOBLIN",
+    "created": "May-21-2022 10:45:51 PM"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox/raw/master/goblintown/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/goblintown-strip.png"
+}

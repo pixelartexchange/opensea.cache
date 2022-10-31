@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/d33e4052155f09de3acbef75f25e01c5.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-08-21T21:31:08.126246+00:00",
+  "default_to_fiat": false,
+  "description": "8888 Crypto Pudgy Punks, in 24 x 24 Pixel Crypto Punks Style\nMeme & Culture",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/d33e4052155f09de3acbef75f25e01c5.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/28c17ffe5fa994e1d4223b5640354749.jpg?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/d33e4052155f09de3acbef75f25e01c5.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "Crypto Pudgy Punks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "crypto-pudgy-punks",
+  "telegram_url": null,
+  "twitter_username": "pudgypenguinspx",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xcd903693a2edda8d4c9f69f9937eaf2b38a2cbf6": 800
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

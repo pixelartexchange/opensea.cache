@@ -1,0 +1,19 @@
+{
+  "slug": "pudgies",
+  "count": 5000,
+  "token_base": "ipfs://bafybeian35gnhdimzrnbuzxdui5ysxfx2h2xgkhykuoifjl6zfe6tap43y/{id}.json",
+  "image_base": "ipfs://bafybeievhdwlgmhqjvavokhb75l2uyjfoe6fyzgnkrjoalbhp7vqf6jgtq/{id}.png",
+  "format": "28x28",
+  "source": [
+    "720x720",
+    "840x840"
+  ],
+  "offset": 1,
+  "web": "pudgies.phunks.net",
+  "opensea": "pixelpudgies",
+  "token": {
+    "contract": "0xff7d1de1806853cfe81af936e6d660f4b1f6a753"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox/raw/master/pudgies/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/pudgies-strip.png"
+}

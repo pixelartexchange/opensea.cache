@@ -1,0 +1,13 @@
+{
+  "slug": "pridepunks",
+  "count": 9640,
+  "token_base": "ipfs://bafybeihuwyzyxmghhgbk5jvu4rjzwworbnvkfh6ba4pm3xrxb6iovnguhq/{id}",
+  "format": "23x23",
+  "source": "336x336",
+  "opensea": "pridepunks2018",
+  "token": {
+    "contract": "0x0144b7e66993c6bfab85581e8601f96bfe50c9df"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox/raw/master/pridepunks/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/pridepunks-strip.png"
+}

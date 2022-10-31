@@ -1,0 +1,94 @@
+{
+  "background": {
+    "azure": 600,
+    "blue": 597,
+    "green": 594,
+    "lilac": 563,
+    "olive": 566,
+    "pink": 593,
+    "purple": 603,
+    "yellow": 608
+  },
+  "body": {
+    "alien": 425,
+    "black": 599,
+    "brown": 1017,
+    "colourful": 198,
+    "mummy": 457,
+    "sprout": 489,
+    "white": 717,
+    "zombie": 822
+  },
+  "clothes": {
+    "blue apron": 239,
+    "blue tracksuit": 542,
+    "green apron": 163,
+    "green shirt": 166,
+    "green tracksuit": 476,
+    "kimono": 245,
+    "none": 1681,
+    "overalls": 182,
+    "rainbow apron": 137,
+    "red apron": 226,
+    "red tracksuit": 567,
+    "white apron": 100
+  },
+  "eyes": {
+    "alien": 324,
+    "cute": 691,
+    "cyclops": 290,
+    "normal": 1284,
+    "oblique": 135,
+    "scared": 249,
+    "squinted": 429,
+    "surprised": 963,
+    "zombie": 359
+  },
+  "glasses": {
+    "black": 262,
+    "gold": 381,
+    "gold gradient": 219,
+    "none": 3634,
+    "snowboard": 228
+  },
+  "head": {
+    "bandana": 144,
+    "beret": 141,
+    "bucket hat": 150,
+    "cap": 143,
+    "crown": 142,
+    "deer antlers": 89,
+    "dreadlocks": 320,
+    "gray haired": 69,
+    "green mohawk": 139,
+    "haircut": 160,
+    "hat": 165,
+    "headphones": 162,
+    "horn": 121,
+    "none": 2071,
+    "orang forelock": 174,
+    "propeller hat": 162,
+    "rainbow horn": 196,
+    "red cap": 176
+  },
+  "mouth": {
+    "blonde stubble": 157,
+    "brown beard": 224,
+    "cigarette": 225,
+    "gray beard": 322,
+    "none": 2434,
+    "red beard": 141,
+    "red mustache": 478,
+    "scream": 154,
+    "stubble": 407,
+    "tongue": 182
+  },
+  "necklace": {
+    "chain": 461,
+    "cross": 927,
+    "none": 1920,
+    "pearl": 457,
+    "red kerchief": 478,
+    "snake": 481
+  }
+}
