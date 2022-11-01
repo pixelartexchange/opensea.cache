@@ -42,6 +42,8 @@
    - owners: 4263,   sales:  11864   -  Ξ1233.77 (~ US$ 1.6 million(s)) @    price avg Ξ0.10 (~ US$ 135.19),   floor Ξ0.02 (~ US$ 20.21)
 -  162 in 30d - Ξ2.67 (~ US$ 3469), 162 in 7d - Ξ2.67 (~ US$ 3469), 24 in 1d - Ξ0.28 (~ US$ 360.71), **[888 EdgePunks (Oct 29, 2022), -](https://opensea.io/collection/theedgepunks)**
    - owners: 274,   sales:  162   -  Ξ2.67 (~ US$ 3469) @    price avg Ξ0.02 (~ US$ 21.41),   floor Ξ0.009 (~ US$ 12.22)
+-  28 in 30d - Ξ2.37 (~ US$ 3083), 6 in 7d - Ξ0.34 (~ US$ 436.93), 0 in 1d  **[3350 Weird Whales (Jul 18, 2021), 2.5%](https://opensea.io/collection/weirdwhales)**
+   - owners: 1681,   sales:  8102   -  Ξ1887.80 (~ US$ 2.5 million(s)) @    price avg Ξ0.23 (~ US$ 302.91),   floor Ξ0.07 (~ US$ 89.70)
 -  114 in 30d - Ξ1.95 (~ US$ 2530), 73 in 7d - Ξ1.34 (~ US$ 1740), 6 in 1d - Ξ0.10 (~ US$ 126.16), **[4932 Crypto Marcs (Jul 17, 2022), 5.0%](https://opensea.io/collection/crypto-marcs)**
    - owners: 968,   sales:  3142   -  Ξ109.15 (~ US$ 141890) @    price avg Ξ0.03 (~ US$ 45.16),   floor Ξ0.014 (~ US$ 18.72)
 -  183 in 30d - Ξ1.72 (~ US$ 2240), 34 in 7d - Ξ0.41 (~ US$ 531.18), 1 in 1d - Ξ0.002 (~ US$ 3.25), **[9497 V1 Phunks (Feb 21, 2022), 5.0%](https://opensea.io/collection/v1-phunks)**

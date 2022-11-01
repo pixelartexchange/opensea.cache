@@ -1,0 +1,49 @@
+{
+  "Background": {
+    "pink": 553,
+    "red": 425,
+    "yellow": 431,
+    "cyan": 304,
+    "peach": 427,
+    "baby blue": 399,
+    "orange": 345,
+    "purple": 466
+  },
+  "Base": {
+    "normal": 1540,
+    "zombie": 1040,
+    "ape": 508,
+    "alien": 262
+  },
+  "Headgear": {
+    "cap": 184,
+    "viking hat": 314,
+    "beanie": 278,
+    "tassle hat": 275,
+    "knitted cap": 181,
+    "pilot helmet": 187,
+    "fedora": 271,
+    "hat": 186,
+    "cap forward": 191,
+    "do rag": 175,
+    "headband": 189,
+    "tiara": 182,
+    "fez": 163,
+    "top hat": 186,
+    "police cap": 53,
+    "cowboy hat": 175
+  },
+  "Eye Accessory": {
+    "blue eye shadow": 486,
+    "eye mask": 520,
+    "green eye shadow": 555,
+    "clown eyes green": 286,
+    "clown eyes blue": 380,
+    "purple eye shadow": 508
+  },
+  "Mouth Accessory": {
+    "vape": 469,
+    "cigarette": 518,
+    "pipe": 497
+  }
+}

@@ -82,8 +82,12 @@
    - owners: 11,   sales:  28   -  Ξ6.44 (~ US$ 8372) @    price avg Ξ0.23 (~ US$ 299.00),   floor ???
 -  0 in 30d/7d/1d  **[91 Monster Punks (Mar 12, 2021), 10.0%](https://opensea.io/collection/monster-punks)**
    - owners: 39,   sales:  93   -  Ξ3.74 (~ US$ 4858) @    price avg Ξ0.04 (~ US$ 52.24),   floor Ξ0.001 (~ US$ 1.30)
+-  0 in 30d/7d/1d  **[90 RapPunks (Mar 11, 2021), 6.0%](https://opensea.io/collection/rappunks)**
+   - owners: 42,   sales:  87   -  Ξ46.29 (~ US$ 60174) @    price avg Ξ0.53 (~ US$ 691.65),   floor Ξ1.33 (~ US$ 1729)
 -  0 in 30d/7d/1d  **[147 B&W Punks (Feb 28, 2021), -](https://opensea.io/collection/bwpunks)**
    - owners: 67,   sales:  118   -  Ξ56.28 (~ US$ 73164) @    price avg Ξ0.48 (~ US$ 620.03),   floor Ξ0.04 (~ US$ 58.50)
+-  0 in 30d/7d/1d  **[30 BespokedPunks (Feb 26, 2021), 10.0%](https://opensea.io/collection/bespokedpunks)**
+   - owners: 20,   sales:  16   -  Ξ2.93 (~ US$ 3809) @    price avg Ξ0.18 (~ US$ 238.06),   floor ???
 -  0 in 30d/7d/1d  **[19 FacelessPunks (Feb 25, 2021), 10.0%](https://opensea.io/collection/facelesspunks)**
    - owners: 13,   sales:  23   -  Ξ5.44 (~ US$ 7072) @    price avg Ξ0.24 (~ US$ 307.48),   floor ???
 -  0 in 30d/7d/1d  **[89 Laser Eye Punks (Feb 21, 2021), 10.0%](https://opensea.io/collection/laser-eye-punks)**

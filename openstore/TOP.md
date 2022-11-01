@@ -15,6 +15,7 @@
 - Ξ83.19 (~ US$ 108147) - **[4995 EtherBears (Mar 19, 2021), 7.0%](https://opensea.io/collection/etherbears)**   owners: 1531,   sales:  2502   @    price avg Ξ0.03 (~ US$ 43.22),   floor Ξ0.02 (~ US$ 19.50)
 - Ξ73.56 (~ US$ 95629) - **[600 DubaiPeeps (Oct 25, 2021), 10.0%](https://opensea.io/collection/dubaipeeps)**   owners: 280,   sales:  614   @    price avg Ξ0.12 (~ US$ 155.75),   floor Ξ0.28 (~ US$ 364.00)
 - Ξ56.28 (~ US$ 73164) - **[147 B&W Punks (Feb 28, 2021), -](https://opensea.io/collection/bwpunks)**   owners: 67,   sales:  118   @    price avg Ξ0.48 (~ US$ 620.03),   floor Ξ0.04 (~ US$ 58.50)
+- Ξ46.29 (~ US$ 60174) - **[90 RapPunks (Mar 11, 2021), 6.0%](https://opensea.io/collection/rappunks)**   owners: 42,   sales:  87   @    price avg Ξ0.53 (~ US$ 691.65),   floor Ξ1.33 (~ US$ 1729)
 - Ξ34.40 (~ US$ 44716) - **[99 Goblin Punks (Apr 27, 2021), 10.0%](https://opensea.io/collection/goblin-punks)**   owners: 69,   sales:  197   @    price avg Ξ0.17 (~ US$ 226.98),   floor Ξ0.69 (~ US$ 897.00)
 - Ξ28.79 (~ US$ 37428) - **[982 KimonoNinjaPunks (May 23, 2021), 10.0%](https://opensea.io/collection/kimono-punks)**   owners: 447,   sales:  1069   @    price avg Ξ0.03 (~ US$ 35.01),   floor Ξ0.03 (~ US$ 33.54)
 - Ξ16.01 (~ US$ 20817) - **[998 CryptoFrontPunks (Jul 01, 2021), 10.0%](https://opensea.io/collection/frontphunks)**   owners: 184,   sales:  478   @    price avg Ξ0.03 (~ US$ 43.47),   floor Ξ0.02 (~ US$ 26.00)
@@ -34,6 +35,7 @@
 - Ξ3.74 (~ US$ 4858) - **[91 Monster Punks (Mar 12, 2021), 10.0%](https://opensea.io/collection/monster-punks)**   owners: 39,   sales:  93   @    price avg Ξ0.04 (~ US$ 52.24),   floor Ξ0.001 (~ US$ 1.30)
 - Ξ3.20 (~ US$ 4164) - **[890 Phunk Aliens Origins (Sep 29, 2022), -](https://opensea.io/collection/phunk-aliens-origins)**   owners: 108,   sales:  643   @    price avg Ξ0.005 (~ US$ 6.48),   floor Ξ0.004 (~ US$ 4.88)
 - Ξ3.18 (~ US$ 4140) - **[454 Figure Punks (Aug 13, 2021), 10.0%](https://opensea.io/collection/figurepunks)**   owners: 39,   sales:  131   @    price avg Ξ0.02 (~ US$ 31.61),   floor Ξ0.010 (~ US$ 13.00)
+- Ξ2.93 (~ US$ 3809) - **[30 BespokedPunks (Feb 26, 2021), 10.0%](https://opensea.io/collection/bespokedpunks)**   owners: 20,   sales:  16   @    price avg Ξ0.18 (~ US$ 238.06),   floor ???
 - Ξ2.30 (~ US$ 2996) - **[6629 CryptoLuxuryPunks (Sep 05, 2021), 10.0%](https://opensea.io/collection/cryptoluxurypunks)**   owners: 80,   sales:  144   @    price avg Ξ0.02 (~ US$ 20.81),   floor Ξ0.70 (~ US$ 910.00)
 - Ξ2.16 (~ US$ 2808) - **[10 MariachiPunks (Mar 16, 2021), 10.0%](https://opensea.io/collection/mariachipunks)**   owners: 7,   sales:  8   @    price avg Ξ0.27 (~ US$ 351.00),   floor Ξ0.27 (~ US$ 351.00)
 - Ξ1.52 (~ US$ 1980) - **[90 The Crypto Genius (Sep 02, 2021), 10.0%](https://opensea.io/collection/thecryptogenius)**   owners: 42,   sales:  69   @    price avg Ξ0.02 (~ US$ 28.69),   floor ???
@@ -43,5 +45,5 @@
 - Ξ0.005 (~ US$ 6.50) - **[39 Afro-Punks # (Nov 28, 2021), -](https://opensea.io/collection/beautiful-female-punks)**   owners: 2,   sales:  1   @    price avg Ξ0.005 (~ US$ 6.50),   floor Ξ0.010 (~ US$ 13.00)
 - Ξ0.002 (~ US$ 2.60) - **[935 GhozaliPunk (Jan 16, 2022), 10.0%](https://opensea.io/collection/ghozalipunk)**   owners: 2,   sales:  2   @    price avg Ξ0.001 (~ US$ 1.30),   floor ???
 - 0 - **[35 Athletes 101 (Sep 11, 2021), 10.0%](https://opensea.io/collection/athletes-101)**   owners: 3,   sales: 0
-- 0 - **[120 High Effort Punks (Jan 08, 2022), 10.0%](https://opensea.io/collection/high-effort-punks)**   owners: 1,   sales: 0
 - 0 - **[61 PixelGalsNFT (Oct 30, 2021), 3.0%](https://opensea.io/collection/pixel-gals)**   owners: 1,   sales: 0
+- 0 - **[120 High Effort Punks (Jan 08, 2022), 10.0%](https://opensea.io/collection/high-effort-punks)**   owners: 1,   sales: 0

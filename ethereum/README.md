@@ -40,7 +40,7 @@
 
 **August** - [10419 Cryptorastas Collection](https://opensea.io/collection/cryptorastas-collection) • [4715 International Punks.](https://opensea.io/collection/international-punks-) • [9994 ExpansionPunks](https://opensea.io/collection/expansionpunks)
 
-**July** - [101 PhilipPhunks](https://opensea.io/collection/philip-phunks) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/philip-phunks-strip.png) • [9992 COVIDPunks!](https://opensea.io/collection/covidpunksnft) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/covidpunks-strip.png)
+**July** - [101 PhilipPhunks](https://opensea.io/collection/philip-phunks) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/philip-phunks-strip.png) • [9992 COVIDPunks!](https://opensea.io/collection/covidpunksnft) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/covidpunks-strip.png) • [3350 Weird Whales](https://opensea.io/collection/weirdwhales)
 
 **June** - [9978 CryptoPhunks](https://opensea.io/collection/crypto-phunks) • [2077 DystoPunks](https://opensea.io/collection/dystopunks) • [1002 PhilipInternProject](https://opensea.io/collection/philipinternproject)
 
@@ -254,6 +254,8 @@
     - **PhilipPhunks (PPH)** @ [0xa3915c387ccebfd451343a7768e3c2cfb6fdad48](https://etherscan.io/address/0xa3915c387ccebfd451343a7768e3c2cfb6fdad48)
 -  Jul 20, 2021 - **[9992 COVIDPunks!, 2.5%](https://opensea.io/collection/covidpunksnft)** - 3793 owner(s), 10752 sale(s) -  Ξ1810.72 (~ US$ 2.4 million(s)) <br> ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/covidpunks-strip.png)
     - **COVIDPunks (PUNK-19)** @ [0xe4cfae3aa41115cb94cff39bb5dbae8bd0ea9d41](https://etherscan.io/address/0xe4cfae3aa41115cb94cff39bb5dbae8bd0ea9d41)
+-  Jul 18, 2021 - **[3350 Weird Whales, 2.5%](https://opensea.io/collection/weirdwhales)** - 1681 owner(s), 8102 sale(s) -  Ξ1887.80 (~ US$ 2.5 million(s))
+    - **WeirdWhales (WHALE)** @ [0x96ed81c7f4406eff359e27bff6325dc3c9e042bd](https://etherscan.io/address/0x96ed81c7f4406eff359e27bff6325dc3c9e042bd)
 
 **June**
 

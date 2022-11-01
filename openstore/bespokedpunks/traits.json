@@ -1,0 +1,26 @@
+{
+  "Breed": {
+    "dachshund": 1
+  },
+  "Certified": {
+    "unofficial punk": 1,
+    "unofficial punks": 27
+  },
+  "Certified ": {
+    "unofficial punks": 1
+  },
+  "Collection": {
+    "abstract punks": 7,
+    "bespoked": 1
+  },
+  "Colour": {
+    "blue": 1,
+    "monochrome": 1
+  },
+  "Doubly Certified": {
+    "unofficial baby punks": 1
+  },
+  "Traits": {
+    "none": 1
+  }
+}

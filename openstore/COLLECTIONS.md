@@ -1052,6 +1052,24 @@ payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 </details>
 
 
+##  RapPunks
+
+opensea: [rappunks](https://opensea.io/collection/rappunks) - created on Mar 11, 2021<br>
+web:  <https://rappunks.art><br>
+twitter: [rap_punks](https://twitter.com/rap_punks)<br>
+
+stats:
+- count / total supply: 90 / 90, num owners:  42
+- total sales:  87, total volume: Ξ46.29 (~ US$ 60174)
+- average price: Ξ0.53 (~ US$ 691.65)
+- floor price: Ξ1.33 (~ US$ 1729)
+
+fees: seller 6.0%, opensea 2.5%
+
+payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
+
+
+
 ##  The Pixel Portraits OG Collection
 
 opensea: [the-pixel-portraits-og](https://opensea.io/collection/the-pixel-portraits-og) - created on Mar 07, 2021<br>
@@ -1151,6 +1169,34 @@ payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 <details><summary>attribute categories (1):</summary>
 
 - Certified (2)
+
+</details>
+
+
+##  BespokedPunks
+
+opensea: [bespokedpunks](https://opensea.io/collection/bespokedpunks) - created on Feb 26, 2021<br>
+twitter: [CryptoXinc](https://twitter.com/CryptoXinc)<br>
+
+stats:
+- count / total supply: 30 / 30, num owners:  20
+- total sales:  16, total volume: Ξ2.93 (~ US$ 3809)
+- average price: Ξ0.18 (~ US$ 238.06)
+- floor price: ???
+
+fees: seller 10.0%, opensea 2.5%
+
+payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
+
+<details><summary>attribute categories (7):</summary>
+
+- Breed (1)
+- Certified (2)
+- Certified  (1)
+- Collection (2)
+- Colour (2)
+- Doubly Certified (1)
+- Traits (1)
 
 </details>
 

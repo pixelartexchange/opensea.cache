@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/Y_V9UCc9DK8IUUE_nxHxWVsfukUhVkXgwJDw0D87chRLttypJu6fNmA8PCYvdXRXB7R9cL-WZjG3GtXh2ut8oCPo3qxEespfs4hGQhY?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-07-19T10:06:14.086325+00:00",
+  "default_to_fiat": false,
+  "description": "Weird Whales is an NFT collection created by twelve-year-old programmer [Benyamin](https://linktr.ee/ObiWanBenoni) from London, UK who began learning to code at the age of five. The project started as an educational endeavour. Benyamin created all the base and trait layers for the whales (normal, zombie, ape, alien), he then generated 3350 unique digital collectibles programmatically using an open-source Python script.\n\nThe project success and backstory forms a core part of early NFT, generative art and digital collectible history. It has been featured in [The New York Times](https://tinyurl.com/4kwsrp4r), [Business Insider](https://tinyurl.com/2yxjv8ae), [CNBC](https://tinyurl.com/3xezwxkd), [The Telegraph](https://tinyurl.com/unpst3fu), The Guardian, ITV News, BBC, NY Post, Decrypt and many more.\n\nBenyamin was invited to [speak](https://youtu.be/XHUWaLcLau8) about NFTs at Pembroke College, Oxford University. He is the youngest person to lecture at the college, founded 1624.",
+  "discord_url": "https://discord.gg/T7X3zpN2ft",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "http://weirdwhalesnft.com/",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/Y_V9UCc9DK8IUUE_nxHxWVsfukUhVkXgwJDw0D87chRLttypJu6fNmA8PCYvdXRXB7R9cL-WZjG3GtXh2ut8oCPo3qxEespfs4hGQhY?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "verified",
+  "image_url": "https://i.seadn.io/gae/88MMlyhOGXV85s2yTqowslZsU6CObwC7tFOUi5faTs9jR3KRaBAyg5hRK1SuwJZw7iO6JersTiiHM-vJ_oA1iwQ_0SEwxfboNaoY?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/Y_V9UCc9DK8IUUE_nxHxWVsfukUhVkXgwJDw0D87chRLttypJu6fNmA8PCYvdXRXB7R9cL-WZjG3GtXh2ut8oCPo3qxEespfs4hGQhY?w=500&auto=format",
+  "medium_username": null,
+  "name": "Weird Whales",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "weirdwhales",
+  "telegram_url": null,
+  "twitter_username": "ObiWanBenoni",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xb3c08793687ed7b9b297cce757c4352f4daf3bce": 250
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

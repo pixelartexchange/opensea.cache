@@ -2380,6 +2380,36 @@ payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 </details>
 
 
+##  Weird Whales
+
+opensea: [weirdwhales](https://opensea.io/collection/weirdwhales) - created on Jul 19, 2021<br>
+web:  <http://weirdwhalesnft.com/><br>
+twitter: [ObiWanBenoni](https://twitter.com/ObiWanBenoni)<br>
+
+contracts (1):
+- **WeirdWhales (WHALE)** created on Jul 18, 2021 @ [0x96ed81c7f4406eff359e27bff6325dc3c9e042bd](https://etherscan.io/address/0x96ed81c7f4406eff359e27bff6325dc3c9e042bd)
+
+stats:
+- count / total supply: 3350 / 3350, num owners:  1681
+- total sales:  8102, total volume: Ξ1887.80 (~ US$ 2.5 million(s))
+- average price: Ξ0.23 (~ US$ 302.91)
+- floor price: Ξ0.07 (~ US$ 89.70)
+
+fees: seller 2.5%, opensea 2.5%
+
+payments (5): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC), ApeCoin (APE)
+
+<details><summary>attribute categories (5):</summary>
+
+- Background (8)
+- Base (4)
+- Headgear (16)
+- Eye Accessory (6)
+- Mouth Accessory (3)
+
+</details>
+
+
 ##  CryptoPhunks
 
 opensea: [crypto-phunks](https://opensea.io/collection/crypto-phunks) - created on Jun 21, 2021<br>

@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/7cd9zfYNwbBb1sAwybPDKebM1Pa1nBdDcw0X2P-M8zMmpK0Tw5JNGYui_Mo_RZIN4bpDVOEm-eH36bfOK6tlbjKBHPVhMsHHCbGTZdI?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-03-11T00:34:59.349080+00:00",
+  "default_to_fiat": false,
+  "description": "OG Hip Hop Legends meet OG Crypto Punks 👑💯🔥\r\nJay-Z, 2pac, Eminem, MF DOOM, ODB, Kanye, Drake and more!\r\n\r\n1/1 Editions",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "https://rappunks.art",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/O9hf7_N16BS7OEliC6ciGnIDessAu8beVi-LH9ERZdr1xQm6fBo72ts0QZG8-sUUMBq32tYIjZ9yrF5USfIlt7aWCueed1Oby1sD-w?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/Q0VnZuqolIBaoMLlf4Mgoc-ylcNxpo2ZCueoHNLUQVBGM74YgZKmNRjyIW9w2XjwlouPJdM-V9icJVzY-C8sDg3GXHrC9ny0PkzrBg?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/O9hf7_N16BS7OEliC6ciGnIDessAu8beVi-LH9ERZdr1xQm6fBo72ts0QZG8-sUUMBq32tYIjZ9yrF5USfIlt7aWCueed1Oby1sD-w?w=500&auto=format",
+  "medium_username": null,
+  "name": "RapPunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "rappunks",
+  "telegram_url": null,
+  "twitter_username": "rap_punks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x90da5e1f54f67b7f1622df9a8f975afd4a40bc03": 600
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

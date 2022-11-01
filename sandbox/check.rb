@@ -46,10 +46,11 @@ end
 
 slugs = %w[
 
-  fastfoodbirds
-  fast-food-moonbirds
-  island-birds
-  starbirds
+  weirdwhales
+  genius-punks
+  rappunks
+  anime-punks
+  bespokedpunks
 
 ]
 

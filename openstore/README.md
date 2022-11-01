@@ -32,9 +32,9 @@
 
 **April** - [99 Goblin Punks](https://opensea.io/collection/goblin-punks) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/goblin-punks-strip.png) • [517 Clout Punks](https://opensea.io/collection/clout-punks) • [1012 MorePunks](https://opensea.io/collection/morepunks)
 
-**March** - [100 PixelMeows](https://opensea.io/collection/pixelmeows) • [4995 EtherBears](https://opensea.io/collection/etherbears) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/bears-strip.png) • [932 CryptoGreats](https://opensea.io/collection/cryptogreats) • [100 ReggaetonPunks](https://opensea.io/collection/reggaetonpunks) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/reggaetonpunks-strip.png) • [232 ScifiPunks](https://opensea.io/collection/scifipunks) • [10 MariachiPunks](https://opensea.io/collection/mariachipunks) • [34 Genius Punks](https://opensea.io/collection/genius-punks) • [91 Monster Punks](https://opensea.io/collection/monster-punks) • [997 The Pixel Portraits OG Collection](https://opensea.io/collection/the-pixel-portraits-og)
+**March** - [100 PixelMeows](https://opensea.io/collection/pixelmeows) • [4995 EtherBears](https://opensea.io/collection/etherbears) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/bears-strip.png) • [932 CryptoGreats](https://opensea.io/collection/cryptogreats) • [100 ReggaetonPunks](https://opensea.io/collection/reggaetonpunks) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/reggaetonpunks-strip.png) • [232 ScifiPunks](https://opensea.io/collection/scifipunks) • [10 MariachiPunks](https://opensea.io/collection/mariachipunks) • [34 Genius Punks](https://opensea.io/collection/genius-punks) • [91 Monster Punks](https://opensea.io/collection/monster-punks) • [90 RapPunks](https://opensea.io/collection/rappunks) • [997 The Pixel Portraits OG Collection](https://opensea.io/collection/the-pixel-portraits-og)
 
-**February** - [147 B&W Punks](https://opensea.io/collection/bwpunks) • [19 FacelessPunks](https://opensea.io/collection/facelesspunks) • [999 Anime Punks](https://opensea.io/collection/anime-punks) • [89 Laser Eye Punks](https://opensea.io/collection/laser-eye-punks) • [99 Unofficial Punks](https://opensea.io/collection/unofficialpunks)
+**February** - [147 B&W Punks](https://opensea.io/collection/bwpunks) • [30 BespokedPunks](https://opensea.io/collection/bespokedpunks) • [19 FacelessPunks](https://opensea.io/collection/facelesspunks) • [999 Anime Punks](https://opensea.io/collection/anime-punks) • [89 Laser Eye Punks](https://opensea.io/collection/laser-eye-punks) • [99 Unofficial Punks](https://opensea.io/collection/unofficialpunks)
 
 
 ## 2022
@@ -115,11 +115,13 @@
 -  Mar 16, 2021 - **[10 MariachiPunks, 10.0%](https://opensea.io/collection/mariachipunks)** - 7 owner(s), 8 sale(s) -  Ξ2.16 (~ US$ 2808)
 -  Mar 15, 2021 - **[34 Genius Punks, 7.5%](https://opensea.io/collection/genius-punks)** - 11 owner(s), 28 sale(s) -  Ξ6.44 (~ US$ 8372)
 -  Mar 12, 2021 - **[91 Monster Punks, 10.0%](https://opensea.io/collection/monster-punks)** - 39 owner(s), 93 sale(s) -  Ξ3.74 (~ US$ 4858)
+-  Mar 11, 2021 - **[90 RapPunks, 6.0%](https://opensea.io/collection/rappunks)** - 42 owner(s), 87 sale(s) -  Ξ46.29 (~ US$ 60174)
 -  Mar 07, 2021 - **[997 The Pixel Portraits OG Collection, 10.0%](https://opensea.io/collection/the-pixel-portraits-og)** - 547 owner(s), 1030 sale(s) -  Ξ104.37 (~ US$ 135680)
 
 **February**
 
 -  Feb 28, 2021 - **[147 B&W Punks, -](https://opensea.io/collection/bwpunks)** - 67 owner(s), 118 sale(s) -  Ξ56.28 (~ US$ 73164)
+-  Feb 26, 2021 - **[30 BespokedPunks, 10.0%](https://opensea.io/collection/bespokedpunks)** - 20 owner(s), 16 sale(s) -  Ξ2.93 (~ US$ 3809)
 -  Feb 25, 2021 - **[19 FacelessPunks, 10.0%](https://opensea.io/collection/facelesspunks)** - 13 owner(s), 23 sale(s) -  Ξ5.44 (~ US$ 7072)
 -  Feb 23, 2021 - **[999 Anime Punks, 10.0%](https://opensea.io/collection/anime-punks)** - 341 owner(s), 953 sale(s) -  Ξ139.21 (~ US$ 180978)
 -  Feb 21, 2021 - **[89 Laser Eye Punks, 10.0%](https://opensea.io/collection/laser-eye-punks)** - 54 owner(s), 65 sale(s) -  Ξ8.58 (~ US$ 11153)
