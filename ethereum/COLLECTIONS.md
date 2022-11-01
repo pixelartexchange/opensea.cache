@@ -1,5 +1,152 @@
 # Collections
 
+##  Haunted Punks 666
+
+opensea: [haunted-punks-666](https://opensea.io/collection/haunted-punks-666) - created on Oct 31, 2022<br>
+
+contracts (1):
+- **Haunted Punks (HNTDPNKS)** created on Oct 31, 2022 @ [0xaf9f4d97d9b5d2e0b384e3203b311594b3de23ea](https://etherscan.io/address/0xaf9f4d97d9b5d2e0b384e3203b311594b3de23ea)
+
+stats:
+- count / total supply: 264 / 264, num owners:  255
+- total sales:  0
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (5):</summary>
+
+- Background (5)
+- Background Traits (9)
+- Bodies (5)
+- Mouth Attributes (24)
+- Hair Traits (11)
+
+</details>
+
+
+##  Halloween-Punks
+
+opensea: [halloweenpunks-here](https://opensea.io/collection/halloweenpunks-here) - created on Oct 31, 2022<br>
+web:  <https://www.halloweenpunks.com/><br>
+twitter: [HalloweenPunks](https://twitter.com/HalloweenPunks)<br>
+
+contracts (1):
+- **Halloween Punks (HWP)** created on Oct 31, 2022 @ [0xdb826b7492409a358e44702fd022565554430d3e](https://etherscan.io/address/0xdb826b7492409a358e44702fd022565554430d3e)
+
+stats:
+- count / total supply: 135 / 135, num owners:  36
+- total sales:  0
+
+fees: seller 6.9%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (6):</summary>
+
+- Background (3)
+- Body (17)
+- Eyes (14)
+- Mouth (16)
+- Hat (17)
+- Accessory (18)
+
+</details>
+
+
+##  CryptoPepePunks
+
+opensea: [cryptopepepunks](https://opensea.io/collection/cryptopepepunks) - created on Oct 30, 2022<br>
+web:  <https://www.aloroler.io/cpp/><br>
+twitter: [CryptoPepePunks](https://twitter.com/CryptoPepePunks)<br>
+
+contracts (1):
+- **CryptoPepePunks (CPP)** created on Oct 30, 2022 @ [0xcb11c48bce08ada2223b0966a283cc9c014707d6](https://etherscan.io/address/0xcb11c48bce08ada2223b0966a283cc9c014707d6)
+
+stats:
+- count / total supply: 9915 / 9915, num owners:  297
+- total sales:  42, total volume: Ξ0.05 (~ US$ 70.85)
+- average price: Ξ0.001297642857142857 (~ US$ 1.69)
+- floor price: Ξ0.0004 (~ US$ 0.52)
+
+fees: seller 6.9%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (2):</summary>
+
+- Accessory (95)
+- Type (5)
+
+</details>
+
+
+##  EdgePunks
+
+opensea: [theedgepunks](https://opensea.io/collection/theedgepunks) - created on Oct 29, 2022<br>
+web:  <https://app.indelible.xyz/mint/0x83921cb2bdfe8f70aa2988a20dd8b91c197b04b9><br>
+twitter: [TheEdgeFiles](https://twitter.com/TheEdgeFiles)<br>
+
+contracts (1):
+- **EdgePunks (EPUNK)** created on Oct 29, 2022 @ [0x83921cb2bdfe8f70aa2988a20dd8b91c197b04b9](https://etherscan.io/address/0x83921cb2bdfe8f70aa2988a20dd8b91c197b04b9)
+
+stats:
+- count / total supply: 888 / 888, num owners:  274
+- total sales:  162, total volume: Ξ2.67 (~ US$ 3469)
+- average price: Ξ0.02 (~ US$ 21.41)
+- floor price: Ξ0.009 (~ US$ 12.22)
+
+fees: seller -, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (7):</summary>
+
+- EYES (19)
+- HAT (26)
+- MOUTH (17)
+- CLOTHES (15)
+- BODY (13)
+- BACKGROUND (3)
+- 1/1 (19)
+
+</details>
+
+
+##  TheAussies
+
+opensea: [theaussies](https://opensea.io/collection/theaussies) - created on Oct 28, 2022<br>
+twitter: [TheAussies_NFT](https://twitter.com/TheAussies_NFT)<br>
+
+contracts (1):
+- **TheAussies (TheAussies)** created on Oct 28, 2022 @ [0x43dfe4a8d4b9889183dd20ac5da466228e86ff51](https://etherscan.io/address/0x43dfe4a8d4b9889183dd20ac5da466228e86ff51)
+
+stats:
+- count / total supply: 2022 / 2022, num owners:  607
+- total sales:  1213, total volume: Ξ9.48 (~ US$ 12330)
+- average price: Ξ0.008 (~ US$ 10.16)
+- floor price: Ξ0.004 (~ US$ 5.20)
+
+fees: seller 7.5%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (9):</summary>
+
+- 1 of 1 (26)
+- Background (6)
+- Aussie Bloke (5)
+- Eyes (13)
+- Facial Hair (15)
+- Mouth (21)
+- Headware (48)
+- Accessories (26)
+- Aussie Sheila (5)
+
+</details>
+
+
 ##  Phunkverse
 
 opensea: [phunkverse](https://opensea.io/collection/phunkverse) - created on Oct 24, 2022<br>
@@ -1031,6 +1178,49 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 - Mouth (5)
 - Neck Accessory (4)
 - Special (3)
+
+</details>
+
+
+##  Renegade Punks
+
+opensea: [renegade-punks](https://opensea.io/collection/renegade-punks) - created on Mar 21, 2022<br>
+twitter: [renegadepunks](https://twitter.com/renegadepunks)<br>
+
+contracts (1):
+- **Renegade Punks (RENEGADE)** created on Mar 21, 2022 @ [0xba02e04c96ee4b38f8ad5b6cd0444ea23854c97f](https://etherscan.io/address/0xba02e04c96ee4b38f8ad5b6cd0444ea23854c97f)
+
+stats:
+- count / total supply: 10000 / 10000, num owners:  450
+- total sales:  980, total volume: Ξ2.90 (~ US$ 3772)
+- average price: Ξ0.003 (~ US$ 3.85)
+- floor price: Ξ0.005 (~ US$ 6.50)
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (19):</summary>
+
+- Background (7)
+- Human Female (6)
+- Eye Color (7)
+- Head (179)
+- Mouth Accessory (10)
+- Zombie (1)
+- Earring (16)
+- Eyewear (33)
+- Human Male (1)
+- Skin (5)
+- Facial Hair (44)
+- Necklace (4)
+- Mouth (14)
+- Makeup (10)
+- Mutant (1)
+- Alien (1)
+- Internal (2)
+- Ghost (1)
+- Robot (1)
 
 </details>
 

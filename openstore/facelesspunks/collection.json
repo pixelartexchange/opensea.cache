@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/bG4lyJ6526AHV-uiHcfGL5U0Rjqqq2JnZBrjySWsn4pP2C_AlfoHILdLy_VFloB3os_ENwGd3ND7KQf0rNXGVxyQ3vAM_CIhfsx0wA?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-02-25T02:47:06.222042+00:00",
+  "default_to_fiat": false,
+  "description": "FacelessPunks™ are a subgenre of Unofficial Punks™. Punks with personality that started as an organic social collaboration paying homage to the OG punks.\n\nThese are 19 punks with no faces as distinct from punks with faces.\n\n⚠️This project is not affiliated with Larva Labs.",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "https://kbometaverse.com/",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/zj8ycIEzr7jQAC_1TGxE0qriLZpodFuE5q11aqsTUusOxwBTL0jsw82s9BhHxWGuFeVyImKKoOZaLpt_xJyBYhx8KQntKpGXSxGstNs?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/zj8ycIEzr7jQAC_1TGxE0qriLZpodFuE5q11aqsTUusOxwBTL0jsw82s9BhHxWGuFeVyImKKoOZaLpt_xJyBYhx8KQntKpGXSxGstNs?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/zj8ycIEzr7jQAC_1TGxE0qriLZpodFuE5q11aqsTUusOxwBTL0jsw82s9BhHxWGuFeVyImKKoOZaLpt_xJyBYhx8KQntKpGXSxGstNs?w=500&auto=format",
+  "medium_username": null,
+  "name": "FacelessPunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "facelesspunks",
+  "telegram_url": null,
+  "twitter_username": "facelesspunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xa13e1b3e5959378df847fce2161cee55df64cc1f": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

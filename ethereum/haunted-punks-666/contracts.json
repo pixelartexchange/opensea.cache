@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xaf9f4d97d9b5d2e0b384e3203b311594b3de23ea",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-10-31T22:31:49.714894",
+    "name": "Haunted Punks",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 594217429,
+    "schema_name": "ERC721",
+    "symbol": "HNTDPNKS",
+    "total_supply": "0",
+    "description": "A Collection possessed with 5555 demonic punks on the verge of fleeing their graves. Some with minions…",
+    "external_link": null,
+    "image_url": "https://i.seadn.io/gcs/files/1fe7ccdba25bf2673fed53f72ade13a6.jpg?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

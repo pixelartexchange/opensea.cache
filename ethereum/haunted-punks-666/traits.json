@@ -1,0 +1,66 @@
+{
+  "Background": {
+    "purple": 52,
+    "red": 55,
+    "orange": 53,
+    "blue": 64,
+    "green": 39
+  },
+  "Background Traits": {
+    "slender": 33,
+    "spider": 28,
+    "bats": 30,
+    "eyes": 34,
+    "spider web": 32,
+    "empty": 26,
+    "ghost": 26,
+    "pumkin": 24,
+    "skulls": 30
+  },
+  "Bodies": {
+    "body 1": 39,
+    "body 2": 60,
+    "body 5": 57,
+    "body 3": 63,
+    "body 4": 44
+  },
+  "Mouth Attributes": {
+    "vampire fangs": 11,
+    "the mask": 12,
+    "bloody chucky": 13,
+    "the joker": 8,
+    "robe": 6,
+    "twoface": 16,
+    "scream": 7,
+    "bloody": 15,
+    "jason mask": 14,
+    "hero": 10,
+    "headshot": 10,
+    "sad": 12,
+    "hannibal mask": 9,
+    "pennywise": 15,
+    "beaten": 8,
+    "frankenstein": 10,
+    "greybeard": 14,
+    "happy": 15,
+    "the exorcist": 11,
+    "big beard": 6,
+    "alien drool": 10,
+    "annabelle": 11,
+    "bloodmouth": 10,
+    "tired": 10
+  },
+  "Hair Traits": {
+    "crazy hair": 20,
+    "brahms": 28,
+    "frankenstein": 32,
+    "the ring hair": 31,
+    "pale man": 23,
+    "harry potter glasses": 22,
+    "hair": 18,
+    "witch hat": 21,
+    "possessed": 19,
+    "chucky hair": 28,
+    "cursed eyes": 21
+  }
+}

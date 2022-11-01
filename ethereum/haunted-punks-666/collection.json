@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/d9555ead087f6b92dc2bf761b01395b2.jpg?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-10-31T22:33:50.084889+00:00",
+  "default_to_fiat": false,
+  "description": "A Collection possessed with 5555 demonic punks on the verge of fleeing their graves. Some with minions…",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/d9555ead087f6b92dc2bf761b01395b2.jpg?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/1fe7ccdba25bf2673fed53f72ade13a6.jpg?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/d9555ead087f6b92dc2bf761b01395b2.jpg?w=500&auto=format",
+  "medium_username": null,
+  "name": "Haunted Punks 666",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "haunted-punks-666",
+  "telegram_url": null,
+  "twitter_username": null,
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x0af71cfdd48e6d594a19ea560f0a86df54871948": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

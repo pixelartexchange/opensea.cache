@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xdb826b7492409a358e44702fd022565554430d3e",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-10-31T16:19:37.044845",
+    "name": "Halloween Punks",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 591697119,
+    "schema_name": "ERC721",
+    "symbol": "HWP",
+    "total_supply": "100",
+    "description": "Halloween Punks - an essential attribute for such a beautiful and terrifying holiday. Welcome to the celebration!",
+    "external_link": "https://www.halloweenpunks.com/",
+    "image_url": "https://i.seadn.io/gcs/files/034aee8e54b316d67851e60a144228cb.png?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

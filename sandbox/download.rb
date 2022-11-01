@@ -45,20 +45,13 @@ slugs = slugs.sort    ## sort a-z
 
 
 
-slugs = ["etherbears",
-"monkerunners-official",
-"moonbears-nft",
-"moonbirdpunks",
-"moon-goblz",
-"moonquacks",
-"moonrunnersnft",
-"moonstalkers",
-"nounpunks-eth",
-"papc-punk-ape-pixel-club",
-"pridepunks2018",
-"pixelpudgies",
-"crypto-pudgy-punks",
-"unemployables"]
+slugs = %w[
+  halloweenpunks-here
+  cryptopepepunks
+  theedgepunks
+  theaussies
+  haunted-punks-666
+]
 
 # cache.download( slugs, :stats )
 cache.download( slugs )

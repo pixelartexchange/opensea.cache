@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/lec87jvEf1Vu7dJpxo_Vkg7_Xl3e_5MJ1K3F4W-S6UDovQ0CVscIQmZFfGQFdWhGgLNcf1nZJ_4TIQmN3HjL1Mo5YyUAU6267IBl?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-06-30T14:15:09.120038+00:00",
+  "default_to_fiat": false,
+  "description": "THIS COLLECTION IS MIGRATING TO ERC721 ( https://migration.fastfoodpunks.com ) and can be found here https://opensea.io/collection/fastfoodpunks. You can find more information about the contract swap over at our discord http://discord.gg/fastfoodpunks\n",
+  "discord_url": "https://discord.gg/fastfoodpunks",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "http://www.fastfoodpunks.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/S7LXvXyfOowmPAeB6XqclWp_l3W6J1ksKr8EyslvVWMo6vAPN8rqxsWkNScwxpfWvvf9vnvbxGWGpU9NK7baxFag_U9qyd0SYqLAgiE?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/SIwsJXHU7ZstQVl5i4isZFp60NutUL74Jf24j9YfpFVaUstRDTTgJdqqwk3K_A-MRO2N6wbyUH9tUorFlQ_WUuTNU7A6HJLGjtbQGQ?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/S7LXvXyfOowmPAeB6XqclWp_l3W6J1ksKr8EyslvVWMo6vAPN8rqxsWkNScwxpfWvvf9vnvbxGWGpU9NK7baxFag_U9qyd0SYqLAgiE?w=500&auto=format",
+  "medium_username": null,
+  "name": "Fast Food Punks (ERC-115)",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "erc1155ffp",
+  "telegram_url": null,
+  "twitter_username": "FastFoodPunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x78545fbdb003fb0ee0a4ee90c11688d5dec8aea0": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

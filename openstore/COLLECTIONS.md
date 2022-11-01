@@ -597,6 +597,30 @@ payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 </details>
 
 
+##  Fast Food Punks (ERC-115)
+
+opensea: [erc1155ffp](https://opensea.io/collection/erc1155ffp) - created on Jun 30, 2021<br>
+web:  <http://www.fastfoodpunks.com><br>
+twitter: [FastFoodPunks](https://twitter.com/FastFoodPunks)<br>
+
+stats:
+- count / total supply: 448 / 448, num owners:  268
+- total sales:  2828, total volume: Ξ3966.41 (~ US$ 5.2 million(s))
+- average price: Ξ1.40 (~ US$ 1823)
+- floor price: Ξ0.40 (~ US$ 520.00)
+
+fees: seller 10.0%, opensea 2.5%
+
+payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
+
+<details><summary>attribute categories (2):</summary>
+
+- Retro Cap (1)
+- Robot (1)
+
+</details>
+
+
 ##  DogePunks.
 
 opensea: [dogepunks-collection](https://opensea.io/collection/dogepunks-collection) - created on Jun 15, 2021<br>
@@ -1003,6 +1027,31 @@ payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 </details>
 
 
+##  Monster Punks
+
+opensea: [monster-punks](https://opensea.io/collection/monster-punks) - created on Mar 12, 2021<br>
+twitter: [PunksMonster](https://twitter.com/PunksMonster)<br>
+
+stats:
+- count / total supply: 91 / 91, num owners:  39
+- total sales:  93, total volume: Ξ3.74 (~ US$ 4858)
+- average price: Ξ0.04 (~ US$ 52.24)
+- floor price: Ξ0.001 (~ US$ 1.30)
+
+fees: seller 10.0%, opensea 2.5%
+
+payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
+
+<details><summary>attribute categories (4):</summary>
+
+- ??? (1)
+- Certified (1)
+- Collab (2)
+- Rarity (6)
+
+</details>
+
+
 ##  The Pixel Portraits OG Collection
 
 opensea: [the-pixel-portraits-og](https://opensea.io/collection/the-pixel-portraits-og) - created on Mar 07, 2021<br>
@@ -1106,6 +1155,29 @@ payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 </details>
 
 
+##  FacelessPunks
+
+opensea: [facelesspunks](https://opensea.io/collection/facelesspunks) - created on Feb 25, 2021<br>
+web:  <https://kbometaverse.com/><br>
+twitter: [facelesspunks](https://twitter.com/facelesspunks)<br>
+
+stats:
+- count / total supply: 19 / 19, num owners:  13
+- total sales:  23, total volume: Ξ5.44 (~ US$ 7072)
+- average price: Ξ0.24 (~ US$ 307.48)
+- floor price: ???
+
+fees: seller 10.0%, opensea 2.5%
+
+payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
+
+<details><summary>attribute categories (1):</summary>
+
+- Certified (1)
+
+</details>
+
+
 ##  Anime Punks
 
 opensea: [anime-punks](https://opensea.io/collection/anime-punks) - created on Feb 23, 2021<br>
@@ -1178,6 +1250,29 @@ payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 - Special (9)
 - type (1)
 - YoungGirlsLove (1)
+
+</details>
+
+
+##  Laser Eye Punks
+
+opensea: [laser-eye-punks](https://opensea.io/collection/laser-eye-punks) - created on Feb 21, 2021<br>
+web:  <https://twitter.com/lasereyepunks><br>
+twitter: [lasereyepunks](https://twitter.com/lasereyepunks)<br>
+
+stats:
+- count / total supply: 89 / 89, num owners:  54
+- total sales:  65, total volume: Ξ8.58 (~ US$ 11153)
+- average price: Ξ0.13 (~ US$ 171.59)
+- floor price: Ξ0.14 (~ US$ 182.00)
+
+fees: seller 10.0%, opensea 2.5%
+
+payments (5): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC), Uniswap (UNI)
+
+<details><summary>attribute categories (1):</summary>
+
+- Certified (1)
 
 </details>
 

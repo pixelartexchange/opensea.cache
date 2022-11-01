@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/bcfbd3e89e94bd03b4f81db986f50a7f.jpg?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-10-30T07:33:02.902624+00:00",
+  "default_to_fiat": false,
+  "description": "From l33t h@x0r @aloroler CryptoPepePunks is a collection of 10000…err…9915 Pepe characters on the blockchain…cc0 #freemint ",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://www.aloroler.io/cpp/",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/ea1e73a5f9c082a5f8215318fb6f815d.jpg?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/87806c59b197230895a80ae088fb0c9e.jpg?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/ea1e73a5f9c082a5f8215318fb6f815d.jpg?w=500&auto=format",
+  "medium_username": null,
+  "name": "CryptoPepePunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "cryptopepepunks",
+  "telegram_url": null,
+  "twitter_username": "CryptoPepePunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x9dcf2e24716b3920364719c889a582163ea6ea8a": 690
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

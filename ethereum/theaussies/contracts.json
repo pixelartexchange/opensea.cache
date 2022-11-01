@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x43dfe4a8d4b9889183dd20ac5da466228e86ff51",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-10-28T19:27:00.762265",
+    "name": "TheAussies",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 567767055,
+    "schema_name": "ERC721",
+    "symbol": "TheAussies",
+    "total_supply": "50",
+    "description": "2022 Aussie Blokes and Sheilas minting for free celebrating the rise of #AussieWeb3!\n\nWith some interesting mechanics like pfps that can change in relation to your twitter behaviour, and can even lead to token burning. Strewth, better behave yourself! \n\nYou can go to the pub to earn while you own,  and funds from secondary sales will be used to expand the project. ",
+    "external_link": null,
+    "image_url": "https://i.seadn.io/gcs/files/1a87a47a87f668f16d5378c2d75a0a26.png?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

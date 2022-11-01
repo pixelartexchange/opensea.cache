@@ -16,6 +16,8 @@
    - owners: 65,   sales:  105   -  Ξ13.06 (~ US$ 16984) @    price avg Ξ0.12 (~ US$ 161.76),   floor Ξ0.13 (~ US$ 169.00)
 -  1 in 30d - Ξ0.14 (~ US$ 182.00), 0 in 7d/1d  **[600 DubaiPeeps (Oct 25, 2021), 10.0%](https://opensea.io/collection/dubaipeeps)**
    - owners: 280,   sales:  614   -  Ξ73.56 (~ US$ 95629) @    price avg Ξ0.12 (~ US$ 155.75),   floor Ξ0.28 (~ US$ 364.00)
+-  2 in 30d - Ξ0.12 (~ US$ 157.30), 0 in 7d/1d  **[448 Fast Food Punks (ERC-115) (Jun 30, 2021), 10.0%](https://opensea.io/collection/erc1155ffp)**
+   - owners: 268,   sales:  2828   -  Ξ3966.41 (~ US$ 5.2 million(s)) @    price avg Ξ1.40 (~ US$ 1823),   floor Ξ0.40 (~ US$ 520.00)
 -  7 in 30d - Ξ0.09 (~ US$ 117.00), 0 in 7d/1d  **[932 CryptoGreats (Mar 18, 2021), 10.0%](https://opensea.io/collection/cryptogreats)**
    - owners: 139,   sales:  624   -  Ξ10.71 (~ US$ 13922) @    price avg Ξ0.02 (~ US$ 22.31),   floor Ξ0.010 (~ US$ 13.00)
 -  3 in 30d - Ξ0.09 (~ US$ 113.10), 0 in 7d/1d  **[982 KimonoNinjaPunks (May 23, 2021), 10.0%](https://opensea.io/collection/kimono-punks)**
@@ -78,7 +80,13 @@
    - owners: 7,   sales:  8   -  Ξ2.16 (~ US$ 2808) @    price avg Ξ0.27 (~ US$ 351.00),   floor Ξ0.27 (~ US$ 351.00)
 -  0 in 30d/7d/1d  **[34 Genius Punks (Mar 15, 2021), 7.5%](https://opensea.io/collection/genius-punks)**
    - owners: 11,   sales:  28   -  Ξ6.44 (~ US$ 8372) @    price avg Ξ0.23 (~ US$ 299.00),   floor ???
+-  0 in 30d/7d/1d  **[91 Monster Punks (Mar 12, 2021), 10.0%](https://opensea.io/collection/monster-punks)**
+   - owners: 39,   sales:  93   -  Ξ3.74 (~ US$ 4858) @    price avg Ξ0.04 (~ US$ 52.24),   floor Ξ0.001 (~ US$ 1.30)
 -  0 in 30d/7d/1d  **[147 B&W Punks (Feb 28, 2021), -](https://opensea.io/collection/bwpunks)**
    - owners: 67,   sales:  118   -  Ξ56.28 (~ US$ 73164) @    price avg Ξ0.48 (~ US$ 620.03),   floor Ξ0.04 (~ US$ 58.50)
+-  0 in 30d/7d/1d  **[19 FacelessPunks (Feb 25, 2021), 10.0%](https://opensea.io/collection/facelesspunks)**
+   - owners: 13,   sales:  23   -  Ξ5.44 (~ US$ 7072) @    price avg Ξ0.24 (~ US$ 307.48),   floor ???
+-  0 in 30d/7d/1d  **[89 Laser Eye Punks (Feb 21, 2021), 10.0%](https://opensea.io/collection/laser-eye-punks)**
+   - owners: 54,   sales:  65   -  Ξ8.58 (~ US$ 11153) @    price avg Ξ0.13 (~ US$ 171.59),   floor Ξ0.14 (~ US$ 182.00)
 -  0 in 30d/7d/1d  **[99 Unofficial Punks (Feb 21, 2021), 10.0%](https://opensea.io/collection/unofficialpunks)**
    - owners: 82,   sales:  167   -  Ξ144.51 (~ US$ 187859) @    price avg Ξ0.86 (~ US$ 1121),   floor Ξ0.40 (~ US$ 520.00)

@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xcb11c48bce08ada2223b0966a283cc9c014707d6",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-10-30T06:47:37.563328",
+    "name": "CryptoPepePunks",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 67801482,
+    "schema_name": "ERC721",
+    "symbol": "CPP",
+    "total_supply": "0",
+    "description": "From l33t h@x0r @aloroler CryptoPepePunks is a collection of 10000…err…9915 Pepe characters on the blockchain…cc0 #freemint ",
+    "external_link": "https://www.aloroler.io/cpp/",
+    "image_url": "https://i.seadn.io/gcs/files/87806c59b197230895a80ae088fb0c9e.jpg?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/c6bDJZitS9vTiTFhHsYOXfp1RYLBh8tvOVplb2vsqjK55N7PUAWUdZJ9J3rslPVRUwQIXI3ghkiTM1d4CWNNgRQh4fxayriD1OaRPg?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-02-21T07:47:08.083082+00:00",
+  "default_to_fiat": false,
+  "description": "Laser Eye Punks is the second oldest subgenre of Unofficial Punks. It paying homage to the OG punks and laser eye meme💥💥Only 100 laser eye punks will be ever created.\n\n🌈 since february '21",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": "https://twitter.com/lasereyepunks",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/Td2eQ3papJJ1QeAjbVXOAoa7Pkp6CfbrTfybAD-sp1vjSMqrGydGu440PUVAaB6PCbiOUGIVkDrGkAY7KrvPTNELwc-dNIJ8V4e7?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/7xwQnX7waR5pVEsqzWFZU80NOLrnebKQDzh9fKAu87LUskLsDnlqQaGKS-vWH2PTntxvrwlnY_e9aoHkHuKbxhIVOmCC35hzwkgazf0?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/Td2eQ3papJJ1QeAjbVXOAoa7Pkp6CfbrTfybAD-sp1vjSMqrGydGu440PUVAaB6PCbiOUGIVkDrGkAY7KrvPTNELwc-dNIJ8V4e7?w=500&auto=format",
+  "medium_username": null,
+  "name": "Laser Eye Punks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "laser-eye-punks",
+  "telegram_url": null,
+  "twitter_username": "lasereyepunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xddfdbb1f6c8c1ede57be7d3edcc45d88924b3926": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

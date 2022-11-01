@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/cab0349243c22a397ce1d49a0fbcb78e.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-10-31T16:19:38.606320+00:00",
+  "default_to_fiat": false,
+  "description": "Halloween Punks - an essential attribute for such a beautiful and terrifying holiday. Welcome to the celebration!",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://www.halloweenpunks.com/",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/07630127e715265fcfa7e60fc7e8d0e6.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/034aee8e54b316d67851e60a144228cb.png?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/07630127e715265fcfa7e60fc7e8d0e6.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "Halloween-Punks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "halloweenpunks-here",
+  "telegram_url": null,
+  "twitter_username": "HalloweenPunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xdf4a6c36461b3a403bd835601138ed58f8171e4d": 690
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

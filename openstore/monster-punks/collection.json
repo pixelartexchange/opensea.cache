@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/FkzoNLK0NVf7iLQC-Js68E4RYJNGo2B2mEkSU36a5imdbzsqxtCLRapiw7COPnsPCoUGAo5_qX_xMmWYSSVOZ0WnKFqDAp1q7if2?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-03-12T12:47:41.715214+00:00",
+  "default_to_fiat": false,
+  "description": "#MonsterPunks is the certified subgenre of Unofficial Punks,\r\npaying homage to the OG punks and creepy monsters. \r\nThis is a limited collection of 91 unique items. Not a single more will be added\r\n⚠️ Not affiliated with Larva Labs",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/6mmffYz-L07nSn9zWRTJY83U3ExzKWVt_oRYEYxe1zrGyWYIFNyA--4Rebv4zCJ1BeUDLu5ZrCsVwVD1F9FaCe34BLw2SaprOvZYoQ?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/e-qzTZ6YmYm-qsRcunV21IFXvVAywuLrB4dIv2H742GLlOgHME6P0kfo51UaJNhY2iCL-ZIBrwx3QLWsyhzGl9xGctrfJD6oNVm6?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/6mmffYz-L07nSn9zWRTJY83U3ExzKWVt_oRYEYxe1zrGyWYIFNyA--4Rebv4zCJ1BeUDLu5ZrCsVwVD1F9FaCe34BLw2SaprOvZYoQ?w=500&auto=format",
+  "medium_username": null,
+  "name": "Monster Punks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "monster-punks",
+  "telegram_url": null,
+  "twitter_username": "PunksMonster",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x417562bb3a147abd43835904ea5148bd79b92c13": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

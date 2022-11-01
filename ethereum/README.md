@@ -6,7 +6,7 @@
 
 
 
-**October** - [16 Phunkverse](https://opensea.io/collection/phunkverse) • [1 OnlyPhunks](https://opensea.io/collection/onlyphunks)
+**October** - [264 Haunted Punks 666](https://opensea.io/collection/haunted-punks-666) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/hauntedpunks-strip.png) • [135 Halloween-Punks](https://opensea.io/collection/halloweenpunks-here) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/halloweenpunks-strip.png) • [9915 CryptoPepePunks](https://opensea.io/collection/cryptopepepunks) • [888 EdgePunks](https://opensea.io/collection/theedgepunks) • [2022 TheAussies](https://opensea.io/collection/theaussies) • [16 Phunkverse](https://opensea.io/collection/phunkverse) • [1 OnlyPhunks](https://opensea.io/collection/onlyphunks)
 
 **September** - [5000 Phunk APE Origins](https://opensea.io/collection/phunk-ape-origins) • [4985 PUNK APES YC](https://opensea.io/collection/punk-ape-yacht-club-v2)
 
@@ -20,7 +20,7 @@
 
 **April** - [3520 Moonbears NFT](https://opensea.io/collection/moonbears-nft) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/moonbears-strip.png) • [2469 MoonbirdPunks](https://opensea.io/collection/moonbirdpunks) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/moonbirdpunks-strip.png) • [10000 Moonbirds](https://opensea.io/collection/proof-moonbirds) • [5000 Unemployables](https://opensea.io/collection/unemployables) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/unemployables-strip.png)
 
-**March** - [8888 EightBit Me](https://opensea.io/collection/eightbitme) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/eightbitme-strip.png) • [368 PAPC - Punk Ape Pixel Club OG](https://opensea.io/collection/papc-punk-ape-pixel-club) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/papc-punk-ape-pixel-club-strip.png)
+**March** - [8888 EightBit Me](https://opensea.io/collection/eightbitme) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/eightbitme-strip.png) • [368 PAPC - Punk Ape Pixel Club OG](https://opensea.io/collection/papc-punk-ape-pixel-club) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/papc-punk-ape-pixel-club-strip.png) • [10000 Renegade Punks](https://opensea.io/collection/renegade-punks)
 
 **February** - [9973 BinaryApes](https://opensea.io/collection/binaryapes) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/binaryapes-strip.png) • [9497 V1 Phunks](https://opensea.io/collection/v1-phunks) • [240 SelfMadePunks](https://opensea.io/collection/selfmadepunks) • [9996 V3 Punks](https://opensea.io/collection/v3-cryptopunks)
 
@@ -65,6 +65,16 @@
 
 **October**
 
+-  Oct 31, 2022 - **[264 Haunted Punks 666, 5.0%](https://opensea.io/collection/haunted-punks-666)** - 255 owner(s) <br> ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/hauntedpunks-strip.png)
+    - **Haunted Punks (HNTDPNKS)** @ [0xaf9f4d97d9b5d2e0b384e3203b311594b3de23ea](https://etherscan.io/address/0xaf9f4d97d9b5d2e0b384e3203b311594b3de23ea)
+-  Oct 31, 2022 - **[135 Halloween-Punks, 6.9%](https://opensea.io/collection/halloweenpunks-here)** - 36 owner(s) <br> ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/halloweenpunks-strip.png)
+    - **Halloween Punks (HWP)** @ [0xdb826b7492409a358e44702fd022565554430d3e](https://etherscan.io/address/0xdb826b7492409a358e44702fd022565554430d3e)
+-  Oct 30, 2022 - **[9915 CryptoPepePunks, 6.9%](https://opensea.io/collection/cryptopepepunks)** - 297 owner(s), 42 sale(s) -  Ξ0.05 (~ US$ 70.85)
+    - **CryptoPepePunks (CPP)** @ [0xcb11c48bce08ada2223b0966a283cc9c014707d6](https://etherscan.io/address/0xcb11c48bce08ada2223b0966a283cc9c014707d6)
+-  Oct 29, 2022 - **[888 EdgePunks, -](https://opensea.io/collection/theedgepunks)** - 274 owner(s), 162 sale(s) -  Ξ2.67 (~ US$ 3469)
+    - **EdgePunks (EPUNK)** @ [0x83921cb2bdfe8f70aa2988a20dd8b91c197b04b9](https://etherscan.io/address/0x83921cb2bdfe8f70aa2988a20dd8b91c197b04b9)
+-  Oct 28, 2022 - **[2022 TheAussies, 7.5%](https://opensea.io/collection/theaussies)** - 607 owner(s), 1213 sale(s) -  Ξ9.48 (~ US$ 12330)
+    - **TheAussies (TheAussies)** @ [0x43dfe4a8d4b9889183dd20ac5da466228e86ff51](https://etherscan.io/address/0x43dfe4a8d4b9889183dd20ac5da466228e86ff51)
 -  Oct 24, 2022 - **[16 Phunkverse, -](https://opensea.io/collection/phunkverse)** - 7 owner(s)
     - **Phunkverse (PHNKVRS)** @ [0xd6a6e1e60dd1f82ad378b16fac00cf1d0a25f2e7](https://etherscan.io/address/0xd6a6e1e60dd1f82ad378b16fac00cf1d0a25f2e7)
 -  Oct 23, 2022 - **[1 OnlyPhunks, 6.9%](https://opensea.io/collection/onlyphunks)** - 1 owner(s)
@@ -148,6 +158,8 @@
     - **EightBit (BIT)** @ [0x6080b6d2c02e9a0853495b87ce6a65e353b74744](https://etherscan.io/address/0x6080b6d2c02e9a0853495b87ce6a65e353b74744)
 -  Mar 24, 2022 - **[368 PAPC - Punk Ape Pixel Club OG, 10.0%](https://opensea.io/collection/papc-punk-ape-pixel-club)** - 128 owner(s), 94 sale(s) -  Ξ10.61 (~ US$ 13790) <br> ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/papc-punk-ape-pixel-club-strip.png)
     - **Punk Ape Pixel Club (PAPC)** @ [0x4af30b139f60c5f9ef5a494674d41e93114f5e1e](https://etherscan.io/address/0x4af30b139f60c5f9ef5a494674d41e93114f5e1e)
+-  Mar 21, 2022 - **[10000 Renegade Punks, 5.0%](https://opensea.io/collection/renegade-punks)** - 450 owner(s), 980 sale(s) -  Ξ2.90 (~ US$ 3772)
+    - **Renegade Punks (RENEGADE)** @ [0xba02e04c96ee4b38f8ad5b6cd0444ea23854c97f](https://etherscan.io/address/0xba02e04c96ee4b38f8ad5b6cd0444ea23854c97f)
 
 **February**
 

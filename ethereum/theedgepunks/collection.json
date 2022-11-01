@@ -1,0 +1,38 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/EuAhRRi8k5GaoY0w3vy5tjbYeaxhC6YFZHZ9q4Yl4zO8oq9kUJs27qjYJ1io-7QdJtuNMcikBDKF97LheVAYzzCQWTPOO3g2C1Q9?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-10-29T21:36:40.598677+00:00",
+  "default_to_fiat": false,
+  "description": "TEF is a mysterious community that participates in the development of web3 communities and actors. | The EdgePunks grants access to TEF hubs. | CC0 & On-Chain.",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://app.indelible.xyz/mint/0x83921cb2bdfe8f70aa2988a20dd8b91c197b04b9",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/mqE1RfV4Fr2Xu6hSSYuJPo9N54VVjipszhebRwXj-GymlSq-zKbtJKpogE225bLUVGwnU4WBqmgPtBl8REg-n-2x36t9l-c2qibj?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/mqE1RfV4Fr2Xu6hSSYuJPo9N54VVjipszhebRwXj-GymlSq-zKbtJKpogE225bLUVGwnU4WBqmgPtBl8REg-n-2x36t9l-c2qibj?w=500&auto=format",
+  "medium_username": null,
+  "name": "EdgePunks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "theedgepunks",
+  "telegram_url": null,
+  "twitter_username": "TheEdgeFiles",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

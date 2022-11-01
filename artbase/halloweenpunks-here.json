@@ -1,0 +1,15 @@
+{
+  "slug": "halloweenpunks",
+  "count": 3332,
+  "token_base": "https://harlequin-personal-raccoon-365.mypinata.cloud/ipfs/QmR6RP42W4BpGz2pqDgFTKwmnVcEmR7mFNXdPJYFEdPsZB/{id}.json",
+  "image_base": "https://harlequin-personal-raccoon-365.mypinata.cloud/ipfs/QmcmTJMFfEhh4igPcd2rb7EnA13F9pJbaATp4sCnTntdr7/{id}.png",
+  "format": "24x24",
+  "source": "384x384",
+  "offset": 1,
+  "opensea": "halloweenpunks-here",
+  "token": {
+    "contract": "0xdb826b7492409a358e44702fd022565554430d3e"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/halloweenpunks/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/halloweenpunks-strip.png"
+}
