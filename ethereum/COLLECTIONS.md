@@ -837,6 +837,33 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 </details>
 
 
+##  Island Birds by Treasure Island
+
+opensea: [island-birds](https://opensea.io/collection/island-birds) - created on May 31, 2022<br>
+web:  <http://treasureisland.xyz><br>
+
+contracts (1):
+- **Treasure Island (TRE)** created on May 31, 2022 @ [0xa36054c85c7055d3315432e9cbed617a68d08ad6](https://etherscan.io/address/0xa36054c85c7055d3315432e9cbed617a68d08ad6)
+
+stats:
+- count / total supply: 15 / 15, num owners:  8
+- total sales:  0
+
+fees: seller 7.5%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (5):</summary>
+
+- Background (6)
+- Base (8)
+- Eyes (11)
+- Head (10)
+- Outerwear (6)
+
+</details>
+
+
 ##  Pixel goblintown
 
 opensea: [pixel-goblintown](https://opensea.io/collection/pixel-goblintown) - created on May 21, 2022<br>
@@ -964,6 +991,72 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 </details>
 
 
+##  Fast Food Moonbirds
+
+opensea: [fast-food-moonbirds](https://opensea.io/collection/fast-food-moonbirds) - created on Apr 21, 2022<br>
+web:  <https://fastfoodmoonbirds.xyz><br>
+
+contracts (1):
+- **Fast Food Moonbirds (FFMB)** created on Apr 21, 2022 @ [0xf837d4560683f6e243c743fadf429d64efdb810b](https://etherscan.io/address/0xf837d4560683f6e243c743fadf429d64efdb810b)
+
+stats:
+- count / total supply: 671 / 671, num owners:  161
+- total sales:  3, total volume: Ξ0.08 (~ US$ 109.20)
+- average price: Ξ0.03 (~ US$ 36.40)
+- floor price: Ξ0.02 (~ US$ 24.70)
+
+fees: seller 7.5%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (10):</summary>
+
+- Background (7)
+- Body (7)
+- Eyes (10)
+- Beak (3)
+- Headwear (28)
+- Outerwear (17)
+- Eyewear (7)
+- Drive-thru (1)
+- Legendary (1)
+- Employee Of The Month (1)
+
+</details>
+
+
+##  fastfoodbirds
+
+opensea: [fastfoodbirds](https://opensea.io/collection/fastfoodbirds) - created on Apr 21, 2022<br>
+twitter: [fastfoodbirds](https://twitter.com/fastfoodbirds)<br>
+
+contracts (1):
+- **FastFoodBirds (FastFoodBird)** created on Apr 19, 2022 @ [0xebd8d80d5926699f916e0f46574ee209c4cac49c](https://etherscan.io/address/0xebd8d80d5926699f916e0f46574ee209c4cac49c)
+
+stats:
+- count / total supply: 4991 / 4991, num owners:  1151
+- total sales:  1947, total volume: Ξ20.29 (~ US$ 26382)
+- average price: Ξ0.010 (~ US$ 13.55)
+- floor price: Ξ0.003 (~ US$ 4.29)
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (8):</summary>
+
+- Background (10)
+- Body (17)
+- Eyes (11)
+- Beak (3)
+- Outfit (12)
+- Feathers (18)
+- Headwear (34)
+- Eyewear (12)
+
+</details>
+
+
 ##  Moonbears NFT
 
 opensea: [moonbears-nft](https://opensea.io/collection/moonbears-nft) - created on Apr 18, 2022<br>
@@ -993,6 +1086,37 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 - Eyewear (10)
 - Headwear (6)
 - Special (4)
+
+</details>
+
+
+##  Starbirds
+
+opensea: [starbirds](https://opensea.io/collection/starbirds) - created on Apr 19, 2022<br>
+web:  <https://starbirds.io><br>
+twitter: [Starbirdsnft](https://twitter.com/Starbirdsnft)<br>
+
+contracts (1):
+- **Starbirds (Starbirds)** created on Apr 18, 2022 @ [0xeba8b372776397ef3a030e3cd0c58b9d2ad3a449](https://etherscan.io/address/0xeba8b372776397ef3a030e3cd0c58b9d2ad3a449)
+
+stats:
+- count / total supply: 2998 / 2998, num owners:  1223
+- total sales:  4616, total volume: Ξ167.51 (~ US$ 217766)
+- average price: Ξ0.04 (~ US$ 47.18)
+- floor price: Ξ0.006 (~ US$ 7.80)
+
+fees: seller 7.5%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (6):</summary>
+
+- Background (12)
+- Base (28)
+- Clothes (18)
+- Eyes (18)
+- Head (26)
+- Name (4)
 
 </details>
 

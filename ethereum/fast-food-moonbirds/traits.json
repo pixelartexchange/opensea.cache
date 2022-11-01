@@ -1,0 +1,104 @@
+{
+  "Background": {
+    "live mas purple": 95,
+    "golden arches yellow": 92,
+    "your way blue": 95,
+    "america runs on orange": 101,
+    "finger lickin' red": 89,
+    "eat fresh green": 100,
+    "depressing gray": 100
+  },
+  "Body": {
+    "tranquil": 80,
+    "crescent": 209,
+    "stark": 134,
+    "brave": 64,
+    "tabby": 116,
+    "emperor": 26,
+    "sage": 43
+  },
+  "Eyes": {
+    "open": 111,
+    "angry": 81,
+    "side eye": 86,
+    "bored": 106,
+    "discerning": 85,
+    "dollars": 51,
+    "grill reflection": 32,
+    "bun": 24,
+    "adorable": 43,
+    "patty": 53
+  },
+  "Beak": {
+    "small": 221,
+    "long": 231,
+    "short": 220
+  },
+  "Headwear": {
+    "visor": 28,
+    "hairnet": 20,
+    "sheriff": 22,
+    "family bucket": 12,
+    "dark clouds": 19,
+    "mcdonald's": 29,
+    "domino's": 31,
+    "beanie": 27,
+    "grill cook": 19,
+    "king's crown": 16,
+    "unlit": 13,
+    "golden talisman": 9,
+    "back of house bandana": 22,
+    "mcdonald's red": 43,
+    "starbucks": 9,
+    "inspector": 26,
+    "coffee boy": 12,
+    "jimmy john's": 16,
+    "dunkin'": 20,
+    "back of house durag": 20,
+    "benihana": 10,
+    "subway": 15,
+    "pirate hat": 11,
+    "burger king": 32,
+    "backwards": 4,
+    "whataburger": 9,
+    "in-n-out": 7,
+    "ice cream": 12
+  },
+  "Outerwear": {
+    "mcdonald's": 38,
+    "old skool": 7,
+    "burger king polo": 53,
+    "mcclassic": 50,
+    "hibachi": 11,
+    "dunkin' apron": 34,
+    "in-n-out polo": 31,
+    "manager": 22,
+    "eat fresh": 24,
+    "between jobs": 16,
+    "domino's polo": 21,
+    "ball and chain": 4,
+    "slacker": 5,
+    "starbuck's apron": 20,
+    "whataburger polo": 13,
+    "kfc shirt": 23,
+    "back of house": 11
+  },
+  "Eyewear": {
+    "hangover shades": 48,
+    "extreme oil splash guard": 14,
+    "oil splash guard": 36,
+    "assistant manager glasses": 17,
+    "monocle": 8,
+    "manager": 13,
+    "order tracker": 23
+  },
+  "Drive-thru": {
+    "on duty": 62
+  },
+  "Legendary": {
+    "quit": 5
+  },
+  "Employee Of The Month": {
+    "yes": 5
+  }
+}

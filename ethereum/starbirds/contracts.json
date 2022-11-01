@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xeba8b372776397ef3a030e3cd0c58b9d2ad3a449",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-04-18T18:44:06.882826",
+    "name": "Starbirds",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 292710235,
+    "schema_name": "ERC721",
+    "symbol": "Starbirds",
+    "total_supply": "0",
+    "description": "Because the moon wasn't enough. ⭐ \n\nFree mint. Stealth launched. ",
+    "external_link": "https://starbirds.io",
+    "image_url": "https://i.seadn.io/gae/KvJLWU6kQ4C-GsgEZN3tf1UbfGGgEgXTqmWfoGFHdm0JEypevFzuEbipfVRj6nq5ra-W0FocB-vJcSO63S0dy2alF9QWNo_VLjtcLA?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

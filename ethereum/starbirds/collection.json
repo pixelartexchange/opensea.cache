@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/3OO5saXSHvKhAHT-GcFS1YyVkkF2InmSIMWu85sOhJqrYxzzmToY0Iz05Mpx2Sn9u2qNCUrB0_aOgHXEm-pMVJpr8hiy8OJxedgTYmQ?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-04-19T19:07:14.951249+00:00",
+  "default_to_fiat": false,
+  "description": "Because the moon wasn't enough. ⭐ \n\nFree mint. Stealth launched. ",
+  "discord_url": "https://discord.gg/RF2p6VwCgd",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://starbirds.io",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/KvJLWU6kQ4C-GsgEZN3tf1UbfGGgEgXTqmWfoGFHdm0JEypevFzuEbipfVRj6nq5ra-W0FocB-vJcSO63S0dy2alF9QWNo_VLjtcLA?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "verified",
+  "image_url": "https://i.seadn.io/gae/KvJLWU6kQ4C-GsgEZN3tf1UbfGGgEgXTqmWfoGFHdm0JEypevFzuEbipfVRj6nq5ra-W0FocB-vJcSO63S0dy2alF9QWNo_VLjtcLA?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/KvJLWU6kQ4C-GsgEZN3tf1UbfGGgEgXTqmWfoGFHdm0JEypevFzuEbipfVRj6nq5ra-W0FocB-vJcSO63S0dy2alF9QWNo_VLjtcLA?w=500&auto=format",
+  "medium_username": null,
+  "name": "Starbirds",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "starbirds",
+  "telegram_url": null,
+  "twitter_username": "Starbirdsnft",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x6ed88e5009f43f02133784651bf14e40ba02445f": 750
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

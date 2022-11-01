@@ -1,0 +1,39 @@
+{
+  "banner_image_url": null,
+  "chat_url": null,
+  "created_date": "2022-04-21T23:09:13.392857+00:00",
+  "default_to_fiat": false,
+  "description": "A boutique collection of 4,000 PFPs that feature traits based on the beloved Fast Food Bear Market meme.\n\nMINTING FREE: https://fastfoodmoonbirds.xyz\n",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://fastfoodmoonbirds.xyz",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/Hfem1b8ZwZiWwVIh2JBeTDrCe_YGSXolRh0AVeIh7bdIPxOKFNmWCmf7gVFpWkKmJXdZIMvEdz78oCORKJCsRJVcpkGebO-V1q5_4Q?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": null,
+  "medium_username": null,
+  "name": "Fast Food Moonbirds",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "fast-food-moonbirds",
+  "telegram_url": null,
+  "twitter_username": null,
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xc1b20b341bab6bfe4208ec42a218d5f9adfb394b": 750
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

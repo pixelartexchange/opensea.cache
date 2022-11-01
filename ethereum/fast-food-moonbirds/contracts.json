@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xf837d4560683f6e243c743fadf429d64efdb810b",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-04-21T23:09:06.101237",
+    "name": "Fast Food Moonbirds",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 304910279,
+    "schema_name": "ERC721",
+    "symbol": "FFMB",
+    "total_supply": "0",
+    "description": "A boutique collection of 4,000 PFPs that feature traits based on the beloved Fast Food Bear Market meme.\n\nMINTING FREE: https://fastfoodmoonbirds.xyz\n",
+    "external_link": "https://fastfoodmoonbirds.xyz",
+    "image_url": "https://i.seadn.io/gae/Hfem1b8ZwZiWwVIh2JBeTDrCe_YGSXolRh0AVeIh7bdIPxOKFNmWCmf7gVFpWkKmJXdZIMvEdz78oCORKJCsRJVcpkGebO-V1q5_4Q?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

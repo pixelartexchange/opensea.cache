@@ -60,6 +60,8 @@
    - owners: 3793,   sales:  10752   -  Ξ1810.72 (~ US$ 2.4 million(s)) @    price avg Ξ0.17 (~ US$ 218.93),   floor Ξ0.008 (~ US$ 10.92)
 -  30 in 30d - Ξ0.69 (~ US$ 900.24), 9 in 7d - Ξ0.08 (~ US$ 103.48), 1 in 1d - Ξ0.007 (~ US$ 8.97), **[9985 Basic Bored Ape Club (Dec 17, 2021), 7.5%](https://opensea.io/collection/basicboredapeclub)**
    - owners: 4582,   sales:  13282   -  Ξ524.94 (~ US$ 682426) @    price avg Ξ0.04 (~ US$ 51.38),   floor Ξ0.007 (~ US$ 8.97)
+-  38 in 30d - Ξ0.51 (~ US$ 665.03), 2 in 7d - Ξ0.02 (~ US$ 26.00), 0 in 1d  **[2998 Starbirds (Apr 18, 2022), 7.5%](https://opensea.io/collection/starbirds)**
+   - owners: 1223,   sales:  4616   -  Ξ167.51 (~ US$ 217766) @    price avg Ξ0.04 (~ US$ 47.18),   floor Ξ0.006 (~ US$ 7.80)
 -  28 in 30d - Ξ0.28 (~ US$ 365.30), 0 in 7d/1d  **[3498 MoonQuacks (May 11, 2022), 2.5%](https://opensea.io/collection/moonquacks)**
    - owners: 1077,   sales:  5715   -  Ξ148.35 (~ US$ 192852) @    price avg Ξ0.03 (~ US$ 33.74),   floor Ξ0.007 (~ US$ 9.10)
 -  24 in 30d - Ξ0.25 (~ US$ 326.82), 9 in 7d - Ξ0.09 (~ US$ 123.37), 3 in 1d - Ξ0.04 (~ US$ 51.09), **[9996 V3 Punks (Feb 02, 2022), 5.0%](https://opensea.io/collection/v3-cryptopunks)**
@@ -118,12 +120,18 @@
    - owners: 1267,   sales:  136   -  Ξ0.45 (~ US$ 590.05) @    price avg Ξ0.003 (~ US$ 4.34),   floor Ξ0.001 (~ US$ 1.30)
 -  0 in 30d/7d/1d  **[4731 Moonstalkers (Jun 29, 2022), 7.5%](https://opensea.io/collection/moonstalkers)**
    - owners: 975,   sales:  8   -  Ξ0.014 (~ US$ 18.56) @    price avg Ξ0.002 (~ US$ 2.32),   floor Ξ0.000799999 (~ US$ 1.04)
+-  0 in 30d/7d/1d  **[15 Island Birds by Treasure Island (May 31, 2022), 7.5%](https://opensea.io/collection/island-birds)**
+   - owners: 8,   sales: 0
 -  0 in 30d/7d/1d  **[4440 Pixel goblintown (May 21, 2022), -](https://opensea.io/collection/pixel-goblintown)**
    - owners: 1435,   sales:  6509   -  Ξ77.27 (~ US$ 100452) @    price avg Ξ0.012 (~ US$ 15.43),   floor Ξ0.0007 (~ US$ 0.91)
 -  0 in 30d/7d/1d  **[397 WastelandPunks (May 08, 2022), 5.0%](https://opensea.io/collection/wastelandpunks)**
    - owners: 75,   sales: 0
 -  0 in 30d/7d/1d  **[2845 CryptoPunksMom (May 03, 2022), 10.0%](https://opensea.io/collection/cryptopunksmom)**
    - owners: 640,   sales: 0
+-  0 in 30d/7d/1d  **[671 Fast Food Moonbirds (Apr 21, 2022), 7.5%](https://opensea.io/collection/fast-food-moonbirds)**
+   - owners: 161,   sales:  3   -  Ξ0.08 (~ US$ 109.20) @    price avg Ξ0.03 (~ US$ 36.40),   floor Ξ0.02 (~ US$ 24.70)
+-  0 in 30d/7d/1d  **[4991 fastfoodbirds (Apr 19, 2022), 5.0%](https://opensea.io/collection/fastfoodbirds)**
+   - owners: 1151,   sales:  1947   -  Ξ20.29 (~ US$ 26382) @    price avg Ξ0.010 (~ US$ 13.55),   floor Ξ0.003 (~ US$ 4.29)
 -  0 in 30d/7d/1d  **[368 PAPC - Punk Ape Pixel Club OG (Mar 24, 2022), 10.0%](https://opensea.io/collection/papc-punk-ape-pixel-club)**
    - owners: 128,   sales:  94   -  Ξ10.61 (~ US$ 13790) @    price avg Ξ0.11 (~ US$ 146.70),   floor Ξ0.02 (~ US$ 26.00)
 -  0 in 30d/7d/1d  **[10000 Renegade Punks (Mar 21, 2022), 5.0%](https://opensea.io/collection/renegade-punks)**

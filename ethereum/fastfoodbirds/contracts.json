@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xebd8d80d5926699f916e0f46574ee209c4cac49c",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-04-19T15:25:27.155358",
+    "name": "FastFoodBirds",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 63584500,
+    "schema_name": "ERC721",
+    "symbol": "FastFoodBird",
+    "total_supply": "0",
+    "description": "5000 fast food birds nesting on the Ethereum blockchain. We’re here to flip burgers and serve fries!\n\nThis is a Moonbirds derivative project and is not associated or affiliated with the Moonbirds_xyz project. \n\nOwned and operated by LookLabs OGs.\n",
+    "external_link": null,
+    "image_url": "https://i.seadn.io/gae/rQhWpe9VdltkWvg1k5sCZYj-jW4Q0wbFeQliewu0EWxKgQEk-CRSV2zlwGxchHQj5flyfGTrhUy-hlmhWOUv6KYpsjxo5v8Ygm5eyg?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

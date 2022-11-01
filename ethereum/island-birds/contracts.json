@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xa36054c85c7055d3315432e9cbed617a68d08ad6",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-05-31T18:35:22.560618",
+    "name": "Treasure Island",
+    "nft_version": null,
+    "opensea_version": null,
+    "owner": 414138186,
+    "schema_name": "ERC721",
+    "symbol": "TRE",
+    "total_supply": "0",
+    "description": "Island Birds are a collection of 6,942 utility-enabled PFPs that feature a richly diverse and unique pool of rarity-powered traits. What's more, each Island Bird unlocks private club membership and additional benefits the longer you hold them.",
+    "external_link": "http://treasureisland.xyz",
+    "image_url": "https://i.seadn.io/gae/RvmPSDfNxQ_Drh6XaC3j9heCTpLkRqqTbwF0dviinxJXpYEl5wy4cW7rF40OeA_lW8nzT_4-xNNQnG7vRDKwfhk-R2SpaAMwbpMfsUA?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

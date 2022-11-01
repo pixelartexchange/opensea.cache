@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/8BU8fbYw_5UQgC96eOvQXySqMndxx5tGQB1hGwkliunQ9aSYrCrpzPKeb_AqiZD7TIMZhkBohaPkTx2KIF9rLO3aNR0sfO5n164aPw?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-05-31T18:40:01.924450+00:00",
+  "default_to_fiat": false,
+  "description": "Island Birds are a collection of 6,942 utility-enabled PFPs that feature a richly diverse and unique pool of rarity-powered traits. What's more, each Island Bird unlocks private club membership and additional benefits the longer you hold them.",
+  "discord_url": "https://discord.gg/treasureisland",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "http://treasureisland.xyz",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/RvmPSDfNxQ_Drh6XaC3j9heCTpLkRqqTbwF0dviinxJXpYEl5wy4cW7rF40OeA_lW8nzT_4-xNNQnG7vRDKwfhk-R2SpaAMwbpMfsUA?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": null,
+  "medium_username": null,
+  "name": "Island Birds by Treasure Island",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "island-birds",
+  "telegram_url": null,
+  "twitter_username": null,
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x55ba0585c90dc8f04370e930cee520edfc7de5cb": 750
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

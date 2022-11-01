@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/TbAzPUyDZkmPegEhSnXJbAm5rOYxAYYeRE-XdWc965ENrDgOj_VwgpmuwPsCM5QkPPRmmADeSNRvCnnpvkDZ-skrXbUJNrzfNraVAw?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-04-21T01:21:51.923777+00:00",
+  "default_to_fiat": false,
+  "description": "5000 fast food birds nesting on the Ethereum blockchain. We’re here to flip burgers and serve fries!\n\nThis is a Moonbirds derivative project and is not associated or affiliated with the Moonbirds_xyz project. \n\nOwned and operated by LookLabs OGs.\n",
+  "discord_url": "https://discord.gg/JBdwb5uaJT",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/TbAzPUyDZkmPegEhSnXJbAm5rOYxAYYeRE-XdWc965ENrDgOj_VwgpmuwPsCM5QkPPRmmADeSNRvCnnpvkDZ-skrXbUJNrzfNraVAw?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/rQhWpe9VdltkWvg1k5sCZYj-jW4Q0wbFeQliewu0EWxKgQEk-CRSV2zlwGxchHQj5flyfGTrhUy-hlmhWOUv6KYpsjxo5v8Ygm5eyg?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/TbAzPUyDZkmPegEhSnXJbAm5rOYxAYYeRE-XdWc965ENrDgOj_VwgpmuwPsCM5QkPPRmmADeSNRvCnnpvkDZ-skrXbUJNrzfNraVAw?w=500&auto=format",
+  "medium_username": null,
+  "name": "fastfoodbirds",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "fastfoodbirds",
+  "telegram_url": null,
+  "twitter_username": "fastfoodbirds",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x061919210429455de90d05647e2ae4ba752ef85d": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

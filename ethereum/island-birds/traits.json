@@ -1,0 +1,53 @@
+{
+  "Background": {
+    "beige": 4,
+    "lemon": 2,
+    "lime": 1,
+    "pink": 5,
+    "plain white": 2,
+    "wheat": 1
+  },
+  "Base": {
+    "canary": 2,
+    "cardinal": 1,
+    "cockatoo": 3,
+    "finch": 1,
+    "macaw": 2,
+    "parakeet": 3,
+    "parrot": 1,
+    "toucan": 2
+  },
+  "Eyes": {
+    "adorable": 2,
+    "blue bandana": 1,
+    "glasses": 1,
+    "happy pink": 1,
+    "heart sunglasses": 1,
+    "monocle": 1,
+    "nounce red": 1,
+    "rainblow glasses": 3,
+    "regular green": 1,
+    "regular pink": 1,
+    "sus green": 2
+  },
+  "Head": {
+    "black bandana": 1,
+    "conquistador helmet": 1,
+    "diver helmet": 1,
+    "jellyfish": 1,
+    "orange mohawk": 1,
+    "rum bottle": 1,
+    "sombrero": 1,
+    "starfish": 1,
+    "strawhat": 1,
+    "viking helmet": 1
+  },
+  "Outerwear": {
+    "anchor": 1,
+    "black admiral jacket": 1,
+    "blue admiral jacket": 2,
+    "cross": 1,
+    "golden chain": 1,
+    "red admiral jacket": 3
+  }
+}

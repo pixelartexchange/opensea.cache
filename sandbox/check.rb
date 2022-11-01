@@ -45,11 +45,12 @@ end
 
 
 slugs = %w[
-  halloweenpunks-here
-  cryptopepepunks
-  theedgepunks
-  theaussies
-  haunted-punks-666
+
+  fastfoodbirds
+  fast-food-moonbirds
+  island-birds
+  starbirds
+
 ]
 
 
