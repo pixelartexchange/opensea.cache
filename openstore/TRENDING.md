@@ -40,6 +40,8 @@
    - owners: 18,   sales:  28   -  Ξ0.55 (~ US$ 713.18) @    price avg Ξ0.02 (~ US$ 25.47),   floor Ξ0.010 (~ US$ 13.26)
 -  0 in 30d/7d/1d  **[61 CryptoMasterpiecez (Dec 29, 2021), 6.0%](https://opensea.io/collection/cryptomasterpiecez)**
    - owners: 8,   sales:  9   -  Ξ0.10 (~ US$ 136.50) @    price avg Ξ0.012 (~ US$ 15.17),   floor ???
+-  0 in 30d/7d/1d  **[2048 1Bit Punks (Dec 22, 2021), 0.3%](https://opensea.io/collection/1bit-punks)**
+   - owners: 1,   sales: 0
 -  0 in 30d/7d/1d  **[39 Afro-Punks # (Nov 28, 2021), -](https://opensea.io/collection/beautiful-female-punks)**
    - owners: 2,   sales:  1   -  Ξ0.005 (~ US$ 6.50) @    price avg Ξ0.005 (~ US$ 6.50),   floor Ξ0.010 (~ US$ 13.00)
 -  0 in 30d/7d/1d  **[61 PixelGalsNFT (Oct 30, 2021), 3.0%](https://opensea.io/collection/pixel-gals)**

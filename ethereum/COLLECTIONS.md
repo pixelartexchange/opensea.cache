@@ -1,5 +1,38 @@
 # Collections
 
+##  RoboPunks 2048
+
+opensea: [robopunks2048](https://opensea.io/collection/robopunks2048) - created on Nov 01, 2022<br>
+web:  <http://robopunks2048.com><br>
+twitter: [robopunks2048](https://twitter.com/robopunks2048)<br>
+
+contracts (1):
+- **RoboPunks2048 (ROBOP)** created on Nov 01, 2022 @ [0xfdc376804f179d45b81047fcb695783ac0403fb9](https://etherscan.io/address/0xfdc376804f179d45b81047fcb695783ac0403fb9)
+
+stats:
+- count / total supply: 2048 / 2048, num owners:  633
+- total sales:  345, total volume: Ξ15.76 (~ US$ 20491)
+- average price: Ξ0.05 (~ US$ 59.39)
+- floor price: Ξ0.03 (~ US$ 39.00)
+
+fees: seller 2.5%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (8):</summary>
+
+- Accessories (5)
+- Air Intake (2)
+- Audio Sensors (5)
+- Background (5)
+- Metal (6)
+- Speaker (12)
+- Visual Sensors (16)
+- Radio (7)
+
+</details>
+
+
 ##  Haunted Punks 666
 
 opensea: [haunted-punks-666](https://opensea.io/collection/haunted-punks-666) - created on Oct 31, 2022<br>

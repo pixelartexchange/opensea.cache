@@ -44,6 +44,7 @@
 - Ξ0.10 (~ US$ 136.50) - **[61 CryptoMasterpiecez (Dec 29, 2021), 6.0%](https://opensea.io/collection/cryptomasterpiecez)**   owners: 8,   sales:  9   @    price avg Ξ0.012 (~ US$ 15.17),   floor ???
 - Ξ0.005 (~ US$ 6.50) - **[39 Afro-Punks # (Nov 28, 2021), -](https://opensea.io/collection/beautiful-female-punks)**   owners: 2,   sales:  1   @    price avg Ξ0.005 (~ US$ 6.50),   floor Ξ0.010 (~ US$ 13.00)
 - Ξ0.002 (~ US$ 2.60) - **[935 GhozaliPunk (Jan 16, 2022), 10.0%](https://opensea.io/collection/ghozalipunk)**   owners: 2,   sales:  2   @    price avg Ξ0.001 (~ US$ 1.30),   floor ???
-- 0 - **[35 Athletes 101 (Sep 11, 2021), 10.0%](https://opensea.io/collection/athletes-101)**   owners: 3,   sales: 0
 - 0 - **[61 PixelGalsNFT (Oct 30, 2021), 3.0%](https://opensea.io/collection/pixel-gals)**   owners: 1,   sales: 0
 - 0 - **[120 High Effort Punks (Jan 08, 2022), 10.0%](https://opensea.io/collection/high-effort-punks)**   owners: 1,   sales: 0
+- 0 - **[35 Athletes 101 (Sep 11, 2021), 10.0%](https://opensea.io/collection/athletes-101)**   owners: 3,   sales: 0
+- 0 - **[2048 1Bit Punks (Dec 22, 2021), 0.3%](https://opensea.io/collection/1bit-punks)**   owners: 1,   sales: 0

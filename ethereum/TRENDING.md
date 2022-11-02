@@ -20,6 +20,8 @@
    - owners: 3342,   sales:  13585   -  Ξ13106.47 (~ US$ 17.0 million(s)) @    price avg Ξ0.96 (~ US$ 1254),   floor Ξ0.19 (~ US$ 247.00)
 -  159 in 30d - Ξ26.67 (~ US$ 34676), 55 in 7d - Ξ6.37 (~ US$ 8279), 13 in 1d - Ξ1.15 (~ US$ 1498), **[8888 EightBit Me (Mar 30, 2022), 5.0%](https://opensea.io/collection/eightbitme)**
    - owners: 3021,   sales:  19878   -  Ξ9029.71 (~ US$ 11.7 million(s)) @    price avg Ξ0.45 (~ US$ 590.53),   floor Ξ0.09 (~ US$ 116.87)
+-  345 in 30d - Ξ15.76 (~ US$ 20491), 345 in 7d - Ξ15.76 (~ US$ 20491), 345 in 1d - Ξ15.76 (~ US$ 20491), **[2048 RoboPunks 2048 (Nov 01, 2022), 2.5%](https://opensea.io/collection/robopunks2048)**
+   - owners: 633,   sales:  345   -  Ξ15.76 (~ US$ 20491) @    price avg Ξ0.05 (~ US$ 59.39),   floor Ξ0.03 (~ US$ 39.00)
 -  168 in 30d - Ξ14.91 (~ US$ 19379), 40 in 7d - Ξ2.92 (~ US$ 3796), 10 in 1d - Ξ0.64 (~ US$ 835.90), **[9638 PridePunks 2018 (Jun 23, 2018), 7.0%](https://opensea.io/collection/pridepunks2018)**
    - owners: 2740,   sales:  8105   -  Ξ1089.88 (~ US$ 1.4 million(s)) @    price avg Ξ0.13 (~ US$ 174.81),   floor Ξ0.05 (~ US$ 62.40)
 -  1213 in 30d - Ξ9.48 (~ US$ 12330), 1213 in 7d - Ξ9.48 (~ US$ 12330), 16 in 1d - Ξ0.09 (~ US$ 113.23), **[2022 TheAussies (Oct 28, 2022), 7.5%](https://opensea.io/collection/theaussies)**

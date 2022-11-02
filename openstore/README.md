@@ -14,7 +14,7 @@
 
 
 
-**December** - [61 CryptoMasterpiecez](https://opensea.io/collection/cryptomasterpiecez)
+**December** - [61 CryptoMasterpiecez](https://opensea.io/collection/cryptomasterpiecez) • [2048 1Bit Punks](https://opensea.io/collection/1bit-punks)
 
 **November** - [39 Afro-Punks #](https://opensea.io/collection/beautiful-female-punks)
 
@@ -54,6 +54,7 @@
 **December**
 
 -  Dec 29, 2021 - **[61 CryptoMasterpiecez, 6.0%](https://opensea.io/collection/cryptomasterpiecez)** - 8 owner(s), 9 sale(s) -  Ξ0.10 (~ US$ 136.50)
+-  Dec 22, 2021 - **[2048 1Bit Punks, 0.3%](https://opensea.io/collection/1bit-punks)** - 1 owner(s)
 
 **November**
 

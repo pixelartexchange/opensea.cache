@@ -94,6 +94,21 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 
 
 
+##  1Bit Punks
+
+opensea: [1bit-punks](https://opensea.io/collection/1bit-punks) - created on Dec 22, 2021<br>
+twitter: [GigaNFTs](https://twitter.com/GigaNFTs)<br>
+
+stats:
+- count / total supply: 2048 / 2048, num owners:  1
+- total sales:  0
+
+fees: seller 0.3%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+
+
 ##  Afro-Punks #
 
 opensea: [beautiful-female-punks](https://opensea.io/collection/beautiful-female-punks) - created on Nov 28, 2021<br>
