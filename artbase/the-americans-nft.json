@@ -1,0 +1,13 @@
+{
+  "slug": "theamericans",
+  "count": 10000,
+  "token_base": "ipfs://Qmd9FE1XKkdpddUUG9nUkgQruVV2B8aE2cuCayS1QcWRTS/{id}.json",
+  "format": "24x24",
+  "source": "640x640",
+  "opensea": "the-americans-nft",
+  "token": {
+    "contract": "0x4ef3d9eab34783995bc394d569845585ac805ef8"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/theamericans/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/theamericans-strip.png"
+}

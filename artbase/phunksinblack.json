@@ -1,0 +1,15 @@
+{
+  "slug": "phunksinblack",
+  "count": 1300,
+  "token_base": "ipfs://bafybeibarfvxpvgijwm2c5j3tjp4y2lo3zbqgjctnwmfrrntnsyjs5ceju/{id}.json",
+  "image_base": "ipfs://bafybeihepao62sswaseh4xucvkkdzgnwpo7kc7nr6ggp5fbliqoki5l7ii/{id}.png",
+  "offset": 1,
+  "format": "24x24",
+  "source": "720x720",
+  "opensea": "phunksinblack",
+  "token": {
+    "contract": "0x2636942bfd3f60f4ec43e02edafcc84c9d49fb8e"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/phunksinblack/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/phunksinblack-strip.png"
+}

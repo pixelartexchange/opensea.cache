@@ -1,0 +1,76 @@
+{
+  "Accessories": {
+    "neck-joint": 1246,
+    "hood": 64,
+    "lid": 32,
+    "hover": 32,
+    "rusty": 16
+  },
+  "Air Intake": {
+    "horizontal": 1243,
+    "vertical": 596
+  },
+  "Audio Sensors": {
+    "near-field": 453,
+    "aj^3": 186,
+    "wide-band": 440,
+    "full-spectrum": 163,
+    "bidirectional": 161
+  },
+  "Background": {
+    "v2": 1620,
+    "v1": 205,
+    "available": 117,
+    "claimed": 90,
+    "blackout": 9
+  },
+  "Metal": {
+    "light-grey": 865,
+    "maximillian": 28,
+    "grey": 799,
+    "dark-grey": 291,
+    "arctic": 49,
+    "midnight": 9
+  },
+  "Speaker": {
+    "speaker-2c": 91,
+    "sound-hole-2": 159,
+    "sound-hole-4": 85,
+    "thin-vents": 232,
+    "marvin": 171,
+    "smile": 110,
+    "speaker-1c": 182,
+    "sound-hole-1": 242,
+    "hinged-mouth": 255,
+    "hinged-jaw": 182,
+    "vents": 155,
+    "arctic": 75
+  },
+  "Visual Sensors": {
+    "red-visor": 198,
+    "big-visor": 82,
+    "arctic": 129,
+    "humanoid": 164,
+    "dark-grey": 198,
+    "vr": 48,
+    "beady-blue": 102,
+    "bright-red": 53,
+    "blood-red": 187,
+    "dave": 171,
+    "light-grey": 257,
+    "squint-visor": 175,
+    "nerd-visor": 188,
+    "ice-blue": 69,
+    "goggles": 16,
+    "shelves": 4
+  },
+  "Radio": {
+    "88-mhz": 56,
+    "rca": 128,
+    "nfc": 256,
+    "216-mhz": 128,
+    "bluetooth": 127,
+    "bb8": 128,
+    "bunny-ears": 64
+  }
+}

@@ -46,11 +46,8 @@ end
 
 slugs = %w[
 
-  weirdwhales
-  genius-punks
-  rappunks
-  anime-punks
-  bespokedpunks
+  robopunks2048
+  1bit-punks
 
 ]
 

@@ -46,9 +46,8 @@ slugs = slugs.sort    ## sort a-z
 
 
 slugs = %w[
-  weirdwhales
-  rappunks
-  bespokedpunks
+  robopunks2048
+  1bit-punks
 ]
 
 # cache.download( slugs, :stats )

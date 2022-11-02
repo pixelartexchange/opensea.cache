@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xfdc376804f179d45b81047fcb695783ac0403fb9",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-11-01T15:25:37.714397",
+    "name": "RoboPunks2048",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 21116354,
+    "schema_name": "ERC721",
+    "symbol": "ROBOP",
+    "total_supply": "0",
+    "description": "2048 RoboPunks recently assembled for service on the Ethereum blockchain. ",
+    "external_link": "http://robopunks2048.com",
+    "image_url": "https://i.seadn.io/gcs/files/c7533ed79ae40ae2b3082cdfcb8ec909.png?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

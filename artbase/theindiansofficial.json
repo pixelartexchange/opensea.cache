@@ -1,0 +1,15 @@
+{
+  "slug": "theindians",
+  "count": 3333,
+  "token_base": "ipfs://Qmck1b8xqoaAig866J5fSh1QvgmVQoGaoPSvNNWRRLWQyE/{id}",
+  "image_base": "ipfs://QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/{id}.png",
+  "format": "24x24",
+  "source": "336x336",
+  "offset": 1,
+  "opensea": "theindiansofficial",
+  "token": {
+    "contract": "0xe90c10611d3ea7539f76913d112db579aae839e6"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/theindians/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/theindians-strip.png"
+}

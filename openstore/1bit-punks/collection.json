@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/IEDiVsKDbItH25vJPIthNljy8Vee21KJoH_25a8QJ84vIkkGm0s5VcF15saNn5IZ5gKj_dc77XWxpkmn2ibvy5vqYQbn8L7bfVdtwfw?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-12-22T09:59:25.663009+00:00",
+  "default_to_fiat": false,
+  "description": "Only 2,048 unique punks will be available.\n\nNot affiliated with Larva Labs.",
+  "discord_url": "https://discord.gg/Km2peJHx7R",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/eSJPOWl95qJMTkX6wlktwmtVDCm0j4Ev1UPiy6oeDN_p1YZeuUV8EYgzLvE5meEn30gcvYhNWlAmw9GFNgJ2TF6yeewwt5wieaL5Ag?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/cUnLatpvqRzv7ymfq4RxEkUjBDgADTWVah0_bKxYZkkiadyL-vjmVi2PJrsxfWw9Q8Yqb9SL92DTwmPsgTWiuAYQrsCI3qIHbX41MA?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/eSJPOWl95qJMTkX6wlktwmtVDCm0j4Ev1UPiy6oeDN_p1YZeuUV8EYgzLvE5meEn30gcvYhNWlAmw9GFNgJ2TF6yeewwt5wieaL5Ag?w=500&auto=format",
+  "medium_username": null,
+  "name": "1Bit Punks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "1bit-punks",
+  "telegram_url": null,
+  "twitter_username": "GigaNFTs",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x5858e3687fbb803ee7e4d2b8300a40417d6febb6": 30
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

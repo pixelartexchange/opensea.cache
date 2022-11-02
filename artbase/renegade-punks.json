@@ -1,0 +1,10 @@
+{
+  "slug": "renegade-punks",
+  "count": 10000,
+  "token_base": "???",
+  "opensea": "renegade-punks",
+  "token": {
+    "contract": "0xba02e04c96ee4b38f8ad5b6cd0444ea23854c97f"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/renegade-punks/collection.yml"
+}

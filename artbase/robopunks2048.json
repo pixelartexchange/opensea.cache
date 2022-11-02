@@ -1,0 +1,14 @@
+{
+  "slug": "robopunks",
+  "count": 2048,
+  "token_base": "https://nft.bueno.art/api/contract/v5TfTvd5B0R4TvBUR6dWS/chain/1/metadata/{id}",
+  "offset": 1,
+  "format": "24x24",
+  "source": "1600x1600",
+  "opensea": "robopunks2048",
+  "token": {
+    "contract": "0xfdc376804f179d45b81047fcb695783ac0403fb9"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/robopunks/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/robopunks-strip.png"
+}

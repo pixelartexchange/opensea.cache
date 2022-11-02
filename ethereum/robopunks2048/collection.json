@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/80121fa46379ccad4a7260af86435d97.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-11-01T16:04:24.648032+00:00",
+  "default_to_fiat": false,
+  "description": "2048 RoboPunks recently assembled for service on the Ethereum blockchain. ",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "http://robopunks2048.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/80121fa46379ccad4a7260af86435d97.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/c7533ed79ae40ae2b3082cdfcb8ec909.png?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/80121fa46379ccad4a7260af86435d97.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "RoboPunks 2048",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "robopunks2048",
+  "telegram_url": null,
+  "twitter_username": "robopunks2048",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xc93c7f71581dfeaab59bed908888dac5689f312a": 250
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}
