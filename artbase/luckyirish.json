@@ -1,0 +1,14 @@
+{
+  "slug": "theirish",
+  "count": 1500,
+  "token_base": "https://cdn-api.niftykit.com/reveal/4eepE2iygshM9GMkOulT/{id}",
+  "format": "24x24",
+  "source": "1000x1000",
+  "offset": 1,
+  "opensea": "luckyirish",
+  "token": {
+    "contract": "0x82f7e085a25a45f219e68905c7cf5646fa9678e1"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/theirish/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/theirish-strip.png"
+}

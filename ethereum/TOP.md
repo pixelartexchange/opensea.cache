@@ -52,6 +52,7 @@
 - Ξ9.83 (~ US$ 12775) - **[8888 Crypto Pudgy Punks (Aug 21, 2022), 8.0%](https://opensea.io/collection/crypto-pudgy-punks)**   owners: 2273,   sales:  3228   @    price avg Ξ0.003 (~ US$ 3.96),   floor Ξ0.00045 (~ US$ 0.58)
 - Ξ9.48 (~ US$ 12330) - **[2022 TheAussies (Oct 28, 2022), 7.5%](https://opensea.io/collection/theaussies)**   owners: 607,   sales:  1213   @    price avg Ξ0.008 (~ US$ 10.16),   floor Ξ0.004 (~ US$ 5.20)
 - Ξ7.08 (~ US$ 9198) - **[4715 International Punks. (Aug 27, 2021), 10.0%](https://opensea.io/collection/international-punks-)**   owners: 1308,   sales:  269   @    price avg Ξ0.03 (~ US$ 34.19),   floor Ξ0.010 (~ US$ 13.00)
+- Ξ5.77 (~ US$ 7506) - **[10000 The Europeans NFT (Jul 18, 2022), 10.0%](https://opensea.io/collection/theeuropeansnft)**   owners: 2245,   sales:  1263   @    price avg Ξ0.005 (~ US$ 5.94),   floor Ξ0.00098 (~ US$ 1.27)
 - Ξ5.75 (~ US$ 7481) - **[4994 Pixel Pudgies (Aug 24, 2022), -](https://opensea.io/collection/pixelpudgies)**   owners: 971,   sales:  1437   @    price avg Ξ0.004 (~ US$ 5.21),   floor Ξ0.001 (~ US$ 1.30)
 - Ξ5.39 (~ US$ 7006) - **[9973 BinaryApes (Feb 21, 2022), 9.0%](https://opensea.io/collection/binaryapes)**   owners: 783,   sales:  735   @    price avg Ξ0.007 (~ US$ 9.53),   floor Ξ0.001 (~ US$ 1.30)
 - Ξ3.24 (~ US$ 4209) - **[3333 The Indians Official (Jul 20, 2022), 7.5%](https://opensea.io/collection/theindiansofficial)**   owners: 2511,   sales:  453   @    price avg Ξ0.007 (~ US$ 9.29),   floor Ξ0.00021 (~ US$ 0.27)
@@ -59,24 +60,28 @@
 - Ξ2.67 (~ US$ 3469) - **[888 EdgePunks (Oct 29, 2022), -](https://opensea.io/collection/theedgepunks)**   owners: 274,   sales:  162   @    price avg Ξ0.02 (~ US$ 21.41),   floor Ξ0.009 (~ US$ 12.22)
 - Ξ2.62 (~ US$ 3401) - **[1859 APE PUNKS NFTS (Sep 01, 2021), 5.0%](https://opensea.io/collection/apepunksnft)**   owners: 687,   sales:  109   @    price avg Ξ0.02 (~ US$ 31.20),   floor Ξ0.008 (~ US$ 9.75)
 - Ξ2.60 (~ US$ 3380) - **[21 Lost Punk Society (Oct 02, 2021), 5.0%](https://opensea.io/collection/lostpunksociety)**   owners: 16,   sales:  7   @    price avg Ξ0.37 (~ US$ 482.86),   floor ???
+- Ξ2.39 (~ US$ 3113) - **[6666 The Greeks | NFT (Jul 14, 2022), 7.5%](https://opensea.io/collection/thegreeksnft)**   owners: 2792,   sales:  443   @    price avg Ξ0.005 (~ US$ 7.03),   floor Ξ0.001 (~ US$ 1.30)
 - Ξ1.95 (~ US$ 2530) - **[101 PhilipPhunks (Jul 31, 2021), 7.5%](https://opensea.io/collection/philip-phunks)**   owners: 40,   sales:  79   @    price avg Ξ0.02 (~ US$ 32.02),   floor ???
 - Ξ1.33 (~ US$ 1729) - **[778 The Pixel Portraits (Oct 25, 2021), 10.0%](https://opensea.io/collection/the-pixel-portraits)**   owners: 569,   sales:  3   @    price avg Ξ0.44 (~ US$ 576.33),   floor Ξ0.17 (~ US$ 219.70)
 - Ξ1.23 (~ US$ 1595) - **[1300 Phunks In Black (Jul 31, 2022), -](https://opensea.io/collection/phunksinblack)**   owners: 161,   sales:  151   @    price avg Ξ0.008 (~ US$ 10.57),   floor Ξ0.002 (~ US$ 3.25)
 - Ξ0.60 (~ US$ 774.80) - **[2116 Dooggies (Jun 11, 2022), 5.0%](https://opensea.io/collection/dooggies)**   owners: 184,   sales:  7   @    price avg Ξ0.09 (~ US$ 110.69),   floor Ξ0.06 (~ US$ 78.00)
 - Ξ0.46 (~ US$ 601.59) - **[1130 NonVisiblePunks (Oct 18, 2021), 3.5%](https://opensea.io/collection/nonvisiblepunks)**   owners: 179,   sales:  119   @    price avg Ξ0.004 (~ US$ 5.06),   floor Ξ0.003 (~ US$ 4.45)
 - Ξ0.45 (~ US$ 590.05) - **[4682 Moon Goblz (Jun 29, 2022), -](https://opensea.io/collection/moon-goblz)**   owners: 1267,   sales:  136   @    price avg Ξ0.003 (~ US$ 4.34),   floor Ξ0.001 (~ US$ 1.30)
+- Ξ0.25 (~ US$ 327.81) - **[5555 The Californians NFT (Aug 08, 2022), 7.5%](https://opensea.io/collection/the-californians-nft)**   owners: 603,   sales:  116   @    price avg Ξ0.002 (~ US$ 2.83),   floor Ξ0.0009 (~ US$ 1.17)
 - Ξ0.08 (~ US$ 109.20) - **[671 Fast Food Moonbirds (Apr 21, 2022), 7.5%](https://opensea.io/collection/fast-food-moonbirds)**   owners: 161,   sales:  3   @    price avg Ξ0.03 (~ US$ 36.40),   floor Ξ0.02 (~ US$ 24.70)
 - Ξ0.05 (~ US$ 70.85) - **[9915 CryptoPepePunks (Oct 30, 2022), 6.9%](https://opensea.io/collection/cryptopepepunks)**   owners: 297,   sales:  42   @    price avg Ξ0.001297642857142857 (~ US$ 1.69),   floor Ξ0.0004 (~ US$ 0.52)
 - Ξ0.03 (~ US$ 39.00) - **[240 SelfMadePunks (Feb 03, 2022), 1.0%](https://opensea.io/collection/selfmadepunks)**   owners: 196,   sales:  1   @    price avg Ξ0.03 (~ US$ 39.00),   floor ???
 - Ξ0.02 (~ US$ 25.74) - **[623 Punked Goblins (Aug 14, 2022), 7.5%](https://opensea.io/collection/punked-goblins)**   owners: 139,   sales:  3   @    price avg Ξ0.007 (~ US$ 8.58),   floor Ξ0.004 (~ US$ 5.85)
 - Ξ0.014 (~ US$ 18.56) - **[4731 Moonstalkers (Jun 29, 2022), 7.5%](https://opensea.io/collection/moonstalkers)**   owners: 975,   sales:  8   @    price avg Ξ0.002 (~ US$ 2.32),   floor Ξ0.000799999 (~ US$ 1.04)
+- Ξ0.003 (~ US$ 3.90) - **[809 The Pharaohs #MAXGREATNESS (Jul 21, 2022), 7.0%](https://opensea.io/collection/thepharaohs7000)**   owners: 63,   sales:  1   @    price avg Ξ0.003 (~ US$ 3.90),   floor Ξ0.0007 (~ US$ 0.91)
 - 0 - **[2845 CryptoPunksMom (May 03, 2022), 10.0%](https://opensea.io/collection/cryptopunksmom)**   owners: 640,   sales: 0
-- 0 - **[16 Phunkverse (Oct 24, 2022), -](https://opensea.io/collection/phunkverse)**   owners: 7,   sales: 0
+- 0 - **[32 Clown Town Society (Oct 09, 2021), 5.0%](https://opensea.io/collection/clowntownsociety)**   owners: 22,   sales: 0
+- 0 - **[835 Lucky Irish (Jul 15, 2022), 7.8%](https://opensea.io/collection/luckyirish)**   owners: 138,   sales: 0
 - 0 - **[15 Island Birds by Treasure Island (May 31, 2022), 7.5%](https://opensea.io/collection/island-birds)**   owners: 8,   sales: 0
 - 0 - **[5 HivePunks (Oct 16, 2021), 5.0%](https://opensea.io/collection/hivepunks)**   owners: 5,   sales: 0
 - 0 - **[264 Haunted Punks 666 (Oct 31, 2022), 5.0%](https://opensea.io/collection/haunted-punks-666)**   owners: 255,   sales: 0
 - 0 - **[135 Halloween-Punks (Oct 31, 2022), 6.9%](https://opensea.io/collection/halloweenpunks-here)**   owners: 36,   sales: 0
 - 0 - **[397 WastelandPunks (May 08, 2022), 5.0%](https://opensea.io/collection/wastelandpunks)**   owners: 75,   sales: 0
-- 0 - **[32 Clown Town Society (Oct 09, 2021), 5.0%](https://opensea.io/collection/clowntownsociety)**   owners: 22,   sales: 0
-- 0 - **[161 DivinePunks (Jan 03, 2022), 6.7%](https://opensea.io/collection/divinepunks)**   owners: 55,   sales: 0
 - 0 - **[1 OnlyPhunks (Oct 23, 2022), 6.9%](https://opensea.io/collection/onlyphunks)**   owners: 1,   sales: 0
+- 0 - **[161 DivinePunks (Jan 03, 2022), 6.7%](https://opensea.io/collection/divinepunks)**   owners: 55,   sales: 0
+- 0 - **[16 Phunkverse (Oct 24, 2022), -](https://opensea.io/collection/phunkverse)**   owners: 7,   sales: 0

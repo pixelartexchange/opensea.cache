@@ -1,0 +1,15 @@
+{
+  "slug": "thepharaohs",
+  "count": 7000,
+  "token_base": "ipfs://bafybeigf4rkyyeifo2rt63ho5kcnfgrcogfipbpkcco25lfpwlvx4di3pe/{id}.json",
+  "image_base": "ipfs://bafybeibcyyfi6lyucjkkj7pp4xhuz7azd674y7c24mtbtrdizi6us6qt6a/{id}.png",
+  "format": "24x24",
+  "source": "1000x1000",
+  "offset": 1,
+  "opensea": "thepharaohs7000",
+  "token": {
+    "contract": "0x6b1514d9685b796b9899096b9e15fa8c0b1cbd47"
+  },
+  "self_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/thepharaohs/collection.yml",
+  "strip_url": "https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/thepharaohs-strip.png"
+}

@@ -100,6 +100,8 @@
    - owners: 1880,   sales:  776   -  Ξ10.77 (~ US$ 14006) @    price avg Ξ0.014 (~ US$ 18.05),   floor Ξ0.007 (~ US$ 8.97)
 -  12 in 30d - Ξ0.015 (~ US$ 19.49), 2 in 7d - Ξ0.003 (~ US$ 3.64), 0 in 1d  **[6580 Monkerunners Official (Jun 26, 2022), 7.5%](https://opensea.io/collection/monkerunners-official)**
    - owners: 2264,   sales:  5757   -  Ξ124.37 (~ US$ 161675) @    price avg Ξ0.02 (~ US$ 28.08),   floor Ξ0.001 (~ US$ 1.30)
+-  4 in 30d - Ξ0.009 (~ US$ 11.44), 2 in 7d - Ξ0.002 (~ US$ 2.34), 0 in 1d  **[5555 The Californians NFT (Aug 08, 2022), 7.5%](https://opensea.io/collection/the-californians-nft)**
+   - owners: 603,   sales:  116   -  Ξ0.25 (~ US$ 327.81) @    price avg Ξ0.002 (~ US$ 2.83),   floor Ξ0.0009 (~ US$ 1.17)
 -  1 in 30d - Ξ0.006 (~ US$ 7.28), 0 in 7d/1d  **[1130 NonVisiblePunks (Oct 18, 2021), 3.5%](https://opensea.io/collection/nonvisiblepunks)**
    - owners: 179,   sales:  119   -  Ξ0.46 (~ US$ 601.59) @    price avg Ξ0.004 (~ US$ 5.06),   floor Ξ0.003 (~ US$ 4.45)
 -  1 in 30d - Ξ0.005 (~ US$ 6.37), 0 in 7d/1d  **[4715 International Punks. (Aug 27, 2021), 10.0%](https://opensea.io/collection/international-punks-)**
@@ -108,6 +110,10 @@
    - owners: 971,   sales:  1437   -  Ξ5.75 (~ US$ 7481) @    price avg Ξ0.004 (~ US$ 5.21),   floor Ξ0.001 (~ US$ 1.30)
 -  4 in 30d - Ξ0.002 (~ US$ 2.60), 0 in 7d/1d  **[8888 Crypto Pudgy Punks (Aug 21, 2022), 8.0%](https://opensea.io/collection/crypto-pudgy-punks)**
    - owners: 2273,   sales:  3228   -  Ξ9.83 (~ US$ 12775) @    price avg Ξ0.003 (~ US$ 3.96),   floor Ξ0.00045 (~ US$ 0.58)
+-  1 in 30d - Ξ0.002 (~ US$ 2.60), 1 in 7d - Ξ0.002 (~ US$ 2.60), 1 in 1d - Ξ0.002 (~ US$ 2.60), **[6666 The Greeks | NFT (Jul 14, 2022), 7.5%](https://opensea.io/collection/thegreeksnft)**
+   - owners: 2792,   sales:  443   -  Ξ2.39 (~ US$ 3113) @    price avg Ξ0.005 (~ US$ 7.03),   floor Ξ0.001 (~ US$ 1.30)
+-  1 in 30d - Ξ0.001 (~ US$ 1.30), 1 in 7d - Ξ0.001 (~ US$ 1.30), 0 in 1d  **[10000 The Europeans NFT (Jul 18, 2022), 10.0%](https://opensea.io/collection/theeuropeansnft)**
+   - owners: 2245,   sales:  1263   -  Ξ5.77 (~ US$ 7506) @    price avg Ξ0.005 (~ US$ 5.94),   floor Ξ0.00098 (~ US$ 1.27)
 -  0 in 30d/7d/1d  **[264 Haunted Punks 666 (Oct 31, 2022), 5.0%](https://opensea.io/collection/haunted-punks-666)**
    - owners: 255,   sales: 0
 -  0 in 30d/7d/1d  **[135 Halloween-Punks (Oct 31, 2022), 6.9%](https://opensea.io/collection/halloweenpunks-here)**
@@ -120,6 +126,10 @@
    - owners: 139,   sales:  3   -  Ξ0.02 (~ US$ 25.74) @    price avg Ξ0.007 (~ US$ 8.58),   floor Ξ0.004 (~ US$ 5.85)
 -  0 in 30d/7d/1d  **[1300 Phunks In Black (Jul 31, 2022), -](https://opensea.io/collection/phunksinblack)**
    - owners: 161,   sales:  151   -  Ξ1.23 (~ US$ 1595) @    price avg Ξ0.008 (~ US$ 10.57),   floor Ξ0.002 (~ US$ 3.25)
+-  0 in 30d/7d/1d  **[809 The Pharaohs #MAXGREATNESS (Jul 21, 2022), 7.0%](https://opensea.io/collection/thepharaohs7000)**
+   - owners: 63,   sales:  1   -  Ξ0.003 (~ US$ 3.90) @    price avg Ξ0.003 (~ US$ 3.90),   floor Ξ0.0007 (~ US$ 0.91)
+-  0 in 30d/7d/1d  **[835 Lucky Irish (Jul 15, 2022), 7.8%](https://opensea.io/collection/luckyirish)**
+   - owners: 138,   sales: 0
 -  0 in 30d/7d/1d  **[4682 Moon Goblz (Jun 29, 2022), -](https://opensea.io/collection/moon-goblz)**
    - owners: 1267,   sales:  136   -  Ξ0.45 (~ US$ 590.05) @    price avg Ξ0.003 (~ US$ 4.34),   floor Ξ0.001 (~ US$ 1.30)
 -  0 in 30d/7d/1d  **[4731 Moonstalkers (Jun 29, 2022), 7.5%](https://opensea.io/collection/moonstalkers)**

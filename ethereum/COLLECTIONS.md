@@ -469,6 +469,37 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 </details>
 
 
+##  The Californians NFT
+
+opensea: [the-californians-nft](https://opensea.io/collection/the-californians-nft) - created on Aug 08, 2022<br>
+web:  <https://thecalifornians.xyz><br>
+twitter: [CaliforniansNFT](https://twitter.com/CaliforniansNFT)<br>
+
+contracts (1):
+- **The Californians (CAS)** created on Aug 08, 2022 @ [0xe00ffd0f7bf2c819412fe62c0146b059bad841b7](https://etherscan.io/address/0xe00ffd0f7bf2c819412fe62c0146b059bad841b7)
+
+stats:
+- count / total supply: 5555 / 5555, num owners:  603
+- total sales:  116, total volume: Ξ0.25 (~ US$ 327.81)
+- average price: Ξ0.002 (~ US$ 2.83)
+- floor price: Ξ0.0009 (~ US$ 1.17)
+
+fees: seller 7.5%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (6):</summary>
+
+- Base (11)
+- Hair (40)
+- Accesories (10)
+- FacialHairs (10)
+- Eyes (20)
+- Mouth (9)
+
+</details>
+
+
 ##  Phunks In Black
 
 opensea: [phunksinblack](https://opensea.io/collection/phunksinblack) - created on Aug 08, 2022<br>
@@ -541,6 +572,37 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 </details>
 
 
+##  The Pharaohs #MAXGREATNESS
+
+opensea: [thepharaohs7000](https://opensea.io/collection/thepharaohs7000) - created on Jul 21, 2022<br>
+web:  <https://thepharaohs.xyz><br>
+twitter: [The7000Pharaohs](https://twitter.com/The7000Pharaohs)<br>
+
+contracts (1):
+- **The Pharaohs (☥)** created on Jul 21, 2022 @ [0x6b1514d9685b796b9899096b9e15fa8c0b1cbd47](https://etherscan.io/address/0x6b1514d9685b796b9899096b9e15fa8c0b1cbd47)
+
+stats:
+- count / total supply: 809 / 809, num owners:  63
+- total sales:  1, total volume: Ξ0.003 (~ US$ 3.90)
+- average price: Ξ0.003 (~ US$ 3.90)
+- floor price: Ξ0.0007 (~ US$ 0.91)
+
+fees: seller 7.0%, opensea 2.5%
+
+payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
+
+<details><summary>attribute categories (6):</summary>
+
+- Background (1)
+- Skin (4)
+- Headwear (16)
+- Earring (6)
+- Accessories (10)
+- Mouth (8)
+
+</details>
+
+
 ##  The Indians Official
 
 opensea: [theindiansofficial](https://opensea.io/collection/theindiansofficial) - created on Jul 21, 2022<br>
@@ -569,6 +631,39 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 - Head (47)
 - Eyes (30)
 - Belly (53)
+
+</details>
+
+
+##  The Europeans NFT
+
+opensea: [theeuropeansnft](https://opensea.io/collection/theeuropeansnft) - created on Jul 18, 2022<br>
+web:  <https://www.theeuropeansnft.eu><br>
+twitter: [TheEuropeansNFT](https://twitter.com/TheEuropeansNFT)<br>
+
+contracts (1):
+- **TheEuropeans (EU)** created on Jul 18, 2022 @ [0xec48383337c70c5fd3f6b98032365e4ad7832ae1](https://etherscan.io/address/0xec48383337c70c5fd3f6b98032365e4ad7832ae1)
+
+stats:
+- count / total supply: 10000 / 10000, num owners:  2245
+- total sales:  1263, total volume: Ξ5.77 (~ US$ 7506)
+- average price: Ξ0.005 (~ US$ 5.94)
+- floor price: Ξ0.00098 (~ US$ 1.27)
+
+fees: seller 10.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (8):</summary>
+
+- Country (29)
+- Skin (5)
+- Accessories (12)
+- Glasses (11)
+- Hair (20)
+- Facial Hair (21)
+- Tatoo (28)
+- Hat (11)
 
 </details>
 
@@ -641,6 +736,39 @@ payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 </details>
 
 
+##  Lucky Irish
+
+opensea: [luckyirish](https://opensea.io/collection/luckyirish) - created on Jul 21, 2022<br>
+web:  <https://twitter.com/TheIrishNFT><br>
+
+contracts (1):
+- **luck of the irish (loti)** created on Jul 15, 2022 @ [0x82f7e085a25a45f219e68905c7cf5646fa9678e1](https://etherscan.io/address/0x82f7e085a25a45f219e68905c7cf5646fa9678e1)
+
+stats:
+- count / total supply: 835 / 835, num owners:  138
+- total sales:  0
+
+fees: seller 7.8%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (11):</summary>
+
+- background (5)
+- body (7)
+- mouth (6)
+- beard (15)
+- neck (4)
+- eyebrows (5)
+- head (26)
+- earring (3)
+- eyewear (10)
+- mouthpiece (4)
+- irish (1)
+
+</details>
+
+
 ##  The Americans NFT
 
 opensea: [the-americans-nft](https://opensea.io/collection/the-americans-nft) - created on Jul 14, 2022<br>
@@ -669,6 +797,38 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 - Headwear (30)
 - Mouth (20)
 - Accessory (20)
+
+</details>
+
+
+##  The Greeks | NFT
+
+opensea: [thegreeksnft](https://opensea.io/collection/thegreeksnft) - created on Jul 14, 2022<br>
+web:  <http://thegreeksnft.xyz><br>
+
+contracts (1):
+- **TheGreeks (GREEK)** created on Jul 14, 2022 @ [0x535181d7a6e103b927afac13de159b07f9dcea6e](https://etherscan.io/address/0x535181d7a6e103b927afac13de159b07f9dcea6e)
+
+stats:
+- count / total supply: 6666 / 6666, num owners:  2792
+- total sales:  443, total volume: Ξ2.39 (~ US$ 3113)
+- average price: Ξ0.005 (~ US$ 7.03)
+- floor price: Ξ0.001 (~ US$ 1.30)
+
+fees: seller 7.5%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (8):</summary>
+
+- Background (8)
+- Head (8)
+- Hair (15)
+- Beard (17)
+- Head Accessory (19)
+- Accessory (6)
+- Mouth (7)
+- Eyes (7)
 
 </details>
 
