@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x82f7e085a25a45f219e68905c7cf5646fa9678e1",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-07-15T21:22:20.314971",
+    "name": "luck of the irish",
+    "nft_version": null,
+    "opensea_version": null,
+    "owner": 443987666,
+    "schema_name": "ERC721",
+    "symbol": "loti",
+    "total_supply": "0",
+    "description": "4444 Lucky Irish blessing the blockchain with their presence. Will you be lucky?",
+    "external_link": "https://twitter.com/TheIrishNFT",
+    "image_url": "https://i.seadn.io/gcs/files/bfb8c6c5d3a19ab2fcb6088b0448e805.png?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

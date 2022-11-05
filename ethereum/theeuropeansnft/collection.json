@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/29c6fd8501570edb3bdfd5385439da76.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-07-18T17:57:44.352576+00:00",
+  "default_to_fiat": false,
+  "description": "",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://www.theeuropeansnft.eu",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/637617ebceb89dda682a445580ab41d7.jpg?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": null,
+  "medium_username": null,
+  "name": "The Europeans NFT",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "theeuropeansnft",
+  "telegram_url": null,
+  "twitter_username": "TheEuropeansNFT",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x9e1aca4782470cd1d798d8c790e3adfe4fc52821": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

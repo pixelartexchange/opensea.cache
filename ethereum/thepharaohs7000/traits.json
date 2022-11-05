@@ -1,0 +1,59 @@
+{
+  "Background": {
+    "pyramids": 792
+  },
+  "Skin": {
+    "white": 283,
+    "black": 278,
+    "mummy": 50,
+    "brown": 181
+  },
+  "Headwear": {
+    "nomarch": 69,
+    "farmer": 52,
+    "gold crown": 76,
+    "pschent": 22,
+    "tutankhamun": 23,
+    "gold crown big": 84,
+    "vizier": 48,
+    "red hair": 38,
+    "brown hair": 37,
+    "solider": 75,
+    "black hair": 73,
+    "hedjet": 47,
+    "snake crown": 26,
+    "deshret": 46,
+    "yellow hair": 40,
+    "khepresh": 36
+  },
+  "Earring": {
+    "emerald": 111,
+    "ankh": 60,
+    "silver": 253,
+    "gold": 179,
+    "ruby": 131,
+    "diamond": 58
+  },
+  "Accessories": {
+    "gold chain": 113,
+    "tutankhamun goatee": 49,
+    "diamond chain": 80,
+    "ruby chain": 74,
+    "gold nasallang": 93,
+    "gold goatee": 77,
+    "emerald chain": 80,
+    "goatee": 99,
+    "max greatness": 27,
+    "solid chain": 100
+  },
+  "Mouth": {
+    "normal": 257,
+    "open": 94,
+    "grin": 56,
+    "gold teeth": 62,
+    "upset": 111,
+    "proud": 70,
+    "smile": 119,
+    "wine": 23
+  }
+}

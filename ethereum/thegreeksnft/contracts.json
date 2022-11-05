@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x535181d7a6e103b927afac13de159b07f9dcea6e",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-07-14T03:50:59.728595",
+    "name": "TheGreeks",
+    "nft_version": null,
+    "opensea_version": null,
+    "owner": 453722816,
+    "schema_name": "ERC721",
+    "symbol": "GREEK",
+    "total_supply": "0",
+    "description": "🇬🇷6666 of the strongest Greeks looking to once again rule the blockchain🇬🇷",
+    "external_link": "http://thegreeksnft.xyz",
+    "image_url": "https://i.seadn.io/gcs/files/cbf023bb303c7a750d7bc8c72d70ac62.jpg?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

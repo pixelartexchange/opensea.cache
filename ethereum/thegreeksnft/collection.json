@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/2580c4ef7dc9d23e3b7120d8d9e404d5.jpg?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-07-14T13:10:27.392100+00:00",
+  "default_to_fiat": false,
+  "description": "🇬🇷6666 of the strongest Greeks looking to once again rule the blockchain🇬🇷",
+  "discord_url": "https://discord.gg/thegreeksnft",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "http://thegreeksnft.xyz",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/cbf023bb303c7a750d7bc8c72d70ac62.jpg?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": null,
+  "medium_username": null,
+  "name": "The Greeks | NFT",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "thegreeksnft",
+  "telegram_url": null,
+  "twitter_username": null,
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xfc1f99fc98da5e6af19375e177b8a6b2d793e542": 750
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

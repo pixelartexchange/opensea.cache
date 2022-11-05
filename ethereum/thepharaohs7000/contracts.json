@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x6b1514d9685b796b9899096b9e15fa8c0b1cbd47",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-07-21T23:14:17.242363",
+    "name": "The Pharaohs",
+    "nft_version": null,
+    "opensea_version": null,
+    "owner": 456301950,
+    "schema_name": "ERC721",
+    "symbol": "☥",
+    "total_supply": "500",
+    "description": "Mint Here:\n\nhttps://thepharaohs.xyz\n\n1,000 Pharaohs To Be Mint For Free 🔥\n\n3 Free Mint Per Txn\n\nUpcoming For Holders:\n\n1️⃣ Moon Pharaohs\n\n2️⃣ Pharaonic Land\n\n3️⃣ Voting For The Kingdom",
+    "external_link": "https://thepharaohs.xyz",
+    "image_url": "https://i.seadn.io/gcs/files/a1fe1b42590b8e6766ed8e8277edc594.gif?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

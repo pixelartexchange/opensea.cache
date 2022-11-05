@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/4c03b1b90b200f2fd72d80b4717f5166.jpg?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-08-08T17:30:32.443674+00:00",
+  "default_to_fiat": false,
+  "description": "Californians living their best life on the Ethereum blockchain\n\nSun + Surf + Silicon",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://thecalifornians.xyz",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/5a70f6b8d0184353b5becc1e43637e95.png?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": null,
+  "medium_username": null,
+  "name": "The Californians NFT",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "the-californians-nft",
+  "telegram_url": null,
+  "twitter_username": "CaliforniansNFT",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x429cfb2adb47c6518380df4cb3a3e6fc505c67dd": 750
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

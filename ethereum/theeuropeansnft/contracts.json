@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xec48383337c70c5fd3f6b98032365e4ad7832ae1",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-07-18T17:52:30.411844",
+    "name": "TheEuropeans",
+    "nft_version": null,
+    "opensea_version": null,
+    "owner": 455068093,
+    "schema_name": "ERC721",
+    "symbol": "EU",
+    "total_supply": "0",
+    "description": "",
+    "external_link": "https://www.theeuropeansnft.eu",
+    "image_url": "https://i.seadn.io/gcs/files/637617ebceb89dda682a445580ab41d7.jpg?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

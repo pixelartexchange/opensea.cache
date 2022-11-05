@@ -1,0 +1,110 @@
+{
+  "background": {
+    "blue": 172,
+    "red": 168,
+    "purple": 166,
+    "pink": 166,
+    "green": 156
+  },
+  "body": {
+    "tan": 95,
+    "white": 132,
+    "blush": 117,
+    "bronze": 127,
+    "dark": 132,
+    "peach": 116,
+    "pale": 109
+  },
+  "mouth": {
+    "wide": 121,
+    "smirk": 144,
+    "frown": 152,
+    "grin": 139,
+    "pucker": 123,
+    "smile": 149
+  },
+  "beard": {
+    "brown beard": 61,
+    "blonde sideburns": 62,
+    "luck of the irish beard": 15,
+    "brown horseshoe": 76,
+    "brown goatee": 52,
+    "blonde goatee": 58,
+    "brown sideburns": 67,
+    "blonde horseshoe": 69,
+    "ginger goatee": 57,
+    "ginger horseshoe": 81,
+    "ginger beard": 68,
+    "ginger sideburns": 71,
+    "blonde beard": 66,
+    "luck of the irish horseshoe": 13,
+    "luck of the irish goatee": 12
+  },
+  "neck": {
+    "silver chain": 320,
+    "gold chain": 249,
+    "diamond": 173,
+    "bowtie": 86
+  },
+  "eyebrows": {
+    "brown": 236,
+    "blonde": 226,
+    "ginger": 240,
+    "monobrow": 80,
+    "luck of the irish monobrow": 46
+  },
+  "head": {
+    "braids": 26,
+    "brown flat": 37,
+    "blonde mohawk": 39,
+    "rice hat": 30,
+    "ginger frizz": 51,
+    "blonde flat": 29,
+    "white hoodie": 33,
+    "brown frizz": 57,
+    "orange hoodie": 19,
+    "blonde frizz": 38,
+    "ginger flat": 53,
+    "bald": 39,
+    "bowler hat": 47,
+    "brown mohawk": 44,
+    "luck of the irish bandana": 17,
+    "luck of the irish crown": 16,
+    "luck of the irish hoodie": 15,
+    "crab": 26,
+    "shamrock hat": 59,
+    "ginger mohawk": 37,
+    "pink snapback": 21,
+    "founder": 19,
+    "luck of the irish crew": 13,
+    "rainbow": 28,
+    "green hoodie": 22,
+    "luck of the irish flatcap": 13
+  },
+  "earring": {
+    "silver": 404,
+    "gold": 271,
+    "diamond": 153
+  },
+  "eyewear": {
+    "cateyes": 106,
+    "tear drop": 68,
+    "grey squares": 110,
+    "gold rims": 72,
+    "eyepatch": 80,
+    "luck of the irish laser": 55,
+    "slick": 69,
+    "blindfold": 105,
+    "blue shades": 112,
+    "luck of the irish 3d": 51
+  },
+  "mouthpiece": {
+    "cigarette": 253,
+    "doobie": 139,
+    "cigar": 281,
+    "pipe": 69
+  },
+  "irish": {
+    "mcilroy": 1
+  }
+}

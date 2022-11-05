@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xe00ffd0f7bf2c819412fe62c0146b059bad841b7",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-08-08T17:23:37.134749",
+    "name": "The Californians",
+    "nft_version": null,
+    "opensea_version": null,
+    "owner": 466949203,
+    "schema_name": "ERC721",
+    "symbol": "CAS",
+    "total_supply": "0",
+    "description": "Californians living their best life on the Ethereum blockchain\n\nSun + Surf + Silicon",
+    "external_link": "https://thecalifornians.xyz",
+    "image_url": "https://i.seadn.io/gcs/files/5a70f6b8d0184353b5becc1e43637e95.png?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

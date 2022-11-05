@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/b507087bbddef7ae62a1e112ee59fa4c.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-07-21T23:14:21.250915+00:00",
+  "default_to_fiat": false,
+  "description": "Mint Here:\n\nhttps://thepharaohs.xyz\n\n1,000 Pharaohs To Be Mint For Free 🔥\n\n3 Free Mint Per Txn\n\nUpcoming For Holders:\n\n1️⃣ Moon Pharaohs\n\n2️⃣ Pharaonic Land\n\n3️⃣ Voting For The Kingdom",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://thepharaohs.xyz",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/a39bc1102cd0450edc153c97de3b7309.jpg?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/a1fe1b42590b8e6766ed8e8277edc594.gif?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/a39bc1102cd0450edc153c97de3b7309.jpg?w=500&auto=format",
+  "medium_username": null,
+  "name": "The Pharaohs #MAXGREATNESS",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "thepharaohs7000",
+  "telegram_url": null,
+  "twitter_username": "The7000Pharaohs",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x30100664e88920e4c7586b8d1cf746ac6fc17d1e": 700
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}
