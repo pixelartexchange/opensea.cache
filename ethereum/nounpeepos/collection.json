@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/a1354668af552a2b6c0c2f8f25b2c21d.jpg?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-10-07T18:29:46.133895+00:00",
+  "default_to_fiat": false,
+  "description": "Noun Peepos is a premier exhibition 9,999 peepos peacefully existing on the Ethereum blockchain. The collection features original pixel art, by espress0.eth.",
+  "discord_url": "https://discord.gg/9NkZ7WUHgP",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://linktr.ee/NounPepes",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/eafe98b80e3568e9d8d79694877f74f6.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/5bd79dc76bf5e4a107a085c0262d7321.png?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/eafe98b80e3568e9d8d79694877f74f6.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "Noun Peepos",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "nounpeepos",
+  "telegram_url": null,
+  "twitter_username": "NounPepes",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xaf2ab6d0e8f69656e7c8c967351de32f0d60fe76": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

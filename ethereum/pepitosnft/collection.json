@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/9d1f419a9f370c9682b8e2fff6e35501.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-09-23T23:33:33.529114+00:00",
+  "default_to_fiat": false,
+  "description": "Smol pixels with a bit of Phunks and Pepes in them.",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/9d1f419a9f370c9682b8e2fff6e35501.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/Ku2p1fl9DpNuWMfcONdhvC9xCjr3fxjUifvfLBvRhBSW6y87f0mbSZEPhJhDzGuWydcvAQOYDEIDY1HlW-0nr1ZJkKubT_-9jl2Qdw?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/9d1f419a9f370c9682b8e2fff6e35501.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "PepitosNFT",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "pepitosnft",
+  "telegram_url": null,
+  "twitter_username": "PepitosNFT",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x4f04c937a3ad3b77c16d856c9edd683c64e01f45": 700
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

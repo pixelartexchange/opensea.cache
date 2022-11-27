@@ -46,32 +46,8 @@ slugs = slugs.sort    ## sort a-z
 
 
 slugs = %w[
-
-  aliens-vs-punks
-  aloha-chi-chi-onchain
-  onchainchopper
-  dank-punks-v2
-  dos-phunks-nft
-  on-chain-death
-  onchainpeople
-  larvadickbutts
-  cryptobabyteddies
-  mad-masks
-  long-live-kevin
-  theedgepunks
-  cryptofuks
-  inversepunks-v2
-  madcamels
-  crypto-marcs
-  non-fungible-league
-  no-mad-nomads
-  phunk-ape-origins
-  proofofpepe
-  punk-ape-yacht-club-v2
-  punkin-spicies
-
-  ether-birds-on-chain
-  pecasso
+  nounpeepos
+  pepitosnft
 ]
 
 # cache.download( slugs, :stats )

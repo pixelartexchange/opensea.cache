@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x139cf58d69779eea2edc9d0000a8f9d186d89bbb",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-09-23T23:33:29.576406",
+    "name": "Pepitos",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 502769308,
+    "schema_name": "ERC721",
+    "symbol": "pip",
+    "total_supply": "0",
+    "description": "Smol pixels with a bit of Phunks and Pepes in them.",
+    "external_link": null,
+    "image_url": "https://i.seadn.io/gae/Ku2p1fl9DpNuWMfcONdhvC9xCjr3fxjUifvfLBvRhBSW6y87f0mbSZEPhJhDzGuWydcvAQOYDEIDY1HlW-0nr1ZJkKubT_-9jl2Qdw?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

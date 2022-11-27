@@ -1,0 +1,85 @@
+{
+  "Bubble Gum": {
+    "no trait 2": 1360,
+    "bubble gum": 140
+  },
+  "Eyewear": {
+    "big 3d": 249,
+    "no trait 2": 771,
+    "deal with it": 58,
+    "big shades": 12,
+    "smol 3d": 168,
+    "vr": 68,
+    "smol 3d low": 93,
+    "pirate patch": 52,
+    "nerds glasses": 29
+  },
+  "Accesories": {
+    "mediaeval": 194,
+    "mike three low hoody": 329,
+    "sword": 228,
+    "no trait 2": 265,
+    "gold chain": 274,
+    "spoon": 136,
+    "juice": 74
+  },
+  "Hair": {
+    "knitted cap": 96,
+    "sombrero pink": 34,
+    "multicolor afro": 204,
+    "maccas black": 67,
+    "yellow dreads": 195,
+    "black afro": 98,
+    "sombrero blue": 34,
+    "pink dreads": 158,
+    "fuchsia afro": 219,
+    "sombrero violet": 20,
+    "no trait 2": 29,
+    "violet afro": 154,
+    "maccas red": 70,
+    "hoody": 78,
+    "sombrero purple": 17,
+    "pink mohawk": 10,
+    "multicolor mohawk": 11,
+    "fire": 6
+  },
+  "Mouth": {
+    "smile": 257,
+    "mouth": 635,
+    "buck tooth": 148,
+    "tounge": 74,
+    "no trait 2": 108,
+    "frown": 121,
+    "big smile": 157
+  },
+  "Body": {
+    "bubble gum": 192,
+    "frog": 167,
+    "teal": 173,
+    "green": 294,
+    "different frog": 248,
+    "hot": 55,
+    "zombro": 28,
+    "ice": 173,
+    "violet": 48,
+    "more orange": 55,
+    "orange": 61,
+    "alien": 5,
+    "ape": 1
+  },
+  "Background": {
+    "light green spots": 39,
+    "low lime": 311,
+    "green dark": 234,
+    "pastel yellow": 111,
+    "violet blue": 89,
+    "low green": 265,
+    "violet": 138,
+    "celeste": 118,
+    "phunk blue": 76,
+    "violet spots": 11,
+    "pistachio": 46,
+    "blue spots": 27,
+    "pink cotton": 35
+  }
+}
