@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/89206e7baa0fa628c381a3eebaaa49f7.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-10-24T18:53:44.647651+00:00",
+  "default_to_fiat": false,
+  "description": "— *MINTING* — A fully onchain generative pixel art collection of 1500 Chi-Chis that live Aloha. 10% of the mint sale is being donated to the ASPCA through the contract with every mint even if the collection doesn’t sell out. The collection is inspired by ECM Vision's little chihuahua friend, who is a rescue dog, and the life they live in Hawai'i.\nPresale Mint starts 10/24\nPublic Mint starts 10/28",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://app.indelible.xyz/mint/0x2204a94f96d39df3b6bc0298cf068c8c82dc8d61",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/ca5be995a330f6be536ac5727642dcc0.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/3Bu8z4z4VJYrPi_k6f9EwSIoKAMRpL5ivNo3Itt6igxUzhh_RCVc_J01p_QxD3WDCNXuV8r4YY-CbtpBGjB6caGh1KsVgYI5iGfJKrU?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/ca5be995a330f6be536ac5727642dcc0.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "Aloha Chi-Chi Onchain",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "aloha-chi-chi-onchain",
+  "telegram_url": null,
+  "twitter_username": "AlohaChiChiNFT",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x29323644b5540d20e834578943a2bd91027699b1": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

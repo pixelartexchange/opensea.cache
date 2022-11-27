@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x5e8edf0ab7b3e13394846fe0fbb306aea47588e9",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-10-02T10:09:03.096529",
+    "name": "Dank Punks",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 18498204,
+    "schema_name": "ERC721",
+    "symbol": "DANK",
+    "total_supply": "0",
+    "description": "The dankest punks you'll ever see. Charity project. Supply: 999",
+    "external_link": null,
+    "image_url": "https://i.seadn.io/gae/dZwBTudxpQkzRRnG-D9E85kmOy581VKJ4B7ggNs2qwpXNrET-frp99Nj6g-RqrQMRMoOjavWbrrm3wx18ccwe_I6Hvzc4W5khcnmxA?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

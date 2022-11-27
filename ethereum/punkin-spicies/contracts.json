@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x34625ecaa75c0ea33733a05c584f4cf112c10b6b",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-10-08T06:04:25.126623",
+    "name": "Punkin Spicies",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 546218777,
+    "schema_name": "ERC721",
+    "symbol": "PunkinSpicies",
+    "total_supply": "1198",
+    "description": "6969 Little Punk Cuties Derivative Spicy and On Chain",
+    "external_link": null,
+    "image_url": "https://i.seadn.io/gae/EWjiBqNCBTtuJj6rw9I1mFYgeTpiV6xb85Pcop3XpR5AQ70ffkWMzxKsZ-babaWIxSkIFU5Nacn2AjdIIZeo34w-xB7OWORVrToI7A?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x16f8cd1fedb3203e8fd6a5fa041b34cee087398b",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-10-06T07:05:01.696546",
+    "name": "Cryptofuks",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 60165409,
+    "schema_name": "ERC721",
+    "symbol": "FUKS",
+    "total_supply": "0",
+    "description": "Cryptofuks is a generative 7777 piece, 100% on-chain NFT collection.",
+    "external_link": "https://www.cryptofuks.com",
+    "image_url": "https://i.seadn.io/gae/Hu46wL6pq7PGeYYIMnMF5OR7x39wXCD31bogSM-kRJXQTc4AaKG6S4lG9K1AUNpewguMdPUIa38drLZY5spZyIdFxbJLk4x5Z8Pl?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

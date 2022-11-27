@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/25dacae5822eeb37e6ec1a6be9c6ce18.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-09-04T07:17:04.559877+00:00",
+  "default_to_fiat": false,
+  "description": "Mad Camels is a fully on-chain NFT collection of 4500 items created by a 19 year old programmer and digital artist from Bangladesh. No roadmap. No utility. No promises.\n\nMint Now : https://app.indeliblelabs.io/mint/0xad8474ba5a7f6abc52708f171f57fefc5cdc8c1c\n\nCheck out our website for more information: https://madcamels.com",
+  "discord_url": "https://discord.gg/8P3F6vj8Re",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://madcamels.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/18e52ec10c90b04238ec2fea41b3c3b7.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/e5fe7d1db11789f883f4eabc83947d1c.gif?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/18e52ec10c90b04238ec2fea41b3c3b7.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "Mad Camels",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "madcamels",
+  "telegram_url": null,
+  "twitter_username": "madcamelsnfts",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xfdf474098acdaec5bf8b4f7798b3e64da0d60f57": 600
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

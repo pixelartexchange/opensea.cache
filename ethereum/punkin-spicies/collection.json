@@ -1,0 +1,40 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/f233813722b0aefbfce3cddf55606e4f.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-10-08T06:15:44.903827+00:00",
+  "default_to_fiat": false,
+  "description": "6969 Little Punk Cuties Derivative Spicy and On Chain",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/EWjiBqNCBTtuJj6rw9I1mFYgeTpiV6xb85Pcop3XpR5AQ70ffkWMzxKsZ-babaWIxSkIFU5Nacn2AjdIIZeo34w-xB7OWORVrToI7A?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/EWjiBqNCBTtuJj6rw9I1mFYgeTpiV6xb85Pcop3XpR5AQ70ffkWMzxKsZ-babaWIxSkIFU5Nacn2AjdIIZeo34w-xB7OWORVrToI7A?w=500&auto=format",
+  "medium_username": null,
+  "name": "Punkin Spicies",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "punkin-spicies",
+  "telegram_url": null,
+  "twitter_username": "PSpicies",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xf2c0149f0cff4c19b9819d1084f465df0e1b3795": 250,
+      "0x5fd2e3ba05c862e62a34b9f63c45c0df622ac112": 250
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

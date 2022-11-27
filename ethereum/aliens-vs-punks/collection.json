@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/cafe4d9965350128ca6436a029ea5c38.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-08-26T15:30:32.236360+00:00",
+  "default_to_fiat": false,
+  "description": "On-chain CC0 lore driven collection about the fight against the end of the world.",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://www.aliensvspunks.xyz",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/cOZU8EccNGGHTLhiX1zce9G17RostL3c3zwD1rfWPSRlZbfRPyC6T2UlCCG2lpihKlvwlORYvmuZNG8XsjcNdOGEZCk_FYBON302kN4?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/cOZU8EccNGGHTLhiX1zce9G17RostL3c3zwD1rfWPSRlZbfRPyC6T2UlCCG2lpihKlvwlORYvmuZNG8XsjcNdOGEZCk_FYBON302kN4?w=500&auto=format",
+  "medium_username": null,
+  "name": "Aliens vs Punks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "aliens-vs-punks",
+  "telegram_url": null,
+  "twitter_username": "aliensvspunks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x96790b276759a0b779da852f3235d682b44316b5": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

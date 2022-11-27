@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xa3bfe256f70f98644b86338df9fcbccd65560e58",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-10-03T05:33:13.084718",
+    "name": "Non Fungible League",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 277664754,
+    "schema_name": "ERC721",
+    "symbol": "NFL",
+    "total_supply": "0",
+    "description": "2500 Non-fungible football players stored 100% on-chain, no roadmap just football, a collection by @Ben0xf",
+    "external_link": "https://app.indelible.xyz/mint/0xa3bfe256f70f98644b86338df9fcbccd65560e58",
+    "image_url": "https://i.seadn.io/gae/T8aXgVj5GM2ZcXNnnYj6IWtsGhEmhZ22pcYJdgNb3upwWJo9Q3lpnC8wo5OmdHf9jHnOht5QUl67Xn2KVj3GDWqq3m4MnrQiAPRHRA?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

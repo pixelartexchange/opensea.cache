@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/5d438c1a0124e9411bd49f9c9d3c5b03.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-10-07T22:01:08.001655+00:00",
+  "default_to_fiat": false,
+  "description": "Cryptofuks is a generative 7777 piece, 100% on-chain NFT collection.",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://www.cryptofuks.com",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/5d438c1a0124e9411bd49f9c9d3c5b03.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/Hu46wL6pq7PGeYYIMnMF5OR7x39wXCD31bogSM-kRJXQTc4AaKG6S4lG9K1AUNpewguMdPUIa38drLZY5spZyIdFxbJLk4x5Z8Pl?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/5d438c1a0124e9411bd49f9c9d3c5b03.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "Cryptofuks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "cryptofuks",
+  "telegram_url": null,
+  "twitter_username": "cryptofuks",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x407e0b2cd7c7bde8828fd579f1fbfdf8eb75b02b": 700
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

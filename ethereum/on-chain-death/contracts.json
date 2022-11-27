@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x247709b606a3c39cb525ef9a4cb9bccc25b92038",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-11-18T09:26:13.610817",
+    "name": "On Chain Death",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 11739856,
+    "schema_name": "ERC721",
+    "symbol": "DEATH",
+    "total_supply": "0",
+    "description": "On Chain Death is an expansion of the Paper Chasers community focused on a popular character trait known as The Death Rider. Death ain't all about reaping souls, Death likes ice cream, parrots, pizza and beer too. Death likes to party!                                                                    ",
+    "external_link": "https://app.indelible.xyz/mint/0x247709b606a3c39cb525ef9a4cb9bccc25b92038",
+    "image_url": "https://i.seadn.io/gae/N6cjS3AknCPk7mIE8OyASeRlEuFNEf9p8dENPITqAaJPgUaeBBIvS_9NdHmcAzJITNV5AJW7SWnAMaTFnQB5nZOj4WTaGcaRqQ97Yw?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

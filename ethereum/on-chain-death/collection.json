@@ -1,0 +1,40 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/DLblwGjdXYCZV3XZD2b3RUoeHk-ANzfWLtFIVU9bllq8P0Fvrwa1B56JJ4sZh5L-gWcF1JAkmKt5APj7c1WPukLsWSMs3Ht0CM2Hhg?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-11-20T15:53:18.013302+00:00",
+  "default_to_fiat": false,
+  "description": "On Chain Death is an expansion of the Paper Chasers community focused on a popular character trait known as The Death Rider. Death ain't all about reaping souls, Death likes ice cream, parrots, pizza and beer too. Death likes to party!                                                                    ",
+  "discord_url": "https://discord.gg/dBTzdsncnD",
+  "display_data": {
+    "card_display_style": "cover",
+    "images": null
+  },
+  "external_url": "https://app.indelible.xyz/mint/0x247709b606a3c39cb525ef9a4cb9bccc25b92038",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/ccfae5b37fe6e05d3583549154929ce0.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/N6cjS3AknCPk7mIE8OyASeRlEuFNEf9p8dENPITqAaJPgUaeBBIvS_9NdHmcAzJITNV5AJW7SWnAMaTFnQB5nZOj4WTaGcaRqQ97Yw?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/ccfae5b37fe6e05d3583549154929ce0.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "On Chain Death",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "on-chain-death",
+  "telegram_url": null,
+  "twitter_username": "paperchasersnft",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xe810adaafd0079252495a71930f58af21388209f": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

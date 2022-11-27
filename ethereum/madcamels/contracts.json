@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xad8474ba5a7f6abc52708f171f57fefc5cdc8c1c",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-09-04T07:16:57.748656",
+    "name": "Mad Camels",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 485572780,
+    "schema_name": "ERC721",
+    "symbol": "CAMEL",
+    "total_supply": "0",
+    "description": "Mad Camels is a fully on-chain NFT collection of 4500 items created by a 19 year old programmer and digital artist from Bangladesh. No roadmap. No utility. No promises.\n\nMint Now : https://app.indeliblelabs.io/mint/0xad8474ba5a7f6abc52708f171f57fefc5cdc8c1c\n\nCheck out our website for more information: https://madcamels.com",
+    "external_link": "https://madcamels.com",
+    "image_url": "https://i.seadn.io/gcs/files/e5fe7d1db11789f883f4eabc83947d1c.gif?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

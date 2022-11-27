@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/ead1d497cd6d45c0fb2917bd74a90037.jpg?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-08-02T15:49:10.284434+00:00",
+  "default_to_fiat": false,
+  "description": "A collection of 5000 (free!) Nomads who are really definitely no mad about the Nomad Bridge exploit, all stored and generated on-chain at the time of mint.  Collect your Nomad exploit memorabilia exclusively in this collection.\n\nNo twitter, discord, or social media of any kind. \n\nThanks to https://twitter.com/Indelible_Labs for the contract and minting site. Also thanks to Chain Runners for use of their CC0 traits!",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://app.indeliblelabs.io/mint/0x95123d2F71D88E2Afb5351BEFb4762d2574fba7A",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/7mMFRyLlkiLbUX3cNR3Dke-KXpqv5fYlMd4nQNkoknM1Xk2qDDXcOpj0Qkh_X0PniUxRy9wfuQ2_y-WCF6Gw1jvKmw509vOqlo7z0Q?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/7mMFRyLlkiLbUX3cNR3Dke-KXpqv5fYlMd4nQNkoknM1Xk2qDDXcOpj0Qkh_X0PniUxRy9wfuQ2_y-WCF6Gw1jvKmw509vOqlo7z0Q?w=500&auto=format",
+  "medium_username": null,
+  "name": "No Mad Nomads",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "no-mad-nomads",
+  "telegram_url": null,
+  "twitter_username": null,
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xbdaa031a00e51d4f1c5811eedb82f4b305d66753": 1
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

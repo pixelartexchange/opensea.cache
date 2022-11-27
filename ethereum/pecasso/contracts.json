@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xb649c55ac9e436834f22281d70454a6d72bf4e0a",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-11-10T05:48:02.207125",
+    "name": "Pecasso",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 547699054,
+    "schema_name": "ERC721",
+    "symbol": "PECASSO",
+    "total_supply": "0",
+    "description": "Pecasso proudly present the very first released fine art on-chain, inspired from Picasso arts and iconic meme character PePe.",
+    "external_link": "https://app.indelible.xyz/mint/0xb649c55ac9e436834f22281d70454a6d72bf4e0a",
+    "image_url": "https://i.seadn.io/gae/zrGwVaft9V8CsAEPEOxzdHVLdXE7RZaWFGa1uOhkb_hsMYzjtrIqGdfBtaEmegIc5QwfmdjAMXjxxP_7cZ1rbO6RhgnuD9krbE2dpic?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x2612c0375c47ee510a1663169288f2e9eb912947",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-08-08T16:29:22.909761",
+    "name": "Aliens vs Punks",
+    "nft_version": null,
+    "opensea_version": null,
+    "owner": 459317813,
+    "schema_name": "ERC721",
+    "symbol": "ALVSPKS",
+    "total_supply": "0",
+    "description": "On-chain CC0 lore driven collection about the fight against the end of the world.",
+    "external_link": "https://www.aliensvspunks.xyz",
+    "image_url": "https://i.seadn.io/gae/cOZU8EccNGGHTLhiX1zce9G17RostL3c3zwD1rfWPSRlZbfRPyC6T2UlCCG2lpihKlvwlORYvmuZNG8XsjcNdOGEZCk_FYBON302kN4?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

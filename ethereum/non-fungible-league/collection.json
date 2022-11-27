@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/af4b0894c6c58510ecb7e5a4387bc103.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-10-03T05:33:17.923007+00:00",
+  "default_to_fiat": false,
+  "description": "2500 Non-fungible football players stored 100% on-chain, no roadmap just football, a collection by @Ben0xf",
+  "discord_url": "https://discord.gg/j33XNhcv",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://app.indelible.xyz/mint/0xa3bfe256f70f98644b86338df9fcbccd65560e58",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/e0ca53fa3d6daab54898fc1f72e12cf3.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/T8aXgVj5GM2ZcXNnnYj6IWtsGhEmhZ22pcYJdgNb3upwWJo9Q3lpnC8wo5OmdHf9jHnOht5QUl67Xn2KVj3GDWqq3m4MnrQiAPRHRA?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/e0ca53fa3d6daab54898fc1f72e12cf3.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "Non Fungible League",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "non-fungible-league",
+  "telegram_url": null,
+  "twitter_username": "NonFungibleL",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xfa99e52b4af299a8a00f16345007b3b4734b4015": 600
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

@@ -1,0 +1,78 @@
+{
+  "Honorary": {
+    "none": 39,
+    "golden phunk": 1
+  },
+  "Accessories": {
+    "black chain": 11,
+    "none": 10,
+    "pipe animated": 5,
+    "vape animated": 2,
+    "clown nose": 4,
+    "black scarf": 3,
+    "jay z": 3,
+    "earpiece": 1,
+    "earring": 1
+  },
+  "Mouth": {
+    "smirk": 5,
+    "none": 10,
+    "joker": 1,
+    "ok": 5,
+    "red": 8,
+    "talk": 2,
+    "dark beard": 4,
+    "black beard": 2,
+    "mustache": 1,
+    "handlebar": 1,
+    "disco beard": 1
+  },
+  "Eyes": {
+    "dark clown": 6,
+    "3 d glasses": 2,
+    "pirate": 4,
+    "matrix shades": 6,
+    "none": 4,
+    "green clown": 8,
+    "big shades": 1,
+    "eyemask red eyes": 3,
+    "green glasses": 4,
+    "golden glasses": 1,
+    "vr": 1
+  },
+  "Hats and Hair": {
+    "black stringy": 4,
+    "black knitted hat": 7,
+    "red punk": 5,
+    "none": 2,
+    "red clown hair": 7,
+    "pink bandana": 2,
+    "clown orange": 3,
+    "hoodie": 1,
+    "headband": 1,
+    "punk black": 2,
+    "black mohawk": 2,
+    "black hair": 3,
+    "black wicked": 1
+  },
+  "Nose": {
+    "none": 25,
+    "clown nose": 15
+  },
+  "Body": {
+    "skin": 11,
+    "pale": 13,
+    "undead": 5,
+    "tan": 9,
+    "alien": 1,
+    "zombie": 1
+  },
+  "Background": {
+    "dystopia": 7,
+    "contrast": 7,
+    "zen garden": 6,
+    "copacabana": 8,
+    "red light district": 7,
+    "night vibe": 5
+  }
+}

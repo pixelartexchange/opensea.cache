@@ -1,0 +1,76 @@
+{
+  "EARRING": {
+    "gold cross": 70,
+    "banana": 67,
+    "diamond cross": 58,
+    "diamond": 71,
+    "golden": 50
+  },
+  "GLASSES": {
+    "chopper": 65,
+    "3d": 36,
+    "nerd glasses": 35,
+    "stunnas": 41,
+    "classic shades": 22,
+    "clown eyes blue": 11,
+    "big shades": 48,
+    "vr": 49,
+    "vr rainbow": 4,
+    "purple eye shadow": 5
+  },
+  "MOUTH": {
+    "non-smoker": 157,
+    "smoker": 159
+  },
+  "HAT": {
+    "hat 30": 28,
+    "hat 22": 19,
+    "hat 36": 1,
+    "hat 26": 26,
+    "wild white": 23,
+    "pink cap": 7,
+    "hat 10": 35,
+    "hat 17": 10,
+    "cap": 14,
+    "tassle": 2,
+    "hat 8": 14,
+    "chopper": 40,
+    "hat 20": 7,
+    "hat 16": 34,
+    "knitted cap": 5,
+    "hat 1": 14,
+    "beanie": 1,
+    "pilot": 2,
+    "rainbow": 5,
+    "wild blonde": 5,
+    "headband": 5,
+    "hoodie": 2,
+    "hat 2": 11,
+    "hat 29": 4,
+    "hat 12": 2
+  },
+  "SKIN": {
+    "chopp3r": 75,
+    "ap3": 35,
+    "coffee": 33,
+    "gold": 12,
+    "porcelain": 26,
+    "zombi3": 18,
+    "midnight": 28,
+    "ock": 7,
+    "ali3n": 11,
+    "aqua": 29,
+    "alien": 13,
+    "atomic": 19,
+    "rainbow": 5,
+    "zombie": 5
+  },
+  "BACKGROUND": {
+    "mint": 54,
+    "black": 63,
+    "blue": 51,
+    "gold": 42,
+    "peach": 57,
+    "purple": 49
+  }
+}

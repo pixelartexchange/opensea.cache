@@ -1,0 +1,76 @@
+{
+  "headwear&1/1s": {
+    "shave ice": 1,
+    "bald": 4,
+    "mohawk": 1,
+    "pineapple": 3,
+    "uh hat": 1,
+    "black mullet": 1,
+    "mullet": 1,
+    "rainbow": 1,
+    "fedora": 1,
+    "bun": 1,
+    "haku lei": 1,
+    "halo": 1,
+    "beanie": 1,
+    "pigtails": 1
+  },
+  "eyes": {
+    "xx": 3,
+    "sleepy": 3,
+    "fiesty": 3,
+    "sports": 2,
+    "cobain": 3,
+    "aviators": 2,
+    "athletic": 1,
+    "blaze": 1,
+    "horn rim": 1
+  },
+  "mouth": {
+    "bone": 2,
+    "smile": 7,
+    "rainbow puke": 2,
+    "mustachio": 2,
+    "tongue out": 4,
+    "teeth out": 1,
+    "cbd cig": 1
+  },
+  "accessories": {
+    "lei": 5,
+    "simple day": 5,
+    "lightning bolt earrings": 3,
+    "diamond earrings": 1,
+    "gold chain": 2,
+    "earrings": 2,
+    "backpack": 1
+  },
+  "wearables": {
+    "camo tshirt": 2,
+    "jersey": 2,
+    "aloha shirt": 4,
+    "au naturel": 4,
+    "faded black shirt": 1,
+    "tank top": 3,
+    "stripes": 2,
+    "suit": 1
+  },
+  "fur": {
+    "pink": 2,
+    "teal": 3,
+    "grey": 5,
+    "tan": 4,
+    "silver": 2,
+    "deep teal": 1,
+    "magenta": 2
+  },
+  "background": {
+    "morning glow": 2,
+    "wai": 4,
+    "papaya": 3,
+    "sunset": 2,
+    "straw": 4,
+    "wave": 2,
+    "palms": 1,
+    "cruise ship": 1
+  }
+}

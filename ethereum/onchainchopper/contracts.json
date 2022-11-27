@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x090c8034e6706994945049e0ede1bbdf21498e6e",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-10-07T02:27:13.732979",
+    "name": "OnChainChopper",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 529054206,
+    "schema_name": "ERC721",
+    "symbol": "erc-721",
+    "total_supply": "0",
+    "description": "OnChainChopper is an ode to the Phunks, OnChainMonkey, Shonen Junk, OnChainKevin and the legend himself @Chopper_Dad - This project goes where the culture goes - No Roadmap - Chopper is Culture! 97.5% of the MINT proceeds will go to Save the Children. The other 2.5% goes to @Indelieble_Labs",
+    "external_link": "https://www.onchainchopper.com",
+    "image_url": "https://i.seadn.io/gae/sE5WI6_mMCtz7Y_jX43ENEkG3Au7mAF39wmjqVWHMU4LEk52_IdaxMCHVHKqVlL1cR8LgBBDH1deCqgMOlQ6s2vMHEN5o_V4xz_rMg?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

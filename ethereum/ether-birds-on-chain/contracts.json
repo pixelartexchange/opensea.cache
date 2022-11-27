@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x969c250871ff1895a23e8e04ee0ff338287e9694",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-11-03T10:36:13.536523",
+    "name": "ETHER BIRDS ON-CHAIN",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 603928977,
+    "schema_name": "ERC721",
+    "symbol": "EBOC",
+    "total_supply": "5000",
+    "description": "EBOC have high complexity art using vector ( non-pixel). 134 traits are picked randomly from  @Indelible_Labs . Art is created with variety. A homage to birds culture! Let's Fly!!!",
+    "external_link": "https://app.indelible.xyz/mint/0x969c250871ff1895a23e8e04ee0ff338287e9694",
+    "image_url": "https://i.seadn.io/gae/DGwx5Kn6w3lKbRIjirQsKMLmlK11pMlUC0HE4Ondb_9yZw_6mjaIV7bhfU3xdXJGP5jjxRmpVP0vTW0M181u5g2rQp-WoeTowvVuaQ?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

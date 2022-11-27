@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xcd46fce2daf0f2f5129f74b502667e61b15c89f3",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-11-16T11:21:01.835029",
+    "name": "OnChainPeople",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 572711921,
+    "schema_name": "ERC721",
+    "symbol": "OCP",
+    "total_supply": "0",
+    "description": "OnChainPeople is building a community focused on Web3 standards and diversity for people On-Chain.\n\n1905 Humans, 398  Zombies, 200 Bionics with +110 Traits, 20 Accessories, 14 Animated Traits,  1 of 1's and more!",
+    "external_link": "https://pixelart.lol",
+    "image_url": "https://i.seadn.io/gcs/files/def627858ee21b393badc7b88e8a1545.gif?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

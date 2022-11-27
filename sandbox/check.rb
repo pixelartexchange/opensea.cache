@@ -45,13 +45,28 @@ end
 
 
 slugs = %w[
+  aliens-vs-punks
+  aloha-chi-chi-onchain
+  onchainchopper
 
-  luckyirish
-  thepharaohs7000
-  the-californians-nft
-  thegreeksnft
-  theeuropeansnft
+  dank-punks-v2
+  dos-phunks-nft
+  on-chain-death
+  onchainpeople
+  larvadickbutts
+  cryptobabyteddies
+  mad-masks
+  long-live-kevin
+  cryptofuks
+  inversepunks-v2
+  madcamels
+  non-fungible-league
+  no-mad-nomads
+  proofofpepe
+  punkin-spicies
 
+  ether-birds-on-chain
+  pecasso
 ]
 
 

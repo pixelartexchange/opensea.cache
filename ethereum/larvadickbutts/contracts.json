@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x9a7d9b8693339f82d65f315f180faa0a558469bd",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-11-10T23:56:25.470753",
+    "name": "LarvaDickbutts",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 77563799,
+    "schema_name": "ERC721",
+    "symbol": "LDB",
+    "total_supply": "0",
+    "description": "Gooch Island is full of mysterious secrets... Scientists have discovered a new species of cute creatures : LarvaDickbutts.  \n\nA cc0 and fully onchain collection of 3333 LarvaDickbutts, inspired by CryptoDickbutts and Larva Lads. \n\n",
+    "external_link": null,
+    "image_url": "https://i.seadn.io/gae/TXc-hMiwLbzQJlBEPeOLW549y9QJyGetgeiyICFszvluS0RpQGQ-mcykKBQh0gVEshRlmvH5yZRHc4VgrTvHTehwzu-pBTA57QoLZZI?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

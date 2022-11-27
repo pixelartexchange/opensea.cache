@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x95123d2f71d88e2afb5351befb4762d2574fba7a",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-08-02T14:20:45.108029",
+    "name": "No Mad Nomads",
+    "nft_version": null,
+    "opensea_version": null,
+    "owner": 128151873,
+    "schema_name": "ERC721",
+    "symbol": "NOM",
+    "total_supply": "0",
+    "description": "A collection of 5000 (free!) Nomads who are really definitely no mad about the Nomad Bridge exploit, all stored and generated on-chain at the time of mint.  Collect your Nomad exploit memorabilia exclusively in this collection.\n\nNo twitter, discord, or social media of any kind. \n\nThanks to https://twitter.com/Indelible_Labs for the contract and minting site. Also thanks to Chain Runners for use of their CC0 traits!",
+    "external_link": "https://app.indeliblelabs.io/mint/0x95123d2F71D88E2Afb5351BEFb4762d2574fba7A",
+    "image_url": "https://i.seadn.io/gae/7mMFRyLlkiLbUX3cNR3Dke-KXpqv5fYlMd4nQNkoknM1Xk2qDDXcOpj0Qkh_X0PniUxRy9wfuQ2_y-WCF6Gw1jvKmw509vOqlo7z0Q?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/XPckbZDhl9PAJD_bL6sM9eXB5UhW4NaAjdCPe55mpXKesU42bmGshZF90yXsiblzvRiZJ1lmlwurR3Y6f0oGdjSaZQhc8bkfR0oy254?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-11-19T06:27:15.430485+00:00",
+  "default_to_fiat": false,
+  "description": "OnChainPeople is building a community focused on Web3 standards and diversity for people On-Chain.\n\n1905 Humans, 398  Zombies, 200 Bionics with +110 Traits, 20 Accessories, 14 Animated Traits,  1 of 1's and more!",
+  "discord_url": "https://discord.gg/Q23MBeqvN2",
+  "display_data": {
+    "card_display_style": "contain",
+    "images": null
+  },
+  "external_url": "https://pixelart.lol",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/def627858ee21b393badc7b88e8a1545.gif?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/Jl06C1lHGvkf6HdUZydm2sxYUpOz_dlOgsY2wQHV7vGkJMJdSXJ1I98bcDVvdn2QYfYYab86jUbvjxOD27NlDI58vChrSk78ztyTEps?w=500&auto=format",
+  "medium_username": null,
+  "name": "OnChainPeople",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "onchainpeople",
+  "telegram_url": null,
+  "twitter_username": "OnChainPeople",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xaf7a60900bf698814b7d4f5e3995361f9cee9150": 600
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

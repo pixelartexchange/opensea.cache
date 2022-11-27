@@ -1,0 +1,110 @@
+{
+  "Nose": {
+    "none": 562,
+    "clown nose": 202
+  },
+  "Mouth": {
+    "cigarrete": 184,
+    "none": 239,
+    "pipe": 132,
+    "medical mask": 99,
+    "vape": 110
+  },
+  "Beard": {
+    "none": 193,
+    "mustache": 42,
+    "muttonchops": 64,
+    "normal beard": 56,
+    "shadow beard": 177,
+    "handlebars": 23,
+    "normal bread black": 56,
+    "goat": 63,
+    "big beard": 12,
+    "luxurious beard": 30,
+    "chinstrap": 28,
+    "front beard": 20
+  },
+  "Cheeks": {
+    "none": 582,
+    "rosy cheeks": 182
+  },
+  "Ears": {
+    "none": 618,
+    "earring": 146
+  },
+  "Emotion": {
+    "none": 607,
+    "smile": 129,
+    "frown": 28
+  },
+  "Eyes": {
+    "none": 158,
+    "regular shades": 88,
+    "eye patch": 72,
+    "big shades": 100,
+    "vr": 24,
+    "nerd glasses": 129,
+    "clown blue eyes": 47,
+    "classic shades": 84,
+    "clown eyes green": 32,
+    "nouns": 7,
+    "3d glasses": 9,
+    "eye mask": 14
+  },
+  "Face": {
+    "mole": 203,
+    "spots": 185,
+    "none": 376
+  },
+  "Hair": {
+    "mohawk dark": 36,
+    "bandana": 76,
+    "messy hair": 54,
+    "peak spike": 25,
+    "none": 134,
+    "wild hair": 43,
+    "mohawk thin": 39,
+    "stringy": 56,
+    "frumpy hair": 41,
+    "purple hair": 18,
+    "cap forward": 25,
+    "crazy hair": 32,
+    "cowboy hat": 9,
+    "cap": 26,
+    "vampire hair": 14,
+    "clown hair green": 17,
+    "fedora": 20,
+    "police cap": 22,
+    "knitted cap": 34,
+    "headband": 29,
+    "hoodie": 5,
+    "top hat": 5,
+    "beanie": 4
+  },
+  "Neck": {
+    "silver chain": 177,
+    "none": 345,
+    "gold chain": 142,
+    "choker": 100
+  },
+  "Teeth": {
+    "none": 588,
+    "buck teeth": 176
+  },
+  "Sex": {
+    "dos phunks albino": 210,
+    "dos phunks mid": 309,
+    "dos phunks dark": 235,
+    "ape": 4,
+    "zombie": 5,
+    "alien": 1
+  },
+  "Background": {
+    "purple": 112,
+    "black": 68,
+    "white": 89,
+    "red": 110,
+    "blue": 213,
+    "yellow": 172
+  }
+}

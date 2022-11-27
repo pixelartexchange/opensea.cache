@@ -1,0 +1,39 @@
+{
+  "banner_image_url": null,
+  "chat_url": null,
+  "created_date": "2022-06-22T04:09:40.910962+00:00",
+  "default_to_fiat": false,
+  "description": "On-chain animated Kevins and the first collection released using Indelible Labs. Zero utility. Just a fun proof of concept.",
+  "discord_url": "https://discord.gg/indelible",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://app.indelible.xyz/mint/0x8AE5523f76A5711fB6Bdca1566DF3f4707aEC1C4",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/IRH-d556mxxFovgzCT069yOYa7w7hFbwSgoDES_mwI_BwpgjAUd3RLV7BYOkriHQTkvm_kUYk6VAjYAv1iuIx0a7E3qkTSY6SaYXR64?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/IRH-d556mxxFovgzCT069yOYa7w7hFbwSgoDES_mwI_BwpgjAUd3RLV7BYOkriHQTkvm_kUYk6VAjYAv1iuIx0a7E3qkTSY6SaYXR64?w=500&auto=format",
+  "medium_username": null,
+  "name": "Long Live Kevin",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "long-live-kevin",
+  "telegram_url": null,
+  "twitter_username": null,
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xea208da933c43857683c04bc76e3fd331d7bfdf7": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

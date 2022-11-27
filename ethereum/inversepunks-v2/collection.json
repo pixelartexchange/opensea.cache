@@ -1,0 +1,42 @@
+{
+  "banner_image_url": null,
+  "chat_url": null,
+  "created_date": "2022-09-27T19:20:59.466836+00:00",
+  "default_to_fiat": false,
+  "description": "InversePunks are punks with inverted rarity dynamics. In this collection Aliens are the most common, while Humans are the rarest. This begs the question as to whether collectors will prefer aesthetics commonly regarded as rare in most collections or will they sacrifice that aspect for pure rarity. InversePunks is a free mint rarity experimentation project inspired by CryptoPunks not affiliated with Larva Labs nor Yuga Labs in anyway shape or form.",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain",
+    "images": [
+
+    ]
+  },
+  "external_url": "",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/JZfx1v_JcCQjkcxsD_Gz54ZfPMbF3_nM4G7Je9ynZIXBQKfYLt_tvvgBFoRqYdAPg1S2oRu4cne3LgqwRAI_cEcro-1tzmr1DE5zIQ?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/JZfx1v_JcCQjkcxsD_Gz54ZfPMbF3_nM4G7Je9ynZIXBQKfYLt_tvvgBFoRqYdAPg1S2oRu4cne3LgqwRAI_cEcro-1tzmr1DE5zIQ?w=500&auto=format",
+  "medium_username": null,
+  "name": "InversePunks V2",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "inversepunks-v2",
+  "telegram_url": null,
+  "twitter_username": null,
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xe3a2162c8a41c0477aaf8b8beeba9e9e62f80191": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

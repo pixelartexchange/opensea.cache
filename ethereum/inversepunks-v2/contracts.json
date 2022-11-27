@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xf3a1befc9643f94551c24a766afb87383ef64dd4",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-09-27T19:20:49.968316",
+    "name": "InversePunks",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 509143667,
+    "schema_name": "ERC721",
+    "symbol": "INVPNKS",
+    "total_supply": "0",
+    "description": "InversePunks are punks with inverted rarity dynamics. In this collection Aliens are the most common, while Humans are the rarest. This begs the question as to whether collectors will prefer aesthetics commonly regarded as rare in most collections or will they sacrifice that aspect for pure rarity. InversePunks is a free mint rarity experimentation project inspired by CryptoPunks not affiliated with Larva Labs nor Yuga Labs in anyway shape or form.",
+    "external_link": "",
+    "image_url": "https://i.seadn.io/gae/JZfx1v_JcCQjkcxsD_Gz54ZfPMbF3_nM4G7Je9ynZIXBQKfYLt_tvvgBFoRqYdAPg1S2oRu4cne3LgqwRAI_cEcro-1tzmr1DE5zIQ?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

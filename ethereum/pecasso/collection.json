@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/jcCIgkd0VOynzV5_3H8Bpt-UwaD3eqobcKOgWf9o2XHm9im-rQWsRstyQPjYo_8rEq7PvMHUAV64rBe8oc2TuWhKQhysKaYNO21lHYg?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-11-13T01:56:14.402463+00:00",
+  "default_to_fiat": false,
+  "description": "Pecasso proudly present the very first released fine art on-chain, inspired from Picasso arts and iconic meme character PePe.",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain",
+    "images": null
+  },
+  "external_url": "https://app.indelible.xyz/mint/0xb649c55ac9e436834f22281d70454a6d72bf4e0a",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/zrGwVaft9V8CsAEPEOxzdHVLdXE7RZaWFGa1uOhkb_hsMYzjtrIqGdfBtaEmegIc5QwfmdjAMXjxxP_7cZ1rbO6RhgnuD9krbE2dpic?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/zrGwVaft9V8CsAEPEOxzdHVLdXE7RZaWFGa1uOhkb_hsMYzjtrIqGdfBtaEmegIc5QwfmdjAMXjxxP_7cZ1rbO6RhgnuD9krbE2dpic?w=500&auto=format",
+  "medium_username": null,
+  "name": "Pecasso",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "pecasso",
+  "telegram_url": null,
+  "twitter_username": "oc_pecasso",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

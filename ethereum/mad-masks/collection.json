@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/_3TOgOSNDDX6vaK84lIPwB7_8XAfkQyeOtIWkESvvDsaPJUkDVqnX_Fc_KIPi6m9VtdrwrmUO_YCN3qzKXB-3zCsUTZRsetDGsbNhD0?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-11-05T11:59:04.418374+00:00",
+  "default_to_fiat": false,
+  "description": "Mad Masks is a collection of 1024 randomly generated on-chain pixel art by Jack Shepherd. Set in a dystopian parallel universe in 2042, Earth shattered into 12 separate islands — where all compete for resources. Included are 12 super rare 1/1 mega masks.\n\n[Website](https://madmasks.io) | [Twitter](https://twitter.com/MadMasksNFT) ",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://madmasks.io",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/75dcf34d94b43ecd60cdcfd7cca66a82.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/54_NetrJtPgXzpxTaE1Xw_L3cqR-lKJVELRSSAD3e5U054cCt3lg0jmSCg23OYDTTbGl9EqN2KvLKQch35UGWvOStVdlbzUWYoPs2A?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/75dcf34d94b43ecd60cdcfd7cca66a82.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "Mad Masks",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "mad-masks",
+  "telegram_url": null,
+  "twitter_username": "MadMasksNFT",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x1a1427a73b7cb0f4ea3f71c6c8090c4366c8ebe1": 600
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

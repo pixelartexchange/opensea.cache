@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/5_iZTen_9rVeZIx9O8MWbq67MhUcSidCq59G3JlJciwmbih-7By0t9iJB8PmV1aBboXSe2EubjlEsWWAIqybzySHyUg6K3wEyJJy?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-11-03T23:55:28.501595+00:00",
+  "default_to_fiat": false,
+  "description": "EBOC have high complexity art using vector ( non-pixel). 134 traits are picked randomly from  @Indelible_Labs . Art is created with variety. A homage to birds culture! Let's Fly!!!",
+  "discord_url": "https://discord.gg/D6WRUmug5x",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://app.indelible.xyz/mint/0x969c250871ff1895a23e8e04ee0ff338287e9694",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/DGwx5Kn6w3lKbRIjirQsKMLmlK11pMlUC0HE4Ondb_9yZw_6mjaIV7bhfU3xdXJGP5jjxRmpVP0vTW0M181u5g2rQp-WoeTowvVuaQ?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/DGwx5Kn6w3lKbRIjirQsKMLmlK11pMlUC0HE4Ondb_9yZw_6mjaIV7bhfU3xdXJGP5jjxRmpVP0vTW0M181u5g2rQp-WoeTowvVuaQ?w=500&auto=format",
+  "medium_username": null,
+  "name": "ETHER BIRDS ON-CHAIN",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "ether-birds-on-chain",
+  "telegram_url": null,
+  "twitter_username": "EthBirdsOnChain",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0xa873a3c0aea4f1d2a6883f79b841203190bd01d8": 700
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

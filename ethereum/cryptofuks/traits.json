@@ -1,0 +1,87 @@
+{
+  "Neck": {
+    "no chains": 2833,
+    "diamond chain": 1626,
+    "silver chain": 1703,
+    "gold chain": 1615
+  },
+  "Ear": {
+    "diamond stud": 1069,
+    "no earrings": 4171,
+    "gold stud": 1195,
+    "silver stud": 1342
+  },
+  "Eyes": {
+    "3 d glasses": 387,
+    "eye mask": 441,
+    "green clown eyes": 834,
+    "vr": 618,
+    "regular shades": 601,
+    "blue clown eyes": 521,
+    "goggles": 502,
+    "eye patch": 628,
+    "eyes": 804,
+    "horn rimmed glasses": 360,
+    "big shades": 509,
+    "nerd glasses": 347,
+    "laser": 539,
+    "classic shades": 686
+  },
+  "Mouth": {
+    "cigarette": 1119,
+    "vape": 839,
+    "grin": 2891,
+    "smile": 1276,
+    "cigar": 894,
+    "pipe": 758
+  },
+  "Nose": {
+    "clown nose": 665,
+    "nose": 7112
+  },
+  "Head": {
+    "cowboy hat": 118,
+    "crazy hair": 495,
+    "clown top hat": 119,
+    "cap forward": 208,
+    "clown hair": 271,
+    "bald head": 835,
+    "purple hair": 253,
+    "hoodie": 485,
+    "knitted cap": 151,
+    "wild hair": 465,
+    "bandana": 832,
+    "mohawk thin": 186,
+    "messy hair": 670,
+    "top hat": 277,
+    "spiky hair": 208,
+    "helmet": 132,
+    "crown": 199,
+    "flame": 312,
+    "beanie": 84,
+    "stringy hair": 167,
+    "headband": 199,
+    "halo": 347,
+    "cap": 161,
+    "mohawk dark": 112,
+    "police cap": 124,
+    "fedora": 205,
+    "fast food cap": 162
+  },
+  "Beard": {
+    "front beard": 507,
+    "beard": 1105,
+    "shaved": 5390,
+    "chin strap": 775
+  },
+  "Type": {
+    "zombie fuk": 1112,
+    "human fuk": 2061,
+    "iced out fuk": 381,
+    "undead fuk": 1524,
+    "alien fuk": 856,
+    "robot fuk": 951,
+    "1st edition fuk": 412,
+    "golden fuk": 480
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/ef077c9443c2720e94b65611de38f360.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-11-11T14:55:04.428179+00:00",
+  "default_to_fiat": false,
+  "description": "Gooch Island is full of mysterious secrets... Scientists have discovered a new species of cute creatures : LarvaDickbutts.  \n\nA cc0 and fully onchain collection of 3333 LarvaDickbutts, inspired by CryptoDickbutts and Larva Lads. \n\n",
+  "discord_url": "https://discord.gg/UATMFZat2n",
+  "display_data": {
+    "card_display_style": "contain",
+    "images": null
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/b2d30e15e39be76220c6595ba9770dae.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/TXc-hMiwLbzQJlBEPeOLW549y9QJyGetgeiyICFszvluS0RpQGQ-mcykKBQh0gVEshRlmvH5yZRHc4VgrTvHTehwzu-pBTA57QoLZZI?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/b2d30e15e39be76220c6595ba9770dae.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "LarvaDickbutts",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "larvadickbutts",
+  "telegram_url": null,
+  "twitter_username": "larvadickbutts",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x75f52aef21c1692afa9bbe897a31db3002baf6c3": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}

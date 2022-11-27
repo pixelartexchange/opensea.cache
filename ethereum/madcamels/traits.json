@@ -1,0 +1,87 @@
+{
+  "Mouth Accessory": {
+    "none": 43,
+    "vape": 17,
+    "cigarette": 36,
+    "pipe": 35,
+    "rainbow puke": 2,
+    "bubble gum": 13
+  },
+  "Neck Accessory": {
+    "none": 74,
+    "gold necklace": 25,
+    "gold chain": 19,
+    "bowtie": 28
+  },
+  "Eye Accessory": {
+    "cool glasses": 18,
+    "yellow glasses": 21,
+    "blue beams": 2,
+    "green glasses": 29,
+    "purple glasses": 19,
+    "clown eyes red": 7,
+    "none": 10,
+    "vr": 10,
+    "3d glasses": 3,
+    "clown eyes green": 2,
+    "laser eye": 13,
+    "eye mask": 6,
+    "eye patch": 1,
+    "holographic": 2,
+    "purple eye shadow": 3
+  },
+  "Earring": {
+    "gold": 41,
+    "diamond": 29,
+    "none": 51,
+    "silver": 25
+  },
+  "Headgear": {
+    "fedora": 20,
+    "knitted cap": 3,
+    "red cap": 10,
+    "orange cap": 8,
+    "pirate bandana": 3,
+    "viking": 8,
+    "white shemagh": 4,
+    "headphone": 3,
+    "thief hat": 8,
+    "cop hat": 7,
+    "blue mohawk": 2,
+    "cowboy hat": 12,
+    "pirate hat": 9,
+    "black cap": 11,
+    "purple cap": 5,
+    "sombrero": 3,
+    "flower": 1,
+    "red mohawk": 6,
+    "none": 7,
+    "captain hat": 3,
+    "top hat": 7,
+    "angle ring": 2,
+    "blue bandana": 1,
+    "fire": 1,
+    "red and white shemagh": 2
+  },
+  "Face Spot": {
+    "none": 138,
+    "mole": 3,
+    "pimple": 5
+  },
+  "Base": {
+    "alien": 39,
+    "zombie": 18,
+    "robot": 10,
+    "default": 70,
+    "female": 4,
+    "skeleton": 2,
+    "cyborg": 3
+  },
+  "Background": {
+    "purple": 38,
+    "blue": 38,
+    "green": 43,
+    "cream": 15,
+    "pink": 12
+  }
+}

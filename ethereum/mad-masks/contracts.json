@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x7915bf033126fa5fcc4dfa79f9bdd5717ed4ce40",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-11-05T04:15:13.953993",
+    "name": "Mad Masks",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 190696550,
+    "schema_name": "ERC721",
+    "symbol": "MADM",
+    "total_supply": "0",
+    "description": "Mad Masks is a collection of 1024 randomly generated on-chain pixel art by Jack Shepherd. Set in a dystopian parallel universe in 2042, Earth shattered into 12 separate islands — where all compete for resources. Included are 12 super rare 1/1 mega masks.\n\n[Website](https://madmasks.io) | [Twitter](https://twitter.com/MadMasksNFT) ",
+    "external_link": "https://madmasks.io",
+    "image_url": "https://i.seadn.io/gae/54_NetrJtPgXzpxTaE1Xw_L3cqR-lKJVELRSSAD3e5U054cCt3lg0jmSCg23OYDTTbGl9EqN2KvLKQch35UGWvOStVdlbzUWYoPs2A?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

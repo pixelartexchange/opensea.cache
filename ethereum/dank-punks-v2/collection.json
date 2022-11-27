@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/6ec436f07fefd9f2f92e3914b080791f.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-10-02T10:09:27.310192+00:00",
+  "default_to_fiat": false,
+  "description": "The dankest punks you'll ever see. Charity project. Supply: 999",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/dZwBTudxpQkzRRnG-D9E85kmOy581VKJ4B7ggNs2qwpXNrET-frp99Nj6g-RqrQMRMoOjavWbrrm3wx18ccwe_I6Hvzc4W5khcnmxA?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/dZwBTudxpQkzRRnG-D9E85kmOy581VKJ4B7ggNs2qwpXNrET-frp99Nj6g-RqrQMRMoOjavWbrrm3wx18ccwe_I6Hvzc4W5khcnmxA?w=500&auto=format",
+  "medium_username": null,
+  "name": "Dank Punks V2",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "dank-punks-v2",
+  "telegram_url": null,
+  "twitter_username": null,
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x2b8454f668669c9c888c8346416e10be86bb7620": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

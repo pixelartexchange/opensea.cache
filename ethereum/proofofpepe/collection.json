@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/5460fa5e40fb39352a2b72a43927d28d.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-08-29T15:56:23.050195+00:00",
+  "default_to_fiat": false,
+  "description": "Proof of Pepe is a generative 5,000 piece, 100% on-chain NFT collection.\r\n\r\nNo roadmap.\r\nNo promises.\r\nJust a community that is passionate about the progression of truly censorship resistant, decentralized and permission-less technology.\r\n\r\nCheck out our website for more information:\r\nhttps://proofofpepe.xyz/",
+  "discord_url": "https://discord.gg/zEmpKRqWUD",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://proofofpepe.xyz/",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/28a108b3fb2d6e33c5fde11a2bbe9430.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "approved",
+  "image_url": "https://i.seadn.io/gae/lcI6R8AUXQ-YFgHmvHOIM1z6cfjSs9GV0dXudqP5nv3r1PmeAUJZalfggOxAc9MX2pQ_AnXsi3GB4Cm30oidvLSryeBddBICnKwy?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/28a108b3fb2d6e33c5fde11a2bbe9430.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "Proof of Pepe",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "proofofpepe",
+  "telegram_url": null,
+  "twitter_username": "proofofpepe",
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x74f40c3dc7710a7aa31ea9afe887a7090821c711": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": true
+}
