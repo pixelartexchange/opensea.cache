@@ -4,8 +4,9 @@
 #
 #  $ ruby sandbox/reports.rb
 
-$LOAD_PATH.unshift( "../../pixelart/artbase/artbase-opensea/lib" )
-require 'artbase-opensea'
+$LOAD_PATH.unshift( "../../pixelart/artbase/opensea-lite/lib" )
+require 'opensea-lite'
+
 
 report = Opensea::CollectionsDataset.new( './ethereum' )
 report.export( './ethereum/collections.csv' )

@@ -6,17 +6,17 @@
 
 
 
-**November** - [2048 RoboPunks 2048](https://opensea.io/collection/robopunks2048) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/robopunks-strip.png)
+**November** - [766 DOS PHUNKS NFT](https://opensea.io/collection/dos-phunks-nft) • [456 On Chain Death](https://opensea.io/collection/on-chain-death) • [338 OnChainPeople](https://opensea.io/collection/onchainpeople) • [3333 LarvaDickbutts](https://opensea.io/collection/larvadickbutts) • [1111 CryptoBabyTeddies](https://opensea.io/collection/cryptobabyteddies) • [1652 Pecasso](https://opensea.io/collection/pecasso) • [1024 Mad Masks](https://opensea.io/collection/mad-masks) • [5000 ETHER BIRDS ON-CHAIN](https://opensea.io/collection/ether-birds-on-chain) • [2048 RoboPunks 2048](https://opensea.io/collection/robopunks2048) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/robopunks-strip.png)
 
-**October** - [264 Haunted Punks 666](https://opensea.io/collection/haunted-punks-666) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/hauntedpunks-strip.png) • [135 Halloween-Punks](https://opensea.io/collection/halloweenpunks-here) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/halloweenpunks-strip.png) • [9915 CryptoPepePunks](https://opensea.io/collection/cryptopepepunks) • [888 EdgePunks](https://opensea.io/collection/theedgepunks) • [2022 TheAussies](https://opensea.io/collection/theaussies) • [16 Phunkverse](https://opensea.io/collection/phunkverse) • [1 OnlyPhunks](https://opensea.io/collection/onlyphunks)
+**October** - [264 Haunted Punks 666](https://opensea.io/collection/haunted-punks-666) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/hauntedpunks-strip.png) • [135 Halloween-Punks](https://opensea.io/collection/halloweenpunks-here) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/halloweenpunks-strip.png) • [9915 CryptoPepePunks](https://opensea.io/collection/cryptopepepunks) • [888 EdgePunks](https://opensea.io/collection/theedgepunks) • [2022 TheAussies](https://opensea.io/collection/theaussies) • [16 Phunkverse](https://opensea.io/collection/phunkverse) • [19 Aloha Chi-Chi Onchain](https://opensea.io/collection/aloha-chi-chi-onchain) • [1 OnlyPhunks](https://opensea.io/collection/onlyphunks) • [1248 Punkin Spicies](https://opensea.io/collection/punkin-spicies) • [315 OnChainChopper](https://opensea.io/collection/onchainchopper) • [7777 Cryptofuks](https://opensea.io/collection/cryptofuks) • [2500 Non Fungible League](https://opensea.io/collection/non-fungible-league) • [40 Dank Punks V2](https://opensea.io/collection/dank-punks-v2)
 
-**September** - [5000 Phunk APE Origins](https://opensea.io/collection/phunk-ape-origins) • [4985 PUNK APES YC](https://opensea.io/collection/punk-ape-yacht-club-v2)
+**September** - [10000 InversePunks V2](https://opensea.io/collection/inversepunks-v2) • [5000 Phunk APE Origins](https://opensea.io/collection/phunk-ape-origins) • [4985 PUNK APES YC](https://opensea.io/collection/punk-ape-yacht-club-v2) • [146 Mad Camels](https://opensea.io/collection/madcamels)
 
-**August** - [9997 V3Phunks](https://opensea.io/collection/v3phunks) • [4994 Pixel Pudgies](https://opensea.io/collection/pixelpudgies) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/pudgies-strip.png) • [7499 Unfudables](https://opensea.io/collection/unfudables-1) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/unfudables-strip.png) • [8888 Crypto Pudgy Punks](https://opensea.io/collection/crypto-pudgy-punks) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/pudgypunks-strip.png) • [623 Punked Goblins](https://opensea.io/collection/punked-goblins) • [5555 The Californians NFT](https://opensea.io/collection/the-californians-nft) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/thecalifornians-strip.png)
+**August** - [4999 Proof of Pepe](https://opensea.io/collection/proofofpepe) • [9997 V3Phunks](https://opensea.io/collection/v3phunks) • [4994 Pixel Pudgies](https://opensea.io/collection/pixelpudgies) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/pudgies-strip.png) • [7499 Unfudables](https://opensea.io/collection/unfudables-1) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/unfudables-strip.png) • [8888 Crypto Pudgy Punks](https://opensea.io/collection/crypto-pudgy-punks) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/pudgypunks-strip.png) • [623 Punked Goblins](https://opensea.io/collection/punked-goblins) • [5555 The Californians NFT](https://opensea.io/collection/the-californians-nft) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/thecalifornians-strip.png) • [43 Aliens vs Punks](https://opensea.io/collection/aliens-vs-punks) • [5000 No Mad Nomads](https://opensea.io/collection/no-mad-nomads)
 
 **July** - [1300 Phunks In Black](https://opensea.io/collection/phunksinblack) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/phunksinblack-strip.png) • [5553 The Official Nigerians NFT](https://opensea.io/collection/nigeriansnft) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/thenigerians-strip.png) • [809 The Pharaohs #MAXGREATNESS](https://opensea.io/collection/thepharaohs7000) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/thepharaohs-strip.png) • [3333 The Indians Official](https://opensea.io/collection/theindiansofficial) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/theindians-strip.png) • [10000 The Europeans NFT](https://opensea.io/collection/theeuropeansnft) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/theeuropeans-strip.png) • [4932 Crypto Marcs](https://opensea.io/collection/crypto-marcs) • [4745 TheJewsNFT](https://opensea.io/collection/thejews-nft) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/thejews-strip.png) • [835 Lucky Irish](https://opensea.io/collection/luckyirish) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/theirish-strip.png) • [9994 The Americans NFT](https://opensea.io/collection/the-americans-nft) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/theamericans-strip.png) • [6666 The Greeks | NFT](https://opensea.io/collection/thegreeksnft) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/thegreeks-strip.png) • [5555 The Saudis](https://opensea.io/collection/thesaudis) ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/thesaudis-strip.png)
 
-**June** - [4682 Moon Goblz](https://opensea.io/collection/moon-goblz) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/moongoblz-strip.png) • [4731 Moonstalkers](https://opensea.io/collection/moonstalkers) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/moonstalkers-strip.png) • [6580 Monkerunners Official](https://opensea.io/collection/monkerunners-official) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/monkerunners-strip.png) • [9297 Moonrunners Official](https://opensea.io/collection/moonrunnersnft) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/moonrunners-strip.png) • [2116 Dooggies](https://opensea.io/collection/dooggies)
+**June** - [4682 Moon Goblz](https://opensea.io/collection/moon-goblz) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/moongoblz-strip.png) • [4731 Moonstalkers](https://opensea.io/collection/moonstalkers) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/moonstalkers-strip.png) • [6580 Monkerunners Official](https://opensea.io/collection/monkerunners-official) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/monkerunners-strip.png) • [9297 Moonrunners Official](https://opensea.io/collection/moonrunnersnft) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/moonrunners-strip.png) • [1254 Long Live Kevin](https://opensea.io/collection/long-live-kevin) • [2116 Dooggies](https://opensea.io/collection/dooggies)
 
 **May** - [15 Island Birds by Treasure Island](https://opensea.io/collection/island-birds) • [4440 Pixel goblintown](https://opensea.io/collection/pixel-goblintown) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/goblintown-strip.png) • [3498 MoonQuacks](https://opensea.io/collection/moonquacks) ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/moonquacks-strip.png) • [397 WastelandPunks](https://opensea.io/collection/wastelandpunks) • [2845 CryptoPunksMom](https://opensea.io/collection/cryptopunksmom)
 
@@ -67,6 +67,22 @@
 
 **November**
 
+-  Nov 25, 2022 - **[766 DOS PHUNKS NFT, 9.0%](https://opensea.io/collection/dos-phunks-nft)** - 313 owner(s), 52 sale(s) -  Ξ0.57 (~ US$ 736.28)
+    - **DOS PHUNKS NFT (DOSPHUNKS)** @ [0x7c2af580f37c23270dd7c52765073c1601c4ad33](https://etherscan.io/address/0x7c2af580f37c23270dd7c52765073c1601c4ad33)
+-  Nov 18, 2022 - **[456 On Chain Death, 5.0%](https://opensea.io/collection/on-chain-death)** - 200 owner(s), 4 sale(s) -  Ξ0.11 (~ US$ 138.19)
+    - **On Chain Death (DEATH)** @ [0x247709b606a3c39cb525ef9a4cb9bccc25b92038](https://etherscan.io/address/0x247709b606a3c39cb525ef9a4cb9bccc25b92038)
+-  Nov 16, 2022 - **[338 OnChainPeople, 6.0%](https://opensea.io/collection/onchainpeople)** - 176 owner(s), 7 sale(s) -  Ξ0.05 (~ US$ 61.23)
+    - **OnChainPeople (OCP)** @ [0xcd46fce2daf0f2f5129f74b502667e61b15c89f3](https://etherscan.io/address/0xcd46fce2daf0f2f5129f74b502667e61b15c89f3)
+-  Nov 10, 2022 - **[3333 LarvaDickbutts, 5.0%](https://opensea.io/collection/larvadickbutts)** - 806 owner(s), 2073 sale(s) -  Ξ15.89 (~ US$ 20659)
+    - **LarvaDickbutts (LDB)** @ [0x9a7d9b8693339f82d65f315f180faa0a558469bd](https://etherscan.io/address/0x9a7d9b8693339f82d65f315f180faa0a558469bd)
+-  Nov 10, 2022 - **[1111 CryptoBabyTeddies, 7.0%](https://opensea.io/collection/cryptobabyteddies)** - 559 owner(s), 447 sale(s) -  Ξ14.32 (~ US$ 18622)
+    - **CryptoBabyTeddies (CBT)** @ [0x3b84502df3d36ef2e5318bce5a988460cf349304](https://etherscan.io/address/0x3b84502df3d36ef2e5318bce5a988460cf349304)
+-  Nov 10, 2022 - **[1652 Pecasso, -](https://opensea.io/collection/pecasso)** - 724 owner(s), 95 sale(s) -  Ξ0.91 (~ US$ 1181)
+    - **Pecasso (PECASSO)** @ [0xb649c55ac9e436834f22281d70454a6d72bf4e0a](https://etherscan.io/address/0xb649c55ac9e436834f22281d70454a6d72bf4e0a)
+-  Nov 05, 2022 - **[1024 Mad Masks, 6.0%](https://opensea.io/collection/mad-masks)** - 417 owner(s), 554 sale(s) -  Ξ24.44 (~ US$ 31775)
+    - **Mad Masks (MADM)** @ [0x7915bf033126fa5fcc4dfa79f9bdd5717ed4ce40](https://etherscan.io/address/0x7915bf033126fa5fcc4dfa79f9bdd5717ed4ce40)
+-  Nov 03, 2022 - **[5000 ETHER BIRDS ON-CHAIN, 7.0%](https://opensea.io/collection/ether-birds-on-chain)** - 1564 owner(s), 2991 sale(s) -  Ξ33.00 (~ US$ 42898)
+    - **ETHER BIRDS ON-CHAIN (EBOC)** @ [0x969c250871ff1895a23e8e04ee0ff338287e9694](https://etherscan.io/address/0x969c250871ff1895a23e8e04ee0ff338287e9694)
 -  Nov 01, 2022 - **[2048 RoboPunks 2048, 2.5%](https://opensea.io/collection/robopunks2048)** - 633 owner(s), 345 sale(s) -  Ξ15.76 (~ US$ 20491) <br> ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/robopunks-strip.png)
     - **RoboPunks2048 (ROBOP)** @ [0xfdc376804f179d45b81047fcb695783ac0403fb9](https://etherscan.io/address/0xfdc376804f179d45b81047fcb695783ac0403fb9)
 
@@ -78,24 +94,42 @@
     - **Halloween Punks (HWP)** @ [0xdb826b7492409a358e44702fd022565554430d3e](https://etherscan.io/address/0xdb826b7492409a358e44702fd022565554430d3e)
 -  Oct 30, 2022 - **[9915 CryptoPepePunks, 6.9%](https://opensea.io/collection/cryptopepepunks)** - 297 owner(s), 42 sale(s) -  Ξ0.05 (~ US$ 70.85)
     - **CryptoPepePunks (CPP)** @ [0xcb11c48bce08ada2223b0966a283cc9c014707d6](https://etherscan.io/address/0xcb11c48bce08ada2223b0966a283cc9c014707d6)
--  Oct 29, 2022 - **[888 EdgePunks, -](https://opensea.io/collection/theedgepunks)** - 274 owner(s), 162 sale(s) -  Ξ2.67 (~ US$ 3469)
+-  Oct 29, 2022 - **[888 EdgePunks, -](https://opensea.io/collection/theedgepunks)** - 278 owner(s), 264 sale(s) -  Ξ4.50 (~ US$ 5855)
     - **EdgePunks (EPUNK)** @ [0x83921cb2bdfe8f70aa2988a20dd8b91c197b04b9](https://etherscan.io/address/0x83921cb2bdfe8f70aa2988a20dd8b91c197b04b9)
 -  Oct 28, 2022 - **[2022 TheAussies, 7.5%](https://opensea.io/collection/theaussies)** - 607 owner(s), 1213 sale(s) -  Ξ9.48 (~ US$ 12330)
     - **TheAussies (TheAussies)** @ [0x43dfe4a8d4b9889183dd20ac5da466228e86ff51](https://etherscan.io/address/0x43dfe4a8d4b9889183dd20ac5da466228e86ff51)
 -  Oct 24, 2022 - **[16 Phunkverse, -](https://opensea.io/collection/phunkverse)** - 7 owner(s)
     - **Phunkverse (PHNKVRS)** @ [0xd6a6e1e60dd1f82ad378b16fac00cf1d0a25f2e7](https://etherscan.io/address/0xd6a6e1e60dd1f82ad378b16fac00cf1d0a25f2e7)
+-  Oct 24, 2022 - **[19 Aloha Chi-Chi Onchain, 5.0%](https://opensea.io/collection/aloha-chi-chi-onchain)** - 7 owner(s)
+    - **Aloha Chi-Chi Onchain (ACCO)** @ [0x2204a94f96d39df3b6bc0298cf068c8c82dc8d61](https://etherscan.io/address/0x2204a94f96d39df3b6bc0298cf068c8c82dc8d61)
 -  Oct 23, 2022 - **[1 OnlyPhunks, 6.9%](https://opensea.io/collection/onlyphunks)** - 1 owner(s)
     - **OnlyPhunk (OPh)** @ [0x2ac19bf40a72c210b5d3b45c90e3222f4aefdb6e](https://etherscan.io/address/0x2ac19bf40a72c210b5d3b45c90e3222f4aefdb6e)
+-  Oct 08, 2022 - **[1248 Punkin Spicies, 5.0%](https://opensea.io/collection/punkin-spicies)** - 440 owner(s), 76 sale(s) -  Ξ0.62 (~ US$ 801.40)
+    - **Punkin Spicies (PunkinSpicies)** @ [0x34625ecaa75c0ea33733a05c584f4cf112c10b6b](https://etherscan.io/address/0x34625ecaa75c0ea33733a05c584f4cf112c10b6b)
+-  Oct 07, 2022 - **[315 OnChainChopper, 6.0%](https://opensea.io/collection/onchainchopper)** - 294 owner(s), 2 sale(s) -  Ξ0.07 (~ US$ 90.35)
+    - **OnChainChopper (erc-721)** @ [0x090c8034e6706994945049e0ede1bbdf21498e6e](https://etherscan.io/address/0x090c8034e6706994945049e0ede1bbdf21498e6e)
+-  Oct 06, 2022 - **[7777 Cryptofuks, 7.0%](https://opensea.io/collection/cryptofuks)** - 1163 owner(s), 582 sale(s) -  Ξ2.07 (~ US$ 2694)
+    - **Cryptofuks (FUKS)** @ [0x16f8cd1fedb3203e8fd6a5fa041b34cee087398b](https://etherscan.io/address/0x16f8cd1fedb3203e8fd6a5fa041b34cee087398b)
+-  Oct 03, 2022 - **[2500 Non Fungible League, 6.0%](https://opensea.io/collection/non-fungible-league)** - 551 owner(s), 315 sale(s) -  Ξ2.17 (~ US$ 2826)
+    - **Non Fungible League (NFL)** @ [0xa3bfe256f70f98644b86338df9fcbccd65560e58](https://etherscan.io/address/0xa3bfe256f70f98644b86338df9fcbccd65560e58)
+-  Oct 02, 2022 - **[40 Dank Punks V2, 5.0%](https://opensea.io/collection/dank-punks-v2)** - 6 owner(s)
+    - **Dank Punks (DANK)** @ [0x5e8edf0ab7b3e13394846fe0fbb306aea47588e9](https://etherscan.io/address/0x5e8edf0ab7b3e13394846fe0fbb306aea47588e9)
 
 **September**
 
--  Sep 23, 2022 - **[5000 Phunk APE Origins, -](https://opensea.io/collection/phunk-ape-origins)** - 1568 owner(s), 7027 sale(s) -  Ξ366.33 (~ US$ 476234)
+-  Sep 27, 2022 - **[10000 InversePunks V2, 5.0%](https://opensea.io/collection/inversepunks-v2)** - 1026 owner(s), 177 sale(s) -  Ξ0.37 (~ US$ 481.81)
+    - **InversePunks (INVPNKS)** @ [0xf3a1befc9643f94551c24a766afb87383ef64dd4](https://etherscan.io/address/0xf3a1befc9643f94551c24a766afb87383ef64dd4)
+-  Sep 23, 2022 - **[5000 Phunk APE Origins, -](https://opensea.io/collection/phunk-ape-origins)** - 1442 owner(s), 9351 sale(s) -  Ξ507.52 (~ US$ 659771)
     - **Phunk APE Origins (PAO)** @ [0x9b66d03fc1eee61a512341058e95f1a68dc3a913](https://etherscan.io/address/0x9b66d03fc1eee61a512341058e95f1a68dc3a913)
--  Sep 12, 2022 - **[4985 PUNK APES YC, 6.0%](https://opensea.io/collection/punk-ape-yacht-club-v2)** - 1124 owner(s), 3624 sale(s) -  Ξ73.11 (~ US$ 95047)
+-  Sep 12, 2022 - **[4985 PUNK APES YC, 6.0%](https://opensea.io/collection/punk-ape-yacht-club-v2)** - 1150 owner(s), 3968 sale(s) -  Ξ77.99 (~ US$ 101381)
     - **Unidentified contract ()** @ [0xe5a5520b798c5f67ca1b0657b932656df02595ad](https://etherscan.io/address/0xe5a5520b798c5f67ca1b0657b932656df02595ad)
+-  Sep 04, 2022 - **[146 Mad Camels, 6.0%](https://opensea.io/collection/madcamels)** - 99 owner(s)
+    - **Mad Camels (CAMEL)** @ [0xad8474ba5a7f6abc52708f171f57fefc5cdc8c1c](https://etherscan.io/address/0xad8474ba5a7f6abc52708f171f57fefc5cdc8c1c)
 
 **August**
 
+-  Aug 29, 2022 - **[4999 Proof of Pepe, 5.0%](https://opensea.io/collection/proofofpepe)** - 1562 owner(s), 5556 sale(s) -  Ξ242.29 (~ US$ 314972)
+    - **Proof of Pepe (POPEP)** @ [0x2f46e37477ca4033d74986b15f0572e9913b4858](https://etherscan.io/address/0x2f46e37477ca4033d74986b15f0572e9913b4858)
 -  Aug 27, 2022 - **[9997 V3Phunks, -](https://opensea.io/collection/v3phunks)** - 1448 owner(s), 7959 sale(s) -  Ξ187.83 (~ US$ 244184)
     - **V3 Phunks (V3PHUNKS)** @ [0xb7d405bee01c70a9577316c1b9c2505f146e8842](https://etherscan.io/address/0xb7d405bee01c70a9577316c1b9c2505f146e8842)
 -  Aug 24, 2022 - **[4994 Pixel Pudgies, -](https://opensea.io/collection/pixelpudgies)** - 971 owner(s), 1437 sale(s) -  Ξ5.75 (~ US$ 7481) <br> ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/pudgies-strip.png)
@@ -108,6 +142,10 @@
     - **Punked Goblins (PG)** @ [0xc1464cee1fed185505cf20794952739a689d8bda](https://etherscan.io/address/0xc1464cee1fed185505cf20794952739a689d8bda)
 -  Aug 08, 2022 - **[5555 The Californians NFT, 7.5%](https://opensea.io/collection/the-californians-nft)** - 603 owner(s), 116 sale(s) -  Ξ0.25 (~ US$ 327.81) <br> ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/thecalifornians-strip.png)
     - **The Californians (CAS)** @ [0xe00ffd0f7bf2c819412fe62c0146b059bad841b7](https://etherscan.io/address/0xe00ffd0f7bf2c819412fe62c0146b059bad841b7)
+-  Aug 08, 2022 - **[43 Aliens vs Punks, 5.0%](https://opensea.io/collection/aliens-vs-punks)** - 29 owner(s)
+    - **Aliens vs Punks (ALVSPKS)** @ [0x2612c0375c47ee510a1663169288f2e9eb912947](https://etherscan.io/address/0x2612c0375c47ee510a1663169288f2e9eb912947)
+-  Aug 02, 2022 - **[5000 No Mad Nomads, 0.0%](https://opensea.io/collection/no-mad-nomads)** - 1660 owner(s), 55 sale(s) -  Ξ0.09 (~ US$ 115.81)
+    - **No Mad Nomads (NOM)** @ [0x95123d2f71d88e2afb5351befb4762d2574fba7a](https://etherscan.io/address/0x95123d2f71d88e2afb5351befb4762d2574fba7a)
 
 **July**
 
@@ -121,7 +159,7 @@
     - **The Indians NFT (TI)** @ [0xe90c10611d3ea7539f76913d112db579aae839e6](https://etherscan.io/address/0xe90c10611d3ea7539f76913d112db579aae839e6)
 -  Jul 18, 2022 - **[10000 The Europeans NFT, 10.0%](https://opensea.io/collection/theeuropeansnft)** - 2245 owner(s), 1263 sale(s) -  Ξ5.77 (~ US$ 7506) <br> ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/theeuropeans-strip.png)
     - **TheEuropeans (EU)** @ [0xec48383337c70c5fd3f6b98032365e4ad7832ae1](https://etherscan.io/address/0xec48383337c70c5fd3f6b98032365e4ad7832ae1)
--  Jul 17, 2022 - **[4932 Crypto Marcs, 5.0%](https://opensea.io/collection/crypto-marcs)** - 968 owner(s), 3142 sale(s) -  Ξ109.15 (~ US$ 141890)
+-  Jul 17, 2022 - **[4932 Crypto Marcs, 5.0%](https://opensea.io/collection/crypto-marcs)** - 971 owner(s), 3165 sale(s) -  Ξ109.47 (~ US$ 142309)
     - **Crypto Marcs (MARCS)** @ [0xe9b91d537c3aa5a3fa87275fbd2e4feaaed69bd0](https://etherscan.io/address/0xe9b91d537c3aa5a3fa87275fbd2e4feaaed69bd0)
 -  Jul 17, 2022 - **[4745 TheJewsNFT, 10.0%](https://opensea.io/collection/thejews-nft)** - 2135 owner(s), 3614 sale(s) -  Ξ167.07 (~ US$ 217195) <br> ![](https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master/i/thejews-strip.png)
     - **The Jews (JEWS)** @ [0x1e283601f53032d9aac8dc73632f4e482e761c70](https://etherscan.io/address/0x1e283601f53032d9aac8dc73632f4e482e761c70)
@@ -144,6 +182,8 @@
     - **Monkerunners Official (MONKE)** @ [0x23e449da6e242d7b94c6d35806f2c5cc9b950ddb](https://etherscan.io/address/0x23e449da6e242d7b94c6d35806f2c5cc9b950ddb)
 -  Jun 23, 2022 - **[9297 Moonrunners Official, 7.5%](https://opensea.io/collection/moonrunnersnft)** - 3281 owner(s), 29714 sale(s) -  Ξ8914.05 (~ US$ 11.6 million(s)) <br> ![](https://github.com/pixelartexchange/artbase.sandbox/raw/master/i/moonrunners-strip.png)
     - **Moonrunners (MOONR)** @ [0x1485297e942ce64e0870ece60179dfda34b4c625](https://etherscan.io/address/0x1485297e942ce64e0870ece60179dfda34b4c625)
+-  Jun 22, 2022 - **[1254 Long Live Kevin, 5.0%](https://opensea.io/collection/long-live-kevin)** - 358 owner(s)
+    - **Long Live Kevin (LLKEVIN)** @ [0x8ae5523f76a5711fb6bdca1566df3f4707aec1c4](https://etherscan.io/address/0x8ae5523f76a5711fb6bdca1566df3f4707aec1c4)
 -  Jun 11, 2022 - **[2116 Dooggies, 5.0%](https://opensea.io/collection/dooggies)** - 184 owner(s), 7 sale(s) -  Ξ0.60 (~ US$ 774.80)
     - **Dooggies (Dooggies)** @ [0xb4e62d6363f82e0e74e8963828815f907eab2c66](https://etherscan.io/address/0xb4e62d6363f82e0e74e8963828815f907eab2c66)
 

@@ -1,5 +1,273 @@
 # Collections
 
+##  DOS PHUNKS NFT
+
+opensea: [dos-phunks-nft](https://opensea.io/collection/dos-phunks-nft) - created on Nov 25, 2022<br>
+web:  <https://app.indelible.xyz/mint/0x7c2af580f37c23270dd7c52765073c1601c4ad33><br>
+twitter: [dosphunks](https://twitter.com/dosphunks)<br>
+
+contracts (1):
+- **DOS PHUNKS NFT (DOSPHUNKS)** created on Nov 25, 2022 @ [0x7c2af580f37c23270dd7c52765073c1601c4ad33](https://etherscan.io/address/0x7c2af580f37c23270dd7c52765073c1601c4ad33)
+
+stats:
+- count / total supply: 766 / 766, num owners:  313
+- total sales:  52, total volume: Ξ0.57 (~ US$ 736.28)
+- average price: Ξ0.011 (~ US$ 14.16)
+- floor price: Ξ0.005 (~ US$ 6.37)
+
+fees: seller 9.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (13):</summary>
+
+- Nose (2)
+- Mouth (5)
+- Beard (12)
+- Cheeks (2)
+- Ears (2)
+- Emotion (3)
+- Eyes (12)
+- Face (3)
+- Hair (23)
+- Neck (4)
+- Teeth (2)
+- Sex (6)
+- Background (6)
+
+</details>
+
+
+##  On Chain Death
+
+opensea: [on-chain-death](https://opensea.io/collection/on-chain-death) - created on Nov 20, 2022<br>
+web:  <https://app.indelible.xyz/mint/0x247709b606a3c39cb525ef9a4cb9bccc25b92038><br>
+twitter: [paperchasersnft](https://twitter.com/paperchasersnft)<br>
+
+contracts (1):
+- **On Chain Death (DEATH)** created on Nov 18, 2022 @ [0x247709b606a3c39cb525ef9a4cb9bccc25b92038](https://etherscan.io/address/0x247709b606a3c39cb525ef9a4cb9bccc25b92038)
+
+stats:
+- count / total supply: 456 / 456, num owners:  200
+- total sales:  4, total volume: Ξ0.11 (~ US$ 138.19)
+- average price: Ξ0.03 (~ US$ 34.55)
+- floor price: Ξ0.004 (~ US$ 5.13)
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (6):</summary>
+
+- Scythe (39)
+- Noggin (50)
+- Footsies (10)
+- Cloak (5)
+- Aura (11)
+- Haze (6)
+
+</details>
+
+
+##  OnChainPeople
+
+opensea: [onchainpeople](https://opensea.io/collection/onchainpeople) - created on Nov 19, 2022<br>
+web:  <https://pixelart.lol><br>
+twitter: [OnChainPeople](https://twitter.com/OnChainPeople)<br>
+
+contracts (1):
+- **OnChainPeople (OCP)** created on Nov 16, 2022 @ [0xcd46fce2daf0f2f5129f74b502667e61b15c89f3](https://etherscan.io/address/0xcd46fce2daf0f2f5129f74b502667e61b15c89f3)
+
+stats:
+- count / total supply: 338 / 338, num owners:  176
+- total sales:  7, total volume: Ξ0.05 (~ US$ 61.23)
+- average price: Ξ0.007 (~ US$ 8.75)
+- floor price: Ξ0.007 (~ US$ 9.62)
+
+fees: seller 6.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (9):</summary>
+
+- 1 of 1's (2)
+- Accessory (21)
+- Eye Accessory (9)
+- Hair (16)
+- Mouth (9)
+- Eyes (11)
+- Body (5)
+- Outfit (19)
+- Background (15)
+
+</details>
+
+
+##  LarvaDickbutts
+
+opensea: [larvadickbutts](https://opensea.io/collection/larvadickbutts) - created on Nov 11, 2022<br>
+twitter: [larvadickbutts](https://twitter.com/larvadickbutts)<br>
+
+contracts (1):
+- **LarvaDickbutts (LDB)** created on Nov 10, 2022 @ [0x9a7d9b8693339f82d65f315f180faa0a558469bd](https://etherscan.io/address/0x9a7d9b8693339f82d65f315f180faa0a558469bd)
+
+stats:
+- count / total supply: 3333 / 3333, num owners:  806
+- total sales:  2073, total volume: Ξ15.89 (~ US$ 20659)
+- average price: Ξ0.008 (~ US$ 9.97)
+- floor price: Ξ0.004 (~ US$ 5.85)
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (9):</summary>
+
+- Hand (6)
+- Eyes (22)
+- Nose (3)
+- Mouth (4)
+- Dick (13)
+- Hat (36)
+- Butt (5)
+- Skin (6)
+- Background (6)
+
+</details>
+
+
+##  CryptoBabyTeddies
+
+opensea: [cryptobabyteddies](https://opensea.io/collection/cryptobabyteddies) - created on Nov 11, 2022<br>
+web:  <https://app.indelible.xyz/mint/0x3b84502df3d36ef2e5318bce5a988460cf349304><br>
+twitter: [Crypto_Teddies](https://twitter.com/Crypto_Teddies)<br>
+
+contracts (1):
+- **CryptoBabyTeddies (CBT)** created on Nov 10, 2022 @ [0x3b84502df3d36ef2e5318bce5a988460cf349304](https://etherscan.io/address/0x3b84502df3d36ef2e5318bce5a988460cf349304)
+
+stats:
+- count / total supply: 1111 / 1111, num owners:  559
+- total sales:  447, total volume: Ξ14.32 (~ US$ 18622)
+- average price: Ξ0.03 (~ US$ 41.66)
+- floor price: Ξ0.012 (~ US$ 15.60)
+
+fees: seller 7.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (7):</summary>
+
+- Eyes (15)
+- Head (39)
+- Snout (12)
+- Accessory (7)
+- Body Accessory (4)
+- Type (10)
+- Background (7)
+
+</details>
+
+
+##  Pecasso
+
+opensea: [pecasso](https://opensea.io/collection/pecasso) - created on Nov 13, 2022<br>
+web:  <https://app.indelible.xyz/mint/0xb649c55ac9e436834f22281d70454a6d72bf4e0a><br>
+twitter: [oc_pecasso](https://twitter.com/oc_pecasso)<br>
+
+contracts (1):
+- **Pecasso (PECASSO)** created on Nov 10, 2022 @ [0xb649c55ac9e436834f22281d70454a6d72bf4e0a](https://etherscan.io/address/0xb649c55ac9e436834f22281d70454a6d72bf4e0a)
+
+stats:
+- count / total supply: 1652 / 1652, num owners:  724
+- total sales:  95, total volume: Ξ0.91 (~ US$ 1181)
+- average price: Ξ0.010 (~ US$ 12.43)
+- floor price: Ξ0.001 (~ US$ 1.30)
+
+fees: seller -, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (9):</summary>
+
+- Left Eye (16)
+- Right Eye (19)
+- Hat (23)
+- Clothes (23)
+- Mouth (18)
+- Ear (23)
+- On Body (3)
+- Body (17)
+- Background (23)
+
+</details>
+
+
+##  Mad Masks
+
+opensea: [mad-masks](https://opensea.io/collection/mad-masks) - created on Nov 05, 2022<br>
+web:  <https://madmasks.io><br>
+twitter: [MadMasksNFT](https://twitter.com/MadMasksNFT)<br>
+
+contracts (1):
+- **Mad Masks (MADM)** created on Nov 05, 2022 @ [0x7915bf033126fa5fcc4dfa79f9bdd5717ed4ce40](https://etherscan.io/address/0x7915bf033126fa5fcc4dfa79f9bdd5717ed4ce40)
+
+stats:
+- count / total supply: 1024 / 1024, num owners:  417
+- total sales:  554, total volume: Ξ24.44 (~ US$ 31775)
+- average price: Ξ0.04 (~ US$ 57.36)
+- floor price: Ξ0.010 (~ US$ 13.00)
+
+fees: seller 6.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (9):</summary>
+
+- Accessories (14)
+- Masks (48)
+- Stack (14)
+- Unmasked (6)
+- Back Accessories (6)
+- Midlayer (8)
+- Background (22)
+- Neck Accessories (8)
+- Mega Masks (12)
+
+</details>
+
+
+##  ETHER BIRDS ON-CHAIN
+
+opensea: [ether-birds-on-chain](https://opensea.io/collection/ether-birds-on-chain) - created on Nov 03, 2022<br>
+web:  <https://app.indelible.xyz/mint/0x969c250871ff1895a23e8e04ee0ff338287e9694><br>
+twitter: [EthBirdsOnChain](https://twitter.com/EthBirdsOnChain)<br>
+
+contracts (1):
+- **ETHER BIRDS ON-CHAIN (EBOC)** created on Nov 03, 2022 @ [0x969c250871ff1895a23e8e04ee0ff338287e9694](https://etherscan.io/address/0x969c250871ff1895a23e8e04ee0ff338287e9694)
+
+stats:
+- count / total supply: 5000 / 5000, num owners:  1564
+- total sales:  2991, total volume: Ξ33.00 (~ US$ 42898)
+- average price: Ξ0.011 (~ US$ 14.34)
+- floor price: Ξ0.0008 (~ US$ 1.04)
+
+fees: seller 7.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (7):</summary>
+
+- Clothes (8)
+- Headwear (22)
+- Beak (21)
+- Right Eye (21)
+- Left Eye (21)
+- Body (19)
+- Background (21)
+
+</details>
+
+
 ##  RoboPunks 2048
 
 opensea: [robopunks2048](https://opensea.io/collection/robopunks2048) - created on Nov 01, 2022<br>
@@ -125,10 +393,10 @@ contracts (1):
 - **EdgePunks (EPUNK)** created on Oct 29, 2022 @ [0x83921cb2bdfe8f70aa2988a20dd8b91c197b04b9](https://etherscan.io/address/0x83921cb2bdfe8f70aa2988a20dd8b91c197b04b9)
 
 stats:
-- count / total supply: 888 / 888, num owners:  274
-- total sales:  162, total volume: Ξ2.67 (~ US$ 3469)
-- average price: Ξ0.02 (~ US$ 21.41)
-- floor price: Ξ0.009 (~ US$ 12.22)
+- count / total supply: 888 / 888, num owners:  278
+- total sales:  264, total volume: Ξ4.50 (~ US$ 5855)
+- average price: Ξ0.02 (~ US$ 22.18)
+- floor price: Ξ0.007 (~ US$ 8.97)
 
 fees: seller -, opensea 2.5%
 
@@ -212,6 +480,36 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 </details>
 
 
+##  Aloha Chi-Chi Onchain
+
+opensea: [aloha-chi-chi-onchain](https://opensea.io/collection/aloha-chi-chi-onchain) - created on Oct 24, 2022<br>
+web:  <https://app.indelible.xyz/mint/0x2204a94f96d39df3b6bc0298cf068c8c82dc8d61><br>
+twitter: [AlohaChiChiNFT](https://twitter.com/AlohaChiChiNFT)<br>
+
+contracts (1):
+- **Aloha Chi-Chi Onchain (ACCO)** created on Oct 24, 2022 @ [0x2204a94f96d39df3b6bc0298cf068c8c82dc8d61](https://etherscan.io/address/0x2204a94f96d39df3b6bc0298cf068c8c82dc8d61)
+
+stats:
+- count / total supply: 19 / 19, num owners:  7
+- total sales:  0
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (7):</summary>
+
+- headwear&1/1s (14)
+- eyes (9)
+- mouth (7)
+- accessories (7)
+- wearables (8)
+- fur (7)
+- background (8)
+
+</details>
+
+
 ##  OnlyPhunks
 
 opensea: [onlyphunks](https://opensea.io/collection/onlyphunks) - created on Oct 24, 2022<br>
@@ -244,6 +542,195 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 </details>
 
 
+##  Punkin Spicies
+
+opensea: [punkin-spicies](https://opensea.io/collection/punkin-spicies) - created on Oct 08, 2022<br>
+twitter: [PSpicies](https://twitter.com/PSpicies)<br>
+
+contracts (1):
+- **Punkin Spicies (PunkinSpicies)** created on Oct 08, 2022 @ [0x34625ecaa75c0ea33733a05c584f4cf112c10b6b](https://etherscan.io/address/0x34625ecaa75c0ea33733a05c584f4cf112c10b6b)
+
+stats:
+- count / total supply: 1248 / 1248, num owners:  440
+- total sales:  76, total volume: Ξ0.62 (~ US$ 801.40)
+- average price: Ξ0.008 (~ US$ 10.54)
+- floor price: Ξ0.004 (~ US$ 5.72)
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (9):</summary>
+
+- Jewelry (5)
+- Beauty Marks (6)
+- Eyes (20)
+- Pretty Mouths (10)
+- Necks (5)
+- Hair Hats and Wigs (37)
+- Punkins (15)
+- Zodiak (12)
+- Spooky Sky (1)
+
+</details>
+
+
+##  OnChainChopper
+
+opensea: [onchainchopper](https://opensea.io/collection/onchainchopper) - created on Oct 07, 2022<br>
+web:  <https://www.onchainchopper.com><br>
+
+contracts (1):
+- **OnChainChopper (erc-721)** created on Oct 07, 2022 @ [0x090c8034e6706994945049e0ede1bbdf21498e6e](https://etherscan.io/address/0x090c8034e6706994945049e0ede1bbdf21498e6e)
+
+stats:
+- count / total supply: 315 / 315, num owners:  294
+- total sales:  2, total volume: Ξ0.07 (~ US$ 90.35)
+- average price: Ξ0.03 (~ US$ 45.18)
+- floor price: Ξ0.010 (~ US$ 13.00)
+
+fees: seller 6.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (6):</summary>
+
+- EARRING (5)
+- GLASSES (10)
+- MOUTH (2)
+- HAT (25)
+- SKIN (14)
+- BACKGROUND (6)
+
+</details>
+
+
+##  Cryptofuks
+
+opensea: [cryptofuks](https://opensea.io/collection/cryptofuks) - created on Oct 07, 2022<br>
+web:  <https://www.cryptofuks.com><br>
+twitter: [cryptofuks](https://twitter.com/cryptofuks)<br>
+
+contracts (1):
+- **Cryptofuks (FUKS)** created on Oct 06, 2022 @ [0x16f8cd1fedb3203e8fd6a5fa041b34cee087398b](https://etherscan.io/address/0x16f8cd1fedb3203e8fd6a5fa041b34cee087398b)
+
+stats:
+- count / total supply: 7777 / 7777, num owners:  1163
+- total sales:  582, total volume: Ξ2.07 (~ US$ 2694)
+- average price: Ξ0.004 (~ US$ 4.63)
+- floor price: Ξ0.0007 (~ US$ 0.91)
+
+fees: seller 7.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (8):</summary>
+
+- Neck (4)
+- Ear (4)
+- Eyes (14)
+- Mouth (6)
+- Nose (2)
+- Head (27)
+- Beard (4)
+- Type (8)
+
+</details>
+
+
+##  Non Fungible League
+
+opensea: [non-fungible-league](https://opensea.io/collection/non-fungible-league) - created on Oct 03, 2022<br>
+web:  <https://app.indelible.xyz/mint/0xa3bfe256f70f98644b86338df9fcbccd65560e58><br>
+twitter: [NonFungibleL](https://twitter.com/NonFungibleL)<br>
+
+contracts (1):
+- **Non Fungible League (NFL)** created on Oct 03, 2022 @ [0xa3bfe256f70f98644b86338df9fcbccd65560e58](https://etherscan.io/address/0xa3bfe256f70f98644b86338df9fcbccd65560e58)
+
+stats:
+- count / total supply: 2500 / 2500, num owners:  551
+- total sales:  315, total volume: Ξ2.17 (~ US$ 2826)
+- average price: Ξ0.007 (~ US$ 8.97)
+- floor price: Ξ0.00148 (~ US$ 1.92)
+
+fees: seller 6.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (7):</summary>
+
+- Star Player (38)
+- Helmet Accessory (7)
+- Facial Hair (8)
+- Jersey Number (28)
+- Team (32)
+- Base (9)
+- Background (8)
+
+</details>
+
+
+##  Dank Punks V2
+
+opensea: [dank-punks-v2](https://opensea.io/collection/dank-punks-v2) - created on Oct 02, 2022<br>
+
+contracts (1):
+- **Dank Punks (DANK)** created on Oct 02, 2022 @ [0x5e8edf0ab7b3e13394846fe0fbb306aea47588e9](https://etherscan.io/address/0x5e8edf0ab7b3e13394846fe0fbb306aea47588e9)
+
+stats:
+- count / total supply: 40 / 40, num owners:  6
+- total sales:  0
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (8):</summary>
+
+- Honorary (2)
+- Accessories (9)
+- Mouth (11)
+- Eyes (11)
+- Hats and Hair (13)
+- Nose (2)
+- Body (6)
+- Background (6)
+
+</details>
+
+
+##  InversePunks V2
+
+opensea: [inversepunks-v2](https://opensea.io/collection/inversepunks-v2) - created on Sep 27, 2022<br>
+web:  <><br>
+
+contracts (1):
+- **InversePunks (INVPNKS)** created on Sep 27, 2022 @ [0xf3a1befc9643f94551c24a766afb87383ef64dd4](https://etherscan.io/address/0xf3a1befc9643f94551c24a766afb87383ef64dd4)
+
+stats:
+- count / total supply: 10000 / 10000, num owners:  1026
+- total sales:  177, total volume: Ξ0.37 (~ US$ 481.81)
+- average price: Ξ0.002 (~ US$ 2.72)
+- floor price: Ξ0.0008 (~ US$ 1.04)
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (8):</summary>
+
+- Ear (3)
+- Neck (12)
+- Mouth (12)
+- Eyes (16)
+- Head (42)
+- Facial Features (7)
+- Type (6)
+- Background (1)
+
+</details>
+
+
 ##  Phunk APE Origins
 
 opensea: [phunk-ape-origins](https://opensea.io/collection/phunk-ape-origins) - created on Sep 23, 2022<br>
@@ -254,10 +741,10 @@ contracts (1):
 - **Phunk APE Origins (PAO)** created on Sep 23, 2022 @ [0x9b66d03fc1eee61a512341058e95f1a68dc3a913](https://etherscan.io/address/0x9b66d03fc1eee61a512341058e95f1a68dc3a913)
 
 stats:
-- count / total supply: 5000 / 5000, num owners:  1568
-- total sales:  7027, total volume: Ξ366.33 (~ US$ 476234)
-- average price: Ξ0.05 (~ US$ 67.77)
-- floor price: Ξ0.02 (~ US$ 21.84)
+- count / total supply: 5000 / 5000, num owners:  1442
+- total sales:  9351, total volume: Ξ507.52 (~ US$ 659771)
+- average price: Ξ0.05 (~ US$ 70.56)
+- floor price: Ξ0.013 (~ US$ 16.71)
 
 fees: seller -, opensea 2.5%
 
@@ -287,10 +774,10 @@ contracts (1):
 - **Unidentified contract ()** created on Sep 12, 2022 @ [0xe5a5520b798c5f67ca1b0657b932656df02595ad](https://etherscan.io/address/0xe5a5520b798c5f67ca1b0657b932656df02595ad)
 
 stats:
-- count / total supply: 4985 / 4985, num owners:  1124
-- total sales:  3624, total volume: Ξ73.11 (~ US$ 95047)
-- average price: Ξ0.02 (~ US$ 26.23)
-- floor price: Ξ0.007 (~ US$ 9.62)
+- count / total supply: 4985 / 4985, num owners:  1150
+- total sales:  3968, total volume: Ξ77.99 (~ US$ 101381)
+- average price: Ξ0.02 (~ US$ 25.55)
+- floor price: Ξ0.009 (~ US$ 11.57)
 
 fees: seller 6.0%, opensea 2.5%
 
@@ -312,6 +799,73 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 - Background (8)
 - Soul (6)
 - FLEX (10)
+
+</details>
+
+
+##  Mad Camels
+
+opensea: [madcamels](https://opensea.io/collection/madcamels) - created on Sep 04, 2022<br>
+web:  <https://madcamels.com><br>
+twitter: [madcamelsnfts](https://twitter.com/madcamelsnfts)<br>
+
+contracts (1):
+- **Mad Camels (CAMEL)** created on Sep 04, 2022 @ [0xad8474ba5a7f6abc52708f171f57fefc5cdc8c1c](https://etherscan.io/address/0xad8474ba5a7f6abc52708f171f57fefc5cdc8c1c)
+
+stats:
+- count / total supply: 146 / 146, num owners:  99
+- total sales:  0
+
+fees: seller 6.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (8):</summary>
+
+- Mouth Accessory (6)
+- Neck Accessory (4)
+- Eye Accessory (15)
+- Earring (4)
+- Headgear (25)
+- Face Spot (3)
+- Base (7)
+- Background (5)
+
+</details>
+
+
+##  Proof of Pepe
+
+opensea: [proofofpepe](https://opensea.io/collection/proofofpepe) - created on Aug 29, 2022<br>
+web:  <https://proofofpepe.xyz/><br>
+twitter: [proofofpepe](https://twitter.com/proofofpepe)<br>
+
+contracts (1):
+- **Proof of Pepe (POPEP)** created on Aug 29, 2022 @ [0x2f46e37477ca4033d74986b15f0572e9913b4858](https://etherscan.io/address/0x2f46e37477ca4033d74986b15f0572e9913b4858)
+
+stats:
+- count / total supply: 4999 / 4999, num owners:  1562
+- total sales:  5556, total volume: Ξ242.29 (~ US$ 314972)
+- average price: Ξ0.04 (~ US$ 56.69)
+- floor price: Ξ0.011 (~ US$ 13.91)
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (11):</summary>
+
+- Legendaries (9)
+- Mouth (4)
+- Eyewear (12)
+- Nose (2)
+- Headwear (32)
+- Eyes (17)
+- Clothing (8)
+- Lips (3)
+- Body (9)
+- Skill (3)
+- Background (15)
 
 </details>
 
@@ -500,6 +1054,69 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 </details>
 
 
+##  Aliens vs Punks
+
+opensea: [aliens-vs-punks](https://opensea.io/collection/aliens-vs-punks) - created on Aug 26, 2022<br>
+web:  <https://www.aliensvspunks.xyz><br>
+twitter: [aliensvspunks](https://twitter.com/aliensvspunks)<br>
+
+contracts (1):
+- **Aliens vs Punks (ALVSPKS)** created on Aug 08, 2022 @ [0x2612c0375c47ee510a1663169288f2e9eb912947](https://etherscan.io/address/0x2612c0375c47ee510a1663169288f2e9eb912947)
+
+stats:
+- count / total supply: 43 / 43, num owners:  29
+- total sales:  0
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (7): SAND (SAND), Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC), Decentraland MANA (MANA), ApeCoin (APE)
+
+<details><summary>attribute categories (10):</summary>
+
+- Head (10)
+- Ears (8)
+- Eyes (22)
+- Hair (32)
+- Face (5)
+- Mouth (11)
+- Neck (8)
+- Body (19)
+- Jacket (10)
+- Background (6)
+
+</details>
+
+
+##  No Mad Nomads
+
+opensea: [no-mad-nomads](https://opensea.io/collection/no-mad-nomads) - created on Aug 02, 2022<br>
+web:  <https://app.indeliblelabs.io/mint/0x95123d2F71D88E2Afb5351BEFb4762d2574fba7A><br>
+
+contracts (1):
+- **No Mad Nomads (NOM)** created on Aug 02, 2022 @ [0x95123d2f71d88e2afb5351befb4762d2574fba7a](https://etherscan.io/address/0x95123d2f71d88e2afb5351befb4762d2574fba7a)
+
+stats:
+- count / total supply: 5000 / 5000, num owners:  1660
+- total sales:  55, total volume: Ξ0.09 (~ US$ 115.81)
+- average price: Ξ0.002 (~ US$ 2.11)
+- floor price: Ξ0.0007 (~ US$ 0.91)
+
+fees: seller 0.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (6):</summary>
+
+- Elites (2)
+- Accessory (22)
+- Emotion (9)
+- Eyes (8)
+- No Mad Type (9)
+- Background (14)
+
+</details>
+
+
 ##  Phunks In Black
 
 opensea: [phunksinblack](https://opensea.io/collection/phunksinblack) - created on Aug 08, 2022<br>
@@ -678,10 +1295,10 @@ contracts (1):
 - **Crypto Marcs (MARCS)** created on Jul 17, 2022 @ [0xe9b91d537c3aa5a3fa87275fbd2e4feaaed69bd0](https://etherscan.io/address/0xe9b91d537c3aa5a3fa87275fbd2e4feaaed69bd0)
 
 stats:
-- count / total supply: 4932 / 4932, num owners:  968
-- total sales:  3142, total volume: Ξ109.15 (~ US$ 141890)
-- average price: Ξ0.03 (~ US$ 45.16)
-- floor price: Ξ0.014 (~ US$ 18.72)
+- count / total supply: 4932 / 4932, num owners:  971
+- total sales:  3165, total volume: Ξ109.47 (~ US$ 142309)
+- average price: Ξ0.03 (~ US$ 44.96)
+- floor price: Ξ0.011 (~ US$ 14.43)
 
 fees: seller 5.0%, opensea 2.5%
 
@@ -998,6 +1615,37 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 - Legendary (4)
 - Moonspeaker (6)
 - Moon Cycle (3)
+
+</details>
+
+
+##  Long Live Kevin
+
+opensea: [long-live-kevin](https://opensea.io/collection/long-live-kevin) - created on Jun 22, 2022<br>
+web:  <https://app.indelible.xyz/mint/0x8AE5523f76A5711fB6Bdca1566DF3f4707aEC1C4><br>
+
+contracts (1):
+- **Long Live Kevin (LLKEVIN)** created on Jun 22, 2022 @ [0x8ae5523f76a5711fb6bdca1566df3f4707aec1c4](https://etherscan.io/address/0x8ae5523f76a5711fb6bdca1566df3f4707aec1c4)
+
+stats:
+- count / total supply: 1254 / 1254, num owners:  358
+- total sales:  0
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (9):</summary>
+
+- Lasers (7)
+- Mouth (11)
+- Head (19)
+- Face (17)
+- Nose (6)
+- Eyes (7)
+- Shirt (16)
+- Skin (3)
+- Background (12)
 
 </details>
 
