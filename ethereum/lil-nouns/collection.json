@@ -1,0 +1,41 @@
+{
+  "banner_image_url": null,
+  "chat_url": null,
+  "created_date": "2022-05-11T02:00:52.910101+00:00",
+  "default_to_fiat": false,
+  "description": "One Lil Noun, every 15 minutes, forever.\r\n\r\nlilnouns.wtf",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "contain",
+    "images": [
+
+    ]
+  },
+  "external_url": "https://lilnouns.wtf",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/NeMen42xORQc--X_rAm6d5HCcRxkL5ZqAFi8LCSdFoRLi3AVNvEJ4Eo_-kFMnk8TVtPsnFxrMZ-DQIy-qjHgZnw4UFZYhjOWTmI_0w?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/NeMen42xORQc--X_rAm6d5HCcRxkL5ZqAFi8LCSdFoRLi3AVNvEJ4Eo_-kFMnk8TVtPsnFxrMZ-DQIy-qjHgZnw4UFZYhjOWTmI_0w?w=500&auto=format",
+  "medium_username": null,
+  "name": "Lil Nouns",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "lil-nouns",
+  "telegram_url": null,
+  "twitter_username": null,
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

@@ -1,0 +1,68 @@
+{
+  "CryptoPunks With Matching Silhouette": {
+    "min": 1,
+    "max": 118
+  },
+  "Unique Silhouette": {
+    "yes": 49
+  },
+  "Sex": {
+    "female": 29,
+    "alien": 2,
+    "male": 92,
+    "ape": 1,
+    "zombie": 10
+  },
+  "Hair": {
+    "knitted cap": 9,
+    "straight hair": 1,
+    "cowboy hat": 8,
+    "mohawk thin": 9,
+    "cap": 10,
+    "cap forward": 5,
+    "crazy hair": 9,
+    "bandana": 7,
+    "messy hair": 5,
+    "frumpy hair": 9,
+    "purple hair": 5,
+    "peak spike": 7,
+    "mohawk": 2,
+    "mohawk dark": 4,
+    "fedora": 6,
+    "blonde bob": 1,
+    "red mohawk": 1,
+    "blonde short": 1,
+    "clown hair green": 2,
+    "wild blonde": 1,
+    "police cap": 4,
+    "top hat": 4,
+    "pigtails": 2,
+    "pilot helmet": 3,
+    "beanie": 1,
+    "wild white hair": 2,
+    "wild hair": 3
+  },
+  "Eyes": {
+    "vr": 12,
+    "regular shades": 16,
+    "horned rim glasses": 13,
+    "welding goggles": 2,
+    "big shades": 23
+  },
+  "Mouth": {
+    "cigarette": 26,
+    "vape": 15,
+    "pipe": 9
+  },
+  "Ears": {
+    "earring": 51
+  },
+  "Beard": {
+    "big beard": 7,
+    "luxurious beard": 14,
+    "goat": 12,
+    "front beard": 8,
+    "front beard dark": 5,
+    "chinstrap": 11
+  }
+}

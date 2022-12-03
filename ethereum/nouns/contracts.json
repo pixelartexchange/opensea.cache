@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x9c8ff314c9bc7f6e59a9d9225fb22946427edc03",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2021-08-08T16:02:59.888378",
+    "name": "Nouns",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 60455936,
+    "schema_name": "ERC721",
+    "symbol": "NOUN",
+    "total_supply": "0",
+    "description": "One Noun, every day, forever.\r\n\r\nnouns.wtf",
+    "external_link": "https://nouns.wtf",
+    "image_url": "https://i.seadn.io/gae/vfYB4RarIqixy2-wyfP4lIdK6fsOT8uNrmKxvYCJdjdRwAMj2ZjC2zTSxL-YKky0s-4Pb6eML7ze3Ouj54HrpUlfSWx52xF_ZK2TYw?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

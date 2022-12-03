@@ -45,8 +45,13 @@ end
 
 
 slugs = %w[
-  nounpeepos
-  pepitosnft
+  nouns
+  lil-nouns
+  oc-marilyn-diptychs
+
+  default-punks-oc
+  non-phungibles
+  yunk
 ]
 
 

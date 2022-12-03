@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/DswfEGeD5U3Hijj2VXZhPLvsMmZd25C6-cXbQAp2GWc_7O7--p9VmMP6lieqQ0qeP_8hGuwdNZdavvlAQML4KF_Usc0KGYf4GKfq1g?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2021-11-06T21:04:39.828402+00:00",
+  "default_to_fiat": false,
+  "description": "A collection of phunked characters for your pleasure. All characters are all 1/1. \n-At Least 100 pieces will be created and no more than 500\n-Tradable on Opensea\n-New characters dropping randomly\n\n",
+  "discord_url": null,
+  "display_data": {
+    "card_display_style": "cover"
+  },
+  "external_url": null,
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gae/xdrUoqGt4LLhL7EGthXXFpbLYS-XozU9w4th97hxSyN38qoYz99y6DPWysf02X8Wqk8kBp-WRViimEZIpPlzJzeQlkvbHGLd6YTKHAo?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/vqvH19owq2hx9Vap4AUHlkUxLo-p6jhCqeuL-5G7JaM1LRuHRQFkgX7xT8m6-NLZLdE3xVJux4QC--_rrwP5kXLApaXaZ5re88Ru9dw?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gae/xdrUoqGt4LLhL7EGthXXFpbLYS-XozU9w4th97hxSyN38qoYz99y6DPWysf02X8Wqk8kBp-WRViimEZIpPlzJzeQlkvbHGLd6YTKHAo?w=500&auto=format",
+  "medium_username": null,
+  "name": "Non Phungibles",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "non-phungibles",
+  "telegram_url": null,
+  "twitter_username": null,
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": true,
+  "fees": {
+    "seller_fees": {
+      "0x440d55a1867958da7c8fd88a5e163a85fd739efa": 1000
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

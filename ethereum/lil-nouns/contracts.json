@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x4b10701bfd7bfedc47d50562b76b436fbb5bdb3b",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-05-08T14:50:48.808317",
+    "name": "LilNoun",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 402844063,
+    "schema_name": "ERC721",
+    "symbol": "LILNOUN",
+    "total_supply": "0",
+    "description": "One Lil Noun, every 15 minutes, forever.\r\n\r\nlilnouns.wtf",
+    "external_link": "https://lilnouns.wtf",
+    "image_url": "https://i.seadn.io/gae/NeMen42xORQc--X_rAm6d5HCcRxkL5ZqAFi8LCSdFoRLi3AVNvEJ4Eo_-kFMnk8TVtPsnFxrMZ-DQIy-qjHgZnw4UFZYhjOWTmI_0w?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

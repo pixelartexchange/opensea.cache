@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0xf514a2e88c19f6c4e57ce31ce4de2c2be4556174",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-10-19T14:26:00.731109",
+    "name": "Default Punks",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 119260183,
+    "schema_name": "ERC721",
+    "symbol": "DEFAULT",
+    "total_supply": "0",
+    "description": "Default Punks is a limited collection of all 954 unique CryptoPunk default PFPs. For each Default Punk, its specific silhouette-defining traits are included in the metadata.",
+    "external_link": "https://www.capsule21.com/collections/default-punks",
+    "image_url": "https://i.seadn.io/gcs/files/361963059cbb6ad2af4b98449a470554.png?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "banner_image_url": "https://i.seadn.io/gae/l0OmTPvCk04KBlwtiOMMW_1n-XbKVc4n4PmKGik7ELFwnFDNOsnm5Shl2YaAlKJIVvzRNGyctxSVOv9HcGtNHI9GIkLN144aJ5ss?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-05-11T15:05:19.155310+00:00",
+  "default_to_fiat": false,
+  "description": "500 Andy Warhol-inspired Marilyn Monroe Diptychs, each randomly generated at mint using only colors from the CryptoPunks collection. Each Diptych is stored 100% on-chain. Individual Marilyns can also be [minted as PFPs on Capsule 21](https://www.capsule21.com/collections/oc-marilyn-diptychs).",
+  "discord_url": "https://discord.gg/capsule21",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://www.capsule21.com/collections/oc-marilyn-diptychs",
+  "featured": false,
+  "featured_image_url": null,
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gae/rGsd0LAvIOMHey216pTTyvk4MneO6XI4_17Rg3gArYNB2Z9rES8rPymCoobH802IFhpiBY78TypopyFgj8bRjlpM5Pe3Ucpyz4Aoow?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": null,
+  "medium_username": null,
+  "name": "OC Marilyn Diptychs",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "oc-marilyn-diptychs",
+  "telegram_url": null,
+  "twitter_username": null,
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+      "0x7a87182ef777a499c081c4cc7c4643b15fb4ab22": 500
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

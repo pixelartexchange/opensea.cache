@@ -1,0 +1,38 @@
+{
+  "banner_image_url": "https://i.seadn.io/gcs/files/1c506eb0ad498598036e9f67061cade3.png?w=500&auto=format",
+  "chat_url": null,
+  "created_date": "2022-10-19T14:30:35.575757+00:00",
+  "default_to_fiat": false,
+  "description": "Default Punks is a limited collection of all 954 unique CryptoPunk default PFPs. For each Default Punk, its specific silhouette-defining traits are included in the metadata.",
+  "discord_url": "https://discord.gg/capsule21",
+  "display_data": {
+    "card_display_style": "contain"
+  },
+  "external_url": "https://www.capsule21.com/collections/default-punks",
+  "featured": false,
+  "featured_image_url": "https://i.seadn.io/gcs/files/80a4d13004b0d49e0bb7d6f6acb9875d.png?w=500&auto=format",
+  "hidden": false,
+  "safelist_request_status": "not_requested",
+  "image_url": "https://i.seadn.io/gcs/files/361963059cbb6ad2af4b98449a470554.png?w=500&auto=format",
+  "is_subject_to_whitelist": false,
+  "large_image_url": "https://i.seadn.io/gcs/files/80a4d13004b0d49e0bb7d6f6acb9875d.png?w=500&auto=format",
+  "medium_username": null,
+  "name": "Default Punks OC",
+  "only_proxied_transfers": false,
+  "require_email": false,
+  "short_description": null,
+  "slug": "default-punks-oc",
+  "telegram_url": null,
+  "twitter_username": null,
+  "instagram_username": null,
+  "wiki_url": null,
+  "is_nsfw": false,
+  "fees": {
+    "seller_fees": {
+    },
+    "opensea_fees": {
+      "0x0000a26b00c1f0df003000390027140000faa719": 250
+    }
+  },
+  "is_rarity_enabled": false
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x49ef13182e7a58f39a8682e1fb46b231660f8f78",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-05-11T01:29:57.123895",
+    "name": "OC Marilyn Diptychs",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 119260183,
+    "schema_name": "ERC721",
+    "symbol": "MARILYNS",
+    "total_supply": "0",
+    "description": "500 Andy Warhol-inspired Marilyn Monroe Diptychs, each randomly generated at mint using only colors from the CryptoPunks collection. Each Diptych is stored 100% on-chain. Individual Marilyns can also be [minted as PFPs on Capsule 21](https://www.capsule21.com/collections/oc-marilyn-diptychs).",
+    "external_link": "https://www.capsule21.com/collections/oc-marilyn-diptychs",
+    "image_url": "https://i.seadn.io/gae/rGsd0LAvIOMHey216pTTyvk4MneO6XI4_17Rg3gArYNB2Z9rES8rPymCoobH802IFhpiBY78TypopyFgj8bRjlpM5Pe3Ucpyz4Aoow?w=500&auto=format",
+    "default_to_fiat": false,
+    "only_proxied_transfers": false
+  }
+]

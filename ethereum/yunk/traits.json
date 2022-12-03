@@ -1,0 +1,119 @@
+{
+  "Sex": {
+    "female": 346,
+    "male": 516,
+    "ape": 2,
+    "zombie": 11
+  },
+  "Hair": {
+    "frumpy hair": 37,
+    "tassle hat": 16,
+    "do-rag": 30,
+    "straight hair blonde": 11,
+    "mohawk dark": 49,
+    "messy hair": 45,
+    "cap forward": 21,
+    "straight hair": 15,
+    "headband": 26,
+    "wild hair": 35,
+    "blonde bob": 6,
+    "wild white hair": 13,
+    "vampire hair": 18,
+    "peak spike": 36,
+    "knitted cap": 27,
+    "bandana": 41,
+    "mohawk": 42,
+    "blonde short": 14,
+    "top hat": 5,
+    "pigtails": 9,
+    "cap": 36,
+    "half shaved": 18,
+    "mohawk thin": 42,
+    "shaved head": 22,
+    "dark hair": 15,
+    "stringy hair": 42,
+    "hoodie": 23,
+    "purple hair": 19,
+    "wild blonde": 13,
+    "tiara": 6,
+    "orange side": 4,
+    "cowboy hat": 11,
+    "crazy hair": 22,
+    "police cap": 20,
+    "pilot helmet": 7,
+    "straight hair dark": 9,
+    "clown hair green": 15,
+    "pink with hat": 7,
+    "red mohawk": 15,
+    "fedora": 11,
+    "beanie": 2
+  },
+  "Eyes": {
+    "purple eye shadow": 23,
+    "blue eye shadow": 35,
+    "eye mask": 31,
+    "regular shades": 41,
+    "horned rim glasses": 35,
+    "big shades": 40,
+    "classic shades": 35,
+    "green eye shadow": 30,
+    "3d glasses": 25,
+    "small shades": 37,
+    "eye patch": 44,
+    "vr": 25,
+    "clown eyes green": 35,
+    "clown eyes blue": 41,
+    "nerd glasses": 45,
+    "welding goggles": 4
+  },
+  "Beard": {
+    "muttonchops": 20,
+    "shadow beard": 51,
+    "goat": 22,
+    "front beard": 29,
+    "luxurious beard": 33,
+    "handlebars": 18,
+    "normal beard black": 26,
+    "big beard": 9,
+    "front beard dark": 26,
+    "mustache": 31,
+    "chinstrap": 20,
+    "normal beard": 18
+  },
+  "Mouth": {
+    "cigarette": 87,
+    "medical mask": 22,
+    "pipe": 28,
+    "vape": 24
+  },
+  "Lips": {
+    "hot lipstick": 59,
+    "purple lipstick": 66,
+    "black lipstick": 65
+  },
+  "Face": {
+    "mole": 60,
+    "spots": 12
+  },
+  "Emotion": {
+    "smile": 22,
+    "frown": 24
+  },
+  "Nose": {
+    "clown nose": 17
+  },
+  "Ears": {
+    "earring": 219
+  },
+  "Neck": {
+    "silver chain": 16,
+    "gold chain": 23,
+    "choker": 6
+  },
+  "Cheeks": {
+    "rosy cheeks": 14
+  },
+  "Teeth": {
+    "buck teeth": 8
+  }
+}
